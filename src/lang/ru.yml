@@ -102,9 +102,8 @@ HOLO_TOP_RUSH:
 
 HOLO_INFO_LOBBY:
 - '§fКликните по §6NPC§f,'
-- '§fчтобы начать игру, или'
-- '§fвыберите §aкарту§f с помощью'
-- '§fпредмета в §c4§f-м слоте'
+- '§fчтобы начать игру'
+- '§fили выбрать §aкарту'
 HOLO_ONLINE_UPDATER: '§fНа режиме играет §a%s §f%s'
 HOLO_SELECTOR_GAME_CHANNEL: '§7Нажмите, чтобы подключиться'
 HOLO_REPLACER_CHANNEL: '§fНа режиме играет §a%s §f%s'

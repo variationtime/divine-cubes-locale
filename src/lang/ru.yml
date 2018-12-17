@@ -5171,7 +5171,7 @@ ISLAND_FLAG_ENTITY_GRIF_LORE:
 - '§7все ваши проблемы'
 AVAILABLE_SERVER_NOT_FOUND: '§6Сервер §8| §fНе удалось найти подходящий сервер'
 LOBBY_SPECTATE_GUI_NAME: 'Наблюдение за игрой'
-LOBBY_CHANNEL_GUI_NAME: 'Выбор карты'
+LOBBY_CHANNEL_GUI_NAME: 'Выбор карты %s'
 LOBBY_CHANNEL_MAP_LORE:
 - '§7Всего арен: §c%s'
 - '§7Свободных арен: §c%s'

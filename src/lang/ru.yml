@@ -80,7 +80,7 @@ COOLDOWN_2: '§cПодождите %s перед следующим исполь
 AFK: '§cНе стой на месте!'
 
 BALANCE: '§6Баланс §8| §fНа вашем аккаунте §a%s §f%s'
-LIST_CMD: '%s§fНа арене §a%s §f%s: %s'
+LIST_CMD: '%s§fНа сервере §a%s §f%s: %s'
 
 MESSAGE_NOT_FOUND: '§cСообщение %s не найдено'
 NOT_BEST_SERVER: '§cНет подходящей арены'

@@ -78,7 +78,7 @@ COOLDOWN_2: '§cWait %s before using the following'
 AFK: '§cDo not stay on the same place!'
 
 BALANCE: '§6Balance §8| §fYou have §a%s §f%s'
-LIST_CMD: '%s§fOn arena §a%s §f%s: %s'
+LIST_CMD: '%s§fOn the server §a%s §f%s: %s'
 
 MESSAGE_NOT_FOUND: '§cMessage %s not found'
 NOT_BEST_SERVER: '§cNot best server'

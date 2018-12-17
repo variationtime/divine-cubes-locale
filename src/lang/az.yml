@@ -40,7 +40,7 @@ COOLDOWN: '§cGözləyin %s§c saniyə əvvəl istifadə etmək üçün'
 AFK: '§cBir yerdə durma!'
 
 BALANCE: '§6Balans §8| §fSizin hesabda §a%s §f%s'
-LIST_CMD: '%s§fArenada §a%s §f%s: %s'
+LIST_CMD: '%s§fServerdə §a%s §f%s: %s'
 
 MESSAGE_NOT_FOUND: '§cMesaj %s tapılmadı'
 NOT_BEST_SERVER: '§cUyğun bir arena yoxdur'

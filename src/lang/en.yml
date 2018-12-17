@@ -1425,7 +1425,7 @@ DONATE_MENU_PREFIX_LORE:
 - ''
 - '§e▸ Tap to open the menu'
 PREFIX_CHANGE_LORE:
-- '§7Change the prefix to: %prefix%'
+- '§7Change the prefix to: %s'
 - ''
 - '§e▸ Click to set the prefix'
 PREFIX_CHANGE_LORE2:

@@ -1306,7 +1306,7 @@ DONATE_MENU_PREFIX_LORE:
 - '' 
 - '§e▸ Нацiснiце, каб адкрыць меню' 
 PREFIX_CHANGE_LORE: 
-- '§7Змянiць прэфiкс на: %prefix%' 
+- '§7Змянiць прэфiкс на: %s'
 - '' 
 - '§e▸ Нацiснiце, каб усталяваць прэфiкс' 
 PREFIX_CHANGE_LORE2: 

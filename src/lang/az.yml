@@ -1348,7 +1348,7 @@ DONATE_MENU_PREFIX_LORE:
 - ''
 - '§e▸ Menyu açmaq üçün basın'
 PREFIX_CHANGE_LORE:
-- '§7Prefiks dəyişməsi: %prefix%'
+- '§7Prefiks dəyişməsi: %s'
 - ''
 - '§e▸ Yüklemək üçün Basın'
 PREFIX_CHANGE_LORE2:

@@ -5170,9 +5170,17 @@ ISLAND_FLAG_ENTITY_GRIF_LORE:
 - '§7то данный флаг решит'
 - '§7все ваши проблемы'
 AVAILABLE_SERVER_NOT_FOUND: '§6Сервер §8| §fНе удалось найти подходящий сервер'
-CHANNEL_MAP_LORE:
+LOBBY_SPECTATE_GUI_NAME: 'Наблюдение за игрой'
+LOBBY_CHANNEL_GUI_NAME: 'Выбор карты'
+LOBBY_CHANNEL_MAP_LORE:
 - '§7Всего арен: §c%s'
 - '§7Свободных арен: §c%s'
-START_GUI_NO_SERVER:
+LOBBY_CHANNEL_GUI_NO_SERVERS:
 - '§cОшибка, не могу найти'
 - '§cподходящие сервера'
+LOBBY_CHANNEL_BEST_SERVER_NAME: '§eЛучший сервер'
+LOBBY_CHANNEL_BEST_SERVER_LORE:
+- '§7Выбор самого оптимального'
+- '§7сервера для игры'
+- ''
+- '§e§e▸ Нажмите, чтобы найти сервер'

@@ -1410,7 +1410,7 @@ YELLOW: 'Желтый'
 WHITE: 'Белый'
 
 DONATE_MENU_GUI: 'Меню донатера'
-DONATE_MENU_FAST_MESSAGE_NAME: '§bБыстрые сообщения'
+DONATE_MENU_FAST_MESSAGE_NAME: 'Быстрые сообщения'
 DONATE_MENU_FAST_MESSAGE_LORE:
 - '§7Покажи всем какой ты сегодня,'
 - '§7используя эти быстрые сообщения.'
@@ -1421,10 +1421,9 @@ DONATE_MENU_FAST_MESSAGE_LORE:
 - '§7команду §c/fm §7или §c/fastmessage'
 - ''
 - '§e▸ Нажмите, чтобы открыть меню'
-DONATE_MENU_PREFIX_GUI: 'префикс'
 NO_PREFIX_SET: '§6Сервер §8| §cВы не можете сменить префикс во время игры'
 PREFIX_SET: '§6Сервер §8| §fВаш префикс был изменен'
-DONATE_MENU_PREFIX_NAME: '§bСмена префикса'
+DONATE_MENU_PREFIX_NAME: 'Смена префикса'
 DONATE_MENU_PREFIX_LORE:
 - '§7Смена цвета префикса'
 - ''

@@ -9,7 +9,7 @@ CRASH_FORMAT: '/crash <nickname>'
 STATS_FORMAT: '/stats <nickname>'
 GAMEINFO_FORMAT: '/gameinfo [channel]'
 
-UNKNOWN_SUBCOMMAND: '§cThis Command was not found О_о'
+UNKNOWN_SUBCOMMAND: '§cThis command was not found О_о'
 HELP_PAPER_FOR: '§e▸ Subcommand for %s:'
 
 BOSS_BAR_LOBBY:

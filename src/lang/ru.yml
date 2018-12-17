@@ -249,6 +249,13 @@ SPECTATOR_INVENTORY_SEE_GUI_TITLE: 'Инвентарь ► %s'
 
 FW: '§aСалют!'
 
+#Новый Год
+HOLIDAY_HEAD_FOUND_TITLE: '§6§lПоздравляем!'
+HOLIDAY_HEAD_FOUND_SUBTITLE: '§fВы нашли подарок §a%s§f/§c%s'
+HOLIDAY_HEAD_FOUND_ALL_TITLE: '§a§lС Новым Годом!'
+HOLIDAY_HEAD_FOUND_ALL_SUBTITLE: '§6Вы нашли все подарки!'
+HOLIDAY_HEAD_FOUND_COUNT: 'Найдено подарков: §a%s§f/§a%s'
+
 ENCHANT_TITLE: 'Чары'
 
 COMPASS_MESSAGE: '§fИгрок: %s      §fРасстояние: '

@@ -1344,7 +1344,7 @@ DONATE_MENU_PREFIX_LORE:
 - ''
 - '§7Yalnız §7§lSHULKER&7 mövcüddur'
 - ''
-- '§7Cari prefiks: %prefix%'
+- '§7Cari prefiks: %s'
 - ''
 - '§e▸ Menyu açmaq üçün basın'
 PREFIX_CHANGE_LORE:

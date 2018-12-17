@@ -1421,7 +1421,7 @@ DONATE_MENU_PREFIX_LORE:
 - ''
 - '§7Only available for §7§lSHULKER'
 - ''
-- '§7Current prefix: %prefix%'
+- '§7Current prefix: %s'
 - ''
 - '§e▸ Tap to open the menu'
 PREFIX_CHANGE_LORE:

@@ -5095,7 +5095,7 @@ ISLAND_ACHIEVEMENT_PIG_LORE:
 - '§8 • §7Свиней §fх2'
 LOBBY_SETTINGS_UNAVAILABLE:
 - ''
-- '§cНедоступно'
+- '§cНедоступно!'
 - '§7Доступно от %s §7и выше'
 LOBBY_SETTINGS_BLOOD_NAME: 'Кровь'
 LOBBY_SETTINGS_BLOOD_LORE:
@@ -5219,3 +5219,7 @@ FAST_MESSAGE_LOVE: 'Люблю'
 FAST_MESSAGE_LAGS: 'Лагает'
 FAST_MESSAGE_EASY: 'ИЗИ'
 FAST_MESSAGE_GIVE_RESOURCES: 'Дай ресов'
+FAST_MESSAGE_LORE1: '§7Сообщение: §a%s'
+FAST_MESSAGE_LORE2:
+- ''
+- '§e▸ Нажмите, чтобы отправить сообщение'

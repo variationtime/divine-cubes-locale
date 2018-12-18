@@ -255,7 +255,7 @@ HOLIDAY_HEAD_FOUND_SUBTITLE: '§fВы нашли подарок §a%s§f/§c%s'
 HOLIDAY_HEAD_FOUND_ALL_TITLE: '§a§lС Новым Годом!'
 HOLIDAY_HEAD_FOUND_ALL_SUBTITLE: '§6Вы нашли все подарки!'
 HOLIDAY_HEAD_FOUND_COUNT: 'Найдено подарков: §a%s§f/§a%s'
-
+HOLIDAY_HEAD_FOUND_COUNT_BOARD: 'Найдено подарков: §a'
 ENCHANT_TITLE: 'Чары'
 
 COMPASS_MESSAGE: '§fИгрок: %s      §fРасстояние: '

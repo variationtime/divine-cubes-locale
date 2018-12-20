@@ -4443,7 +4443,8 @@ CAGE_SW_STAINED_GLASS_15_LORE: []
 CAGE_SW_STAINED_GLASS_16: 'Темная'
 CAGE_SW_STAINED_GLASS_16_LORE: []
 
-STATS_GUI_TITLE: 'Статистика'
+STATS_GUI_TITLE: 'Профиль ▸ Статистика'
+STATS_GUI_TITLE_TARGET: 'Статистика игрока %s'
 STAT_ENTRY: ' §8▪ §7%s: §a%s'
 GAMES_STAT: 'Игр сыграно'
 KILLS_STAT: 'Убийств'

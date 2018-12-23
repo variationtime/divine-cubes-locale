@@ -5229,7 +5229,7 @@ GADGET_HAT_ON_PLAYER: 'Шляпа'
 GADGET_BANNER_ON_PLAYER: 'Баннер'
 GADGET_EMOTE_ON_PLAYER: 'Эмоция'
 GADGET_CLICK_TO_USE_LORE:
-"§7Нажмите ПКМ, чтобы активировать гаджет"
+- '§7Нажмите ПКМ, чтобы активировать гаджет'
 GADGET_FAVORITE_CLEAR_NAME: '§cОчистить избранное'
 GADGET_FAVORITE_CLEAR_LORE:
 - '§7Нажмите, чтобы убрать все'

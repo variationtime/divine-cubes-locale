@@ -5411,7 +5411,7 @@ GADGETS_0_LORE:
 - '§7быть доступен с Iron :/'
 GADGETS_1_NAME: 'Золотой шлем'
 GADGETS_1_LORE:
-- '§7Шлем золотой, от Gold\'а.'
+- '§7Шлем золотой, от Gold`а.'
 - '§7Логично? Логично!'
 GADGETS_2_NAME: 'Алмазный шлем'
 GADGETS_2_LORE:
@@ -5440,7 +5440,7 @@ GADGETS_8_LORE:
 - '§7а я до сих пор их боюсь'
 GADGETS_9_NAME: 'Франкенштейн'
 GADGETS_9_LORE:
-- '§7It\'s alive!'
+- '§7It`s alive!'
 GADGETS_10_NAME: 'Пират'
 GADGETS_10_LORE:
 - '§7Ктооооо.... '
@@ -6031,7 +6031,7 @@ GADGETS_189_LORE:
 - '§7для успокоения)'
 GADGETS_190_NAME: 'Крутой'
 GADGETS_190_LORE:
-- '§7I\'m cool, but not you!'
+- '§7I`m cool, but not you!'
 GADGETS_191_NAME: 'Влюбленный'
 GADGETS_191_LORE:
 - '§7Нет, нет, что вы! Я не влюбился,'

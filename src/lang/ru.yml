@@ -6540,11 +6540,11 @@ GADGETS_307_LORE:
 GADGETS_308_NAME: 'Facebook'
 GADGETS_308_LORE:
 - '§7Популярная соцсеть, но не у нас'
-DONATE_MENU_JOIN_MESSAGE_ENABLE: '§6Сервер §8| §fСообщение под номером §a%s §fактивировано'
-DONATE_MENU_JOIN_MESSAGE_BUY: '§6Сервер §8| §fВы успешно купили §a%s §fсообщение'
-GAMER_NO_KEYS: '§fОшибка! У вас недостаочно §aключей§f для открытия кейса! Покупка ключей на сайте §dlast-craft.com'
-GAMER_NO_MONEY: '§fОшибка! У вас недостаочно §aмонет§f! Купить немного монеток можно на сайте §dlast-craft.com'
-GAMER_NO_GOLD: '§fОшибка! У вас недостаочно §6золота§f! Покупка золота только на сайте §dlast-craft.com'
+DONATE_MENU_JOIN_MESSAGE_ENABLE: '§6Сообщение при входе §8| §fСообщение под номером §a%s §fактивировано'
+DONATE_MENU_JOIN_MESSAGE_BUY: '§6Сообщение при входе §8| §fВы успешно купили §a%s §fсообщение'
+GAMER_NO_KEYS: '§6Сервер §8| §fОшибка! У вас недостаочно §aключей§f для открытия кейсов! Купить немного ключей можно на нашем сайте §dlast-craft.com §7(жми)'
+GAMER_NO_MONEY: '§6Сервер §8| §fОшибка! У вас недостаочно §aмонет§f для покупки! Купить еще монеток можно на нашем сайте §dlast-craft.com §7(жми)'
+GAMER_NO_GOLD: '§6Сервер §8| §fОшибка! У вас недостаочно §6золота§f для покупки! Покупка золота осуществляется только на сайте §dlast-craft.com §7(жми)'
 GAME_COSMETIC_MAIN_GUI_NAME: 'Косметика'
 GAME_COSMETIC_GUI_ARROW_NAME: 'Эффекты стрел'
 GAME_COSMETIC_GUI_ARROW_LORE:

@@ -98,11 +98,6 @@ HOLO_TOP_RUSH:
 - 'Топ гравців по перемогам'
 - 'в швидкому режимі'
 
-HOLO_INFO_LOBBY:
-- '§fКлацніть по §6NPC§f,'
-- '§fщоб розпочати гру, або'
-- '§fвиберіть §aкарту§f за допомогою'
-- '§fпредмета в §c4§f-му слоті'
 HOLO_ONLINE_UPDATER: '§fНа режимі грає §a%s §f%s'
 HOLO_SELECTOR_GAME_CHANNEL: '§7Натисніть, щоб приєднатися'
 HOLO_REPLACER_CHANNEL: '§fНа режимі грає §a%s §f%s'
@@ -437,11 +432,7 @@ PROFILE_MAIN_ITEM_DONATE_LORE:
 - '' 
 - '§e▸ Відкрити меню привілегій' 
 
-PROFILE_MAIN_ITEM_LANG_NAME: 'Зміна мови' 
-PROFILE_MAIN_ITEM_LANG_LORE1: 
-- '§7Зміна мови. ' 
-- '' 
-- '§7На даний момент доступні:' 
+PROFILE_MAIN_ITEM_LANG_NAME: 'Зміна мови'
 
 PROFILE_MAIN_ITEM_LANG_LORE2: 
 - '' 
@@ -1369,9 +1360,8 @@ CHANNEL_MAP_LORE2: '§7Вільних арен: §c%s'
 
 BLACK: 'чорний' 
 DARK_BLUE: 'синій' 
-DARK_GREEN: 'зелений' 
-MAGENTA: 'бірюзовий' 
-DARK_RED: 'темно - червоний' 
+DARK_GREEN: 'зелений'
+DARK_RED: 'темно - червоний'
 PURPLE: 'фіолетовий' 
 ORANGE: 'помаранчевий'
 GRAY: 'сірий' 
@@ -1385,7 +1375,7 @@ YELLOW: 'жовтий'
 WHITE: 'білий' 
 
 DONATE_MENU_GUI: 'Меню донатера' 
-DONATE_MENU_FAST_MESSAGE_NAME: '§bШвидкі повідомлення' 
+DONATE_MENU_FAST_MESSAGE_NAME: 'Швидкі повідомлення'
 DONATE_MENU_FAST_MESSAGE_LORE: 
 - '§7Покажи всім який ти сьогодні,' 
 - '§7використовуючи швидкі повідомлення.' 
@@ -1395,11 +1385,10 @@ DONATE_MENU_FAST_MESSAGE_LORE:
 - '§7Для швидкого відкриття меню використовуйте' 
 - '§7команду §c/fm §7або §c/fastmessage' 
 - '' 
-- '§e▸ Натисніть, щоб відкрити меню' 
-DONATE_MENU_PREFIX_GUI: 'префікс' 
+- '§e▸ Натисніть, щоб відкрити меню'
 NO_PREFIX_SET: '§6Сервер §8| §cВи не можете змінити префікс під час гри' 
 PREFIX_SET: '§6Сервер §8| §fВаш префікс був змінений' 
-DONATE_MENU_PREFIX_NAME: '§bЗміна префікса' 
+DONATE_MENU_PREFIX_NAME: 'Зміна префікса'
 DONATE_MENU_PREFIX_LORE: 
 - '§7Зміна кольору префікса' 
 - '' 
@@ -3979,7 +3968,7 @@ KIT_SG_WITCH_LORE:
   - ' '
   - '§7Містить в собі:'
   - ' §8• §7Палка §8(Змова вогню I)'
-  - ' §8• §7Зілля шкоди I §8(x2)'
+  - ' §8• §7Зілля шкоди II §8(x2)'
   - ' §8• §7Шкіряні штани'
   - ' §8• §7Шкіряні чоботи'
 KIT_SG_COOK: 'Кухар'
@@ -4063,7 +4052,6 @@ PERK_SG_POSEIDON_LORE:
   - '§7Ви не можете потонути,'
   - '§7у вас нескінченне повітря'
 
-STATS_GUI_TITLE: 'Статистика'
 STAT_ENTRY: ' §8▪ §7%s: §a%s'
 GAMES_STAT: 'Ігор зіграно'
 KILLS_STAT: 'Вбивств'
@@ -4075,8 +4063,7 @@ SURVIVALGAMES_SOLO_TYPE: '§eОдиночний режим'
 SURVIVALGAMES_DUO_TYPE: '§eПарний режим'
 STATS_IS_NOT_LOADED: '§cПомилка, статистика не завантажена'
 YOU_CANT_SEE_ANOTHER_PLAYERS_STATS: '§cПомилка, переглядати статистику інших гравців може тільки §c§lMAGMA §cі више'
-STATS_COMMAND_COOLDOWN: '§cПомилка, переглядати статистику інших гравців можно тільки раз в 10 хвилин'
-INGAME_STATS_MESSAGES: 
+INGAME_STATS_MESSAGES:
   - ' '
   - ' §cУвага! §fБуде відображена статистика тільки'
   - ' §fз даного режима. Щоб переглядати статистику'

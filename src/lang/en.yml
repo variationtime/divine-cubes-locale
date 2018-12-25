@@ -101,8 +101,7 @@ HOLO_TOP_RUSH:
 HOLO_INFO_LOBBY:
 - '§fClick by §6NPC§f,'
 - '§fto start the game, or'
-- '§fselected §amap§f with'
-- '§fitem in §c4§frd slots'
+- '§fselected §amap§f'
 HOLO_ONLINE_UPDATER: '§fOn the mode playing §a%s §f%s'
 HOLO_SELECTOR_GAME_CHANNEL: '§7Click, to connect'
 HOLO_REPLACER_CHANNEL: '§fOn game played §a%s §f%s'
@@ -434,10 +433,6 @@ PROFILE_MAIN_ITEM_DONATE_LORE:
 - '§e▸ Open the donation menu'
 
 PROFILE_MAIN_ITEM_LANG_NAME: 'Switch language'
-PROFILE_MAIN_ITEM_LANG_LORE1:
-- '§7Switch language. '
-- ''
-- '§7Currently available:'
 
 PROFILE_MAIN_ITEM_LANG_LORE2:
 - ''
@@ -1386,7 +1381,6 @@ CHANNEL_MAP_LORE2: '§7Free servers: §c%s'
 BLACK: 'black'
 DARK_BLUE: 'dark blue'
 DARK_GREEN: 'green'
-MAGENTA: 'magenta'
 DARK_RED: 'dark red'
 PURPLE: 'purple'
 ORANGE: 'orange'
@@ -1401,7 +1395,7 @@ YELLOW: 'yellow'
 WHITE: 'white'
 
 DONATE_MENU_GUI: 'Donate menu'
-DONATE_MENU_FAST_MESSAGE_NAME: '§bFast message'
+DONATE_MENU_FAST_MESSAGE_NAME: 'Fast message'
 DONATE_MENU_FAST_MESSAGE_LORE:
 - '§7Show everyone what you are today,'
 - '§7using these fast messages.'
@@ -1412,10 +1406,9 @@ DONATE_MENU_FAST_MESSAGE_LORE:
 - '§7command §c/fm §7or §c/fastmessage'
 - ''
 - '§e▸ Tap to open the menu'
-DONATE_MENU_PREFIX_GUI: 'prefix'
 NO_PREFIX_SET: '§6Server §8| §cYou can not change your prefix during the game'
 PREFIX_SET: '§6Server §8| §fYour prefix has been changed'
-DONATE_MENU_PREFIX_NAME: '§bChange the prefix'
+DONATE_MENU_PREFIX_NAME: 'Change the prefix'
 DONATE_MENU_PREFIX_LORE:
 - '§7Changing color of the prefix'
 - ''
@@ -3823,13 +3816,13 @@ PERK: 'Perk'
 KIT: 'Kit'
 CAGE: 'Cage'
 
-KIT_SELECTION_MESSAGE: 'You chose kit §e"%s"'
-PERK_SELECTION_MESSAGE: 'You chose perk §e"%s"'
-CAGE_SELECTION_MESSAGE: 'You chose cage §e"%s"'
+KIT_SELECTION_MESSAGE: 'You chose kit §a%s'
+PERK_SELECTION_MESSAGE: 'You chose perk §a%s'
+CAGE_SELECTION_MESSAGE: 'You chose cage §a%s'
 
-KIT_PURCHASE_MESSAGE: 'You purchased kit §e"%s" §ffor §a%s §f%s'
-PERK_PURCHASE_MESSAGE: 'You purchased perk §e"%s" §ffor §a%s §f%s'
-CAGE_PURCHASE_MESSAGE: 'You purchased cage §e"%s" §ffor §a%s §f%s'
+KIT_PURCHASE_MESSAGE: 'You purchased kit §a%s §ffor §a%s §f%s'
+PERK_PURCHASE_MESSAGE: 'You purchased perk §a%s §ffor §a%s §f%s'
+CAGE_PURCHASE_MESSAGE: 'You purchased cage §a%s §ffor §a%s §f%s'
 
 ITEM_IS_NOT_CHOSEN: '§cNothing selected'
 CHOSEN_ITEM_IS: '§7Selected: §a%s'
@@ -4039,7 +4032,7 @@ KIT_SG_WITCH_LORE:
   - ' '
   - '§7Contains:'
   - ' §8• §7Stick §8(Fire aspect I)'
-  - ' §8• §7Potion of Harming I §8(x2)'
+  - ' §8• §7Potion of Harming II §8(x2)'
   - ' §8• §7Leather pants'
   - ' §8• §7Leather boots'
 KIT_SG_COOK: 'Cooker'
@@ -4138,7 +4131,6 @@ GOLD_COST_FORMAT:
   - 'ds'
   - 'ds'
 
-STATS_GUI_TITLE: 'Statistic'
 STAT_ENTRY: ' §8▪ §7%s: §a%s'
 GAMES_STAT: 'Game played'
 KILLS_STAT: 'Kills'
@@ -4150,8 +4142,7 @@ SURVIVALGAMES_SOLO_TYPE: '§eSolo mode'
 SURVIVALGAMES_DUO_TYPE: '§eDouble mode'
 STATS_IS_NOT_LOADED: '§cError, statistic not loaded'
 YOU_CANT_SEE_ANOTHER_PLAYERS_STATS: '§cError, view statistic other players can only §c§lMAGMA §cor higher'
-STATS_COMMAND_COOLDOWN: '§cError, view statistic other player can only once in 10 minutes'
-INGAME_STATS_MESSAGES: 
+INGAME_STATS_MESSAGES:
   - ' '
   - ' §cATTENTION! §fWill be displayed statistics only'
   - ' §fcurrent mode. To view statistics'

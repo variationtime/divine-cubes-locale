@@ -4586,9 +4586,8 @@ INGAME_STATS_MESSAGES_TITLE:
 - ' §cВнимание! §fБудет отображена статистика только'
 - ' §fс текущего режима. Чтобы просматривать статистику'
 - ' §fсо всех режимов, перейдите в лобби'
-- ' '
 INGAME_STATS_MESSAGES:
-- '§6Статистика §8| §fВаша %s §fна §e%s %s§f:'
+- '§6Статистика §8| §f%s %s §fна §e%s %s§f:'
 INGAME_STATS_ENTRY: ' §7• §f%s: §a%s'
 LOBBY_SUB_TYPE_GUI_TITLE: 'Выбор режима'
 SURVIVALGAMES_SOLO_TYPE_LORE:

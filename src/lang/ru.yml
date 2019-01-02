@@ -4579,13 +4579,16 @@ PR_LEVITATE_ITEM_LORE:
 - '§7После использования Вы начнете'
 - '§7медленно взлетать...'
 PR_SHOP_ITEM_NAME: '§aМагазин'
-INGAME_STATS_MESSAGES:
+MONTHLY_STATS_NAME: 'Статистика за месяц'
+ALL_TIME_STATS_NAME: 'Статистика за все время'
+INGAME_STATS_MESSAGES_TITLE:
 - ' '
 - ' §cВнимание! §fБудет отображена статистика только'
 - ' §fс текущего режима. Чтобы просматривать статистику'
 - ' §fсо всех режимов, перейдите в лобби'
 - ' '
-- '§6Статистика §8| §fСтатистика %s §fна §e%s %s'
+INGAME_STATS_MESSAGES:
+- '§6Статистика §8| §fВаша %s §fна §e%s %s§f:'
 INGAME_STATS_ENTRY: ' §7• §f%s: §a%s'
 LOBBY_SUB_TYPE_GUI_TITLE: 'Выбор режима'
 SURVIVALGAMES_SOLO_TYPE_LORE:

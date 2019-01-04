@@ -2068,8 +2068,9 @@ KICK_AUTH:
 - '§cA lot of a attempts incorrect'
 - '§cinput a password. Your account'
 - '§cis blocked for a few minutes'
-REJOIN_TO_BE_PREMIUM: §6License §8| §f Reconnect to the server from a licensed account, to activate this option
-REJOIN_TO_BE_PREMIUM2: §6License §8| §fIf after §c2 §fminutes, you will not go from §alic. account§f, then login will again available be pirate account
+REJOIN_TO_BE_PREMIUM:
+- '§6License §8| §f Reconnect to the server from a licensed account, to activate this option'
+- '§6License §8| §fIf after §c2 §fminutes, you will not go from §alic. account§f, then login will again available be pirate account'
 PLEASE_SETUP_EMAIL: §c⚠ Warning! §fYou did not bind §cemail §fto your account, do this right now - §e/email
 PLEASE_SETUP_EMAIL_HOVER: '§fClick here ,\n§fto add a mail'
 INVALID_PASSWORD_LENGTH: §cThis password is short or very long 
@@ -2458,9 +2459,10 @@ CODE_PLEASE: '§6Auth §8| §fEnter the code from the application §9G§co§eo§
 GOOGLE_AUTHENTICATOR_CONFIRM_FORMAT: '§6GAuth §8| §fFor confirm enter the code from the application command §7/tfa <code>'
 GOOGLE_AUTHENTICATOR_CONFIRM_INVALID: '§cError, entered your code is not correct!'
 GOOGLE_AUTHENTICATOR_CONFIRM_DIGITS: '§cError, code must be six-digit number'
-GOOGLE_AUTHENTICATOR_CONFIRMED: '§6GAuth §8| §fВы успешно включили §9G§co§eo§9g§2l§ce §fAuthenticator, now our *** under reliable protection!'
-GOOGLE_AUTHENTICATOR_CONFIRMED_2: '§fNow it each§6Autorization §fYou need enter §ccode§f from application'
-GOOGLE_AUTHENTICATOR_CONFIRMED_3: '§fFor §cdisabled§f protection you need write command §7/tfa §fand it is disabled (but it is not exactly)'
+GOOGLE_AUTHENTICATOR_CONFIRMED:
+- '§6GAuth §8| §fВы успешно включили §9G§co§eo§9g§2l§ce §fAuthenticator, now our *** under reliable protection!'
+- '§fNow it each§6Autorization §fYou need enter §ccode§f from application'
+- '§fFor §cdisabled§f protection you need write command §7/tfa §fand it is disabled (but it is not exactly)'
 GOOGLE_AUTHENTICATOR_SCAN_PLEASE: '§6GAuth §8| §fScan this §eQR-code§f in application GAuth'
 GOOGLE_AUTHENTICATOR_KEY_2: '§6GAuth §8| §fThen write command §7/tfa <code from application> §fFor confirm'
 GOOGLE_AUTHENTICATOR_DISABLED: '§cProtection Google Authenticator is disabled. Now your account in dangerous :('

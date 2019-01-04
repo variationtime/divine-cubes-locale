@@ -2333,13 +2333,6 @@ AUTH_HELP:
 - '§7/auth register <player name> <password> §f- Registed player(player must be offline)'
 AUTH_REGISTER_ADMIN_FORMAT: '/auth register <player name> <password>'
 AUTH_REGISTER_DONE: '§6Auth §8| §fPlayer - §e%s §fregisted'
-AUTH_INFO_PLAYER:
- - '§6Auth §8| §fInfo about player §e%s:'
- - ' - §fE-Mail: §a%s'
- - ' - §fLicense: §a%s'
- - ' - §fLast IP: §a%s'
- - ' - §fRegistration IP: §a%s'
- - ' - §fLast server: §a%s'
 PLAYER_NOT_REGISTER: '§cThat player is not registered'
 AUTH_REMOVED_REG: '§6Auth §8| §fPlayer register §e%s §fdeleted'
 LICENSE_NOT_USED: '§cError, player %s not used license login'

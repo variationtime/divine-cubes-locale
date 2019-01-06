@@ -626,7 +626,7 @@ GUI_HELP_ITEM_10_LORE:
 - '§7Write §e/guild §7and create your guild!'
 - '§7'
 - '§cATTENTION! Guild creation cost'
-- '§c50.000 coins and available only for §c§lMAGMA'
+- '§c20.000 coins and available only for §c§lMAGMA'
 - '§cFor entry donate dont need.'
 GUI_REWARDS_NAME: 'Awards (detailed information)'
 GUI_REWARDS_ITEM_1_LORE:

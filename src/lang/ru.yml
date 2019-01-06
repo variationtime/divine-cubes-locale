@@ -302,8 +302,6 @@ HOLO_REWARD_STATS: 'Статистика за игру'
 HOLO_REWARD_MULTIPLAY: 'Множитель монет'
 
 GAME_SPECTATOR_MESSAGE: 'Вы погибли и теперь можете только наблюдать за игровым процессом.'
-GAME_SPECTATOR_TITLE: '§cВы погибли'
-GAME_SPECTATOR_SUBTITLE: '§7Теперь Вы наблюдатель'
 
 SG_YOU_GOT_RATING: 'Вы заработали §a%s §fрейтинга за убийство %s §f(§6%s§f)'
 SG_YOU_LOST_RATING: 'Вы потеряли §a%s §fрейтинга §f(§6%s§f)'

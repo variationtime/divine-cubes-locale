@@ -1684,11 +1684,11 @@ GOD_DISABLE_TO: 'Для игрока %s §fрежим бога - §cотключ
 TELEPORTING_RUNNING: '§cПроцесс телепортации уже запущен!'
 LIST:
 - ''
-- '§6Cервер §8| §fНа режиме %online%'
-- ' §a▪ §fКрутые ребята: %shulker%'
-- ' §a▪ §fИгроки: %players%'
-- ' §a▪ §fДонатеры: %donater%'
-- ' §a▪ §fАдминистрация: %staff%'
+- '§6Cервер §8| §fНа режиме %s'
+- ' §a▪ §fКрутые ребята: %s'
+- ' §a▪ §fИгроки: %s'
+- ' §a▪ §fДонатеры: %s'
+- ' §a▪ §fАдминистрация: %s'
 - ''
 LIST_EMPTY: '§8Никого нет'
 NEAR: 'Ближайщие игроки: %s'
@@ -3241,7 +3241,6 @@ REWARD_DONATE_ITEM_LORE:
 REWARD_HOLOGRAM:
 - '§bНаграды'
 - '§7Нажмите, чтобы открыть'
-REWARDS_COUNT: '%color%%available_correct% %rewards% %rewards_correct%'
 REWARDS_1:
 - 'бонус'
 - ''

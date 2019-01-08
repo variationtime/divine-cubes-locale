@@ -1808,13 +1808,10 @@ CALL_HOVER_ACCEPT: '§fClick here, to §aaccept\n§frequest from player %s'
 CALL_HOVER_IGNORE: '§fClick here, to §cdisline\n§frequest from player %s'
 HOVER: ' §7(Point here)'
 BACK: 'Teleport to the previouse location'
-CALL_INVITE:
-- ' '
-- ' %name% §frequested teleportation to you'
-- ' §fTo accept the request, write %tpaccept%'
-- ' §fTo cancel a request, write %tpdeny%'
-- ' §fYou have §a120 §fseconds, to accept it'   
-- ' '
+CALL_INVITE_1: ' %s §frequested teleportation to you'
+CALL_INVITE_2: ' §fTo accept the request, write %s'
+CALL_INVITE_3: ' §fTo cancel a request, write %s'
+CALL_INVITE_4: ' §fYou have §a120 §fseconds, to accept it'
 TPTOGGLE_ENABLE: 'Teleportation - §aenabled'
 TPTOGGLE_DISABLE: 'Teleportation - §cdisabled'
 TRADE_FORMAT: '/trade <player name>'
@@ -2058,7 +2055,7 @@ SUCCESS_AUTH: §fAuthorization is successful! Have a good game :)
 YOU_HAVE_JUST_LOGGED_OUT: §cYou signed out of your account
 NOT_PREMIUM_ANYMORE: §6License §8| §fLogin through the license is disabled, hope you remember your password, for it come in handy to you
 YOU_ARE_NOW_PREMIUM: §6License §8| §fCongratulations, now log in possible only with §alicensed account!
-SUCCESSFUL_REGISTRATION: '§6You successfully registered! §fYour current password '
+SUCCESSFUL_REGISTRATION: '§6You successfully registered! §fYour current password'
 REGISTERED_PASS_HOVER: 
 - '§fPassword - §a%s'
 - ''

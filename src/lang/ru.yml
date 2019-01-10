@@ -3915,6 +3915,18 @@ SURVIVALGAMES_DUO_TYPE_SHOP_LORE:
 - ' '
 - '§e▸ Нажмите, чтобы открыть магазин'
 - ' §eпарного режима'
+SKYWARS_SOLO_TYPE_SHOP_LORE:
+- ' '
+- '§e▸ Нажмите, чтобы открыть магазин'
+- ' §eодиночного режима'
+SKYWARS_DUO_TYPE_SHOP_LORE:
+- ' '
+- '§e▸ Нажмите, чтобы открыть магазин'
+- ' §eпарного режима'
+SKYWARS_TEAM_TYPE_SHOP_LORE:
+- ' '
+- '§e▸ Нажмите, чтобы открыть магазин'
+- ' §eкомандного режима'
 CATEGORY_KIT_SHOP_NAME: 'Покупка наборов'
 CATEGORY_KIT_SHOP_LORE:
 - ' '

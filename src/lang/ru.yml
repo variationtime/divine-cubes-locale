@@ -4096,6 +4096,9 @@ SPECTATOR_SETTING_HIDE_LORE:
 SPECTATOR_SETTING_HIDING: '§6Наблюдение §8| §fТеперь Вы не видите других наблюдателей'
 SPECTATOR_SETTING_SHOWN: '§6Наблюдение §8| §fВы снова видите других наблюдателей'
 
+SW_YOUR_TEAMMATE_IS_DEAD: '§cВаш тиммейт (%s§c) погиб'
+SW_YOUR_TEAMMATE_IS_AT_LOW_HP: '§cУ вашего тиммейта %s §cочень мало здоровья!'
+
 SG_YOUR_TEAMMATE_IS_DEAD: '§cВаш тиммейт погиб'
 SG_YOUR_TEAMMATE_IS_AT_LOW_HP: '§cУ вашего тиммейта очень мало здоровья!'
 

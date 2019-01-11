@@ -5599,7 +5599,7 @@ GADGET_SETTING_SHOW_MORPH_LORE:
 - '§7как моба'
 GADGET_ALREADY_HAVE: '§fУ вас уже есть данный гаджет, вы получили §6+%s %s'
 GADGET_HAT_TYPE: 'Шляпа'
-GADGET_PETS_TYPE: 'Петомец'
+GADGET_PETS_TYPE: 'Питомец'
 GADGET_COMPANION_TYPE: 'Компаньен'
 GADGET_EFFECT_TYPE: 'Эффект'
 GADGET_BANNERS_TYPE: 'Баннер'

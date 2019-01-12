@@ -4686,3 +4686,28 @@ ISLAND_ACHIEVEMENT_CHICKEN_LORE:
 - '§8 • §7Chickens §fх2'
 ISLAND_ACHIEVEMENT_PIG_LORE:
 - '§8 • §7Pigs §fх2'
+SKYWARS_SOLO_TYPE_SHOP_LORE:
+- ' '
+- '§e▸ Click, to open store for'
+- ' §esolo mode'
+SKYWARS_DUO_TYPE_SHOP_LORE:
+- ' '
+- '§e▸ Click, to open store for'
+- ' §edouble mode'
+SKYWARS_TEAM_TYPE_SHOP_LORE:
+- ' '
+- '§e▸ Click, to open store for'
+- ' §eteam mode'
+SW_YOUR_TEAMMATE_IS_DEAD: '§cYour teammate (%s§c) died'
+SW_YOUR_TEAMMATE_IS_AT_LOW_HP: '§cYour teammate %s has §cvery little health!'
+SKYWARS_END_EFFECTS_EVENT: '§cFinal game (III) '
+SKYWARS_END_EFFECTS_EVENT_TITLE: '§cFinal game'
+SKYWARS_END_EFFECTS_EVENT_SUBTITLE: '§7The game will be over in minute'
+SKYWARS_LIGHTNING_EVENT: '§cFinal game (II) '
+SKYWARS_LIGHTNING_EVENT_TITLE: '§cZeus fury'
+SKYWARS_LIGHTNING_EVENT_SUBTITLE: '§7До конца осталось 3 минуты, avoid lighting...'
+SKYWARS_TNTRAIN_EVENT: '§cFinal game '
+SKYWARS_TNTRAIN_EVENT_TITLE: '§cRain of TNT'
+SKYWARS_TNTRAIN_EVENT_SUBTITLE: '§7Dynamite appears over the heads of players, beware!'
+SKYWARS_GAME_END_EVENT: '§cEnd '
+SW_GAME_ENDED: 'Game will be over. Winner is random team...'

@@ -1836,6 +1836,11 @@ CALL_ITEM_EMPTY_LORE:
 - '§7В данный момент к вам'
 - '§7никто не хочет телепортироваться'
 - '§7You alone my friend('
+PLAYER_WARP_ITEM_EMPTY_NAME: '§cВарпы игрока не найдены'
+PLAYER_WARP_ITEM_EMPTY_LORE:
+- '§7В данный момент у игрока %s'
+- '§7нет доступных публичных варпов'
+- '§7или они отсутствуют вовсе'
 PLAYER_WARP_FORMAT: '/playerwarp <название варпа>'
 PLAYER_WARP_GUI_NAME: 'Список варпов - %s'
 WARP_GUI_NAME: 'Список варпов'

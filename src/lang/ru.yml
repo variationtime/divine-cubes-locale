@@ -1841,7 +1841,7 @@ PLAYER_WARP_ITEM_EMPTY_LORE:
 - '§7В данный момент у игрока %s'
 - '§7нет доступных публичных варпов'
 - '§7или они отсутствуют вовсе'
-PLAYER_WARP_FORMAT: '/playerwarp <название варпа>'
+PLAYER_WARP_FORMAT: '/playerwarp <имя игрока>'
 PLAYER_WARP_GUI_NAME: 'Список варпов - %s'
 WARP_GUI_NAME: 'Список варпов'
 CALL_GUI_NAME: 'Запросы на тп'

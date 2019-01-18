@@ -4776,6 +4776,8 @@ DAMAGE_CAUSE_KILLED_BY_SKELETON: '%s§f был убит, пытаясь увер
 DAMAGE_CAUSE_KILLED_BY_SKELETON_OF: '%s§f был убит, пытаясь увернуться от стрел скелета игрока %s'
 DAMAGE_CAUSE_KILLED_BY_ZOMBIE_OF: '%s§f был убит, спасаясь от зомби игрока %s'
 DAMAGE_CAUSE_KILLED_BY_WOLF: '%s§f был растерзан волками'
+DAMAGE_CAUSE_KILLED_BY_LINGERING_POTION: '%s§f был убит с помощью магии'
+DAMAGE_CAUSE_KILLED_BY_LINGERING_POTION_OF: '%s§f был убит с помощью магии игроком %s'
 DAMAGE_CAUSE_KILLED_BY_WOLF_OF: '%s§f был растерзан волками игрока %s'
 DAMAGE_CAUSE_KILLED_BY_LIGHTNING: '%s§f был убит разъярённым зевсом'
 DAMAGE_CAUSE_KILLED: '%s§f умер'

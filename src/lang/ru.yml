@@ -6871,7 +6871,7 @@ SITE_SHOP_ITEMS_GUI_NAME: 'Доступные предметы'
 SITE_SHOP_ITEM_EMPTY_NAME: '§cНет доступных предметов'
 SITE_SHOP_ITEM_EMPTY_LORE:
 - '§7У вас нет доступных предметов'
-- '§7Покупака на сайте §dlast-craft.com'
+- '§7Покупка на сайте §dlast-craft.com'
 SITE_SHOP_ITEM_LORE_1:
 - '§7Получить следующие предметы:'
 SITE_SHOP_ITEM_LORE_2:

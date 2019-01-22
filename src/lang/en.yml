@@ -611,7 +611,7 @@ GUI_HELP_ITEM_9_LORE:
 - '§7If you want to leave party,'
 - '§7write §e/party leave'
 - ''
-- '§cAttention! Maximum amount party'
+- '§cATTENTION! Maximum amount party'
 - '§cmembers no more 10 people!'
 GUI_HELP_ITEM_10_NAME: '§bGuilds'
 GUI_HELP_ITEM_10_LORE:

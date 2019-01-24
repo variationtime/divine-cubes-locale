@@ -1328,9 +1328,6 @@ GAMEMENU_ANARCHY_LORE:
 - '§7This mode have not rules' 
 - '§7Well or almost..'
 - ''
-- '§cATTENTION! Log in is possible'
-- '§conly with versions 1.10 or higher'
-- ''
 GAMEMENU_SB_LORE:
 - '§8Survival on the sky island'
 - ''
@@ -1338,9 +1335,6 @@ GAMEMENU_SB_LORE:
 - '§7survival on flying'
 - '§7islands with a minimum'
 - '§7set of starting resources.'
-- ''
-- '§cATTENTION! Log in is possible'
-- '§conly with versions 1.10 or higher'
 - ''
 GAMEMENU_CREATIVE_LORE:
 - '§8Plot world'

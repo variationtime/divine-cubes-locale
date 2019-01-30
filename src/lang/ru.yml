@@ -13,6 +13,8 @@ UNKNOWN_SUBCOMMAND: '§cЭтой команды не существует О_о'
 HELP_PAPER_FOR: '§e▸ Подкоманды для %s:'
 FREE: 'Бесплатно'
 
+LIMIT_REACHED: '§6Сервер §8| §fВы достигли лимита для этого наказания, подождите еще §e%s'
+
 BOSS_BAR_LOBBY:
 - '§fПокупка§e доната §fна сайте §7► §6§lLAST-CRAFT.COM'
 - '§c§lNEW! §fАбсолютно новый §6§lSkyBlock §c1.10+'

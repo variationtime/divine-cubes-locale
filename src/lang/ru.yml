@@ -6726,10 +6726,10 @@ SITE_SHOP_ITEM_EMPTY_LORE:
 SITE_SHOP_ITEM_LORE_1:
 - '§7Получить следующие предметы:'
 SITE_SHOP_ITEM_LORE_2:
-- ''
+- ' '
 - '§cВНИМАНИЕ! У вас должно быть %s'
 - '§cсвободных слотов в вашем инвентаре!'
-- ''
+- ' '
 SITE_SHOP_ITEM_LORE_3: '§e▸ Нажмите, чтобы получить'
 SITE_SHOP_ITEM_LORE_4:
 - '§7Цена: §e%s §7золота'

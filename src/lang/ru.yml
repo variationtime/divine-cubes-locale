@@ -1283,7 +1283,7 @@ GAMEMENU_LOBBY_LORE:
 - '§7Вернуться в главное лобби'
 GAMEMENU_ITEM_UPDATE_NAME: '§e§lОбновлено!'
 GAMEMENU_ITEM_NEW_NAME: '§c§lНовый!'
-GAMEMENU_ITEM_WIPE: '§e§lСделали вайп!'
+GAMEMENU_ITEM_WIPE: '§b§lСделали вайп!'
 GAMEMENU_CLICKCONNECT_LORE: 'Нажмите, чтобы подключиться'
 GAMEMENU_VERSION: '§fРекомендуемая версия для игры %s'
 GAMEMENU_SKYWARS_LORE:

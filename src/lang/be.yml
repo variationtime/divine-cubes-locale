@@ -324,14 +324,7 @@ BOARD_STATS: 'Дэталёвая статыстыка'
 REGION_NOT_FOUND: 'Ня знойдзены' 
 
 PROFILE_MAIN_GUI_NAME: 'Профiль' 
-PROFILE_MAIN_ITEM_PLAYER_NAME: '§bАгульная iнфармацыя' 
-PROFILE_MAIN_ITEM_PLAYER_LORE: 
-- '§7Статус: %s' 
-- '§7Манет: §6%s' 
-- '§7Узровень: §d%s' 
-- '§7Да наступнага узроуню: §a%s XP' 
-- '§7Ключоу §b%s' 
-- '§7Сяброу: §e%s§7/§e%s' 
+PROFILE_MAIN_ITEM_PLAYER_NAME: '§bАгульная iнфармацыя'
 PROFILE_MAIN_ITEM_LEVEL_NAME: 'Узровень' 
 PROFILE_MAIN_ITEM_LEVEL_LORE: 
 - '§7Играя на сервере, вы получаете' 

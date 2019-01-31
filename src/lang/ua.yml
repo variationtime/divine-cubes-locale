@@ -392,6 +392,7 @@ PROFILE_MAIN_ITEM_PLAYER_NAME: '§bЗагальна інформація'
 PROFILE_MAIN_ITEM_PLAYER_LORE: 
 - '§7Статус: %s'
 - '§7Монет: §6%s'
+- '§7Золота: §e%s'
 - '§7Рівень: §d%s'
 - '§7До наступного рівня: §a%s XP'
 - '§7Ключів: §b%s'

@@ -325,13 +325,6 @@ REGION_NOT_FOUND: 'Tapılmadı'
 
 PROFILE_MAIN_GUI_NAME: 'Profıl'
 PROFILE_MAIN_ITEM_PLAYER_NAME: '§bÜmumi məlumat'
-PROFILE_MAIN_ITEM_PLAYER_LORE:
-- '§7Vəziyyət: %s'
-- '§7Pul: §6%s'
-- '§7Səviyyə: §d%s'
-- '§7Növbəti səviyyəyə: §a%s XP'
-- '§7Haçarlar: §b%s'
-- '§7Dostlar: §e%s§7/§e%s'
 PROFILE_MAIN_ITEM_LEVEL_NAME: 'Səviyyə'
 PROFILE_MAIN_ITEM_LEVEL_LORE:
 - '§7Serverda oynayarkən, siz qazanırsız'

@@ -391,6 +391,7 @@ PROFILE_MAIN_ITEM_PLAYER_NAME: '§bGeneral information'
 PROFILE_MAIN_ITEM_PLAYER_LORE:
 - '§7Rank: %s'
 - '§7Coins: §6%s'
+- '§7Golds: §e%s'
 - '§7Level: §d%s'
 - '§7To next level: §a%s XP'
 - '§7Keys: §b%s'

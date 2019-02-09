@@ -16,7 +16,7 @@ BOSS_BAR_LOBBY:
 - '§fBuy§e donate §fon site §7► §6§lLAST-CRAFT.COM'
 - '§c§lNEW! §fAbsolutely new §6§lSkyBlock §c1.10+'
 - '§c§lNEW! §fOpened cool mode §a§lAnarchy §c1.10+'
-- '§fNotify about§c bugs§f or§c errors §7► §6§lLASTCRAFT.NET/FORUMS'
+- '§Report §cbugs§f or§c errors §7► §6§lLASTCRAFT.NET/FORUMS'
 
 RULES_COMMAND: '§6Server §8| §fFull list of server rules - '
 RULES_COMMAND_HOVER: '§fClick here to open url'

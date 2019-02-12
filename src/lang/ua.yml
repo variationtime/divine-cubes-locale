@@ -342,7 +342,7 @@ DAMAGE_CAUSE_BURN: '%s§f згорів заживо'
 DAMAGE_CAUSE_DROP_TO: '%s§f був скинутий гравцем %s'
 DAMAGE_CAUSE_DROP: '%s§f розбився насмерть'
 
-LLVL_UP: '§a§l§kX§r §6§lРІВЕНЬ ПІДВИЩЕНИЙ §a§l§kX'
+LVL_UP: '§a§l§kX§r §6§lРІВЕНЬ ПІДВИЩЕНИЙ §a§l§kX'
 NEW_LVL: '§fВи досягли §d%s§f рівня!'
 EXP_TO_NEW_LVL: '§fДо наступного рівня потрібно §a%s§f досвіду'
 GET_REWARD: '§7Зайдіть в профіль, щоб забрати свою нагороду'
@@ -4233,3 +4233,2535 @@ ISLAND_TOP_KILLS_HOLO:
  - '§6§lТоп по вбивствам'
  - '§fТоп гравців по кільк.'
  - '§fвбитих гравців'
+ 
+ FREE: 'Безкоштовно'
+LIMIT_REACHED: '§6Сервер §8| §fВи досягнули ліміт для цього покарання, зачекайте ще §e%s'
+HOLO_TOP_ALL_BY_RATING:
+- '§6§l%s'
+- '§fТоп гравців по рейтингу'
+- '§fза §eВЕСЬ ЧАС'
+- '§cОновлюється кожні 30 хвилин'
+HOLO_TOP_MONTHLY_BY_RATING:
+- '§6§l%s'
+- '§fТоп гравців по рейтингу'
+- '§fза §eМІСЯЦЬ'
+- '§cОновлюється кожні 30 хвилин'
+ITEM_ALREADY_HAVE: '§fУ вас вже є даний предмет, ви отримали §6+%s %s' 
+HOLO_INFO_LOBBY:
+- '§fКлікніть по §6NPC§f,'
+- '§fщоб почати гру'
+- '§fабо обрати §aмапу'
+HOLIDAY_HEAD_FOUND_TITLE: '§6§lВітаємо!'
+HOLIDAY_HEAD_FOUND_SUBTITLE: '§fВи знайшли подарунок §a%s§f/§c%s'
+HOLIDAY_HEAD_FOUND_ALL_TITLE: '§a§lЗ новим роком!'
+HOLIDAY_HEAD_FOUND_ALL_SUBTITLE: '§6Ви знайшли усі подарунки!'
+HOLIDAY_HEAD_FOUND_COUNT: 'Знайдено подарунків: §a%s§f/§a%s'
+HOLIDAY_HEAD_FOUND_COUNT_BOARD: 'Знайдено подарунків: §a'
+HOLIDAY_COUNTDOWN: 'Новий Рік через: §a'
+COMPASS_MODE_NEAREST_PLAYER: 'пошук найближчого гравця'
+COMPASS_MODE_TEAMMATE: 'пошук найближчого тіммейта'
+COMPASS_MODE_CHANGED: 'Режим локатору змінено на §e%s'
+LOCATOR_ITEM_NAME: '§aЛокатор'
+LOCATOR_ITEM_LORE:
+- '§7Використовуйте цей предмет, щоб'
+- '§7знаходити найближчого гравця'
+GAME_SPECTATOR_MESSAGE: 'Ви загинули і тепер можете тільки спостерігати за ігровим процесом.'
+SG_YOU_GOT_RATING: 'Ви заробили §a%s §fрейтингу за вбивство %s §f(§6%s§f)'
+SG_YOU_LOST_RATING: 'Ви втратили §a%s §fрейтингу §f(§6%s§f)'
+KILLS_1:
+- 'вбивств'
+- 'о'
+- 'а'
+- ''
+RATING_1:
+- 'рейтингу'
+- ''
+- ''
+- ''
+BOARD_MODULE: 'Модуль'
+BOARD_TEAMS: 'Команд'
+BOARD_TIME: 'Час'
+BOARD_TIME_TO_DM: 'Час до дезматчу'
+BOARD_LIFE_COUNT: 'Життів'
+BOARD_POINTS: 'Очок'
+BOARD_TOTAL_LUCKYBLOCKS: 'Зламано лакі-блоків'
+PROFILE_MAIN_ITEM_LANG_LORE1:
+- '§7Зміна дефолтної мови на сервері'
+- '§7Переклад і мови будуть доповнюватись!'
+- ''
+- '§7На даний момент доступні:'
+GAMEMENU_ONLINE_LORE: '§8На режимі грає %s %s'
+GAMEMENU_ITEM_WIPE: '§b§lЗробили вайп!'
+GAMEMENU_VERSION: '§fРекомендована версія для гри %s'
+GOLD: 'Помаранчевий'
+LIGHT_PURPLE: 'Рожевий'
+PLAYER_WARP_ITEM_EMPTY_NAME: '§cВарпи гравця не знайдені'
+PLAYER_WARP_ITEM_EMPTY_LORE:
+- '§7На даний момент у гравця %s'
+- '§7немає доступних публічних варпів'
+- '§7або вони відсутні зовсім'
+PLAYER_WARP_FORMAT: '/playerwarp <ім`я гравця>'
+PLAYER_WARP_GUI_NAME: 'Список варпів - %s'
+PARTY_REQUEST_SENT_TO_FRIENDS: '§6Друзі §8| §fЗапит в группу відправлений усім друзям онлайн'
+YOU_SHOULD_LEAVE_YOUR_PARTY: '§cПомилка, Ви маєте бути творцем групи в якій перебуваєте. Для використання команди покиньте поточну группу - /party leave'
+YOU_HAVE_NO_ONLINE_FRIENDS: '§cПомилка, у Вас немає онлайн друзів'
+DONATECHAT_IS_OFFLINE: '§cПомилка, зараз чат донатерів був вимкнений адміністрацією проекту' 
+REPORT_ALLOW_USAGE: '/report allow <мінімальна група>'
+REPORT_INVALID_GROUP_TO_USE: '§cПомилка, мінімальна група для використання не може бути нижче, чим §2§lJUNIOR'
+REPORT_MINIMAL_GROUP_CHANGED: '§aВи змінили мінімальну групу для перегляду скарг на %s' 
+AUTH_INFO_PLAYER:
+- '§6Авторизація §8| §fІнформація про гравця §e%s:'
+- ' - §fПошта: §a%s'
+- ' - §fЛіцензія: §a%s'
+- ' - §fЧекає активацію ліцезії: §a%s'
+- ' - §fОстанній іп: §a%s'
+- ' - §fІп при реєстрації: §a%s'
+- ' - §fПоследний сервер: §a%s'
+GUILD_CANT_SET_THIS_RANK: '§6Гільдії §8| §fВи не можете встановити такий ранг гравцю'
+GUILD_PLAYER_ALREADY_LEADER: '§6Гільдії §8| §fВи не можете передати права управління гільдією самому собі'
+GOODGAME_FORMAT: '/gg <нік>' 
+GOODGAME_ANSWER_MESSAGE: 'Адміністрація §6§lLastCraft §eбажає Вам приємної гри на сервері. Звертайтеся до нас ще!)'
+ISLAND_ADD_PLAYER_REQUEST_1: ' %s §fпропонує вам грати разом на своєму острові'
+ISLAND_ADD_PLAYER_REQUEST_2: ' §fДля прийняття запиту пишіть '
+ISLAND_ADD_PLAYER_REQUEST_3: ' §fДля скасування запиту пиши '
+ISLAND_ADD_PLAYER_REQUEST_4: ' §fУ вас є §a120 §fсекунд, щоб його прийняти'
+ISLAND_DELETE_MEMBER_ERROR2: '§6SkyBlock §8| §cПомилка, даний гравець володар острову'
+SERVER_WAS_DOWN: '§6Сервер §8| §fСервер §a%s §fзакрив Ваше з`єднання, Ви перенаправлені на §a%s'
+SERVER_QUEUE: '§aТелепортую на сервер %s'
+CAGE: 'клітка'
+KIT_SELECTION_MESSAGE: 'Ви обрали набір §a%s'
+PERK_SELECTION_MESSAGE: 'Ви обрали перк §a%s'
+CAGE_SELECTION_MESSAGE: 'Ви обрали клітку §a%s'
+KIT_PURCHASE_MESSAGE: 'Ви придбали набір §a%s §fза §a%s §f%s'
+PERK_PURCHASE_MESSAGE: 'Ви придбали перк §a%s §fза §a%s §f%s'
+CAGE_PURCHASE_MESSAGE: 'Ви придбали клітку §a%s §fза §a%s §f%s'
+CATEGORY_CAGE_NAME: 'Клітки'
+CATEGORY_CAGE_CHOOSE_NAME: 'Вибір клітки'
+CATEGORY_CAGE_CHOOSE_LORE:
+- ' '
+- '§7Набридло з`являтися в звичайній клітці?'
+- '§7Це легко виправити! Обери свою нову'
+- '§7клітку прямо зараз, щоб виділятися'
+- '§7серед інших гравців'
+- ' '
+- '§7Відкрито: §a%s%% §8(§e%s§f/§e%s§8)'
+- '%s'
+- ' '
+- '§e▸ Натисніть, щоб відкрити'
+CATEGORY_CAGE_SHOP_NAME: 'Купівля кліток'
+CATEGORY_CAGE_SHOP_LORE:
+- ' '
+- '§7Купівля можливих блоків,'
+- '§7з яких буде складатися'
+- '§7ваша клітка в початку игри'
+- ' '
+- '§e▸ Натисніть, щоб відкрити магазин'
+SKYWARS_SOLO_TYPE_SHOP_LORE:
+- ' '
+- '§e▸ Натисніть, щоб відкрити магазин'
+- ' §eодиночного режиму'
+SKYWARS_DUO_TYPE_SHOP_LORE:
+- ' '
+- '§e▸ Натисніть, щоб відкрити магазин'
+- ' §eпарного режиму'
+SKYWARS_TEAM_TYPE_SHOP_LORE:
+- ' '
+- '§e▸ Натисніть, щоб відкрити магазин'
+- ' §eкомандного режиму'
+ITEM_IS_NOT_PURCHASEABLE:
+- ' '
+- '§cУ Вас немає цього предмета'
+- '§7Ви можете отримати його:'
+- ' §8• §7відкриваючи сундук удачі'
+- ' §8• §7придбавши в онлайн-магазині'
+TEAM_DARK_AQUA: 'Бірюзові'
+SPECTATOR_SETTING_GUI_TITLE: 'Налаштування спостерігача'
+SPECTATOR_SETTING_SPEED_NAME: '§eШвидкість %s'
+SPECTATOR_SETTING_SPEED_LORE:
+- ' '
+- '§7Змінює швидкість пересування'
+- '§7в залежності від обраного'
+- '§7рівня'
+SPECTATOR_SETTING_SPEED_ALREADY:
+- ' '
+- '§c▸ Ви вже обрали цю швидкість'
+SPECTATOR_SETTING_SPEED_CLICK:
+- ' '
+- '§e▸ Натисніть, щоб змінити швидкість'
+SPECTATOR_SETTING_CHANGED: '§6Спостереження §8| §fШвидкіть пересування змінена'
+SPECTATOR_SETTING_FLY_ON: '§6Спостереження §8| §fВи увімкнули постійний політ'
+SPECTATOR_SETTING_FLY_OFF: '§6Спостереження §8| §fВи вимкнули постійний політ'
+SPECTATOR_SETTING_NOSPEED_NAME: '§cБез швидкості'
+SPECTATOR_SETTING_NOSPEED_LORE:
+- ' '
+- '§7Прибирає швидкість пересування'
+SPECTATOR_SETTING_NOFLY_NAME: '§aУвімкнути постійний політ'
+SPECTATOR_SETTING_FLY_NAME: '§cВимкнуті постійний політ'
+SPECTATOR_SETTING_NOFLY_LORE:
+- ' '
+- '§e▸ Натисніть, щоб увімкнути'
+SPECTATOR_SETTING_FLY_LORE:
+- ' '
+- '§e▸ Натисніть, щоб вимкнути'
+SPECTATOR_SETTING_VISION_NAME: '§cВимкнути нічне бачення'
+SPECTATOR_SETTING_NO_VISION_NAME: '§aУвімкнути нічне бачення'
+SPECTATOR_SETTING_VISION_LORE:
+- ' '
+- '§e▸ Натисніть, щоб вимкнути'
+SPECTATOR_SETTING_NO_VISION_LORE:
+- ' '
+- '§e▸ Натисніть, щоб увімкнути'
+SPECTATOR_SETTING_HIDE_NAME: '§cПриховати спостерігачів'
+SPECTATOR_SETTING_SHOW_NAME: '§aПоказати спостерігачів'
+SPECTATOR_SETTING_VISION_ON: '§6Спостереження §8| §fНічне бачення увімкнено'
+SPECTATOR_SETTING_VISION_OFF: '§6Спостереження §8| §fНічне баченні вимкнено'
+SPECTATOR_SETTING_SHOW_LORE:
+- ' '
+- '§7Зараз ви не бачите других'
+- '§7спостерігачів. Після зміни'
+- '§7цієї настройки Ви знову зможете'
+- '§7їх бачити'
+- ' '
+- '§e▸ Натисніть, щоб показати'
+SPECTATOR_SETTING_HIDE_LORE:
+- ' '
+- '§7Зараз Ви бачите інших'
+- '§7спостерігачів. Після зміни'
+- '§7цієї настройки вони будуть приховані'
+- '§7для Вас.'
+- ' '
+- '§cПовідомлення спостерігачів в чаті'
+- '§cбудуть видні незалежно від налаштувань'
+- ' '
+- '§e▸ Натисніть, щоб приховати'
+SPECTATOR_SETTING_HIDING: '§6Спостереження §8| §fТепер Ви на бачите інших спостерігачів'
+SPECTATOR_SETTING_SHOWN: '§6Спостереження §8| §fВи знову бачите інших спостерігачів'
+SW_YOUR_TEAMMATE_IS_DEAD: '§cВаш тіммейт (%s§c) загинув'
+SW_YOUR_TEAMMATE_IS_AT_LOW_HP: '§cУ вашого тіммейта %s §cдуже мало здоров`я!'
+SG_SPONSOR_PLAYER_IS_SPECTATOR: '§cСпонсором може бути тільки спостерігач'
+SG_SPONSOR_TARGET_IS_SPECTATOR: '§cВи не можете стати спонсором мертвого гравця'
+SG_SPONSOR_TARGET_INVENTORY_FULL: '§cІнвентар цього гравця повний. На жаль, Ви не можете стати його спонсором'
+SG_SPONSOR_GUI_TITLE: 'Спонсорство'
+SG_SPONSOR_GUI_ITEM_LORE:
+- ''
+- '§7Вартість: §e%s рейтингу'
+SG_SPONSOR_GUI_ITEM_CLICK_TO_SEND:
+- ''
+- '§e▸ Натисніть, щоб відправити предмет гравцю'
+SG_SPONSOR_GUI_ITEM_NOT_ENOUGH:
+- ''
+- '§c▸ У Вас недостатньо рейтингу'
+SG_PLAYER_WAS_SPONSORED: '§6Спонсорство §8| §fВи відправили подарунок гравцю %s'
+SG_YOU_HAVE_BEEN_SPONSORED:
+- ''
+- ' §aВітаємо! §fВи отримали §eподарунок §fвід спонсора %s'
+- ' Він вже знаходиться у Вашому інвентарі.'
+- ''
+SG_SPONSOR_FORMAT: '§cПомилка, пишіть /sponsor <нік гравця>'
+SG_YOU_CAN_BE_SPONSOR: 'Ви можете бути спонсором та відправляти предмети живим гравцям, використовуючи свій рейтинг. Для цього пишіть команду §a/sponsor'
+KIT_SG_RIDER: 'Вершник'
+KIT_SG_RIDER_LORE:
+- '§8Просто скакун...'
+- ' '
+- '§7Містить в собі:'
+- ' §8• §7Яйце коня §8(з сідлом, бронею)'
+- ' §8• §7Кольчужний нагрудник'
+KIT_SG_THE_PACK_OWNER: 'Господар стаї'
+KIT_SG_THE_PACK_OWNER_LORE:
+- '§8Собаки, вони такі...'
+- ' '
+- '§7Містить в собі:'
+- ' §8• §7Шкіряний нагрудник'
+- ' §8• §7Дерев`яний меч'
+- ' §8• §7Яйце вовка §8(приручений, x4)'
+KIT_SG_SHIELD_BEARER: 'Щитоносець'
+KIT_SG_SHIELD_BEARER_LORE:
+- '§8Тревога, підняти щити!!!'
+- ' '
+- '§7Містить в собі:'
+- ' §8• §7Зламаний щит'
+- ' §8• §7Кольчужний нагрудник'
+- ' §8• §7Кольчужні чоботи'
+KIT_SG_PATH_FINDER: 'Слідопит'
+KIT_SG_PATH_FINDER_LORE:
+- '§8Від нього не втекти...'
+- ' '
+- '§7Містить в собі:'
+- ' §8• §7Шкіряний нагрудник'
+- ' §8• §7Кам`яний меч'
+- ' §8• §7Лук'
+- ' §8• §7Стріла світіння §8(3 хвилини, x3)'
+PERK_SG_TANK: 'Танк'
+PERK_SG_TANK_LORE:
+- ' '
+- '§7Після закінчення бессмертя ви отримуєте'
+- '§7опір до урону II на 20 секунд'
+PERK_SG_SAFARI: 'Сафарі'
+PERK_SG_SAFARI_LORE:
+- ' '
+- '§7Після вбивства будь-якого моба Ви отримуєте'
+- '§7регенерацію II на 10 секунд'
+PERK_SG_PATIENT_KILLER: 'Терплячий вбивця'
+PERK_SG_PATIENT_KILLER_LORE:
+- ' '
+- '§7Якщо ви простоїте на місці 5 секунд, Ви'
+- '§7Ви отримаєте невидимість. §7Вона зникне'
+- '§7через 5 секунд після початку руху або'
+- '§7одразу після нанесіння урону будь-якому гравцю.'
+- '§7При цьому гравець, отримавши урон від невидимки'
+- '§7отримає додатково ефект сліпоти на 6с.'
+PERK_PR_JUMPER: 'Стрибун'
+PERK_PR_JUMPER_LORE:
+- ' '
+- '§7З шансом 30% ви отримуєте ефект'
+- '§7стрибання II на 7 секунд після'
+- '§7проходження одного з модулів'
+PERK_PR_RAVEN: 'Ворон'
+PERK_PR_RAVEN_LORE:
+- ' '
+- '§7З шансом 15% ви отримуєте предмет'
+- '§7для використання левітації I на'
+- '§75 секунд'
+PERK_PR_CLASSIC_LUCKY: 'Везунчик'
+PERK_PR_CLASSIC_LUCKY_LORE:
+- ' '
+- '§7З шансом 10% ви не витратите'
+- '§7одну з 3 спроб проходження'
+- '§7після падіння з модуля.'
+PERK_PR_BANKER: 'Банкір'
+PERK_PR_BANKER_LORE:
+- ''
+- '§7Ви отримуєте на 15% більше монет'
+- '§7для закупівлі перед дезматчем'
+PERK_PR_BOMBER: 'Смертник'
+PERK_PR_BOMBER_LORE:
+- ''
+- '§7При смерті з вас'
+- '§7вилітають активовані ТНТ'
+PERK_PR_COIN_LUCKY: 'Везунчик'
+PERK_PR_COIN_LUCKY_LORE:
+- ''
+- '§7З шансом 20% ви отримуєте у два рази'
+- '§7більше монет за проходження'
+- '§7модуля (бонуси не враховаються)'
+PERK_PR_COWARD: 'Боягуз'
+PERK_PR_COWARD_LORE:
+- ''
+- '§7З шансом 20% ви'
+- '§7отримаєте Швидкість II на 5 секунд' 
+PERK_PR_EAGER: 'Нетерплячий'
+PERK_PR_EAGER_LORE:
+- ''
+- '§7Ви отримуєте предмет для пропуску'
+- '§7поточного модуля паркуру,'
+- '§7та отримуете за нього нагороду.'
+- '§7Діє тільки один раз' 
+PERK_PR_ENCHANT_MASTER: 'Мастер зачаровувань'
+PERK_PR_ENCHANT_MASTER_LORE:
+- ''
+- '§7Перше зачаровання для вас безкоштовно'
+PERK_PR_GLADIATOR: 'Гладіатор'
+PERK_PR_GLADIATOR_LORE:
+- ''
+- '§7Післе вбивства ворога ви отримуєте'
+- '§7Опір урону I на 10 секунд'
+PERK_PR_HERO: 'Богатир'
+PERK_PR_HERO_LORE:
+- ''
+- '§7Ви отримуєте постійний бонус'
+- '§7до здоров`я у вигляді двух сердець'
+PERK_PR_LUCKY: 'Щасливчик'
+PERK_PR_LUCKY_LORE:
+- ''
+- '§7Ви отримуєте додаткове'
+- '§7життя на дезматчі'
+PERK_PR_VAMPIRE: 'Вампір'
+PERK_PR_VAMPIRE_LORE:
+- ''
+- '§7При вбивстві ворога'
+- '§7ви відновлюєте 4 HP'
+PERK_SW_ARES: 'Арес'
+PERK_SW_ARES_LORE:
+- ''
+- '§7При вбивстві ворога Ви отримуєте'
+- '§7ефект регенерації II на 10 секунд'
+- '§7Якщо Ви помрете, у вашого вбивці'
+- '§7з інвентаря зникне випадкова зброя' 
+PERK_SW_SONIC: 'Сонік'
+PERK_SW_SONIC_LORE:
+- ''
+- '§7Після старту гри Ви отримаєте постійний'
+- '§7ефект швидкості I. Рівень швидкості від'
+- '§7події "Прискорення" буде збільшений на I'
+PERK_SW_CUPID: 'Купідон'
+PERK_SW_CUPID_LORE:
+- ''
+- '§7При старті гри максимальна кількість'
+- '§7життя збільшується на 2 серця. Після'
+- '§7четвертого вбивства Ви отримаєте ще 2 серця'
+- '§7а також постійний ефект опіру урону'
+PERK_SW_VAMPIRE: 'Вампір'
+PERK_SW_VAMPIRE_LORE:
+- ''
+- '§7При отриманні урону більше чим'
+- '§7на 3.5 серця (за раз) Ви отримаєте'
+- '§7еффект насичення на 3 секунди'
+PERK_SW_ARROW_RECOVERY: 'Стрілець'
+PERK_SW_ARROW_RECOVERY_LORE:
+- ''
+- '§7При попаданні в ворога з луку'
+- '§7з шансом 75% до вас в інвентар'
+- '§7повернеться звичайна стріла'
+PERK_SW_GREEN_ARROW: 'Зелена стріла'
+PERK_SW_GREEN_ARROW_LORE:
+- ''
+- '§7При вбивстві іншого гравця з луку Ви отримуєте 3'
+- '§7випадкових стріли с одним з трьох можливих ефектів:'
+- '§8моментальний урон§7, §8слабкість§7, §8отруєння II'
+PERK_SW_AIR_SUPPORT: 'Повітряна підтримка'
+PERK_SW_AIR_SUPPORT_LORE:
+- ''
+- '§7Коли Ви отримуєте урон від падіння, усі Ваші'
+- '§7противники в радіусі 5 блоків отримають ефект'
+- '§7слабкості II на 4 секунди'
+PERK_SW_ARGILLIC: 'Архіліч'
+PERK_SW_ARGILLIC_LORE:
+- ''
+- '§7При вбивстві гравця поряд з вами з однаковим'
+- '§7шансом з`являється скелет чи зомбі в кольчужній'
+- '§7броні та з залізним мечем'
+PERK_SW_SMOKE_BOMB: 'Димова шашка'
+PERK_SW_SMOKE_BOMB_LORE:
+- ''
+- '§7При отриманні вами урону противник з шансом'
+- '§715% отримає ефект сліпоти на 5 секунд'
+PERK_SW_NINJA: 'Ніндзя'
+PERK_SW_NINJA_LORE:
+- ''
+- '§7Поки в обох ваших руках будуть 2 однакових меча Ви'
+- '§7будете мати постійний ефект сили III та слабкості II'
+PERK_SW_BERSERK: 'Берсерк'
+PERK_SW_BERSERK_LORE:
+- ''
+- '§7Поки в обох ваших руках будуть дві однакових'
+- '§7сокири Ви отримаєте постійні ефекти сили I'
+- '§7и утомления II'
+PERK_SW_ZEUS: 'Зевс'
+PERK_SW_ZEUS_LORE:
+- ''
+- '§7Після Вашої кончини блискавка вдарить на місці'
+- '§7смерті, а такок в противників у радиусі 5'
+- '§7блоків від Вас'
+PERK_SW_DARK_TIME: 'Час темряви'
+PERK_SW_DARK_TIME_LORE:
+- ''
+- '§7Після вашої смерті противник отримає ефект сліпоти'
+- '§7та осушення I на 10 секунд, а на місці вашої смерті'
+- '§7з`явиться скелет в кольчужній броні'
+PERK_SW_MATRIX: 'Матриця'
+PERK_SW_MATRIX_LORE:
+- ''
+- '§7Ви не отримуєте негативних ефектів'
+- '§7від будь-якого кинутого у Вас зілья' 
+KIT_SW_MAGIC: 'Екзорцист'
+KIT_SW_MAGIC_LORE:
+- ''
+- '§7Містить в собі:'
+- ' §8• §7Туманне зіль`я моментального урону II §8(x3)'
+- ' §8• §7Вибухове зіль`я моментального урону §8(x3)'
+- ' §8• §7Шкіряні штани'
+- ' §8• §7Шкіряні чоботи'
+KIT_SW_HELLBOY: 'Хеллбой'
+KIT_SW_HELLBOY_LORE:
+- ''
+- '§7Містить в собі:'
+- ' §8• §7Золотий шлем §8(Вогнеупірність II)'
+- ' §8• §7Золотий нагрудник §8(Вогнеупірність II)'
+- ' §8• §7Зіль`я вогнестійкості §8(на 8 хвилин)'
+- ' §8• §7Відро лави §8(x3)'
+- ' §8• §7Магмові блоки §8(x32)'
+KIT_SW_RAMBO: 'Рембо'
+KIT_SW_RAMBO_LORE:
+- ''
+- '§7Містить в собі:'
+- ' §8• §7Шкіряний шлем'
+- ' §8• §7Шкіряний нагрудник'
+- ' §8• §7Шкіряні штани'
+- ' §8• §7Шкіряні чоботи'
+- ' §8• §7Кам`яний меч'
+- ' §8• §7Кругляк §8(x16)'
+KIT_SW_RONIN: 'Ронін'
+KIT_SW_RONIN_LORE:
+- ''
+- '§7Містить в собі:'
+- ' §8• §7Залізні чоботи'
+- ' §8• §7Залізний меч'
+- ' §8• §7Зілля стрибучості II §8(x2)'
+KIT_SW_TELEKINETIC: 'Телекінетик'
+KIT_SW_TELEKINETIC_LORE:
+- ''
+- '§7Містить в собі:'
+- ' §8• §7Шкіряні штани'
+- ' §8• §7Шкіряні чоботи §8(Невагомість IV)'
+- ' §8• §7Вибухове зілля леветаціі II §8(x4, на 5с.)'
+- ' §8• §7Питне зілля леветації VIII §8(x2, на 3с.)'
+KIT_SW_ROCK_KIT: 'Скеля'
+KIT_SW_ROCK_KIT_LORE:
+- ''
+- '§7Містить в собі:'
+- ' §8• §7Залізний нагрудник'
+- ' §8• §7Щит §8(Міцність I)'
+- ' §8• §7Обсидіан §8(x8)'
+KIT_SW_ARCHER: 'Лучник'
+KIT_SW_ARCHER_LORE:
+- ''
+- '§7Містить в собі:'
+- ' §8• §7Лук'
+- ' §8• §7Кольчужний нагрудник §8(Захист від снарядів V)'
+- ' §8• §7Спектральна стріла §8(x4)'
+- ' §8• §7Стріла зцілення II §8(x2)'
+- ' §8• §7Стріла отруєння §8(x2)'
+- ' §8• §7Стріла слабкості §8(x2)'
+KIT_SW_ARCWIZARD: 'Архимаг'
+KIT_SW_ARCWIZARD_LORE:
+- ''
+- '§7Містить в собі:'
+- ' §8• §7Стіл зачаровувань'
+- ' §8• §7Бульбашка досвіду §8(x32)'
+- ' §8• §7Книжна полиця §8(x10)'
+- ' §8• §7Золотий нагрудник'
+- ' §8• §7Золоті штани'
+KIT_SW_BOMBER: 'Підривник'
+KIT_SW_BOMBER_LORE:
+- ''
+- '§7Містить в собі:'
+- ' §8• §7Динаміт §8(x8)'
+- ' §8• §7Яйце крипера §8(x3)'
+- ' §8• §7Запальничка'
+- ' §8• §7Золотий шлем §8(Вибухостійкість III)'
+- ' §8• §7Золотий нагрудник §8(Вибухостійкість III)'
+KIT_SW_HEALER: 'Медик'
+KIT_SW_HEALER_LORE:
+- ''
+- '§7Містить в собі:'
+- ' §8• §7Вибухове зілля лікування II §8(x3)'
+- ' §8• §7Вибухове зілля регенерації II §8(x2)'
+- ' §8• §7Туманне зілля лікування II'
+- ' §8• §7Кольчужні штани'
+- ' §8• §7Кольчужні чоботи'
+KIT_SW_VIKING: 'Вікінг'
+KIT_SW_VIKING_LORE:
+- ''
+- '§7Містить в собі:'
+- ' §8• §7Золота сокира §8(Міцність X, Гострота III)'
+- ' §8• §7Кольчужний шлем'
+- ' §8• §7Кольчужний нагрудник'
+KIT_SW_ELYTRA: 'Валь-кира'
+KIT_SW_ELYTRA_LORE:
+- ''
+- '§7Містить в собі:'
+- ' §8• §7Елітри §8(Прокляття незнімності I)'
+- ' §8• §7Кольчужні штани'
+- ' §8• §7Залізні ботинки §8(Невагомість III)'
+- ' §8• §7Феєрверк §8(x3, тривалість 2с.)'
+KIT_SW_NECROMANT: 'Некромант'
+KIT_SW_NECROMANT_LORE:
+- ''
+- '§7Містить в собі:'
+- ' §8• §7Яйце зомбі §8(x5)'
+- ' §8• §7Яйце скелету §8(x5)'
+- ' §8• §7Кольчужний нагрудник'
+- ' §8• §7Кольчужні ботинки'
+KIT_SW_BONE_BREAKER: 'Костолом'
+KIT_SW_BONE_BREAKER_LORE:
+- ''
+- '§7Містить в собі:'
+- ' §8• §7Кольчужний нагрудник §8(Шипи III)'
+- ' §8• §7Туманне зілля слабкості §8(x4)'
+- ' §8• §7Вибухове зілля уповільнення IV §8(x2, на 20 секунд)'
+- ' §8• §7Вибухове зілля сліпоти §8(x3, на 10 секунд)'
+CAGE_SW_WOOD: 'Дерев`яна'
+CAGE_SW_WOOD_LORE: []
+CAGE_SW_NETHER: 'Пекельна'
+CAGE_SW_NETHER_LORE: []
+CAGE_SW_SPRUCE: 'Ялинова'
+CAGE_SW_SPRUCE_LORE: []
+CAGE_SW_BIRCH: 'Березова'
+CAGE_SW_BIRCH_LORE: []
+CAGE_SW_JUNGLE: 'Джунглі'
+CAGE_SW_JUNGLE_LORE: []
+CAGE_SW_ACACIA: 'Акація'
+CAGE_SW_ACACIA_LORE: []
+CAGE_SW_DARK_OAK: 'Темна акація'
+CAGE_SW_DARK_OAK_LORE: []
+CAGE_SW_IRON_BARDING: 'Залізна'
+CAGE_SW_IRON_BARDING_LORE: []
+CAGE_SW_SLIME: 'Слаймова'
+CAGE_SW_SLIME_LORE: []
+CAGE_SW_ICE: 'Лід'
+CAGE_SW_ICE_LORE: []
+CAGE_SW_LEAVES: 'Листяна'
+CAGE_SW_LEAVES_LORE: []
+CAGE_SW_GLASS: 'Скло'
+CAGE_SW_GLASS_LORE: []
+CAGE_SW_STAINED_GLASS_1: 'Тонке скло'
+CAGE_SW_STAINED_GLASS_1_LORE: []
+CAGE_SW_STAINED_GLASS_2: 'Ангельска'
+CAGE_SW_STAINED_GLASS_2_LORE: []
+CAGE_SW_STAINED_GLASS_3: 'Іриска'
+CAGE_SW_STAINED_GLASS_3_LORE: []
+CAGE_SW_STAINED_GLASS_4: 'Бузкова'
+CAGE_SW_STAINED_GLASS_4_LORE: []
+CAGE_SW_STAINED_GLASS_5: 'Банан'
+CAGE_SW_STAINED_GLASS_5_LORE: []
+CAGE_SW_STAINED_GLASS_6: 'Лаймова'
+CAGE_SW_STAINED_GLASS_6_LORE: []
+CAGE_SW_STAINED_GLASS_7: 'Жувальна гумка'
+CAGE_SW_STAINED_GLASS_7_LORE: []
+CAGE_SW_STAINED_GLASS_8: 'Порожнина'
+CAGE_SW_STAINED_GLASS_8_LORE: []
+CAGE_SW_STAINED_GLASS_9: 'Хмарна'
+CAGE_SW_STAINED_GLASS_9_LORE: []
+CAGE_SW_STAINED_GLASS_10: 'Бірюза'
+CAGE_SW_STAINED_GLASS_10_LORE: []
+CAGE_SW_STAINED_GLASS_11: 'Містична'
+CAGE_SW_STAINED_GLASS_11_LORE: []
+CAGE_SW_STAINED_GLASS_12: 'Небесна'
+CAGE_SW_STAINED_GLASS_12_LORE: []
+CAGE_SW_STAINED_GLASS_13: 'Кофе'
+CAGE_SW_STAINED_GLASS_13_LORE: []
+CAGE_SW_STAINED_GLASS_14: 'Зелена'
+CAGE_SW_STAINED_GLASS_14_LORE: []
+CAGE_SW_STAINED_GLASS_15: 'Лють'
+CAGE_SW_STAINED_GLASS_15_LORE: []
+CAGE_SW_STAINED_GLASS_16: 'Темна'
+CAGE_SW_STAINED_GLASS_16_LORE: []
+STATS_GUI_TITLE: 'Профіль ▸ Статистика'
+STATS_GUI_TITLE_TARGET: 'Статистика гравця %s'
+RATING_STAT: 'Рейтинг'
+BEST_TIME_STAT: 'Кращий час'
+PR_PASS_TIME: 'Загальний час проходження'
+PR_MODULES_PASSED: 'Пройдено модулів'
+PR_PLAYER_SHOWN: 'Гравці показані - %s'
+PR_MODULE_SKIPPED: 'Модуль був пропущений'
+PR_VOTE_ALREADY_VOTED: 'Ви вже проголосовали!'
+PR_VOTE_END: '§cГолосовання закінчено, чекайте кінця відліку'
+PR_VOTE_ACCEPTED: '§aГолос прийнятий! (%s/%s)'
+PR_VOTE_BROADCAST: '%s §fпроголосував за пропуск етапа закупівлі (§e%s/%s§f)'
+PR_VOTE_BROADCAST_1: 'Використовуйте §e/skip§f, щоб підтримати його' 
+PR_COMPASS_MODE_CHANGED: 'Вибір навігатору змінено на §e%s'
+PR_DEATH: 'Ви використали всі життя. Тепер Ви можете тільки спостерігати за ігровим процесом'
+PR_ALL_MODULES_PASSED: 'Вітаємо! Ви пройшли всі модулі. Чекайте старту закупівлі'
+PR_ALL_MODULES_PASSED_BROADCAST: '§a%s пройшов усі модулі'
+PR_SHOPPING_COUNTDOWN: '§7До старта закупівлі залишилось 10 секунд'
+PR_ENDING_COUNTDOWN: '§7До кінця гри залишилось 3 хвилини'
+PR_CLASSIC_MODULES_PASSED: 'Вітаємо! Ви пройшли усі модулі за §a%s §fта заняли §e%s §fмісце'
+PR_SHOP_ALREADY_ENCHANTED: '§cВи вже зачаровали цей предмет'
+PR_ITEM_NOT_SELECTED: '§cПредмет не обрано'
+PR_ENCHANT_COST: '§eВартість зачаровання - §a%s'
+PR_COINS_STATUS: '§eКількість очкок: §a%s'
+PR_ITEM_ENCHANTING: '§7Зачаровання предметів'
+PR_ITEM_BOUGHT: 'Предмет успішно куплено'
+PR_SHOP_ENCHANTED: '§aПредмет успішно зачарований'
+PR_SHOP_NOT_ENOUGH_MONEY_ENCH: '§cУ Вас недостатньо очок для зачаровання цього предмету'
+PR_SHOP_NOT_ENOUGH_MONEY: '§cУ Вас недостатньо очок для купівлі цього предмету'
+PR_CANNOT_SKIP_MODULE: '§cВи не можете пропустити цей модуль'
+PR_ATTEMPT_NOT_USED: 'Спроба проходження модуля не витрачена' 
+PR_ATTEMPT_USED: 'Ви використали §e3 спроби§f прохождення модуля'
+PR_DM_COUNTDOWN_CHAT: 'Фінальна битва почнеться через '
+PR_ATTEMPT_USED_1: 'Ви не отримаєте додаткові очки за прохождення цього модуля'
+PR_DM_COUNTDOWN: 'Час до закінчення:'
+PR_MODULE_PASS_SUMMARY: '§fВи отримали §a§l%s §fочок за проходження модуля!'
+PR_MODULE_PASS_TIME_SUMMARY: '§fВи пройшли модуль §a#%s §fза §a%s'
+PR_MODULE_SKIP_MESSAGE: 'Довго проходиться §eмодуль§f? Клікніть по §aморквині §fдля пропуску §c(нагорода не зачислюється)'
+CHESTS_LOOTED_STAT: 'Облутано скринь'
+PARKOURRACERS_CLASSIC_TYPE: '§eКласичний режим'
+PARKOURRACERS_SOLO_TYPE: '§eОдиночний режим'
+PARKOURRACERS_DUO_TYPE: '§eПарний режим'
+SKYWARS_SOLO_TYPE: '§eОдиночний режим'
+SKYWARS_TEAM_TYPE: '§eКомандний режим'
+SKYWARS_DUO_TYPE: '§eПарний режим'
+LUCKYWARS_SOLO_TYPE: '§eОдиночний режим'
+LUCKYWARS_DUO_TYPE: '§eПарний режим'
+COINS_EARNED_PER_GAME_STAT: 'Монет зароблено'
+SW_CHEST_EMPTY: '§4Скриня порожня'
+YOU_DEAD: '§cВи загинули'
+YOU_DEAD_SPECTATOR: '§7Тепер ви спостерігач'
+PARKOURRACERS_SOLO_TYPE_SHOP_LORE:
+- ' '
+- '§e▸ Натисніть, щоб відкрити магазин'
+- ' §eодиночного режима'
+PARKOURRACERS_DUO_TYPE_SHOP_LORE:
+- ' '
+- '§e▸ Натисніть щоб відкрити магазин'
+- ' §eпарного режима'
+PARKOURRACERS_CLASSIC_TYPE_SHOP_LORE:
+- ' '
+- '§e▸ Натисніть, щоб відкрити магазин'
+- ' §eкласичного режима'
+PR_SHOPPING_DESC_HOLO:
+- '§6Зачаровування предметів'
+- '§fЩоб зачаровати предмет, купіть його'
+- '§fВізміть його в руку та голограма над'
+- '§fстолом зачаровувань розрахує ціну зачарування'
+PR_CHECKPOINT_ITEM_NAME: '§eПовернутися на чекпоінт'
+PR_CHECKPOINT_ITEM_LORE:
+- '§7Використовуйте його для телепорту на чекпоінт'
+PR_HIDE_ITEM_NAME: '§eПриховати/показати гравців'
+PR_HIDE_ITEM_LORE:
+- '§7Використовуйте цей предмет,'
+- '§7щоб показати/приховати гравців'
+PR_SKIP_MODULE_ITEM_NAME: '§eПропустити поточний модуль'
+PR_SKIP_MODULE_ITEM_LORE:
+- '§7Використовуйте для пропуску будь-якого модуля'
+- '§cУВАГА! пропуск доступний тільки один раз!'
+- '§cЗа пропуск нагорода не видається!'
+PR_LEVITATE_ITEM_NAME: '§aВикористовувати ефект левітації'
+PR_LEVITATE_ITEM_LORE:
+- '§7Видає ефект левітації на 5 секунд'
+- '§7Після використання Ви почнете'
+- '§7повільно взлітати...'
+PR_SHOP_ITEM_NAME: '§aМагазин'
+MONTHLY_STATS_NAME: 'Статистика за місяць'
+ALL_TIME_STATS_NAME: 'Статистика за весь час'
+INGAME_STATS_MESSAGES_TITLE:
+- ' '
+- ' §cУВАГА! §fБуде відображена статистика тільки'
+- ' §fз поточного режиму. Щоб переглядати статистику'
+- ' §fзі всіх режимів, перейдіть в лоббі'
+SGS_GAME_DESC:
+- 'Боріться з іншими за право бути кращим'
+- 'В цьому Вам допоможуть речі зі скринь, а також'
+- 'перки і набори, які Ви обрали в лоббі'
+- 'Переможцем стане останній виживший гравець'
+SGD_GAME_DESC:
+- 'Боріться з іншими за право бути кращим'
+- 'В цьому Вам допоможуть речі зі скринь, а також'
+- 'перки і набори, які Ви обрали в лоббі'
+- 'Переможцями стануть усі виживші гравці'
+- 'з перемогшої гру команди'
+PRS_GAME_DESC:
+- 'Пройдіть якомога більше модулів, для того,'
+- 'щоб отримати більше очок для закупівлі зброї.'
+- 'За пройдений менше чим за 3 спроби модуль - отримуєте бонус.'
+- 'Бажаємо успіхів в проходженні! Переможе найсильніший!'
+PRD_GAME_DESC:
+- 'Пройдіть якомога більше модулів, для того,'
+- 'щоб отримати більше очок для закупівлі зброї.'
+- 'За пройдений менше чим за 3 спроби модуль - отримуєте бонус.'
+- 'Бажаємо успіхів в проходженні! Переможе найсильніший!'
+PRC_GAME_DESC:
+- 'Классическая версия паркура без PvP'
+- 'Ваша задача - пройти паркур как можно бистрее,'
+- 'и попасть в топ. Победителем становится игрок,'
+- 'занявший первое место.'
+SWS_GAME_DESC:
+- 'Ваша задача убить всех и не упасть вниз'
+- 'Упал? Ну все, ти проиграл'
+SWD_GAME_DESC:
+- 'Ваша задача убить всех и не упасть вниз'
+- 'Упал? Ну все, ти проиграл'
+SWT_GAME_DESC:
+- 'Ваша задача убить всех и не упасть вниз'
+- 'Упал? Ну все, ти проиграл'
+DAMAGE_CAUSE_KILLED_OF: '%s§f був вбитий гравцем %s'
+DAMAGE_CAUSE_KILLED_BY_SKELETON: '%s§f був вбитий, намагаючись ухилитися від стріл скелета'
+DAMAGE_CAUSE_KILLED_BY_SKELETON_OF: '%s§f був вбитий, намагаючись ухилитися від стріл скелета гравця %s'
+DAMAGE_CAUSE_KILLED_BY_ZOMBIE_OF: '%s§f був вбитий, рятуючись від зомбі гравця %s'
+DAMAGE_CAUSE_KILLED_BY_WOLF: '%s§f був роздертий вовками'
+DAMAGE_CAUSE_KILLED_BY_LINGERING_POTION: '%s§f був вбитий туманним зіллям'
+DAMAGE_CAUSE_KILLED_BY_LINGERING_POTION_OF: '%s§f був вбитий туманним зіллям гравця %s'
+DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD: '%s§f був вбитий туманним зіллям'
+DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD_OF: '%s§f був вбитий туманним зіллям гравця %s'
+DAMAGE_CAUSE_KILLED_BY_WOLF_OF: '%s§f був роздертий вовками гравця %s'
+DAMAGE_CAUSE_KILLED_BY_LIGHTNING: '%s§f був вбитий розлюченим зевсом'
+GAME_END_BOARD_NO_WINNER: '§cНічия'
+GAME_NO_WINNER: '§cГра закінчилася в нічию'
+GAME_TITLE_WIN_PLACE: '§7Ви заняли %s місце у цій грі'
+GAME_PLACE: '%s%s місце §8- §e%s'
+SG_LIFE_AURA_EVENT: 'Аура життя'
+SG_LIFE_AURA_EVENT_STARTED: '§aАура життя'
+SG_LIFE_AURA_EVENT_BOARD: '§aАура життя %s'
+SG_ENDER_MADNESS_EVENT: 'Безумство ендера'
+SG_ENDER_MADNESS_EVENT_BOARD: '§cБезумство ендера %s'
+SG_ENDER_MADNESS_EVENT_SUBTITLE: '§7Всі гравці поміняються місцями через 5 секунд'
+SG_HEAVEN_GIFT_EVENT_MESSAGE: 'Посилка з унікальним лутом була доставлена на координати %s§f. У Вас є 3 хвилини, щоб облутати сундук.'
+SG_HEAVEN_GIFT_EVENT_SUBTITLE: 'Рухайтесь до локації %s'
+SG_HEAVEN_GIFT_EVENT_END_WARN: '§cНіхто не зібрав посилку, вона зникла'
+SG_HEAVEN_GIFT_EVENT: 'Подарунок з небес'
+SG_HEAVEN_GIFT_EVENT_BOARD: '§aПодарунок з небес %s'
+SG_LIFE_AURA_EVENT_DESC: '§7Усі гравці отримали по одному ефекту'
+SG_ZEUS_FURY_EVENT: 'Лють зевса'
+SG_ZEUS_FURY_EVENT_BOARD: '§cЛють зевса %s'
+SG_ZEUS_FURY_EVENT_STARTED: '§cЛють зевса'
+SG_ZEUS_FURY_EVENT_DESC: '§7Затисніть клавішу SHIFT, або він покарає вас...'
+SG_ZEUS_FURY_EVENT_REWARD: '§6Лють зевса §8| §fВітаємо! Ви вижили та отримали §a%s §fмонет'
+ZEUS_FURY_WARN: '§cНе вставайте, або помрете!' 
+SW_BOARD_NEXT_EVENT: 'Наступна подія:'
+SKYWARS_END_EFFECTS_EVENT: '§cФінал гри (III) '
+SKYWARS_END_EFFECTS_EVENT_TITLE: '§cФінал гри'
+SKYWARS_END_EFFECTS_EVENT_SUBTITLE: '§7Гра буде закінчена через хвилину'
+SKYWARS_LIGHTNING_EVENT: '§cФінал гри (II) '
+SKYWARS_LIGHTNING_EVENT_TITLE: '§cЯрість зевса'
+SKYWARS_LIGHTNING_EVENT_SUBTITLE: '§7До кінця залишилось 3 хвилини, уникайте блискавок...'
+SKYWARS_TNTRAIN_EVENT: '§cФінал гри '
+SKYWARS_TNTRAIN_EVENT_TITLE: '§cДощ із TNT'
+SKYWARS_TNTRAIN_EVENT_SUBTITLE: '§7Над головами гравців з`являється динаміт, остерігайтеся!'
+SKYWARS_GAME_END_EVENT: '§cКінець '
+SW_GAME_ENDED: 'Гра буде завершена. Переможцем стає випадкова команда...'
+SKYWARS_GLOWING_EVENT: '§aСвітіння гравців '
+SKYWARS_GLOWING_EVENT_STARTED: '§eУсі гравці отримали ефект світіння'
+SKYWARS_SPEED_EVENT: '§aПрискорення '
+SKYWARS_SPEED_EVENT_STARTED: '§aУсі гравці отримали ефект швидкості %s'
+SKYWARS_SPEED_EVENT_ADDITIONAL_SPEED: '§6SkyWars §8| §fВи отримали ефект швидкості §a%s§f, поскільки обрали перк §aСонік'
+SKYWARS_LOOT_EVENT: '§aОновлення луту '
+SKYWARS_LOOT_EVENT_STARTED: '§aЛут в скринях на центрі мапи був обновлений'
+SW_BOARD_KILLS: 'Вбивств: §a'
+SW_TEAMS_ALIVE: 'Команд: §a'
+SW_PLAYERS_ALIVE: 'Гравців: §a' 
+NOT_PIAR: '; §cℹ Рекламувати канали можуть тільки гравці з прівілегією §f[§6YouTube§f]; '
+NOT_DOMAIN_PIAR: '; §cℹ У нас заборонено рекламувати сайти та сторонні ресурси; '
+HIDER_COOLDOWN: '§cГодинник перегрівся, залишилось %s до охолодження...'
+HIDER_ENABLE_NAME: '§aПоказати гравців'
+HIDER_ENABLE_LORE:
+- '§7Використовуйте цей предмет,'
+- '§7щоб показати гравців'
+HIDER_DISABLE_NAME: '§cПриховати гравців'
+HIDER_DISABLE_LORE:
+- '§7Використовуйте цей предмет,'
+- '§7щоб приховати гравціва'
+TITLE_JOIN_LOBBY: '§7Наш Discord: §6vk.cc/a5Kq7y2'
+SUBTITLE_JOIN_LOBBY: '§7Фан-група: §cvk.com/memeslc'
+ALREADY_ON_SERVER: '§6Сервер §8| §cВи вже знаходитесь на цьому сервері!'
+PROMO_ITEM_NAME: '§aЗНИЖКИ!'
+REWARD_FOR_HIGHER_VERSION: ' §6+5 монет (гра на 1.12 або вище)'
+PLAY_FORMAT: '/play <гра>'
+THANKS_FOR_MARKING_MAP:
+- '§aДякуємо за Ваш голос за мапу %s§f!'
+YOU_DIED_CLICK_TO_VOTE: '%s§fОцініть мапу, на якій Ви грали: '
+CLICK_TO_VOTE_THIS: '§fКлікніть, щоб оцінити! Оцінку не можна буде змінити пізніше'
+ACHIEVEMENT_DONE: '§eВиконано'
+ACHIEVEMENT_NO_DONE: '§cНе виконано'
+ACHIEVEMENT_PERCENT: '§7Виконано: §c%s'
+ISLAND_ACHIEVEMENT_NAME: 'Досягнення'
+ISLAND_ACHIEVEMENT_LORE:
+- '§7Список усіх досягнень'
+- '§7на цьому режимі'
+- ' '
+- '§7Виконано: §f%s§7/§c%s'
+- ' '
+- ' §e▸ Натисніть, щоб відкрити список'
+ISLAND_ACHIEVEMENT_GUI_NAME: 'Налаштування острову ▸ Досягнення'
+ISLAND_GENERATOR_GUI_NAME: 'Генератори'
+ISLAND_GENERATOR_GUI_LORE:
+- ''
+- '§7Поліпшення стандартного'
+- '§7генератору кругляка'
+- '§7на вашому острові'
+- ''
+- '§7Активний генератор:'
+- ' §f%s'
+- ''
+- ' §e▸ Натисніть, щоб відкрити меню'
+ISLAND_GENERATOR_LORE_PRICE:
+- '§7Ціна: §e%s'
+- '§cДаний генератор вам не доступний!'
+- ''
+- ' §e▸ Натисніть, щоб купити генератор'
+ISLAND_GENERATOR_LORE_ENABLE: ' §e▸ Натисніть, щоб активувати генератор'
+ISLAND_GENERATOR_LORE_ENABLED: '§fДаний генератор все активований'
+ISLAND_BUY_GENERATOR: '§6SkyBlock §8| §fГравцеь %s §fкупив генератор §a%s §fдля вашого острову за §a%s §f%s'
+ISLAND_CHANGE_GENERATOR: '§6SkyBlock §8| §fГравцеь %s §fзмінив активний генератор на §a%s'
+ISLAND_DEFAULT_GENERATOR_NAME: 'Стандартний'
+ISLAND_DEFAULT_GENERATOR_LORE:
+- '§8 • §7100% кругляк'
+ISLAND_FIRST_GENERATOR_NAME: 'Ресурси'
+ISLAND_FIRST_GENERATOR_LORE:
+- '§8 • §72% пісок'
+- '§8 • §72% гравий'
+- '§8 • §72% земля'
+- '§8 • §71% глина'
+- '§8 • §793% кругляк'
+ISLAND_SECOND_GENERATOR_NAME: 'Вугільний'
+ISLAND_SECOND_GENERATOR_LORE:
+- '§8 • §73% вугільна руда'
+- '§8 • §71% Залізна руда'
+- '§8 • §796% кругляк'
+ISLAND_THIRD_GENERATOR_NAME: 'Золотий'
+ISLAND_THIRD_GENERATOR_LORE:
+- '§8 • §71% залізна руда'
+- '§8 • §73% золота руда'
+- '§8 • §72% редстоун'
+- '§8 • §795% кругляк'
+ISLAND_FOURTH_GENERATOR_NAME: 'Алмазний'
+ISLAND_FOURTH_GENERATOR_LORE:
+- '§8 • §73% золота руда'
+- '§8 • §71% алмазна руда'
+- '§8 • §796% кругляк'
+ISLAND_FIFTH_GENERATOR_NAME: 'Емеральдовий'
+ISLAND_FIFTH_GENERATOR_LORE:
+- '§8 • §75% лазуритова руда'
+- '§8 • §74% редстоун'
+- '§8 • §71% смарагдова руда'
+- '§8 • §790% кругляк'
+ACHIEVEMENT_COMPLETE: '§a§l§kX§r §6§lАЧІВКА ВИКОНАНА §a§l§kX§r'
+INVENTORY_IS_FULL: '§cПомилка, ваш інвентар заповнений'
+ISLAND_ACHIEVEMENT_START_NAME: 'Старт'
+ISLAND_ACHIEVEMENT_START_LORE:
+- '§7Створити острів 1-й раз'
+ISLAND_ACHIEVEMENT_RESTART_NAME: 'Перестворити'
+ISLAND_ACHIEVEMENT_RESTART_LORE:
+- '§7Перестворити свій острів'
+ISLAND_ACHIEVEMENT_CRAFT_NAME: 'Скрафтити предмети'
+ISLAND_ACHIEVEMENT_COBBLE_WALL_LORE:
+- '§8 • §7Стіна з кругляка §fх24'
+ISLAND_ACHIEVEMENT_TORCH_LORE:
+- '§8 • §7Факели §fх30'
+ISLAND_ACHIEVEMENT_SMOOTH_BRICK_LORE:
+- '§8 • §7Кам`яної цегли §fх64'
+ISLAND_ACHIEVEMENT_ARMOR_STAND_LORE:
+- '§8 • §7Стійок для броні §fх10'
+ISLAND_ACHIEVEMENT_WOOD_STAIRS_LORE:
+- '§8 • §7Дубових драбин §fх20'
+ISLAND_ACHIEVEMENT_WOOD_STEP_LORE:
+- '§8 • §7Дерев`янних плит §fх20'
+ISLAND_ACHIEVEMENT_SIGN_LORE:
+- '§8 • §7Табличок §fх10'
+ISLAND_ACHIEVEMENT_LEVER_LORE:
+- '§8 • §7Важелів §fх10'
+ISLAND_ACHIEVEMENT_WOOD_PLATE_LORE:
+- '§8 • §7Дерев`янних напірних пластин §fх10'
+ISLAND_ACHIEVEMENT_STONE_PLATE_LORE:
+- '§8 • §7Кам`яних напірних пластин §fх10'
+ISLAND_ACHIEVEMENT_WOOD_BUTTON_LORE:
+- '§8 • §7Дерев`яних кнопок §fх10'
+ISLAND_ACHIEVEMENT_STONE_BUTTON_LORE:
+- '§8 • §7Кам`яних кнопок §fх10'
+ISLAND_ACHIEVEMENT_FERMENTED_SPIDER_EYE_LORE:
+- '§8 • §7Ферментованих очей павуків §fх10'
+ISLAND_ACHIEVEMENT_PAINTING_LORE:
+- '§8 • §7Картини §fх10'
+ISLAND_ACHIEVEMENT_CARROT_STICK_LORE:
+- '§8 • §7Вудку з морквою §fх1'
+ISLAND_ACHIEVEMENT_BREAD_LORE:
+- '§8 • §7Хліба §fх10'
+ISLAND_ACHIEVEMENT_HAY_BLOCK_LORE:
+- '§8 • §7Блоків сіна §fх30'
+ISLAND_ACHIEVEMENT_REDSTONE_LAMP_OFF_LORE:
+- '§8 • §7Редстоун ламп §fх10'
+ISLAND_ACHIEVEMENT_PUMPKIN_PIE_LORE:
+- '§8 • §7Гарбузових пирогів §fх8'
+ISLAND_ACHIEVEMENT_BEETROOT_SOUP_LORE:
+- '§8 • §7Бурякових супів §fх10'
+ISLAND_ACHIEVEMENT_BRICK_LORE:
+- '§8 • §7Блоків з червоної цегли §fх64'
+ISLAND_ACHIEVEMENT_LAPIS_BLOCK_LORE:
+- '§8 • §7Лазуритових блоків §fх64'
+ISLAND_ACHIEVEMENT_CONCRETE_POWDER_LORE:
+- '§8 • §7Цементу §fх8'
+ISLAND_ACHIEVEMENT_DIODE_LORE:
+- '§8 • §7Повторювачів §fх32'
+ISLAND_ACHIEVEMENT_PISTON_BASE_LORE:
+- '§8 • §7Поршнів §fх10'
+ISLAND_ACHIEVEMENT_COMPASS_LORE:
+- '§8 • §7Компасів §fх5'
+ISLAND_ACHIEVEMENT_TNT_LORE:
+- '§8 • §7TNT §fх10'
+ISLAND_ACHIEVEMENT_QUARTZ_BLOCK_LORE:
+- '§8 • §7Кварцових блоків §fх64'
+ISLAND_ACHIEVEMENT_REDSTONE_COMPARATOR_LORE:
+- '§8 • §7Компараторів §fх24'
+ISLAND_ACHIEVEMENT_BEACON_LORE:
+- '§8 • §7Маяк §fх1'
+ISLAND_ACHIEVEMENT_SLIME_BLOCK_LORE:
+- '§8 • §7Слаймовий блок §fх1'
+ISLAND_ACHIEVEMENT_EMPTY_MAP_LORE:
+- '§8 • §7Порожніх мап §fх10'
+ISLAND_ACHIEVEMENT_ENCHANTMENT_TABLE_LORE:
+- '§8 • §7Стіл зачаровання §fх1'
+ISLAND_ACHIEVEMENT_BOOKSHELF_LORE:
+- '§8 • §7Книжкових полиць §fх32'
+ISLAND_ACHIEVEMENT_BONE_BLOCK_LORE:
+- '§8 • §7Кістяних блоків §fх20'
+ISLAND_ACHIEVEMENT_FURNACE_LORE:
+- '§8 • §7Пічь §fх1'
+ISLAND_ACHIEVEMENT_GOLDEN_APPLE_LORE:
+- '§8 • §7Золоте яблоко §fх1'
+ISLAND_ACHIEVEMENT_BREAK_NAME: 'Зламати блоки'
+ISLAND_ACHIEVEMENT_OBSIDIAN_LORE:
+- '§8 • §7Обсидіан §fх32'
+ISLAND_ACHIEVEMENT_FURNACE_NAME: 'Переплавити'
+ISLAND_ACHIEVEMENT_GLASS_LORE:
+- '§8 • §7Скло §fх32'
+ISLAND_ACHIEVEMENT_GOLD_INGOT_LORE:
+- '§8 • §7Золотих злитків §fх64'
+ISLAND_ACHIEVEMENT_IRON_INGOT_LORE:
+- '§8 • §7Залізних злитків §fх64'
+ISLAND_ACHIEVEMENT_BAKED_POTATO_LORE:
+- '§8 • §7Картоплі §fх32'
+ISLAND_ACHIEVEMENT_GENERATOR_NAME: 'Створити генератор'
+ISLAND_ACHIEVEMENT_GENERATOR_LORE:
+- '§7Побудуйте генератор кругляка'
+- '§7та добудьте кругляк'
+ISLAND_ACHIEVEMENT_BREED_NAME: 'Розмножте' 
+ISLAND_ACHIEVEMENT_COW_LORE:
+- '§8 • §7Коров §fх2'
+ISLAND_ACHIEVEMENT_SHEEP_LORE:
+- '§8 • §7Овець §fх2'
+ISLAND_ACHIEVEMENT_CHICKEN_LORE:
+- '§8 • §7Курок §fх2'
+ISLAND_ACHIEVEMENT_PIG_LORE:
+- '§8 • §7Свиней §fх2'
+LOBBY_SETTINGS_UNAVAILABLE:
+- ''
+- '§cНедоступно!'
+- '§7Доступно від %s §7та вище'
+LOBBY_SETTINGS_BLOOD_NAME: 'Кров'
+LOBBY_SETTINGS_BLOOD_LORE:
+- '§7Дозволяє увімкнути або вимкнути'
+- '§7кров під час гри'
+LOBBY_SETTINGS_FLY_NAME: 'Політ'
+LOBBY_SETTINGS_FLY_LORE:
+- '§7Дозволяє увімкнути або вимкнути'
+- '§7політ в головному лоббі та в лоббі'
+- '§7очікування старту гри'
+LOBBY_SETTINGS_HIDER_NAME: 'Приховування гравців'
+LOBBY_SETTINGS_HIDER_LORE:
+- '§7Дозволяє увімкнути або вимкнути'
+- '§7приховування гравців в лоббі'
+LOBBY_SETTINGS_CHAT_NAME: 'Чат'
+LOBBY_SETTINGS_CHAT_LORE:
+- '§7Дозволяє увімкнути або вимкнути'
+- '§7можливість писати або читати чат'
+LOBBY_SETTINGS_MUSIC_NAME: 'Музика'
+LOBBY_SETTINGS_MUSIC_LORE:
+- '§7Дозволяє увімкнути або вимкнути'
+- '§7музику в лоббі очікування'
+- '§7до старта игри' 
+LOBBY_SETTINGS_BOARD_NAME: 'Скорборд'
+LOBBY_SETTINGS_BOARD_LORE:
+- '§7Дозволяє увімкнути або вимкнути'
+- '§7відображення скорбордів справа'
+- '§7у всіх лоббі'
+LOBBY_SETTINGS_HOLOCHAT_NAME: 'Чат голограма'
+LOBBY_SETTINGS_HOLOCHAT_LORE:
+- '§7Дозволяє увімкнути або вимкнути'
+- '§7відображення голограми над гравцем,'
+- '§7яка містить те, що він написав'
+LOBBY_SETTINGS_PRIVATE_MESSAGE_NAME: 'Особисті повідомлення'
+LOBBY_SETTINGS_PRIVATE_MESSAGE_LORE:
+- '§7Дозволяє увімкнути або вимкнути'
+- '§7особисті повідомлення'
+- ''
+- '§cУВАГА! §7Ваші друзі все одно'
+- '§7зможуть вам писати, навіть якщо ви'
+- '§7вимкните особисті повідомлення'
+LOBBY_SETTINGS_FRIENDS_REQUEST_NAME: 'Запрошення в друзі'
+LOBBY_SETTINGS_FRIENDS_REQUEST_LORE:
+- '§7Дозволяє увімкнути або вимкнути'
+- '§7можливість приймати запити'
+- '§7на дружбу'
+LOBBY_SETTINGS_PARTY_REQUEST_NAME: 'Запрошення в Party'
+LOBBY_SETTINGS_PARTY_REQUEST_LORE:
+- '§7Дозволяє увімкнути або вимкнути'
+- '§7можливість запрошувати вас в Party'
+- ''
+- '§cУВАГА! §7Ваші друзі все одно'
+- '§7зможуть вас запросити'
+LOBBY_SETTINGS_GUILD_REQUEST_NAME: 'Запрошення в гільдії'
+LOBBY_SETTINGS_GUILD_REQUEST_LORE:
+- '§7Дозволяє увімкнути або вимкнути'
+- '§7можливість запрошувати вас в гильдії'
+LOBBY_SETTINGS_DONATE_CHAT_NAME: 'Чат донатерів'
+LOBBY_SETTINGS_DONATE_CHAT_LORE:
+- '§7Дозволяє увімкнути або вимкнути'
+- '§7чат донатерів §f/dc'
+- '§7через весь сервер'
+LOBBY_SERVER_NOT_FOUND_NAME: '§cНемає запущених серверів'
+LOBBY_SERVER_NOT_FOUND_LORE:
+- '§7На даний момент немає'
+- '§7ні одного сервера, де'
+- '§7йде гра'
+LOBBY_SERVER_SPECTATE_LORE:
+- '§7Мапа: §b%s'
+- '§7Онлайн: §a%s§7/§c%s'
+- ''
+- '§e§e▸ Натисніть, щоб спостерігати за грою'
+ISLAND_FLAG_ENTITY_GRIF_NAME: 'Гріферство мобів'
+ISLAND_FLAG_ENTITY_GRIF_LORE:
+- ''
+- '§7Якщо набридливі моби'
+- '§7постійно крадуть блоки,'
+- '§7то даний прапор вирішить'
+- '§7усі ваші проблеми'
+AVAILABLE_SERVER_NOT_FOUND: '§6Сервер §8| §fНе вдалося знайти відповідний сервер'
+LOBBY_SPECTATE_GUI_NAME: 'Спостереження за грою'
+LOBBY_CHANNEL_GUI_NAME: 'Вибір мапи %s'
+LOBBY_CHANNEL_MAP_LORE:
+- '§7Всього арен: §c%s'
+- '§7Вільних арен: §c%s'
+LOBBY_CHANNEL_GUI_NO_SERVERS:
+- '§cПомилка, не можу знайти'
+- '§cвідповідні сервери'
+LOBBY_CHANNEL_BEST_SERVER_NAME: '§eКращий сервер'
+LOBBY_CHANNEL_BEST_SERVER_LORE:
+- '§7Вибір самого оптимального'
+- '§7серверу для гри'
+- ''
+- '§e§e▸ Натисніть, щоб знайти сервер'
+LOBBY_DISABLED_MESSAGE_TO_CHAT: '§cПомилка, ви не можете писати в чат, так як ви його вимкнули!' 
+FFAST_MESSAGE_GO: 'Гоу'
+FAST_MESSAGE_SLEEP: 'Засинаю'
+FAST_MESSAGE_CAPITULATE: 'Здаюся'
+FAST_MESSAGE_MAJOR: 'Мажор'
+FAST_MESSAGE_ENRAGES: 'Горить'
+FAST_MESSAGE_HELLO: 'Привіт'
+FAST_MESSAGE_GOODBYE: 'До зустрічі'
+FAST_MESSAGE_HUGGING: 'Обіймаю'
+FAST_MESSAGE_SAD: 'Сумую'
+FAST_MESSAGE_JEEZ: 'Огооо'
+FAST_MESSAGE_WHY: 'Щоо?'
+FAST_MESSAGE_ACCESSIBLY: 'Ясно'
+FAST_MESSAGE_DONT_STUPID: 'Не тупи'
+FAST_MESSAGE_NICELY: 'Мило'
+FAST_MESSAGE_OFFENSIVELY: 'Прикро'
+FAST_MESSAGE_WTF: 'ВТФ???'
+FAST_MESSAGE_KILLED: 'Вбитий'
+FAST_MESSAGE_DANCING: 'Танцюю'
+FAST_MESSAGE_XZ: 'Хз'
+FAST_MESSAGE_EATING: 'Їм'
+FAST_MESSAGE_GO_AWAY: 'Пішов геть'
+FAST_MESSAGE_MUSIC: 'Слухаю музику'
+FAST_MESSAGE_FUCK: 'ФАК Ю'
+FAST_MESSAGE_WOW: 'Вау, кльово'
+FAST_MESSAGE_LOVE: 'Кохаю'
+FAST_MESSAGE_LAGS: 'Лагає'
+FAST_MESSAGE_EASY: 'ІЗІ'
+FAST_MESSAGE_GIVE_RESOURCES: 'Дай ресів'
+FAST_MESSAGE_LORE1: '§7Повідомлення: §a%s'
+FAST_MESSAGE_LORE2:
+- ''
+- '§e▸ Натисніть, щоб відправити повідомлення'
+PROFILE_MAIN_ITEM_COSMETIC_NAME: 'Магазин ефектів'
+PROFILE_MAIN_ITEM_COSMETIC_LORE:
+- '§7Дозволяє купити та активувати'
+- '§7різні косметичні покращення:'
+- '§fПередсмертний хрип§7, §fЕфект польоту стріл§7,'
+- '§fЕфект вбивства§7, §fЕфект переможця§7 і т.д.'
+- '§7'
+- '§cУВАГА! Усі ефекти будуть'
+- '§cпрацювати на всіх аренах та іграх!'
+- ''
+- '§e▸ Відкрити меню покращень'
+DONATE_MENU_JOIN_MESSAGE_NAME: 'Повідомлення при вході'
+DONATE_MENU_JOIN_MESSAGE_LORE:
+- '§7Встановити кастомне повідомлення'
+- '§7вашого входу на сервер'
+- ''
+- '§7Доступно для §e§lGOLD §7та вище!'
+- ''
+- '§e▸ Натисніть, щоб відкрити меню'
+JOIN_MESSAGE_NAME: 'Повідомлення %s'
+JOIN_MESSAGE_LORE:
+- '§7Встановити кастомне сповіщення'
+- '§7для всіх гравців о вашому вході на сервер'
+- ''
+- '§7Сповіщення для гравців:'
+- '%s'
+JOIN_MESSAGE_LORE_SELECT: '§aПовідомлення обрано'
+JOIN_MESSAGE_LORE_NOT_SELECT: '§e▸ Натисніть, щоб обрати'
+JOIN_MESSAGE_LORE_NOT_AVAILABLE: '§cДане повідомлення вам не доступно'
+LIMBO_NO_CHAT: '§6Сервер §8| §fВибачте, але ви не можете писати в §aчат§f. Повернутися в головне лоббі §7/hub §fабо §7/lobby'
+LIMBO_ITEM_NAME: 'Назад в головне лоббі'
+LIMBO_ITEM_LORE:
+- '§7Використовуйте цей предмет,'
+- '§7щоб повернутися в головне лоббі'
+GADGET_HAT_ON_PLAYER: 'Капелюх'
+GADGET_BANNER_ON_PLAYER: 'Банер'
+GADGET_EMOTE_ON_PLAYER: 'Емоція'
+GADGET_CLICK_TO_USE_LORE:
+- '§7Натисніть ПКМ, щоб активувати гаджет'
+GADGET_FAVORITE_CLEAR_NAME: '§cОчистити обране'
+GADGET_FAVORITE_CLEAR_LORE:
+- '§7Натисніть, щоб прибрати всі'
+- '§7гаджети з обраного'
+GADGET_FAVORITE_NAME: '§aОбране'
+GADGET_FAVORITE_LORE:
+- '§7Меню обраного - це меню для'
+- '§7швидкого запуску будь-якого гаджету,'
+- '§7який ви зможете налаштувати під себе.'
+- '§7'
+- '§7Щоб додати предмет в обране,'
+- '§7натисніть §cПКМ §7по іконці бажаного гаджету'
+GADGET_SETTING_SHOW_MORPH_NAME: '§eПеревтілення'
+GADGET_SETTING_SHOW_MORPH_LORE:
+- '§7Активуйте дану опцію,'
+- '§7якщо хочете бачити себе'
+- '§7як моба'
+GADGET_ALREADY_HAVE: '§fУ вас вже є даний гаджет, ви отримали §6+%s %s'
+GADGET_HAT_TYPE: 'Капелюх'
+GADGET_PETS_TYPE: 'Вихованець'
+GADGET_COMPANION_TYPE: 'Компаньон'
+GADGET_EFFECT_TYPE: 'Ефект'
+GADGET_BANNERS_TYPE: 'Банер'
+GADGET_SPIRITS_TYPE: 'Дух'
+GADGET_GADGETS_TYPE: 'Механізм'
+GADGET_MORPH_TYPE: 'Перевтілення'
+GADGET_EMOTES_TYPE: 'Емоція'
+GADGET_MAIN_GUI_NAME: 'Гаджети'
+GADGET_SEARCH_GUI_NAME: 'Пошук'
+GADGET_SETTINGS_GUI_NAME: 'Налаштування'
+GADGET_SETTINGS_GUI_LORE:
+- '§7Персональні налаштування для'
+- '§7кастомізації гаджетів під'
+- '§7кожного гравця'
+- ''
+- '§e▸ Натисніть, щоб відкрити меню'
+GADGET_DELETED_GUI_NAME: 'Відключення гаджетів'
+GADGET_DELETED_NOT_FOUND: 'Немає активних гаджетів'
+GADGET_DELETED_ALL: 'Відключити усі Гаджети'
+GADGET_DELETED_GUI_LORE:
+- ''
+- '§7Список активних гаджетів'
+- ''
+- '§e▸ Натисніть, щоб відкрити меню'
+GADGETS_GUI_INFO_NAME: '§aЗагальна статистика'
+GADGETS_GUI_INFO_LORE1: '§7Типи гаджетів:'
+GADGETS_GUI_INFO_LORE2:
+- '§7Відкрито гаджетів: §a%s'
+- '§8• %s §6%s'
+GADGETS_NOT_ACTIVATED: '§cНе обрано'
+GADGETS_GUI_HAT_NAME: 'Капелюхи'
+GADGETS_GUI_HAT_LORE:
+- ''
+- '§7Тут ви можете кращі капелюхи'
+- '§7з гардеробу Ластика! Ні, ні,'
+- '§7дістати кролика з капелюха ви'
+- '§7не зможете.'
+- ''
+- '§7Відкрито: §a%s/%s §6%s'
+- '§7Активований капелюх:'
+- '%s'
+- ''
+- '§e▸ Натисніть, щоб відкрити меню'
+GADGETS_GUI_EFFECT_NAME: 'Ефекти'
+GADGETS_GUI_EFFECT_LORE:
+- ''
+- '§7Хочете бути ефектним у всіх сенсах'
+- '§7цього слова? Будь ласка, вам сюди!'
+- ''
+- '§7Відкрито: §a%s/%s §6%s'
+- '§7Активований ефект:'
+- '%s'
+- ''
+- '§e▸ Натисніть, щоб відкрити меню'
+GADGETS_GUI_BANNERS_NAME: 'Банери'
+GADGETS_GUI_BANNERS_LORE:
+- ''
+- '§7Різні прапори та гарні картинки'
+- '§7які ви можете одягти в якості'
+- '§7головного убору.'
+- ''
+- '§7Відкрито: §a%s/%s §6%s'
+- '§7Активований банер:'
+- '%s'
+- ''
+- '§e▸ Натисніть, щоб відкрити меню'
+GADGETS_GUI_SPIRITS_NAME: 'Духи'
+GADGETS_GUI_SPIRITS_LORE:
+- ''
+- '§7Ваш вірний товариш, який'
+- '§7буде ходити з вами, поки ви живі.'
+- '§7Відчуй себе Королем Шаманів!'
+- ''
+- '§7Відкрито: §a%s/%s §6%s'
+- '§7Активований дух:'
+- '%s'
+- ''
+- '§e▸ Натисніть, щоб відкрити меню'
+GADGETS_GUI_EMOTES_NAME: 'Емоції'
+GADGETS_GUI_EMOTES_LORE:
+- ''
+- '§7Хочете описати свої почуття, але не'
+- '§7вистачає слів? Вони й не потрібні, коли'
+- '§7є наші емоції!'
+- ''
+- '§7Відкрито: §a%s/%s §6%s'
+- '§7Активована емоція:'
+- '%s'
+- ''
+- '§e▸ Натисніть, щоб відкрити меню'
+GADGETS_GUI_COMPANION_NAME: 'Компаньони'
+GADGETS_GUI_COMPANION_LORE:
+- ''
+- '§7У цьому розділі є маленькі та милі'
+- '§7створіння, які припадуть вам по душі!'
+- '§7Тільки не тримайте їх у клітках.'
+- ''
+- '§7Відкрито: §a%s/%s §6%s'
+- '§7Активований компаньон:'
+- '%s'
+- ''
+- '§e▸ Натисніть, щоб відкрити меню'
+GADGETS_GUI_MORPH_NAME: 'Перевтілення'
+GADGETS_GUI_MORPH_LORE:
+- ''
+- '§7Випробуйте на собі долю різних'
+- '§7істот! Будь то котик, крипер, чи'
+- '§7котик, чи зомбі. Ні, але краще все'
+- '§7ж котик. Він милашка :3'
+- ''
+- '§7Відкрито: §a%s/%s §6%s'
+- '§7Активоване перевтілення:'
+- '%s'
+- ''
+- '§e▸ Натисніть, щоб відкрити меню'
+GADGETS_GUI_PETS_NAME: 'Вихованці'
+GADGETS_GUI_PETS_LORE:
+- ''
+- '§7Давно хотіли собі ручного улюбленця?'
+- '§7Тоді вам сюди! Ви тільки подивіться'
+- '§7на цього крипера, у-тю-тю.'
+- ''
+- '§7Відкрито: §a%s/%s §6%s'
+- '§7Активований вихованець:'
+- '%s'
+- ''
+- '§e▸ Натисніть, щоб відкрити меню'
+GADGETS_GUI_GADGETS_NAME: 'Механізми'
+GADGETS_GUI_GADGETS_LORE:
+- ''
+- '§7Цікаві предмети для розваги'
+- '§7в лоббі, або кепкування над друзями.'
+- ''
+- '§7Відкрито: §a%s/%s §6%s'
+- '§7Активований механізм:'
+- '%s'
+- ''
+- '§e▸ Натисніть, щоб відкрити меню- '
+GADGETS_HOLIDAY_DEFAULT: '§7Звичайні'
+GADGETS_HOLIDAY_HALLOWEEN: '§6Хеллоуїнські'
+GADGETS_HOLIDAY_SUMMER: '§eЛітні'
+GADGETS_HOLIDAY_NEW_YEARS: '§cНоворічні'
+GADGETS_HOLIDAY_AVAILABLE: '§7Доступний в %s §7свята'
+GADGETS_CAN_AVAILABLE: 'Можна отримати:'
+GADGETS_GIVE_MONEY: '§7Ціна: §6%s монет'
+GADGETS_GIVE_DONATE: '§7Від привілегії %s §7та вище'
+GADGETS_GIVE_DONATE_ONLY: '§7Безкоштовно для %s'
+GADGETS_GIVE_GOLD: '§7Ціна: §e%s §7золота'
+GADGETS_GIVE_BOX: '§7Випадає зі §bСкрині удачі §7(%s§7)'
+GADGETS_GIVE_LEVEL: '§7При досягнені §d%s §7рівня'
+GADGETS_GIVE_SITE: '§7Купити на сайті §blast-craft.com'
+GADGETS_NO_USE: '§cДаний гаджет вам недоступний'
+GADGETS_FAVORITE_ADD: '§aПКМ, щоб додати в обране'
+GADGETS_FAVORITE_REMOVE: '§cПКМ, щоб прибрати з обраного'
+GADGETS_ENABLE_LORE: '§e► Натисніть, щоб активувати гаджет'
+GADGETS_DISABLE_LORE: '§c► Натисніть, щоб деактивувати гаджет'
+GADGETS_0_NAME: 'Залізний шолом'
+GADGETS_0_LORE:
+- '§7По логіці, він має'
+- '§7бути доступний з Iron :/'
+GADGETS_1_NAME: 'Золотий шолом'
+GADGETS_1_LORE:
+- '§7Шолом золотий, від Gold`а.'
+- '§7Логічно? Логічно!'
+GADGETS_2_NAME: 'Алмазний шолом'
+GADGETS_2_LORE:
+- '§7Не менш логічний предмет- '
+GADGETS_3_NAME: 'Земна куля'
+GADGETS_3_LORE:
+- '§7Ні! Це не прищ на обличчі, це вулкан,'
+- '§7і ти його мало не возбудив'
+GADGETS_4_NAME: 'Марс'
+GADGETS_4_LORE:
+- '§7Ні, ви не шоколадка'
+GADGETS_5_NAME: 'Джейк'
+GADGETS_5_LORE:
+- '§7- Чи не підкажете, котра година?'
+- '§7- Час пригод, братику!'
+GADGETS_6_NAME: 'Кактус'
+GADGETS_6_LORE:
+- '§7Здається, вам пора бритися ._.'
+GADGETS_7_NAME: 'Протигаз'
+GADGETS_7_LORE:
+- '§7Остання ложка горохового супу'
+- '§7була зайвою'
+GADGETS_8_NAME: 'Клоун'
+GADGETS_8_LORE:
+- '§7Минуло 15 років, '
+- '§7а я до сих пір їх боюся'
+GADGETS_9_NAME: 'Франкенштейн'
+GADGETS_9_LORE:
+- '§7It`s alive!'
+GADGETS_10_NAME: 'Пірат'
+GADGETS_10_LORE:
+- '§7Хтооооо.... '
+- '§7Хто мешкає на дні океану?!'
+GADGETS_11_NAME: 'Горила'
+GADGETS_11_LORE:
+- '§7Це маска спецназівця.'
+- '§7А тепер спробуйте розбачити.'
+GADGETS_12_NAME: 'Монітор'
+GADGETS_12_LORE:
+- '§7Ми вбудували вам монітор в монітор,'
+- '§7щоб ви могли дивитись на монітор, '
+- '§7поки дивитись на монітор.'
+GADGETS_13_NAME: 'Відро'
+GADGETS_13_LORE:
+- '§7Не будьте відром!'
+- '§7За допомогою вас буде легко злити.'
+GADGETS_14_NAME: 'Скелет'
+GADGETS_14_LORE:
+- '§7Це як дежа вю, тільки двічі!'
+GADGETS_15_NAME: 'Гарбуз'
+GADGETS_15_LORE:
+- '§7"Оо, гарбуз, обожнюю гарб...'
+- '§7Аааа, що це, рятуйте!"'
+GADGETS_16_NAME: 'Анонімус'
+GADGETS_16_LORE:
+- '§7Для тих, хто хоче вирахувати чітера по IP'
+GADGETS_17_NAME: 'Youtube'
+GADGETS_17_LORE:
+- '§7"Чому ви на меня так дивитись,'
+- '§7ніби на лиці стрім йде!?"'
+GADGETS_18_NAME: 'Золотий Стів'
+GADGETS_18_LORE:
+- '§7Я тобі не на зубок!'
+GADGETS_19_NAME: 'Алмазний Стів'
+GADGETS_19_LORE:
+- '§7І я тобі не на зубок!'
+GADGETS_20_NAME: 'Смарагдовий Стів'
+GADGETS_20_LORE:
+- '§7А я тобі вже й поготів)'
+GADGETS_21_NAME: 'Крипер'
+GADGETS_21_LORE:
+- '§7Для тих,'
+- '§7у кого ВИБУХОВИЙ характер!'
+GADGETS_22_NAME: 'Зомбі'
+GADGETS_22_LORE:
+- '§7"Чувак, скільки ти сьогодні спав?"'
+GADGETS_23_NAME: 'Скелет'
+GADGETS_23_LORE:
+- '§7Це як дежа вю, тілько двічі!'
+GADGETS_24_NAME: 'Висушувач'
+GADGETS_24_LORE:
+- '§7Коли ти в останній раз їв?'
+GADGETS_25_NAME: 'Кораловий шолом'
+GADGETS_25_LORE:
+- '§7Карл у Клари вкрав Кораловий шолом.'
+- '§7Тепер він ваш.'
+GADGETS_26_NAME: 'Голубий шолом'
+GADGETS_26_LORE:
+- '§7Ну, ви зрозуміли...)'
+GADGETS_27_NAME: 'Салатовий шолом'
+GADGETS_27_LORE:
+- '§7Просто зелений шолом,'
+- '§7йди далі крч.'
+GADGETS_28_NAME: 'Біле скло'
+GADGETS_28_LORE:
+- '§7Просто якесь скло'
+GADGETS_29_NAME: 'Помаранчеве скло'
+GADGETS_29_LORE:
+- '§7Просто якесь скло знову'
+GADGETS_30_NAME: 'Фіолетове скло'
+GADGETS_30_LORE:
+- '§7І знову скло'
+GADGETS_31_NAME: 'Блакитне скло'
+GADGETS_31_LORE:
+- '§7Соррі, я все ще тут'
+GADGETS_32_NAME: 'Жовте скло'
+GADGETS_32_LORE:
+- '§7Ну... Ви зрозуміли...'
+GADGETS_33_NAME: 'Зелене скло'
+GADGETS_33_LORE:
+- '§7скло!!!!'
+GADGETS_34_NAME: 'Рожеве скло'
+GADGETS_34_LORE:
+- '§7Псс, хлопець, скло не потрібно?'
+GADGETS_35_NAME: 'Пурпурне скло'
+GADGETS_35_LORE:
+- '§7Колір лорда(хто шарить, той зрозуміє)'
+GADGETS_36_NAME: 'Синє скло'
+GADGETS_36_LORE:
+- '§7Мама, мама, я в космосі(ні)'
+GADGETS_37_NAME: 'Червоне скло'
+GADGETS_37_LORE:
+- '§7Ну... Це скло, останнє... точно...'
+GADGETS_38_NAME: 'Футболіст'
+GADGETS_38_LORE:
+- '§7- Де у вас футбольне поле?'
+- '§7- Футбол? Що це? У нас є тільки куробол!'
+GADGETS_39_NAME: 'Індіана Джонс'
+GADGETS_39_LORE:
+- '§7"Цьомі місце в музеї!"'
+GADGETS_40_NAME: 'Смерть'
+GADGETS_40_LORE:
+- '§7"Як коси немає? Що це, мотика?'
+- '§7Гаразд, теж пійде"'
+GADGETS_41_NAME: 'Шрек'
+GADGETS_41_LORE:
+- '§7Кек'
+GADGETS_42_NAME: 'Кіт у чоботях'
+GADGETS_42_LORE:
+- '§7...хоча як ви взнаєте, що є чоботи'
+GADGETS_43_NAME: 'Кавун'
+GADGETS_43_LORE:
+- '§7"Серьога, тебе видно. Досить їсти кавуни!'
+- '§7Зніми його з голови!"'
+GADGETS_44_NAME: 'Собака'
+GADGETS_44_LORE:
+- '§7Хочете подружитися? '
+- '§7Тепер ви кращий друг людини!'
+GADGETS_45_NAME: 'Гамбургер'
+GADGETS_45_LORE:
+- '§7..на ділі це Крабсбургер, но кого це цікваить?'
+GADGETS_46_NAME: 'Пончик'
+GADGETS_46_LORE:
+- '§7Ви шоколадний §mЗаєць§7 §kпончик'
+- '§7Цим все сказано'
+GADGETS_47_NAME: 'Сендвіч'
+GADGETS_47_LORE:
+- '§7Кому взагалі вздумається на голові'
+- '§7носити Сендвіч? Ах, це ви..'
+GADGETS_48_NAME: 'Нідерланди'
+GADGETS_48_LORE:
+- '§7Welcome to Netherlands,'
+- '§7wanna have some drugs?'
+GADGETS_49_NAME: 'Норвегія'
+GADGETS_49_LORE:
+- '§7Не країна, а королівство!'
+GADGETS_50_NAME: 'Швеція'
+GADGETS_50_LORE:
+- '§7Вікінги - це сюди'
+GADGETS_51_NAME: 'Чилі'
+GADGETS_51_LORE:
+- '§7Хто сказав соус "чилі"'
+GADGETS_52_NAME: 'Монако'
+GADGETS_52_LORE:
+- '§7Виставки, змагання ?'
+- '§7Ласкаво Просимо!'
+GADGETS_53_NAME: 'Канада'
+GADGETS_53_LORE:
+- '§7Ми - краща країна по грі'
+- '§7в хокей. І не тільки...'
+GADGETS_54_NAME: 'Росія'
+GADGETS_54_LORE:
+- '§7Путін, горілка, балалайка'
+GADGETS_55_NAME: 'США'
+GADGETS_55_LORE:
+- '§7Готуємо пакет санкцій'
+GADGETS_56_NAME: 'Італія'
+GADGETS_56_LORE:
+- '§7ММММ... Я люблю піцу...'
+GADGETS_57_NAME: 'Англія'
+GADGETS_57_LORE:
+- '§7Will you have a cup of tea'
+GADGETS_58_NAME: 'Германія'
+GADGETS_58_LORE:
+- '§7Гітлер капут!'
+GADGETS_59_NAME: 'Сингапур'
+GADGETS_59_LORE:
+- '§7Всього лише місто, а який...'
+GADGETS_60_NAME: 'Франція'
+GADGETS_60_LORE:
+- '§7Абажур, круассан та манеж'
+- '§7все це є тут!'
+GADGETS_61_NAME: 'Іспанія'
+GADGETS_61_LORE:
+- '§7Краші вина в нас'
+GADGETS_62_NAME: 'Літера А'
+GADGETS_62_LORE:
+- '§7Просто Літера A'
+GADGETS_63_NAME: 'Літера B'
+GADGETS_63_LORE:
+- '§7Просто Літера B'
+GADGETS_64_NAME: 'Літера C'
+GADGETS_64_LORE:
+- '§7Просто Літера C'
+GADGETS_65_NAME: 'Літера D'
+GADGETS_65_LORE:
+- '§7Просто Літера D'
+GADGETS_66_NAME: 'Літера E'
+GADGETS_66_LORE:
+- '§7Просто Літера E'
+GADGETS_67_NAME: 'Літера F'
+GADGETS_67_LORE:
+- '§7Просто Літера F'
+GADGETS_68_NAME: 'Літера G'
+GADGETS_68_LORE:
+- '§7Просто Літера G'
+GADGETS_69_NAME: 'Літера H'
+GADGETS_69_LORE:
+- '§7Просто Літера H'
+GADGETS_70_NAME: 'Літера I'
+GADGETS_70_LORE:
+- '§7Просто Літера I'
+GADGETS_71_NAME: 'Літера J'
+GADGETS_71_LORE:
+- '§7Просто Літера J'
+GADGETS_72_NAME: 'Літера K'
+GADGETS_72_LORE:
+- '§7Просто Літера K'
+GADGETS_73_NAME: 'Літера L'
+GADGETS_73_LORE:
+- '§7Просто Літера L'
+GADGETS_74_NAME: 'Літера M'
+GADGETS_74_LORE:
+- '§7Просто Літера M'
+GADGETS_75_NAME: 'Літера N'
+GADGETS_75_LORE:
+- '§7Просто Літера N'
+GADGETS_76_NAME: 'Літера O'
+GADGETS_76_LORE:
+- '§7Просто Літера O'
+GADGETS_77_NAME: 'Літера P'
+GADGETS_77_LORE:
+- '§7Просто Літера P'
+GADGETS_78_NAME: 'Літера Q'
+GADGETS_78_LORE:
+- '§7Просто Літера Q'
+GADGETS_79_NAME: 'Літера R'
+GADGETS_79_LORE:
+- '§7Просто Літера R'
+GADGETS_80_NAME: 'Літера S'
+GADGETS_80_LORE:
+- '§7Просто Літера S'
+GADGETS_81_NAME: 'Літера T'
+GADGETS_81_LORE:
+- '§7Просто Літера T'
+GADGETS_82_NAME: 'Літера U'
+GADGETS_82_LORE:
+- '§7Просто Літера U'
+GADGETS_83_NAME: 'Літера V'
+GADGETS_83_LORE:
+- '§7Просто Літера V'
+GADGETS_84_NAME: 'Літера W'
+GADGETS_84_LORE:
+- '§7Просто Літера W'
+GADGETS_85_NAME: 'Літера X'
+GADGETS_85_LORE:
+- '§7Просто Літера X'
+GADGETS_86_NAME: 'Літера Y'
+GADGETS_86_LORE:
+- '§7Просто Літера Y'
+GADGETS_87_NAME: 'Літера Z'
+GADGETS_87_LORE:
+- '§7Просто Літера Z'
+GADGETS_88_NAME: 'Цифра 0'
+GADGETS_88_LORE:
+- '§7Просто цифра 0'
+GADGETS_89_NAME: 'Цифра 1'
+GADGETS_89_LORE:
+- '§7Просто цифра 1'
+GADGETS_90_NAME: 'Цифра 2'
+GADGETS_90_LORE:
+- '§7Просто цифра 2'
+GADGETS_91_NAME: 'Цифра 3'
+GADGETS_91_LORE:
+- '§7Просто цифра 3'
+GADGETS_92_NAME: 'Цифра 4'
+GADGETS_92_LORE:
+- '§7Просто цифра 4'
+GADGETS_93_NAME: 'Цифра 5'
+GADGETS_93_LORE:
+- '§7Просто цифра 5'
+GADGETS_94_NAME: 'Цифра 6'
+GADGETS_94_LORE:
+- '§7Просто цифра 6'
+GADGETS_95_NAME: 'Цифра 7'
+GADGETS_95_LORE:
+- '§7Просто цифра 7'
+GADGETS_96_NAME: 'Цифра 8'
+GADGETS_96_LORE:
+- '§7Просто цифра 8'
+GADGETS_97_NAME: 'Цифра 9'
+GADGETS_97_LORE:
+- '§7Просто цифра 9'
+GADGETS_98_NAME: 'Символ +'
+GADGETS_98_LORE:
+- '§7Просто хрестик, йди далі'
+GADGETS_99_NAME: 'Символ #'
+GADGETS_99_LORE:
+- '§7Використовуеться в наборі номеру...'
+GADGETS_100_NAME: 'Символ ?'
+GADGETS_100_LORE:
+- '§7Ви хотіли щось запитати?'
+GADGETS_101_NAME: 'Символ !'
+GADGETS_101_LORE:
+- '§7.!.'
+GADGETS_102_NAME: 'Іфрит'
+GADGETS_102_LORE:
+- '§7Будьте уважніше, поки з вас'
+- '§7не зробили варильну стійку.'
+GADGETS_103_NAME: 'Ендермен'
+GADGETS_103_LORE:
+- '§7Чому так дешево? Ні, '
+- '§7не тому що він чорний'
+GADGETS_104_NAME: 'Слайм'
+GADGETS_104_LORE:
+- '§7Крок 1: надіти голову'
+- '§7Крок 2: затримати дихання'
+- '§7Крок 3: ви IBROI'
+GADGETS_105_NAME: 'Оцелот'
+GADGETS_105_LORE:
+- '§7Мур-мур-мур, з вами Амур'
+GADGETS_106_NAME: 'Ендер Дракон'
+GADGETS_106_LORE:
+- '"§7ЭУ вас багато досвіду. Ви нам підходите"'
+GADGETS_107_NAME: 'Печерний павук'
+GADGETS_107_LORE:
+- '§7Не утроїтеся, поки одягаєте її'
+GADGETS_108_NAME: 'Свинозомбі'
+GADGETS_108_LORE:
+- '§7"Я замовляв свинні відбивні,'
+- '§7а не відбитих свиней!"'
+GADGETS_109_NAME: 'Куриця'
+GADGETS_109_LORE:
+- '§7- Ну що, як куриця?'
+- '§7- Кинув, не курю'
+GADGETS_110_NAME: 'Гаст'
+GADGETS_110_LORE:
+- '§7Тільки не плачте, дивлячись на ціну'
+GADGETS_111_NAME: 'Свиня'
+GADGETS_111_LORE:
+- '§7Один хрюк і вам каюк'
+GADGETS_112_NAME: 'Корова'
+GADGETS_112_LORE:
+- '§7У корови немає інших турбот))'
+GADGETS_113_NAME: 'Спрут'
+GADGETS_113_LORE:
+- '§7блуп-блуп'
+GADGETS_114_NAME: 'Кінь'
+GADGETS_114_LORE:
+- '§7І-го-го І-го-го'
+- '§7І го катку'
+GADGETS_115_NAME: 'Птах'
+GADGETS_115_LORE:
+- '§7Ви дуже злі на свиней,'
+- '§7тому що вони вкрали ваші яйця'
+GADGETS_116_NAME: 'Покебол'
+GADGETS_116_LORE:
+- '§7"Пікачу, обираю тебе!"'
+GADGETS_117_NAME: 'Маріо'
+GADGETS_117_LORE:
+- '§7Усі професії потрібні,'
+- '§7Усі професії необхідні!'
+GADGETS_118_NAME: 'Фредді'
+GADGETS_118_LORE:
+- '§7Плюшевий меломан'
+GADGETS_119_NAME: 'Бонні
+'
+GADGETS_119_LORE:
+- '§7Ну, Заєць, ну пострибай!'
+GADGETS_120_NAME: 'Полярний ведмідь'
+GADGETS_120_LORE:
+- '§7"Нехай мама почує,'
+- '§7нехай мама приде"'
+GADGETS_121_NAME: 'Коала'
+GADGETS_121_LORE:
+- '§7Не підтирайтесь евкаліптом.'
+GADGETS_122_NAME: 'Бджола'
+GADGETS_122_LORE:
+- '§7Вжжжжуух'
+GADGETS_123_NAME: 'Риба-Клоун'
+GADGETS_123_LORE:
+- '§7Ну хоч якихось клоунів'
+- '§7можна не боятися'
+GADGETS_124_NAME: 'Тхір'
+GADGETS_124_LORE:
+- '§7...і цим все сказано'
+GADGETS_125_NAME: 'Морж'
+GADGETS_125_LORE:
+- '§7"Дивись, у тебе шнурок розв`язався!"'
+GADGETS_126_NAME: 'Мавпа'
+GADGETS_126_LORE:
+- '§7"Фото с мавпочкою - 100 рублів"'
+GADGETS_127_NAME: 'Качка'
+GADGETS_127_LORE:
+- '§7Розкажіть нам Качині історії!'
+GADGETS_128_NAME: 'Сніжний шар'
+GADGETS_128_LORE:
+- '§7"Я ж казав не стрибати в замет!"'
+GADGETS_129_NAME: 'Тостер'
+GADGETS_129_LORE:
+- '§7Головне не стрибайте в воду'
+GADGETS_130_NAME: 'Сир'
+GADGETS_130_LORE:
+- '§7Побачивши вас Роша засмучується'
+GADGETS_131_NAME: 'Пінгвін'
+GADGETS_131_LORE:
+- '§7..цікаво, у вас є коліна?'
+GADGETS_132_NAME: 'Слон'
+GADGETS_132_LORE:
+- '§7Тільки не намагайтесь пити носом'
+GADGETS_133_NAME: 'Астронавт'
+GADGETS_133_LORE:
+- '§7Просто класний шолом'
+GADGETS_134_NAME: 'Видра'
+GADGETS_134_LORE:
+- '§7Хто-небудь бачив видру,'
+- '§7яка курить трубку? Ось я бачив'
+GADGETS_135_NAME: 'Мумія'
+GADGETS_135_LORE:
+- '§7Насправді, це туалетний папір.'
+- '§7Але й це нікого не хвилюе'
+GADGETS_136_NAME: 'Орк'
+GADGETS_136_LORE:
+- '§7Не думаю, що вам це підійде'
+GADGETS_137_NAME: 'Мінотавр'
+GADGETS_137_LORE:
+- '§7Як ви вибралися з лабіринту?'
+GADGETS_138_NAME: 'Демонічний лицар'
+GADGETS_138_LORE:
+- '§7Вибачте, але звичайно лицарі'
+- '§7рятують принцес'
+GADGETS_139_NAME: 'Білий чарівник'
+GADGETS_139_LORE:
+- '§7Ні, він не новий.'
+- '§7Його прали Ласкою'
+GADGETS_140_NAME: 'Шахтар'
+GADGETS_140_LORE:
+- '§7..кирка не постачається'
+GADGETS_141_NAME: 'Монах'
+GADGETS_141_LORE:
+- '§7Монахи не користуються популярністью'
+- '§7у перукарів'
+GADGETS_142_NAME: 'Лісний Ельф'
+GADGETS_142_LORE:
+- '§7Надіюсь, ви не зустрінете дроворуба'
+GADGETS_143_NAME: 'Один'
+GADGETS_143_LORE:
+- '§7Батько Тора :/'
+GADGETS_144_NAME: 'Привид'
+GADGETS_144_LORE:
+- '§7Буу! Страшно? Я би теж не злякався'
+GADGETS_145_NAME: 'Пугало'
+GADGETS_145_LORE:
+- '§7Ні, ні, ти не страшний!'
+- '§7И у тебе багатий солом`яний світ'
+GADGETS_146_NAME: 'Лисиця'
+GADGETS_146_LORE:
+- '§7Фир-фир-фир'
+GADGETS_147_NAME: 'Льодяник'
+GADGETS_147_LORE:
+- '§7Так і хочеться вас лизнути.'
+- '§7Ну правда'
+GADGETS_148_NAME: 'Мопс'
+GADGETS_148_LORE:
+- '§7"Мопс вміє літати, мопс вміе читати..."'
+GADGETS_149_NAME: 'Сова'
+GADGETS_149_LORE:
+- '§7"Ти чо миша?"'
+GADGETS_150_NAME: 'Панда'
+GADGETS_150_LORE:
+- '§7Добре бути пандою,'
+- '§7не видно мішки під очима'
+GADGETS_151_NAME: 'Лінивець'
+GADGETS_151_LORE:
+- '§7"Я не лінивий, я економлю енергію!"'
+GADGETS_152_NAME: 'Сніговик'
+GADGETS_152_LORE:
+- '§7Нет, краще одягни гарбуза,'
+- '§7тобі так краше йде'
+GADGETS_153_NAME: 'Білка'
+GADGETS_153_LORE:
+- '§7сквірел!'
+GADGETS_154_NAME: 'Шалкер'
+GADGETS_154_LORE:
+- '§7Ходять чутки, прототипом послужив'
+- '§7хамелеон. Воно й зрозуміло'
+GADGETS_155_NAME: 'Вогонь'
+GADGETS_155_LORE:
+- '§7"Перепрошую, але ви горите."'
+GADGETS_156_NAME: 'Слайм'
+GADGETS_156_LORE:
+- '§7Для тих, хто хоче бути пружним- '
+GADGETS_157_NAME: 'Злий житель'
+GADGETS_157_LORE:
+- '§7Він не злий, він обурюється!'
+GADGETS_158_NAME: 'Сердечка'
+GADGETS_158_LORE:
+- '§7Це кохання всім запаморочило голову!'
+GADGETS_159_NAME: 'Шаман'
+GADGETS_159_LORE:
+- '§7"Жінко не чаклую, жінко я не чаклую"'
+GADGETS_160_NAME: 'Вогняні крила'
+GADGETS_160_LORE:
+- '§7Обережно, не обпечіться!'
+GADGETS_161_NAME: 'Атом'
+GADGETS_161_LORE:
+- '§7..насправді молекула, але це звучить не епічно'
+GADGETS_162_NAME: 'Ангельскі крила'
+GADGETS_162_LORE:
+- '§7- Вам хто-небудь казав, що ви схожі на ангела?'
+- '§7- Ні'
+- '§7- Не дивно'
+GADGETS_163_NAME: 'Дощик'
+GADGETS_163_LORE:
+- '§7Відмінний засіб для заспокоєння!'
+GADGETS_164_NAME: 'Сніг'
+GADGETS_164_LORE:
+- '§7Що мені сніг, що мені спека, що мені'
+- '§7погодою проливною, коли донат зі мною!'
+GADGETS_165_NAME: 'Кривава спіраль'
+GADGETS_165_LORE:
+- '§7Интересно, чия це кров?'
+GADGETS_166_NAME: 'Буран'
+GADGETS_166_LORE:
+- '§7"Чуєш мурашки?"'
+GADGETS_167_NAME: 'Життя'
+GADGETS_167_LORE:
+- '§7Заворожуюча петля життя. Вічне коло'
+GADGETS_168_NAME: 'Санта-клаус'
+GADGETS_168_LORE:
+- '§7Свято наближається!'
+GADGETS_169_NAME: 'Вампірські крила'
+GADGETS_169_LORE:
+- '§7"Вампіри є і по сей день!"'
+GADGETS_170_NAME: 'Покебол'
+GADGETS_170_LORE:
+- '§7Кажуть, якщо піймати ним 1000 яєць,'
+- '§7то з нього вилізе Пікачу.'
+GADGETS_171_NAME: 'H...'
+GADGETS_171_LORE:
+- '§7Для справжніх фанатів ;)'
+GADGETS_172_NAME: 'Зайчик'
+GADGETS_172_LORE:
+- '§7Милий білий зайчик'
+GADGETS_173_NAME: 'Олень'
+GADGETS_173_LORE:
+- '§7Той самий олень Санти!'
+GADGETS_174_NAME: 'Ялинка'
+GADGETS_174_LORE:
+- '§7Якщо ви ще не поставили'
+- '§7ялинку, то самий час це зробити!'
+GADGETS_175_NAME: 'Вінок'
+GADGETS_175_LORE:
+- '§7Піднімай новорічний настрій!'
+GADGETS_176_NAME: 'Серце'
+GADGETS_176_LORE:
+- '§7Покажи усім, як ти їх любиш с:'
+GADGETS_177_NAME: 'Гітара'
+GADGETS_177_LORE:
+- '§7Для музичних поціновувачів'
+GADGETS_178_NAME: 'Деад Пул'
+GADGETS_178_LORE:
+- '§7Але ви не безсмертні, ні'
+GADGETS_179_NAME: 'Пінгвін'
+GADGETS_179_LORE:
+- '§7..а у них є колінця?'
+GADGETS_180_NAME: 'Собака'
+GADGETS_180_LORE:
+- '§7Вірний товариш і '
+- '§7кращий друг, після духа..'
+GADGETS_181_NAME: 'Скелет'
+GADGETS_181_LORE:
+- '§7Кажуть, це портрет останнього Лорда.'
+GADGETS_182_NAME: 'Посмішка'
+GADGETS_182_LORE:
+- '§7Хто знає, що приховано за цією посмішкою..'
+GADGETS_183_NAME: 'Плач'
+GADGETS_183_LORE:
+- '§7Не плач, з`їж цукерку та заспокойся :3'
+GADGETS_184_NAME: 'Посмішка'
+GADGETS_184_LORE:
+- '§7Оуу.. яка харизма'
+GADGETS_185_NAME: 'Підмигування'
+GADGETS_185_LORE:
+- '§7"Привіт, красуня. Вашій мамі зять не потрібен?"'
+GADGETS_186_NAME: 'Радісний
+'
+GADGETS_186_LORE:
+- '§7Сподіваємося, вас таким зробив наш сервер :3'
+GADGETS_187_NAME: 'Подив'
+GADGETS_187_LORE:
+- '§7Обережно, а то в рот залетить муха!'
+GADGETS_188_NAME: 'Сонний'
+GADGETS_188_LORE:
+- '§7ех.. люди вже на ходу сплять!'
+GADGETS_189_NAME: 'Злий'
+GADGETS_189_LORE:
+- '§7Радимо увімкнути ефект Дощу'
+- '§7для заспокоєння)'
+GADGETS_190_NAME: 'Крутой'
+GADGETS_190_LORE:
+- '§7I`m cool, but not you!'
+GADGETS_191_NAME: 'Закоханий'
+GADGETS_191_LORE:
+- '§7Ні, ні, що ви! Я не закохався,'
+- '§7просто сердечко в око потрапило!'
+GADGETS_192_NAME: 'Шізанутий'
+GADGETS_192_LORE:
+- '§7Упевнений, у вас просто'
+- '§7добрий настрій'
+GADGETS_193_NAME: 'Висушувач'
+GADGETS_193_LORE:
+- '§7Можлива сухість в горлі, обережно!'
+GADGETS_194_NAME: 'Крипер'
+GADGETS_194_LORE:
+- '§7Тепер страх бути підірваним збільшується'
+GADGETS_195_NAME: 'Птах'
+GADGETS_195_LORE:
+- '§7Шанс посліду збільшується'
+GADGETS_196_NAME: 'Івелтал'
+GADGETS_196_LORE:
+- '§7Легендарний покемон, висмоктуючий'
+- '§7життєві сили з інших істот!'
+GADGETS_197_NAME: 'К`юбон'
+GADGETS_197_LORE:
+- '§7Герой кріпаст на покемонскій лад'
+GADGETS_198_NAME: 'Рожевий амби'
+GADGETS_198_LORE:
+- '§7Дуже милий рожевий дух-амби,'
+- '§7який не залишить вас одного'
+GADGETS_199_NAME: 'Вульпекс'
+GADGETS_199_LORE:
+- '§7Шестихвоста лисиця-сестриця'
+GADGETS_200_NAME: 'Генгар'
+GADGETS_200_LORE:
+- '§7Добре, що у нас кругла тінь'
+GADGETS_201_NAME: 'Арканін'
+GADGETS_201_LORE:
+- '§7Суміш собаки, тигра та вовка'
+GADGETS_202_NAME: 'Майтена'
+GADGETS_202_LORE:
+- '§7Має швидкі ніжки,'
+- '§7але все одно літає'
+GADGETS_203_NAME: 'Гарчомп'
+GADGETS_203_LORE:
+- '§7Це літак? Це птах?'
+- '§7Ні, це Гарчомп!'
+GADGETS_204_NAME: 'Свампет'
+GADGETS_204_LORE:
+- '§7Первинний буль-бульон'
+GADGETS_205_NAME: 'Терракіон'
+GADGETS_205_LORE:
+- '§7Сильний, як бик!'
+- '§7Ой, це ж і є бик'
+GADGETS_206_NAME: 'Фералігатр'
+GADGETS_206_LORE:
+- '§7Він залякує ваших ворогів,'
+- '§7відкриваючи свій величезний рот O:'
+GADGETS_207_NAME: 'Молдрес'
+GADGETS_207_LORE:
+- '§7Небезпечний, але не для вас'
+GADGETS_208_NAME: 'Ентей'
+GADGETS_208_LORE:
+- '§7Винуватець падіння Помпеї'
+GADGETS_209_NAME: 'Гроудон'
+GADGETS_209_LORE:
+- '§7Тримайте при собі банку розсолу'
+GADGETS_210_NAME: 'Даілга'
+GADGETS_210_LORE:
+- '§7Да крутив він ваш час!'
+GADGETS_211_NAME: 'Діоксіс'
+GADGETS_211_LORE:
+- '§7Может робити своїх клонів, але'
+- '§7духів більше не стане, ні'
+GADGETS_212_NAME: 'Гіратіна'
+GADGETS_212_LORE:
+- '§7Скаче по світам і вашій шиї'
+GADGETS_213_NAME: 'Рожева пантера'
+GADGETS_213_LORE:
+- '§7Тудум-тудум'
+GADGETS_214_NAME: 'Натсуки'
+GADGETS_214_LORE:
+- '§7Скромная дівчина'
+- '§7Любить пекти тортики :3'
+GADGETS_215_NAME: 'Захистник'
+GADGETS_215_LORE:
+- '§7Захистник твоеї спини та фортеці'
+GADGETS_216_NAME: 'Смерть'
+GADGETS_216_LORE:
+- '§7Іноді усім здається, що смерть'
+- '§7стежить за нами ззаду'
+GADGETS_217_NAME: 'Гладіатор'
+GADGETS_217_LORE:
+- '§7Він, звичайно, готовий бритися,'
+- '§7але не в формі духу'
+GADGETS_218_NAME: 'Поліна'
+GADGETS_218_LORE:
+- '§7В минулому улюблений гравець адміністрації'
+GADGETS_219_NAME: 'Вікторія'
+GADGETS_219_LORE:
+- '§7Ще один дух гравця, але тільки от'
+- '§7адміни її вже не любять'
+GADGETS_220_NAME: 'Білий ходок'
+GADGETS_220_LORE:
+- '§7«Вперёд, армія!»'
+GADGETS_221_NAME: 'Неоновий куб'
+GADGETS_221_LORE:
+- '§7(ГЛО) Гарний Літаючий Об`ект'
+- '§7Прямо за вашою спиною!'
+GADGETS_222_NAME: 'Гонщик'
+GADGETS_222_LORE:
+- '§7По факту, будь-який дух гравця вже'
+- '§7рахується гонщиком, адже вас'
+- '§7не наздогнати!'
+GADGETS_223_NAME: 'Кубик-Рубика'
+GADGETS_223_LORE:
+- '§7Дух для найрозумніших, ну й стильних'
+GADGETS_224_NAME: 'Пеннівайз'
+GADGETS_224_LORE:
+- '§7Давайте уявимо, що у нього'
+- '§7в руках повітряна куля, добре?'
+GADGETS_225_NAME: 'Підарас'
+GADGETS_225_LORE:
+- '§7Бог Румайна у вашій кишені'
+GADGETS_226_NAME: 'Сонік'
+GADGETS_226_LORE:
+- '§7«Серьожа, відпусти їжака, він стомився бігати»'
+GADGETS_227_NAME: 'Маріонетка'
+GADGETS_227_LORE:
+- '§7Складно сказати, привітна'
+- '§7ця посмішка, чи ні'
+GADGETS_228_NAME: 'Фредді
+'
+GADGETS_228_LORE:
+- '§7*звук дитячої пісеньки*'
+GADGETS_229_NAME: 'Скелет'
+GADGETS_229_LORE:
+- '§7Дух скелета.. Ви не помилилися'
+GADGETS_230_NAME: 'Відьма'
+GADGETS_230_LORE:
+- '§7Обережно! Можливо, у неї'
+- '§7в запасі зілля привороту!'
+GADGETS_231_NAME: 'Темний скелет'
+GADGETS_231_LORE:
+- '§7Темна магія темного скелету'
+- '§7в темну ніч!'
+GADGETS_232_NAME: 'Чорний чарівник'
+GADGETS_232_LORE:
+- '§7Архівеликий архічарівник'
+- '§7архівеликої архімагії!'
+GADGETS_233_NAME: 'Ендерпельмен'
+GADGETS_233_LORE:
+- '§7..а що це ще?'
+GADGETS_234_NAME: 'Деревний голем'
+GADGETS_234_LORE:
+- '§7Головне, не поставте скалку'
+GADGETS_235_NAME: 'Золота людина'
+GADGETS_235_LORE:
+- '§7Став духом, як кара'
+- '§7за свою жадібність'
+GADGETS_236_NAME: 'Іржавий лицар'
+GADGETS_236_LORE:
+- '§7А йому говорили не приймати'
+- '§7так часто ванну!'
+GADGETS_237_NAME: 'Містичний єнот'
+GADGETS_237_LORE:
+- '§7Дивний та незрозумілий звір, але милий'
+GADGETS_238_NAME: 'Одноочик'
+GADGETS_238_LORE:
+- '§7Циклоп для того милашки'
+- '§7звучало би дуже грубо'
+GADGETS_239_NAME: 'Новорічний пікачу'
+GADGETS_239_LORE:
+- '§7А ви думали, ми про нього забудемо?'
+GADGETS_240_NAME: 'Гуффі
+'
+GADGETS_240_LORE:
+- '§7Він живий! А.. це інший'
+GADGETS_241_NAME: 'Санта'
+GADGETS_241_LORE:
+- '§7Його всі впізнають з тисячі!'
+GADGETS_242_NAME: 'Сніговик'
+GADGETS_242_LORE:
+- '§7Холодний та милий сніговик,'
+- '§7який вкаже дорогу'
+- '§7до сніжної гірки'
+GADGETS_243_NAME: 'Ельф'
+GADGETS_243_LORE:
+- '§7Ельфи звичайно лісні, а цей літаючий'
+GADGETS_244_NAME: 'Полярна ведмедиця'
+GADGETS_244_LORE:
+- '§7Якби не вінок, ви б'
+- '§7сплутали її з ведведем'
+GADGETS_245_NAME: 'Пінгвін'
+GADGETS_245_LORE:
+- '§7Хто сказав, що пінгвини не літають?'
+GADGETS_246_NAME: 'Хеллбой'
+GADGETS_246_LORE:
+- '§7По-пекельному хороший'
+GADGETS_247_NAME: 'Янголятко'
+GADGETS_247_LORE:
+- '§7Це ваш Янгол-Охоронець, але'
+- '§7лиш до входу в гру'
+GADGETS_248_NAME: 'Акула'
+GADGETS_248_LORE:
+- '§7Він не кусається, не бійся'
+GADGETS_249_NAME: 'Новорічний слимак'
+GADGETS_249_LORE:
+- '§7Що може бути смішніше, чим'
+- '§7слимак, відзначаючий Новий Рік?'
+GADGETS_250_NAME: 'Півень'
+GADGETS_250_LORE:
+- '§7Ко-ко-ко-конєшно я чітер, а ти ні?'
+- '§7Чіти ж для ко-ко-ко-королів!'
+GADGETS_251_NAME: '2D тян'
+GADGETS_251_LORE:
+- '§7Тепер ти можеш дивитись на'
+- '§72D тян не виходячи з дому!'
+GADGETS_252_NAME: 'Сабзіро'
+GADGETS_252_LORE:
+- '§7Абсолютний нуль'
+- '§8(скілл твоїх тіммейтів)'
+GADGETS_253_NAME: 'Пустельний мрець'
+GADGETS_253_LORE:
+- '§7Повстав з пустелі, щоб'
+- '§7бути.. порожнім духом'
+GADGETS_269_NAME: 'Хом`ячок'
+GADGETS_269_LORE:
+- '§7Тільки не говоріть, що ви'
+- '§7бачили щось миліше'
+- '§7літаючого хом`ячка'
+GADGETS_270_NAME: 'Курча'
+GADGETS_270_LORE:
+- '§7Курча по імені Христина.'
+- '§7Маленька, мила та вже літаюча!'
+GADGETS_271_NAME: 'Педобір'
+GADGETS_271_LORE:
+- '§7Шшшшшш... O:'
+GADGETS_272_NAME: 'Каонасі'
+GADGETS_272_LORE:
+- '§7T_T'
+GADGETS_254_NAME: 'Павук'
+GADGETS_254_LORE:
+- '§7Тільки мій друг — Віктор-Павук'
+- ''
+- '§7§oНатисніть SHIFT, щоб кинути паутину'
+GADGETS_255_NAME: 'Крипер'
+GADGETS_255_LORE:
+- '§7"Хто такий в нас надутий?'
+- '§7Уті які щічки!"'
+- ''
+- '§7§oУтримуйте SHIFT, щоб вибухнути'
+GADGETS_256_NAME: 'Порося'
+GADGETS_256_LORE:
+- '§7"Навіщо ви мене штовхнули?'
+- '§7Це ж свинський вчин.. а, ну так"'
+- ''
+- '§7§oУтримуйте SHIFT, щоб штовхнути гравця'
+GADGETS_257_NAME: 'Курка'
+GADGETS_257_LORE:
+- '§7Ось, дивіться. Це Аркаша, а це ряба.'
+- '§7А це мій улюблений, Майбутній Адмін :з'
+- ''
+- '§7§oНатисніть SHIFT, щоб закликати курчат'
+GADGETS_258_NAME: 'Ендерман'
+GADGETS_258_LORE:
+- '§7"Чому тільки для Magma?'
+- '§7Все тому що я чорний?"'
+- ''
+- '§7§oНатисніть SHIFT, щоб телепортуватися'
+GADGETS_259_NAME: 'Кролик'
+GADGETS_259_LORE:
+- '§7Тільки не смикайте мене за вушко!'
+- ''
+- '§7§oНатисніть SHIFT, щоб підстрибнути'
+GADGETS_260_NAME: 'Собака'
+GADGETS_260_LORE:
+- '§7Не гарчи, тримай свою сосиску!'
+- ''
+- '§7§oНатисніть SHIFT, щоб загарчати'
+GADGETS_261_NAME: 'Зомбі'
+GADGETS_261_LORE:
+- '§7Майже як собака, тільки крутіше'
+- ''
+- '§7§oНатисніть SHIFT, щоб видати звук'
+GADGETS_262_NAME: 'Скелет'
+GADGETS_262_LORE:
+- '§7Звідки летять стріли? Краще не питайте'
+- ''
+- '§7§oНатисніть ЛКМ, щоб випустити стрілу'
+GADGETS_263_NAME: 'Іфрит'
+GADGETS_263_LORE:
+- '§7Ви гарячий мексиканець! Не спаліть'
+- '§7лоббі, будь ласка'
+- ''
+- '§7§oНатисніть SHIFT, щоб загорітися'
+- '§7§oНатисніть ЛКМ, щоб вистрілити файрболом'
+GADGETS_264_NAME: 'Корова'
+GADGETS_264_LORE:
+- '§7Муууууухоморчик :з'
+- ''
+- '§7§oНатисніть SHIFT, щоб скинути "гриби"'
+GADGETS_265_NAME: 'Голем'
+GADGETS_265_LORE:
+- '§7В минулому був дроворубом..'
+- ''
+- '§7§oНатисніть SHIFT, щоб вспотрошити землю'
+GADGETS_266_NAME: 'Овечка'
+GADGETS_266_LORE:
+- '§7Спеціально для тих, хто не'
+- '§7може обрати колір'
+- ''
+- '§7§oНатисніть SHIFT, щоб змінювати колір'
+GADGETS_267_NAME: 'Слайм'
+GADGETS_267_LORE:
+- '§7Оуу, вас так багато'
+- ''
+- '§7§oНатисніть SHIFT, щоб розмножитися'
+GADGETS_268_NAME: 'Кінь'
+GADGETS_268_LORE:
+- '§7Зовнішній вигляд змінюєте як рукавички!'
+- ''
+- '§7§oНатисніть SHIFT, щоб змінити облік'
+GADGETS_273_NAME: 'Панда'
+GADGETS_273_LORE:
+- '§7Бамбуковий Ведмідь круто, '
+- '§7так? А ще він занесений в '
+- '§7червону книгу!'
+GADGETS_274_NAME: 'BB-8'
+GADGETS_274_LORE:
+- '§7Милий астромеханічний'
+- '§7дроід зі вселенної'
+- '§7зоряних війн'
+GADGETS_275_NAME: 'Сніговик'
+GADGETS_275_LORE:
+- '§7Сніжна скульптура,'
+- '§7яку діти так й'
+- '§7хочуть зруйнувати'
+GADGETS_276_NAME: 'Пінгвін'
+GADGETS_276_LORE:
+- '§7Полярнй плаваючий, але'
+- '§7не літаючий птах,'
+- '§7хто би міг подумати'
+GADGETS_277_NAME: 'Боксер'
+GADGETS_277_LORE:
+- '§7З виду він кремезний,'
+- '§7але всередині завжди готовий'
+- '§7поноситися за м`ячиком'
+GADGETS_278_NAME: 'Бульбазавр'
+GADGETS_278_LORE:
+- '§7Представляє собою'
+- '§7щось середнє між'
+- '§7динозавром та жабою, мило'
+GADGETS_279_NAME: 'Мартишка'
+GADGETS_279_LORE:
+- '§7Не плутай з мавпами,'
+- '§7мартишка твій бро!'
+- '§7Живе в лісі та їсть листя'
+GADGETS_280_NAME: 'Кріт'
+GADGETS_280_LORE:
+- '§7Когли під вами раптово'
+- '§7почне з`являтися яма, ви'
+- '§7будете молитися, щою це'
+- '§7був кріт, а не чортовий гук'
+GADGETS_281_NAME: 'Жираф'
+GADGETS_281_LORE:
+- '§7У вашої однокласниці,'
+- '§7як виявляється, не сама'
+- '§7величезна шия, адже є жираф!'
+GADGETS_282_NAME: 'Горила'
+GADGETS_282_LORE:
+- '§7Найбільший із сучасних'
+- '§7представників загону приматів,'
+- '§7до такого краше не лізти'
+GADGETS_283_NAME: 'Стен Пайнс'
+GADGETS_283_LORE:
+- '§7Дідусь Діппера та Мейбл Пайнс,'
+- '§7постійний житель містечка'
+- '§7Гравіті Фолз'
+GADGETS_284_NAME: 'Коала'
+GADGETS_284_LORE:
+- '§7От кого так смачно пахне'
+- '§7м`ятною гумкою? Ммм? Признавайтесь!'
+GADGETS_285_NAME: 'Лев'
+GADGETS_285_LORE:
+- '§7Хижак, майже сама велика'
+- '§7кішка у світі, не враховуючи кота'
+- '§7Бориса після 10-ти пачок віскаса..'
+GADGETS_286_NAME: 'Magikarp'
+GADGETS_286_LORE:
+- '§7Один з величезної безлічі'
+- '§7покемонів, який якимось'
+- '§7чином рухеється без ніг'
+GADGETS_287_NAME: 'Перрі-Качкодзьоб'
+GADGETS_287_LORE:
+- '§7Перрі Качкодзьоб буде в будь-яку'
+- '§7секунду, він запобіжить'
+- '§7підступний план Фуфелшмертця'
+GADGETS_288_NAME: 'Полярний ведмідь'
+GADGETS_288_LORE:
+- '§7Величезний, м`який та теплий'
+- '§7комок шерсті, який не'
+- '§7боїться холоду'
+GADGETS_289_NAME: 'Маленький полярний ведмідь'
+GADGETS_289_LORE:
+- '§7Такий же полярний, але'
+- '§7тільки чуть-чуть поменше'
+GADGETS_290_NAME: 'Мопс'
+GADGETS_290_LORE:
+- '§7Будує мапи за їжу та воду,'
+- '§7а еще він дуже веселий псин'
+GADGETS_291_NAME: 'Супермен'
+GADGETS_291_LORE:
+- '§7Один із самих популярних у'
+- '§7світі супергероїв, але в'
+- '§7Росії він би все одно не вижив('
+GADGETS_292_NAME: 'Тигр'
+GADGETS_292_LORE:
+- '§7Такий великий, а все'
+- '§7одно гадить в коридорі на підлогу'
+GADGETS_293_NAME: 'Черепаха'
+GADGETS_293_LORE:
+- '§7рахується, що черепахи — самі'
+- '§7повільні істоти, але це не'
+- '§7зовсім так. Перевіримо?'
+GADGETS_294_NAME: 'Квейк пушка'
+GADGETS_294_LORE:
+- '§7Імпульсний електронний'
+- '§7прискорювач мас. Неймовірно'
+- '§7ефективна зброя.'
+GADGETS_295_NAME: 'Дракончик'
+GADGETS_295_LORE:
+- '§7Небезпечний та товариський дракончик'
+GADGETS_296_NAME: 'Зайка'
+GADGETS_296_LORE:
+- '§7Не раджу потрапити в його нірку'
+GADGETS_297_NAME: 'Заєць'
+GADGETS_297_LORE:
+- '§7Милиий вухань'
+GADGETS_298_NAME: 'Портал'
+GADGETS_298_LORE:
+- '§7Портал в никуди'
+GADGETS_299_NAME: 'Франція'
+GADGETS_299_LORE:
+- '§7Кажуть, у носіїв даного'
+- '§7банеру велика Ейфелева Вежа'
+GADGETS_300_NAME: 'Польша'
+GADGETS_300_LORE:
+- '§7KURWA MATKA PERDOLE'
+GADGETS_301_NAME: 'Естонія'
+GADGETS_301_LORE:
+- '§7Славиться Естонськими морями'
+GADGETS_302_NAME: 'Германія'
+GADGETS_302_LORE:
+- '§7Кажуть, там роблять найкращі машини'
+GADGETS_303_NAME: 'Італія'
+GADGETS_303_LORE:
+- '§7Якщо ви любите піццу, це для вас'
+GADGETS_304_NAME: 'Великобританія'
+GADGETS_304_LORE:
+- '§7Столиця Лондону? - Париж'
+GADGETS_305_NAME: 'Японія'
+GADGETS_305_LORE:
+- '§7Для любителів аніме саме те!'
+GADGETS_306_NAME: 'Україна'
+GADGETS_306_LORE:
+- '§7Це Європа'
+GADGETS_307_NAME: 'Росія'
+GADGETS_307_LORE:
+- '§7Путін, горілка, балалайка'
+GADGETS_308_NAME: 'Facebook'
+GADGETS_308_LORE:
+- '§7Популярна соц мережа, але не в нас'
+GADGETS_309_NAME: 'Лук-телепортер'
+GADGETS_309_LORE:
+- '§7Стріляй та телепортуйся!'
+DONATE_MENU_JOIN_MESSAGE_ENABLE: '§6Повідомлення при вході §8| §fПовідомлення під номером §a%s §fактивовано'
+DONATE_MENU_JOIN_MESSAGE_BUY: '§6Повідомлення при вході §8| §fВи успішно купили §a%s §fповідомлення'
+GAMER_NO_KEYS: '§6Сервер §8| §fПомилка! У вас недостатньо §aключей§f для відкриття кейсів! Купити трохи ключів можна на нашому сайті §dlast-craft.com §7(тисни)'
+GAMER_NO_MONEY: '§6Сервер §8| §fПомилка! У вас недостатньо §aмонет§f для покупки! Купити ще монеток можна на нашому сайті §dlast-craft.com §7(тисни)'
+GAMER_NO_GOLD: '§6Сервер §8| §fПомилка! У вас недостатньо §6золота§f для покупки! Купівля золота здійснюється тільки на сайті §dlast-craft.com §7(тисни)'
+SITE_SHOP_ITEMS_NAME: 'Предмети'
+SITE_SHOP_ITEM_ALERT: '§6Магазин §8| §fВсі предмети успішно видані!'
+SITE_SHOP_ITEMS_GUI_NAME: 'Доступні предмети'
+SITE_SHOP_ITEM_EMPTY_NAME: '§cНемає доступних предметів'
+SITE_SHOP_ITEM_EMPTY_LORE:
+- '§7У вас немає доступних предметів'
+- '§7Купівля на сайті §dlast-craft.com'
+SITE_SHOP_ITEM_LORE_1:
+- '§7Отримати наступні предмети:'
+SITE_SHOP_ITEM_LORE_2:
+- ' '
+- '§cУВАГА! У вас має бути %s'
+- '§cвільних слотів у вашому інвентарі!'
+- ' '
+SITE_SHOP_ITEM_LORE_3: '§e▸ Натисніть, щоб отримати'
+SITE_SHOP_ITEM_LORE_4:
+- '§7Ціна: §e%s §7золота'
+- ''
+- '§e▸ Натисніть, щоб купити'
+SITE_SHOP_NO_SLOTS: '§6Магазин §8| §cПомилка, вільні слоти не знайдені!' 
+GAME_COSMETIC_NO_LEVEL: '§cПомилка, у вас немає %s рівня для активації ('
+GAME_COSMETIC_LEVEL_ERROR:
+- '§cУВАГА! Для використання цієї речі'
+- '§cвам потрібні мати %s рівень або будь-який'
+- '§cз доступних донат-статусів!'
+GAME_COSMETIC_MAIN_GUI_NAME: 'Косметика'
+GAME_COSMETIC_GUI_ARROW_NAME: 'Ефекти стріл'
+GAME_COSMETIC_GUI_ARROW_LORE:
+- ''
+- '§7Купівля та активація ефектів'
+- '§7польоту стріл, які діють'
+- '§7на аренах усіх міні-ігор.'
+- ''
+- '§7Відкрито: §a%s/%s §6%s'
+- '§7Активований ефект:'
+- '%s'
+- ''
+- '§e▸ Натисніть, щоб відкрити меню'
+GAME_COSMETIC_GUI_START_SOUND_NAME: 'Звук старту'
+GAME_COSMETIC_GUI_START_SOUND_LORE:
+- ''
+- '§7Купівля та активація звуків'
+- '§7які ви почуєте при'
+- '§7старті гри.'
+- ''
+- '§7Відкрито: §a%s/%s §6%s'
+- '§7Активований звук:'
+- '%s'
+- ''
+- '§e▸ Натисніть, щоб відкрити меню'
+GAME_COSMETIC_0_NAME: 'Ноти'
+GAME_COSMETIC_0_LORE:
+- '§7Сиграй мелодию на нотах тетеви'
+GAME_COSMETIC_1_NAME: 'Дим'
+GAME_COSMETIC_1_LORE:
+- '§7Відмінно доповнить ефект палаючої стріли!'
+GAME_COSMETIC_2_NAME: 'Вогонь'
+GAME_COSMETIC_2_LORE:
+- '§7..і цей теж відмінне доповнення'
+GAME_COSMETIC_3_NAME: 'Сердечка'
+GAME_COSMETIC_3_LORE:
+- '§7Уявіть, що ви Амур. Стріляйте.'
+GAME_COSMETIC_4_NAME: 'Смарагдовий'
+GAME_COSMETIC_4_LORE:
+- '§7Потоки радості наймудрішого жителя'
+- '§7подарують ваші стріли та'
+- '§7приведуть їх точно в ціль!'
+GAME_COSMETIC_5_NAME: 'Феєрверк'
+GAME_COSMETIC_5_LORE:
+- '§7Відтепер ваші стріли і є феєрверк'
+GAME_COSMETIC_6_NAME: 'гірлянда'
+GAME_COSMETIC_6_LORE:
+- '§7Створи новорічний настрій'
+- '§7в будь-яку пору року!'
+GAME_COSMETIC_7_NAME: 'Відьма'
+GAME_COSMETIC_7_LORE:
+- '§7Магічний поток великої відьми'
+- '§7супроводжують кожен ваш постріл'
+GAME_COSMETIC_8_NAME: 'Злий житель'
+GAME_COSMETIC_8_LORE:
+- '§7Насправді, житель не злий, а сердитий'
+GAME_COSMETIC_9_NAME: 'Хмара'
+GAME_COSMETIC_9_LORE:
+- '§7Якщо ви не знаєте як з`являються хмари,'
+- '§7то придбайте цей ефект'
+GAME_COSMETIC_10_NAME: 'Безсмертя'
+GAME_COSMETIC_10_LORE:
+- '§7Ефект безсмертя дарує стрілі...'
+- '§7безсмертя. Ніби вона була смертна!'
+GAME_COSMETIC_11_NAME: 'Зілля'
+GAME_COSMETIC_11_LORE:
+- '§7Хвилі магічних сил усіх істот'
+- '§7гри будуть прямувати за вашою стрілою.'
+- '§7Не зліть їх'
+HOLO_SITESHOP:
+- '§eПредмети з онлайн магазину'
+- '§7Натисніть, щоб відкрити'
+CONVERT_FORMAT: '/convert <золото>'
+CONVERT_ERROR: '§cПомилка, потрібно вказувати тільки позитивне число число!'
+CONVERT: '§6Магазин §8| §fВи успішно обміняли §e%s §fзолота на §a%s §fмонет'

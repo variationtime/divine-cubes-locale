@@ -3282,7 +3282,7 @@ ISLAND_ADD_PLAYER_REQUEST_2: ' §fДля принятия запроса пиш�
 ISLAND_ADD_PLAYER_REQUEST_3: ' §fДля отмены запроса пиши '
 ISLAND_ADD_PLAYER_REQUEST_4: ' §fУ вас есть §a120 §fсекунд, чтобы его принять'
 ISLAND_FLAG_PVP_NAME: 'ПВП'
-ISLAND_FLAG_HUNGER_NAME: 'Голод'
+ISLAND_FLAG_HUNGER_NAME: 'Анти голод'
 ISLAND_FLAG_USE_NAME: 'Использование'
 ISLAND_FLAG_ENTITY_EXPLODE_NAME: 'Взрыв блоков'
 ISLAND_FLAG_OPENED_NAME: 'Приватность'

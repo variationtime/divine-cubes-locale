@@ -3162,7 +3162,7 @@ ISLAND_ALREADY_CREATE: '§6SkyBlock §8| §fПомилка, у вас вже є 
 ISLAND_NO_ISLAND: '§6SkyBlock §8| §fПомилка, здається у вас немає острова... щоб створити свій острів напишіть §7/island create'
 ISALAND_ADD_REQUEST: '§fЗапрошення відправлено гравцю %s'
 ISLAND_FLAG_PVP_NAME: 'ПВП'
-ISLAND_FLAG_HUNGER_NAME: 'Голод'
+ISLAND_FLAG_HUNGER_NAME: 'Анти Голод'
 ISLAND_FLAG_USE_NAME: 'Використовування'
 ISLAND_FLAG_ENTITY_EXPLODE_NAME: 'Вибух блоків'
 ISLAND_FLAG_OPENED_NAME: 'Приватність'

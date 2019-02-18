@@ -3083,8 +3083,8 @@ REWARD_DONATE_ITEM_LORE:
  - '§7need, You can visit our'
  - '§7online-store and purchase it there'
  - ' '
- - ' §8• §7500 coins = §a10 rubles'
- - ' §8• §71 key = §a5 rubles'
+ - ' §8• §a10 rubles§7 = 500 coins'
+ - ' §8• §a5 rubles§7 = 1 key'
  - ' '
  - '§7Store: §elast-craft.net'
 REWARD_HOLOGRAM:

@@ -342,7 +342,7 @@ DAMAGE_CAUSE_BURN: '%s§f згорів заживо'
 DAMAGE_CAUSE_DROP_TO: '%s§f був скинутий гравцем %s'
 DAMAGE_CAUSE_DROP: '%s§f розбився насмерть'
 
-LVL_UP: '§a§l§kX§r §6§lРІВЕНЬ ПІДВИЩЕНИЙ §a§l§kX'
+LVL_UP: '§a§l§kX§r §6§lРІВЕНЬ ПІДВИЩЕНИЙ §a§l§kX§r'
 NEW_LVL: '§fВи досягли §d%s§f рівня!'
 EXP_TO_NEW_LVL: '§fДо наступного рівня потрібно §a%s§f досвіду'
 GET_REWARD: '§7Зайдіть в профіль, щоб забрати свою нагороду'

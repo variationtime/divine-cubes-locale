@@ -340,7 +340,7 @@ DAMAGE_CAUSE_BURN: '%s§f burnt alive'
 DAMAGE_CAUSE_DROP_TO: '%s§f was thrown by the player %s'
 DAMAGE_CAUSE_DROP: '%s§f crashed to death'
 
-LVL_UP: '§a§l§kX§r §6§lLEVEL UP §a§l§kX'
+LVL_UP: '§a§l§kX§r §6§lLEVEL UP §a§l§kX§r'
 NEW_LVL: '§fYou received §d%s§f level!'
 EXP_TO_NEW_LVL: '§fTo the next level you need §a%s§f exp more'
 GET_REWARD: '§7Go to the profile to get your reward'

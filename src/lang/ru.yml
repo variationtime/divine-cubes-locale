@@ -4770,6 +4770,8 @@ DAMAGE_CAUSE_KILLED_BY_SHULKER: '%s§f отправился на небеса ш
 DAMAGE_CAUSE_KILLED_BY_SHULKER_OF: '%s§f отправился на небеса шалкером игрока %s'
 DAMAGE_CAUSE_KILLED_BY_VEX: '%s§f был растерзан стаей вредин'
 DAMAGE_CAUSE_KILLED_BY_VEX_OF: '%s§f был растерзан стаей вредин игрока %s'
+DAMAGE_CAUSE_KILLED_BY_ILLUSIONER: '%s§f испытал на себе фокусы иллюзиониста'
+DAMAGE_CAUSE_KILLED_BY_ILLUSIONER_OF: '%s§f испытал на себе фокусы иллюзиониста игрока %s'
 DAMAGE_CAUSE_KILLED_BY_BLAZE: '%s§f был испепелён ифритом'
 DAMAGE_CAUSE_KILLED_BY_BLAZE_OF: '%s§f был испепелён ифритом игрока %s'
 DAMAGE_CAUSE_KILLED_BY_WOLF: '%s§f был растерзан волками'

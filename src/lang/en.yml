@@ -3116,9 +3116,9 @@ PLAYER_WAS_KICKED: '§6Anticheat §8| §fPlayer %s §fwas kicked on suspicion us
 ANSWER_FORMAT: '/ans <nickname> <answer>'
 NO_QUESTIONS_FROM_PLAYER: '§cError, player %s §cdid not ask question or him already answered'
 QUESTION_WAS_ANSWERED: 
- - '§cModeration §8| %s §7answer to the player %s §8(§a%s§8) §7-> §e%s'
+ - '§cModeration §8| %s §7answered to the player %s §8(§a%s§8) §7-> §e%s'
 QUESTION_ANSWER: 
- - '§6Question §8| §fOn your question answer %s'
+ - '§6Question §8| §fYour question was answered by %s'
  - ' §a• §fMessage: §e%s'
 NEW_QUESTION:
  - '§cModeration §8| %s §7asked a question -> §e%s'
@@ -3135,7 +3135,7 @@ QUESTION_SENT:
 QUESTIONS_GUI_MAIN: 'Player questions'
 QUESTIONS_GUI_MAIN_LORE:
  - ' '
- - '§7All question:'
+ - '§7Total questions:'
  - '§c%s'
 QUESTION_GUI_ITEM_LORE:
  - ' '
@@ -3150,7 +3150,7 @@ HOVER_TO_ANSWER: '§7Click, to answer player'
 ANSWER_HELP: '§6Question §8| §fFor answer write §a/ans %s <your message>'
 QUESTION_IS_TOO_SMALLORBIG: '§6Question §8| §fYou question must have §e6 §fи no more §c100 §fcharacters'
 ANSWER_YOU_ARE_OFFTOPPER: 'This chat designed exclusively for helping player with adequate question, remember this'
-OFFTOP_MUTE_REASON: '1.19 (Offtopic)'
+OFFTOP_MUTE_REASON: '3.8 (Offtopic)'
 ANSWER_MAKE_SCREEN: '§6Question §8| §fDo screenshot this message - §7[§e%s, §e%s§7]'
 
 BANSTAT_FORMAT: '/banstat <nickname> <start date> <end date>'
@@ -3815,9 +3815,6 @@ SPECTATOR_SETTINGS_HIDE_LORE:
   - '§7spectatos. After change'
   - '§7this settings they are hide'
   - '§7for you.'
-  - ' '
-  - '§c[!] Spectator messages in chat'
-  - '   §cwill show regardless of this setting'
   - ' '
   - '§e▸ Click to hide'
 SPECTATOR_SETTINGS_HIDING: '§6Spectating §8| §fNow you can not see other spectators'

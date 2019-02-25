@@ -3845,6 +3845,11 @@ CATEGORY_KIT_CHOOSE_LORE:
 - ' '
 - '§e▸ Нажмите, чтобы открыть'
 ITEM_CATEGORY_GUI_NAME: 'Игровые предметы'
+ITEMS_SHOP_GUI_TITLE: 'Магазин предметов'
+ITEM_MODES_AVAILABLE:
+- ' '
+- '§8§oДоступен на режимах:'
+- '§8§o%s'
 ITEM_SELECT_ALREADY:
 - ' '
 - '§e▸ Вы выбрали этот предмет'

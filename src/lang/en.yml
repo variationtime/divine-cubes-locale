@@ -3357,7 +3357,7 @@ ISLAND_DELETE_MEMBER_ERROR: '§6SkyBlock §8| §cError, this player is not membe
 ISLAND_LEAVE: '§6SkyBlock §8| §fYou leave island player %s'
 ISLAND_LEAVE_OWNER: '§6SkyBlock §8| §cError, you can not leave your island'
 ISLAND_DESTROY_COOLDOWN: '§6SkyBlock §8| §cYou can not too many do island restart, you need waiting %s'
-ISLAND_COMMAND_ADD_MONEY: '/island addmoney <amount>'
+ISLAND_COMMAND_ADD_MONEY_FORMAT: '/island addmoney <amount>'
 SKYBLOCK_CHOISED_GUI_NAME: 'Island selection'
 SKYBLOCK_UPGRADE_GUI_NAME: 'Upgrades'
 ISLAND_RESET: '§6SkyBlock §8| §fYou island was reset and recreated'

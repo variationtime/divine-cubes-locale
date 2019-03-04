@@ -4465,7 +4465,7 @@ KIT_SW_POSEIDON_LORE:
 - '§7Содержит в себе:'
 - ' §8• §7Кожаные ботинки §8(Подводная ходьба III)'
 - ' §8• §7Ведро воды §8(x5)'
-- ' §8• §7Яйцо древного стража §8(x2)'
+- ' §8• §7Яйцо стража §8(x3)'
 
 KIT_SW_RAMBO: 'Рембо'
 KIT_SW_RAMBO_LORE:
@@ -4835,6 +4835,8 @@ DAMAGE_CAUSE_KILLED_BY_VEX: '%s§f был растерзан стаей вред
 DAMAGE_CAUSE_KILLED_BY_VEX_OF: '%s§f был растерзан стаей вредин игрока %s'
 DAMAGE_CAUSE_KILLED_BY_ILLUSIONER: '%s§f испытал на себе фокусы иллюзиониста'
 DAMAGE_CAUSE_KILLED_BY_ILLUSIONER_OF: '%s§f испытал на себе фокусы иллюзиониста игрока %s'
+DAMAGE_CAUSE_KILLED_BY_GUARDIAN_OF: '%s §fопробовал на себе лазер стража игрока %s'
+DAMAGE_CAUSE_KILLED_BY_GUARDIAN: '%s §fопробовал на себе лазер стража'
 DAMAGE_CAUSE_KILLED_BY_BLAZE: '%s§f был испепелён ифритом'
 DAMAGE_CAUSE_KILLED_BY_BLAZE_OF: '%s§f был испепелён ифритом игрока %s'
 DAMAGE_CAUSE_KILLED_BY_WOLF: '%s§f был растерзан волками'

@@ -100,8 +100,8 @@ HOLO_TOP_RUSH:
 
 HOLO_INFO_LOBBY:
 - '§fClick by §6NPC§f,'
-- '§fto start the game, or'
-- '§fselected §amap§f'
+- '§fto start the game §7[LMС]§f, or'
+- '§fselected §amap §7[RMС]'
 HOLO_ONLINE_UPDATER: '§fOn the mode playing §a%s §f%s'
 HOLO_SELECTOR_GAME_CHANNEL: '§7Click to connect'
 HOLO_REPLACER_CHANNEL: '§fOn game played §a%s §f%s'

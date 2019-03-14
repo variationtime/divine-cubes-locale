@@ -4243,8 +4243,8 @@ HOLO_TOP_MONTHLY_BY_RATING:
 ITEM_ALREADY_HAVE: '§fУ вас вже є даний предмет, ви отримали §6+%s %s' 
 HOLO_INFO_LOBBY:
 - '§fКлікніть по §6NPC§f,'
-- '§fщоб почати гру'
-- '§fабо обрати §aмапу'
+- '§fщоб почати гру §7[ЛКМ]'
+- '§fабо обрати §aмапу §7[ПКМ]'
 HOLIDAY_HEAD_FOUND_TITLE: '§6§lВітаємо!'
 HOLIDAY_HEAD_FOUND_SUBTITLE: '§fВи знайшли подарунок §a%s§f/§c%s'
 HOLIDAY_HEAD_FOUND_ALL_TITLE: '§a§lЗ новим роком!'

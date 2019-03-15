@@ -394,7 +394,6 @@ PROFILE_MAIN_ITEM_PLAYER_LORE:
 - '§7Golds: §e%s'
 - '§7Level: §d%s'
 - '§7To next level: §a%s XP'
-- '§7Keys: §b%s'
 - '§7Friends: §e%s§7/§e%s'
 PROFILE_MAIN_ITEM_LEVEL_NAME: 'Leveling'
 PROFILE_MAIN_ITEM_LEVEL_LORE:

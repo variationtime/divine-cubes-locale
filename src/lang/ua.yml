@@ -395,7 +395,6 @@ PROFILE_MAIN_ITEM_PLAYER_LORE:
 - '§7Золота: §e%s'
 - '§7Рівень: §d%s'
 - '§7До наступного рівня: §a%s XP'
-- '§7Ключів: §b%s'
 - '§7Друзів: §e%s§7/§e%s'
 PROFILE_MAIN_ITEM_LEVEL_NAME: 'Рівень' 
 PROFILE_MAIN_ITEM_LEVEL_LORE: 

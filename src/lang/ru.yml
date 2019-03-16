@@ -6891,6 +6891,7 @@ GAME_KEY: '§cИгровой ключ'
 GAME_COSMETIC_KEY: '§aКосметико-игровой ключ'
 MONEY_KEY: '§dДенежный ключ'
 GROUP_KEY: '§eДонатный ключ'
+GROUP: 'Статус'
 BOX_GUI_LORE:
 - ''
 - '§7Доступных ключей: §a%s'

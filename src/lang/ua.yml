@@ -58,7 +58,7 @@ PAGE_ARROW_LORE:
 - '§7Натисніть для переходу'
 - '§7на %s сторінку'
 
-KEY_BOX: '%color%У вас %keys% %data%'
+KEY_BOX: '%sУ вас %s %s'
 BOX_NAME: 'Скриня удачі'
 BOX_SUB_NAME: '§7Натисніть, щоб відкрити'
 BOX_NO_KEY: '§cУ вас немає ключів'

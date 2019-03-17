@@ -58,7 +58,7 @@ PAGE_ARROW_LORE:
 - '§7Click to go'
 - '§7on %s page'
 
-KEY_BOX: '%color%You have %keys% %data%'
+KEY_BOX: '%sYou have %s %s'
 BOX_NAME: 'Lucky Chest'
 BOX_SUB_NAME: '§7Click to open'
 BOX_NO_KEY: '§cYou don`t have keys'

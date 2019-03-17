@@ -4814,6 +4814,8 @@ HUB_DISCORD_HOLO:
 - '§fГолосовой чат сервера §7§lDiscord'
 - '§d§lvk.cc/7BsqTk'
 
+DONT_TRY_TO_GET_OUT_OF_THE_PLAY_ZONE: '§cНе пытайтесь покинуть игровую зону!'
+
 DAMAGE_CAUSE_SUICIDE: '%s§f решил покончить жизнь самоубийством'
 DAMAGE_CAUSE_ENTITY_EXPLOSION_TO: '%s§f был взорван игроком %s'
 DAMAGE_CAUSE_ENTITY_EXPLOSION: '%s§f взорвался'
@@ -4845,7 +4847,7 @@ DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD: '%s§f был убит туманны�
 DAMAGE_CAUSE_KILLED_BY_AREA_EFFECT_CLOUD_OF: '%s§f был убит туманным зельем игрока %s'
 DAMAGE_CAUSE_KILLED_BY_WOLF_OF: '%s§f был растерзан волками игрока %s'
 DAMAGE_CAUSE_KILLED_BY_LIGHTNING: '%s§f был убит разъярённым зевсом'
-DAMAGE_CAUSE_KILLED: '%s§f умер'
+DAMAGE_CAUSE_KILLED: '%s§f решил покинуть наш мир'
 DAMAGE_CAUSE_VOID_TO: '%s§f выпал из мира, пока боролся с %s'
 DAMAGE_CAUSE_VOID: '%s§f выпал из мира'
 DAMAGE_CAUSE_KILLED_BY_ARROW_OF: '%s§f был застрелен игроком %s'

@@ -6958,12 +6958,12 @@ BOX_GUI_LORE:
 BUILDBATTLE_ANIMAL_THEME_NAME: 'Животные'
 BUILDBATTLE_ANIMAL_THEME_LORE: 
 - '§7Включается в себя множество'
-- '§7зверей, насекомых и птиц'
+- '§7зверей, насекомых и птиц ⇩'
 
 BUILDBATTLE_FOOD_THEME_NAME: 'Еда'
 BUILDBATTLE_FOOD_THEME_LORE: 
 - '§7Любите поесть, или же вы кулинар?'
-- '§7Тогда вам лучше обойти эту тему стороной..'
+- '§7Тогда вам лучше обойти эту тему стороной.. ⇩'
 
 BUILDBATTLE_ITEMS_THEME_NAME: 'Предметы'
 BUILDBATTLE_ITEMS_THEME_LORE:
@@ -6973,47 +6973,47 @@ BUILDBATTLE_ITEMS_THEME_LORE:
 BUILDBATTLE_ELECTRONIC_THEME_NAME: 'Техника'
 BUILDBATTLE_ELECTRONIC_THEME_LORE:
 - '§7Электирические и цифровые приборы'
-- '§7Строго 6+!'
+- '§7Строго 6+! ⇩'
 
 BUILDBATTLE_TRANSPORT_THEME_NAME: 'Транспорт'
 BUILDBATTLE_TRANSPORT_THEME_LORE:
 - '§7Автомобили, мотоциклы, вертолёты, а также'
-- '§7прочие прелести современности и не только'
+- '§7прочие прелести современности и не только ⇩'
 
 BUILDBATTLE_FURNITURE_THEME_NAME: 'Мебель'
 BUILDBATTLE_FURNITURE_THEME_LORE:
 - '§7То, что есть почти у каждого в комнате:'
-- '§7кровать, диван и многое другое'
+- '§7кровать, диван и многое другое ⇩'
 
 BUILDBATTLE_CLOTHES_THEME_NAME: 'Одежда'
 BUILDBATTLE_CLOTHES_THEME_LORE:
 - '§7Содержит модные, и не очень,'
-- '§7вещи всех разновидностей'
+- '§7вещи всех разновидностей ⇩'
 
 BUILDBATTLE_TOYS_THEME_NAME: 'Игрушки'
 BUILDBATTLE_TOYS_THEME_LORE:
 - '§7Игрушечные машинки, мишки и'
-- '§7другие детские мечты'
+- '§7другие детские мечты ⇩'
 
 BUILDBATTLE_BUILDINGS_THEME_NAME: 'Постройки'
 BUILDBATTLE_BUILDINGS_THEME_LORE:
 - '§7Множество зданий и построек!'
-- '§7Рекомендуется всем начинающим архитекторам'
+- '§7Рекомендуется всем начинающим архитекторам ⇩'
 
 BUILDBATTLE_NATURE_THEME_NAME: 'Природа'
 BUILDBATTLE_NATURE_THEME_LORE:
 - '§7То, что создано, разрушено природой,'
-- '§7а также её различные проявления'
+- '§7а также её различные проявления ⇩'
 
 BUILDBATTLE_CHARACTER_THEME_NAME: 'Персонажи'
 BUILDBATTLE_CHARACTER_THEME_LORE:
 - '§7Человек-Паук, Супермен, Волшебник?'
-- '§7а может быть.. пожарный и ковбой?'
+- '§7а может быть.. пожарный и ковбой? ⇩'
 
 BUILDBATTLE_WORLDS_THEME_NAME: 'Иные миры'
 BUILDBATTLE_WORLDS_THEME_LORE:
 - '§7Предметы, постройки и существа'
-- '§7из других миров: ада, рая и края'
+- '§7из других миров: ада, рая и края ⇩'
 
 BUILDBATTLE_BUILDING_END_POINTS: '§fВаша постройка набрала §a%s §fочков'
 BUILDBATTLE_START_TITLE: '§7Тема постройки - §a%s'

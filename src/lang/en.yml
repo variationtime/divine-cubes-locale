@@ -4509,3 +4509,7 @@ SITE_SHOP_ITEM_LORE_2:
 - '§cfree slot(s) in your inventory'
 - ' '
 - '§e▸ Click, to get'
+COMMON: 'Common'
+RARE: 'Rare'
+EPIC: 'Epic'
+LEGENDARY: 'Legendary'

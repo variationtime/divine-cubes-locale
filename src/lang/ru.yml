@@ -7015,3 +7015,7 @@ BUILDBATTLE_WORLDS_THEME_NAME: 'Иные миры'
 BUILDBATTLE_WORLDS_THEME_LORE:
 - '§7Предметы, постройки и существа'
 - '§7из других миров: ада, рая и края'
+COMMON: 'Обычный'
+RARE: 'Редкий'
+EPIC: 'Эпический'
+LEGENDARY: 'Легендарный'

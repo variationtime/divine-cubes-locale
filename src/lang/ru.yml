@@ -7155,7 +7155,7 @@ BUILDBATTLE_VOTING_STARTED: '§aГолосование началось'
 BUILDBATTLE_VOTING_PLAYERS: '§7Участок %s'
 BUILDBATTLE_VOTING_END_BAR: '§eДо окончания голосования за этот участок осталось §c%sс'
 BUILDBATTLE_BUILDING_COUNTDOWN: '§cОсталось %s %s'
-BUILDBATTLE_BUILDING_COUNTDOWN_CHAT: 'Голосование начнется через §a%s %s'
+BUILDBATTLE_BUILDING_COUNTDOWN_CHAT: 'Голосование начнется через §a%s §f%s'
 BUILDBATTLE_REMOVE_FLOOR_BLOCK_LORE:
 - ' '
 - '§e► ПКМ, чтобы удалить материал'

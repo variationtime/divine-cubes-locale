@@ -3759,11 +3759,13 @@ KIT_SELECTION_MESSAGE: 'Вы выбрали набор §a%s'
 PERK_SELECTION_MESSAGE: 'Вы выбрали перк §a%s'
 CAGE_SELECTION_MESSAGE: 'Вы выбрали клетку §a%s'
 BB_HEAD_SELECTION_MESSAGE: 'Вы получили голову §a%s'
+BB_EFFECT_SELECTION_MESSAGE: 'Вы получили предмет для установки эффекта §a%s §fна участок. Нажмите ПКМ на нужный блок, чтобы установить его'
 
 KIT_PURCHASE_MESSAGE: 'Вы приобрели набор §a%s §fза §a%s §f%s'
 PERK_PURCHASE_MESSAGE: 'Вы приобрели перк §a%s §fза §a%s §f%s'
 CAGE_PURCHASE_MESSAGE: 'Вы приобрели клетку §a%s §fза §a%s §f%s'
 BB_HEAD_PURCHASE_MESSAGE: 'Вы приобрели голову §a%s §fза §a%s §f%s. Теперь её можно будет использовать в игре на своем участке.'
+BB_EFFECT_PURCHASE_MESSAGE: 'Вы приобрели эффект §a%s §fза §a%s §f%s. Теперь его можно будет добавлять на свой участок в игре.'
 
 CATEGORY_BB_HEAD_SHOP_NAME: 'Покупка голов'
 CATEGORY_BB_HEAD_SHOP_LORE:

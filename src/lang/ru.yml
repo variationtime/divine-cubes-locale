@@ -3754,6 +3754,7 @@ PERK: 'перк'
 KIT: 'набор'
 CAGE: 'клетка'
 BB_HEAD: 'голова'
+BB_EFFECT: 'эффект'
 
 KIT_SELECTION_MESSAGE: 'Вы выбрали набор §a%s'
 PERK_SELECTION_MESSAGE: 'Вы выбрали перк §a%s'

@@ -3758,6 +3758,7 @@ BB_HEAD: 'голова'
 KIT_SELECTION_MESSAGE: 'Вы выбрали набор §a%s'
 PERK_SELECTION_MESSAGE: 'Вы выбрали перк §a%s'
 CAGE_SELECTION_MESSAGE: 'Вы выбрали клетку §a%s'
+BB_HEAD_SELECTION_MESSAGE: 'Вы получили голову §a%s'
 
 KIT_PURCHASE_MESSAGE: 'Вы приобрели набор §a%s §fза §a%s §f%s'
 PERK_PURCHASE_MESSAGE: 'Вы приобрели перк §a%s §fза §a%s §f%s'

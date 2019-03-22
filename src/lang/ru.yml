@@ -7851,7 +7851,7 @@ BB_HEAD_SMILE_LORE: []
 BUILDBATTLE_BANNER_PATTERN: 'Узор №%s'
 BUILDBATTLE_PLOT_CLEARED: '§fВаш участок очищен!'
 BUILDBATTLE_CLEAR_PLOT_TITLE: '§cОчистить участок'
-BUILDBATTLE_CLEAR_PLOT_TITLE_LORE:
+BUILDBATTLE_CLEAR_PLOT_LORE:
 - ' '
 - '§7Полная очистка участка'
 - '§cВнимание! Вернуть удаленные'
@@ -7861,6 +7861,7 @@ BUILDBATTLE_CLEAR_PLOT_TITLE_LORE:
 BUILDBATTLE_SOLO_CLEAR_PLOT_CONFIRMATION: '§fВы действительно хотите очистить участок? Отменить это действие будет невозможно. '
 BUILDBATTLE_TEAM_CLEAR_PLOT_CONFIRMATION: '%s §fхочет очистить участок. Согласны ли Вы сделать это? '
 BUILDBATTLE_CLEAR_PLOT_CANCELLED: '§fНикто не запрашивал очистку участка'
+BUILDBATTLE_CLEAR_PLOT_NOT_CONFIRMED: '§fВы отказались от очистки Вашего участка'
 BUILDBATTLE_CLEAR_PLOT_WAITING: '§fПожалуйста, подождите, пока Ваш тиммейт ответит на запрос об очистке участка'
 BUILDBATTLE_CLEAR_PLOT_CLICK_TO_CONFIRM: '§7Нажмите, чтобы подтвердить очистку участка'
 BUILDBATTLE_CLEAR_PLOT_CLICK_TO_DECLINE: '§7Нажмите, чтобы отказаться'

@@ -7145,6 +7145,17 @@ BUILDBATTLE_BIOME_MENU_LORE:
 - '§7Выбор биома на Вашем участке'
 - ' '
 - '§e► Нажмите, чтобы выбрать'
+BUILDBATTLE_BANNER_MENU_TITLE: 'Создание баннера'
+BUILDBATTLE_BANNER_MENU_LORE:
+- ' '
+- '§7Создание собственного баннера'
+- ' '
+- '§e► Нажмите, чтобы начать'
+BUILDBATTLE_BANNER_FINISH_NAME: '§bЗавершить создание'
+BUILDBATTLE_BANNER_FINISH_LORE:
+- '§7Кликните сюда, чтобы завершить'
+- '§7создание баннера и получить его'
+- '§7к себе в инвентарь'
 BUILDBATTLE_WEATHER_MENU_TITLE: 'Смена погоды'
 BUILDBATTLE_WEATHER_MENU_LORE:
 - ' '

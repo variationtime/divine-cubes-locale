@@ -7185,3 +7185,5 @@ COMMON: 'Обычный'
 RARE: 'Редкий'
 EPIC: 'Эпический'
 LEGENDARY: 'Легендарный'
+
+ARCADE_LOBBY_BOARD_STATS: '§7[Общая статистика побед]'

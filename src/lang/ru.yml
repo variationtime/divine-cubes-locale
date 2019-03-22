@@ -3788,6 +3788,8 @@ CATEGORY_BB_EFFECT_SHOP_LORE:
 - ' '
 - '§e▸ Нажмите, чтобы открыть магазин'
 CATEGORY_CAGE_NAME: 'Клетки'
+CATEGORY_BB_EFFECT_CHOOSE_NAME: 'Выбор эффекта'
+CATEGORY_BB_HEAD_CHOOSE_NAME: 'Выбор головы'
 CATEGORY_CAGE_CHOOSE_NAME: 'Выбор клетки'
 CATEGORY_CAGE_CHOOSE_LORE:
 - ' '

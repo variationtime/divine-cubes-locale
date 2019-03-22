@@ -7856,8 +7856,13 @@ BUILDBATTLE_CLEAR_PLOT_LORE:
 - '§7Полная очистка участка'
 - '§cВнимание! Вернуть удаленные'
 - '§cпостройки будет невозможно'
+BUILDBATTLE_CLICK_TO_CLEAR:
 - ' '
 - '§e► Нажмите, чтобы очистить участок'
+BUILDBATTLE_CANT_CLEAR:
+- ' '
+- '§c► Все участники должны подтвердить'
+- '  §cпредыдущий запрос на очистку'
 BUILDBATTLE_SOLO_CLEAR_PLOT_CONFIRMATION: '§fВы действительно хотите очистить участок? Отменить это действие будет невозможно. '
 BUILDBATTLE_TEAM_CLEAR_PLOT_CONFIRMATION: '%s §fхочет очистить участок. Согласны ли Вы сделать это? '
 BUILDBATTLE_CLEAR_PLOT_CANCELLED: '§fНикто не запрашивал очистку участка'

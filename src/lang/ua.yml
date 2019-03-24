@@ -12,12 +12,6 @@ GAMEINFO_FORMAT: '/gameinfo [канал]'
 UNKNOWN_SUBCOMMAND: '§cЦієї команди не існує О_о'
 HELP_PAPER_FOR: '§e▸ Підкоманди для %s:'
 
-BOSS_BAR_LOBBY:
-- '§fКупівля§e доната §fна сайті §7► §6§lLAST-CRAFT.COM'
-- '§c§lNEW! §fАбсолютно новий §6§lSkyBlock §c1.10+'
-- '§c§lNEW! §fВідкрили класний режим §a§lAnarchy §c1.10+'
-- '§fПовідомте про§c баг§f або§c помилку §7► §6§lLASTCRAFT.NET/FORUMS'
-
 RULES_COMMAND: '§6Cервер §8| §fПовний список правил сервера - '
 RULES_COMMAND_HOVER: '§fНатисніть сюди для\n§fпереходу на посилання'
 

@@ -7046,6 +7046,7 @@ BUILDBATTLE_WORLDS_THEME_LORE:
 - '§7из других миров: ада, рая и края ⇩'
 
 BUILDBATTLE_BUILDING_END_POINTS: '§fВаша постройка набрала §a%s §fочков'
+BUILDBATTLE_BUILDING_END_PLACE: '§fВы заняли §a%s §fместо §7(%s очков)'
 BUILDBATTLE_START_TITLE: '§7Тема постройки - §a%s'
 BUILDBATTLE_REJOIN_TITLE: '§aВы повторно вошли в игру на арене %s'
 BUILDBATTLE_BOARD_PLAYER_PLOT: 'Участок игрока:'

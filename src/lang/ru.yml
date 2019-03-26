@@ -7172,6 +7172,7 @@ BUILDBATTLE_FLOOR_LIMIT_REACHED:
 - ' '
 - '§c► Достигнут лимит блоков (21)'
 
+NONE: 'Без редкости'
 COMMON: 'Обычный'
 RARE: 'Редкий'
 EPIC: 'Эпический'

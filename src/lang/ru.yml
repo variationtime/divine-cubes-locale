@@ -132,12 +132,12 @@ HOLO_SHOP_NPC:
 - '§fПозволяет купить или улучшить'
 - '§fнаборы на данном режиме'
 HOLO_DONATE:
-- 'Абсолютно новые цены:'
-- '§e§lGOLD §f- §6120 §fРублей'
-- '§b§lDIAMOND §f- §6350 §fРублей'
-- '§a§lEMERALD §f- §6620 §fРублей'
-- '§c§lMAGMA §f- §61000 §fРублей'
-- '§%animation%§lSHULKER §f- §62250 §fРублей'
+- 'Обвал цен! Все цены снижены на §a10%!:'
+- '§e§lGOLD §f- §6§m120 §6100 §fРублей'
+- '§b§lDIAMOND §f- §6§m350 §6300 §fРублей'
+- '§a§lEMERALD §f- §6§m620 §6590 §fРублей'
+- '§c§lMAGMA §f- §6§m1000 §6900 §fРублей'
+- '§%animation%§lSHULKER §f- §6§m2250 §62100 §fРублей'
 - '§fПокупка на сайте:'
 - '§clast-craft.com'
 
@@ -565,11 +565,11 @@ GUI_HELP_ITEM_1_LORE:
 GUI_HELP_ITEM_2_NAME: '§bПривилегии'
 GUI_HELP_ITEM_2_LORE:
 - '§7Список привилегий:'
-- ' §8▪ §e§lGOLD §7- §f100(§c§m120§f) Рублей'
-- ' §8▪ §b§lDIAMOND §7- §f300(§c§m300§f) Рублей'
-- ' §8▪ §a§lEMERALD §7- §f590(§c§m620§f) Рублей'
-- ' §8▪ §c§lMAGMA §7- §f900(§c§m100§f) Рублей'
-- ' §8▪ §7§lSHULKER §7- §f2100(§c§m2250§f) Рублей'
+- ' §8▪ §e§lGOLD §7- §f100 Рублей'
+- ' §8▪ §b§lDIAMOND §7- §f300 Рублей'
+- ' §8▪ §a§lEMERALD §7- §f590 Рублей'
+- ' §8▪ §c§lMAGMA §7- §f900 Рублей'
+- ' §8▪ §7§lSHULKER §7- §f2100 Рублей'
 - ''
 - '§7Подробное описание привилегий можно'
 - '§7найти в разделе §fПрофиль ▸ Привилегии'
@@ -7351,8 +7351,6 @@ BB_HEAD_YELLOW_WOOL: 'Yellow Wool'
 BB_HEAD_YELLOW_WOOL_LORE: []
 BB_HEAD_CRACKED_STONE_BRICK: 'Cracked Stone Brick'
 BB_HEAD_CRACKED_STONE_BRICK_LORE: []
-BB_HEAD_MOSSY_STONE_BRICK: 'Mossy Stone Brick'
-BB_HEAD_MOSSY_STONE_BRICK_LORE: []
 BB_HEAD_STONE_SLAB: 'Stone Slab'
 BB_HEAD_STONE_SLAB_LORE: []
 BB_HEAD_SNOW_BLOCK: 'Snow Block'
@@ -7373,8 +7371,6 @@ BB_HEAD_END_STONE: 'End Stone'
 BB_HEAD_END_STONE_LORE: []
 BB_HEAD_MOSSY_COBBLESTONE: 'Mossy Cobblestone'
 BB_HEAD_MOSSY_COBBLESTONE_LORE: []
-BB_HEAD_BRICK: 'Brick'
-BB_HEAD_BRICK_LORE: []
 BB_HEAD_CLAY: 'Clay'
 BB_HEAD_CLAY_LORE: []
 BB_HEAD_COAL_ORE: 'Coal Ore'
@@ -7467,8 +7463,6 @@ BB_HEAD_PUMPKIN: 'Pumpkin'
 BB_HEAD_PUMPKIN_LORE: []
 BB_HEAD_STRAWBERRY: 'Strawberry'
 BB_HEAD_STRAWBERRY_LORE: []
-BB_HEAD_COCONUT: 'Coconut'
-BB_HEAD_COCONUT_LORE: []
 BB_HEAD_CARROT: 'Carrot'
 BB_HEAD_CARROT_LORE: []
 BB_HEAD_SUGARCANE: 'Sugarcane'
@@ -7503,8 +7497,6 @@ BB_HEAD_COCA_COLA_CAN: 'Coca Cola Can'
 BB_HEAD_COCA_COLA_CAN_LORE: []
 BB_HEAD_TOMATO: 'Tomato'
 BB_HEAD_TOMATO_LORE: []
-BB_HEAD_ORANGE: 'Orange'
-BB_HEAD_ORANGE_LORE: []
 BB_HEAD_GREEN_APPLE: 'Green Apple'
 BB_HEAD_GREEN_APPLE_LORE: []
 BB_HEAD_LETTUCE: 'Lettuce'
@@ -7659,8 +7651,6 @@ BB_HEAD_WITHER_BOSS: 'Wither Boss'
 BB_HEAD_WITHER_BOSS_LORE: []
 BB_HEAD_SNOWHEAD: 'Snowhead'
 BB_HEAD_SNOWHEAD_LORE: []
-BB_HEAD_SNOWHEAD: 'Snowhead'
-BB_HEAD_SNOWHEAD_LORE: []
 BB_HEAD_CLOWNFISH: 'Clownfish'
 BB_HEAD_CLOWNFISH_LORE: []
 BB_HEAD_BIRD: 'Bird'
@@ -7721,8 +7711,6 @@ BB_HEAD_PORTABLE_GRILL: 'Portable Grill'
 BB_HEAD_PORTABLE_GRILL_LORE: []
 BB_HEAD_WILSON_-_CASTAWAY: 'Wilson - Castaway'
 BB_HEAD_WILSON_-_CASTAWAY_LORE: []
-BB_HEAD_MAILBOX: 'Mailbox'
-BB_HEAD_MAILBOX_LORE: []
 BB_HEAD_SKULL: 'Skull'
 BB_HEAD_SKULL_LORE: []
 BB_HEAD_MISSING_TEXTURE: 'Missing Texture'

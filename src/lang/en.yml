@@ -109,12 +109,12 @@ HOLO_SHOP_NPC:
 - '§fAllows you to buy or improve'
 - '§fsets in this mode'
 HOLO_DONATE:
-- 'New price:'
-- '§e§lGOLD §f- §6120 §fRubbles'
-- '§b§lDIAMOND §f- §6350 §fRubbles'
-- '§a§lEMERALD §f- §6620 §fRubbles'
-- '§c§lMAGMA §f- §61000 §fRubbles'
-- '§%animation%§lSHULKER §f- §62250 §fRubbles'
+- 'Price collapse! All prices are reduced by §a10%'
+- '§e§lGOLD §f- §7§m120§f §6100 §fRubbles'
+- '§b§lDIAMOND §f- §7§m350§f §6300 §fRubbles'
+- '§a§lEMERALD §f- §7§m620§f §6590 §fRubbles'
+- '§c§lMAGMA §f- §7§m1000§f §6900 §fRubbles'
+- '§%animation%§lSHULKER §f- §7§m2250§f §62100 §fRubbles'
 - '§fBuy on site:'
 - '§clast-craft.com'
 

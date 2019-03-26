@@ -6781,6 +6781,7 @@ GAME_COSMETIC_LEVEL_ERROR:
 - '§cВНИМАНИЕ! Для использования этой вещи'
 - '§cвам нужно иметь %s уровень или любой'
 - '§cиз доступных донат-статусов!'
+GAME_COSMETIC_ALREADY_HAVE: '§fУ вас уже есть данный предмет, вы получили §6+%s %s'
 GAME_COSMETIC_MAIN_GUI_NAME: 'Косметика'
 GAME_COSMETIC_GUI_ARROW_NAME: 'Эффекты стрел'
 GAME_COSMETIC_GUI_ARROW_LORE:

@@ -3792,6 +3792,9 @@ ITEMS_GUI_DISCOUNTED_COST_FORMAT: '§7Стоимость (со скидкой): 
 ITEM_CATEGORY_GUI_NAME: 'Игровые предметы'
 ITEMS_SHOP_GUI_TITLE: 'Магазин предметов'
 
+ITEM_MODES_ALL:
+- ' '
+- '§8Доступен на всех режимах'
 ITEM_MODES_AVAILABLE:
 - ' '
 - '§8Доступен на режимах:'

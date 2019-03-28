@@ -390,6 +390,7 @@ PROFILE_MAIN_ITEM_PLAYER_LORE:
 - '§7Рівень: §d%s'
 - '§7До наступного рівня: §a%s XP'
 - '§7Друзів: §e%s§7/§e%s'
+- '§7Скин: §e%s'
 PROFILE_MAIN_ITEM_LEVEL_NAME: 'Рівень' 
 PROFILE_MAIN_ITEM_LEVEL_LORE: 
 - '§7Граючи на сервері, ви отримуєте' 

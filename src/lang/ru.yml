@@ -6954,6 +6954,33 @@ GAME_COSMETIC_124_LORE:
 GAME_COSMETIC_125_NAME: 'Черный'
 GAME_COSMETIC_125_LORE:
 - '§7Измажьте щит своей душой!'
+GAME_COSMETIC_126_NAME: 'Россия'
+GAME_COSMETIC_126_LORE:
+- '§7Путин, водка, балалайка'
+GAME_COSMETIC_127_NAME: 'Украина'
+GAME_COSMETIC_127_LORE:
+- '§7Це Европа'
+GAME_COSMETIC_128_NAME: 'Дракончик'
+GAME_COSMETIC_128_LORE:
+- '§7Опасный и общительный дракончик'
+GAME_COSMETIC_129_NAME: 'Скелет'
+GAME_COSMETIC_129_LORE:
+- '§7Портрет последнего Лорда!'
+GAME_COSMETIC_130_NAME: 'Деад Пул'
+GAME_COSMETIC_130_LORE:
+- '§7Но вы не бессмертны, нет'
+GAME_COSMETIC_131_NAME: 'Гитара'
+GAME_COSMETIC_131_LORE:
+- '§7Для музыкальных ценителей'
+GAME_COSMETIC_132_NAME: 'Сердце'
+GAME_COSMETIC_132_LORE:
+- '§7Покажите всем, как вы их любите!'
+GAME_COSMETIC_133_NAME: 'Олень'
+GAME_COSMETIC_133_LORE:
+- '§7Тот самый олень Санты!'
+GAME_COSMETIC_134_NAME: 'Покебол'
+GAME_COSMETIC_134_LORE:
+- '§7Из него выскочит Пикачу!'
 HOLO_SITESHOP:
 - '§eПредметы из онлайн магазина'
 - '§7Нажмите, чтобы открыть'

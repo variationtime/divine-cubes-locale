@@ -8094,7 +8094,7 @@ INSANE_EVENT_LUCK_DESCRIPTION: 'Каждые 45 секунд игроки пол
 INSANE_EVENT_RISE_OF_THE_DEAD: 'Восстание мертвецов'
 INSANE_EVENT_RISE_OF_THE_DEAD_DESCRIPTION: 'После смерти игрока появляется скелет в алмазной броне и с алмазным мечом'
 INSANE_EVENT_WINGS: 'Окрыление'
-INSANE_EVENT_WINGS_DESCRIPTION: 'При убийстве игрок получает Левитацию I и Сопротивление урону II на 5с.'
+INSANE_EVENT_WINGS_DESCRIPTION: 'При убийстве игрок получает Левитацию I и Сопротивление урону II на 7с.'
 INSANE_EVENT_GODS_CREATURES: 'Божьи твари'
 INSANE_EVENT_GODS_CREATURES_DESCRIPTION: 'При ударе любого моба вы получаете слепоту и слабость на 3 секунды'
 INSANE_EVENT_NURSERY: 'Питомник'

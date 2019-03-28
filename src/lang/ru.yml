@@ -6899,6 +6899,9 @@ GAME_COSMETIC_102_LORE:
 GAME_COSMETIC_103_NAME: 'Яйцемёт'
 GAME_COSMETIC_103_LORE:
 - '§7Раскидайте своих врагов их же оружием'
+GAME_COSMETIC_110_NAME: 'Красный'
+GAME_COSMETIC_110_LORE:
+- '§7Такой же красный, как кровь твоих врагов'
 HOLO_SITESHOP:
 - '§eПредметы из онлайн магазина'
 - '§7Нажмите, чтобы открыть'

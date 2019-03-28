@@ -8083,7 +8083,7 @@ BUILDBATTLE_CLEAR_PLOT_WAITING: '§fПожалуйста, подождите, п
 BUILDBATTLE_CLEAR_PLOT_CLICK_TO_CONFIRM: '§7Нажмите, чтобы подтвердить очистку участка'
 BUILDBATTLE_CLEAR_PLOT_CLICK_TO_DECLINE: '§7Нажмите, чтобы отказаться'
 
-SKYWARS_INSANE_CHOSEN_EVENTS: '§e§lВыбраны случайные игровые события'
+SKYWARS_INSANE_CHOSEN_EVENTS: '§6§lВыбраны случайные игровые события'
 
 INSANE_EVENT_LIGHTNING: 'Мощь зевса'
 INSANE_EVENT_LIGHTNING_DESCRIPTION: 'При смерти любого игрока всех других игроков бьёт молния'

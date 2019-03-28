@@ -6903,35 +6903,57 @@ GAME_COSMETIC_110_NAME: 'Красный'
 GAME_COSMETIC_110_LORE:
 - '§7Такой же красный, как кровь твоих врагов'
 GAME_COSMETIC_111_NAME: 'Белый'
-GAME_COSMETIC_111_LORE: []
+GAME_COSMETIC_111_LORE:
+- '§7Отлично подходит для маскировки зимой!'
 GAME_COSMETIC_112_NAME: 'Оранжевый'
-GAME_COSMETIC_112_LORE: []
+GAME_COSMETIC_112_LORE:
+- '§7Апельсиновый окрас придаст вам'
+- '§7кислинки в PvP'
 GAME_COSMETIC_113_NAME: 'Пурпурный'
-GAME_COSMETIC_113_LORE: []
+GAME_COSMETIC_113_LORE:
+- '§7Великолепно сделанный пурпурный щит'
 GAME_COSMETIC_114_NAME: 'Голубой'
-GAME_COSMETIC_114_LORE: []
+GAME_COSMETIC_114_LORE:
+- '§7В железной броне вы превращаетесь'
+- '§7в голубой вагон.'
 GAME_COSMETIC_115_NAME: 'Желтый'
-GAME_COSMETIC_115_LORE: []
+GAME_COSMETIC_115_LORE:
+- '§7Солнечный щит ослепит своей красотой!'
 GAME_COSMETIC_116_NAME: 'Светло-зеленый'
-GAME_COSMETIC_116_LORE: []
+GAME_COSMETIC_116_LORE:
+- '§7Не перепутайте с плодом лайма'
+- '§7Да, было и такое'
 GAME_COSMETIC_117_NAME: 'Розовый'
-GAME_COSMETIC_117_LORE: []
+GAME_COSMETIC_117_LORE:
+- '§7Самый гламурный щит'
 GAME_COSMETIC_118_NAME: 'Серый'
-GAME_COSMETIC_118_LORE: []
+GAME_COSMETIC_118_LORE:
+- '§7Щит серый, словно мышь'
+- '§7Крадитесь также незаметно!'
 GAME_COSMETIC_119_NAME: 'Серебрянный'
-GAME_COSMETIC_119_LORE: []
-GAME_COSMETIC_120_NAME: 'Морской'
-GAME_COSMETIC_120_LORE: []
+GAME_COSMETIC_119_LORE:
+- '§7Этот оттенок получился из пепла'
+- '§7Пироманта на SkyWars.'
+GAME_COSMETIC_120_NAME: 'Бирюзовый'
+GAME_COSMETIC_120_LORE:
+- '§7Если вы не можете выбрать между'
+- '§7зелёным и синим, то это для вас!'
 GAME_COSMETIC_121_NAME: 'Фиолетовый'
-GAME_COSMETIC_121_LORE: []
+GAME_COSMETIC_121_LORE:
+- '§7Роскошный щит для настоящих королей!'
 GAME_COSMETIC_122_NAME: 'Синий'
-GAME_COSMETIC_122_LORE: []
+GAME_COSMETIC_122_LORE:
+- '§7Теперь щит — море! Даже стрелы впитывает также'
 GAME_COSMETIC_123_NAME: 'Коричневый'
-GAME_COSMETIC_123_LORE: []
+GAME_COSMETIC_123_LORE:
+- '§7Надеюсь это не то, о чем мы подумали.'
 GAME_COSMETIC_124_NAME: 'Зеленый'
-GAME_COSMETIC_124_LORE: []
+GAME_COSMETIC_124_LORE:
+- '§7Говорят, зелёный цвет успокаивает'
+- '§7Проверьте на противниках'
 GAME_COSMETIC_125_NAME: 'Черный'
-GAME_COSMETIC_125_LORE: []
+GAME_COSMETIC_125_LORE:
+- '§7Измажьте щит своей душой!'
 HOLO_SITESHOP:
 - '§eПредметы из онлайн магазина'
 - '§7Нажмите, чтобы открыть'

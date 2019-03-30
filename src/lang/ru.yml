@@ -1,4 +1,4 @@
-LANGUAGE_CHANGE: '§6Сервер §8| §fВаш язык изменен на §c%s'
+REPORT_GUI_ACTION_GUILTYLANGUAGE_CHANGE: '§6Сервер §8| §fВаш язык изменен на §c%s'
 
 TOP_POSITION: '§e%s место'
 TOP_EMPTY: '%s'
@@ -2121,6 +2121,7 @@ REPORT_GUI_ACTION_INNOCENT_LORE:
 - ''
 - '§e▶ Нажмите, чтобы отклонить жалобу'
 REPORT_GUI_ACTION_GUILTY: '§cИгрок виновен'
+REPORT_GUI_ACTION_GUILTY_LORE:
 - ''
 - '§7Игрок не получит наказания. Все'
 - '§7отправители жалоб получат оповещение'

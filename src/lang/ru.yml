@@ -8086,7 +8086,7 @@ BUILDBATTLE_CLEAR_PLOT_CLICK_TO_DECLINE: '§7Нажмите, чтобы отка
 SKYWARS_INSANE_CHOSEN_EVENTS: '§6§lВыбраны случайные игровые события'
 
 INSANE_EVENT_LIGHTNING: 'Мощь зевса'
-INSANE_EVENT_LIGHTNING_DESCRIPTION: 'При смерти любого игрока всех других игроков бьёт молния'
+INSANE_EVENT_LIGHTNING_DESCRIPTION: 'При смерти игрока случайного противника бьёт молния'
 INSANE_EVENT_VEX: 'Ярость с небес'
 INSANE_EVENT_VEX_DESCRIPTION: 'Каждые 90 секунд над игроками появляются 2 вредины'
 INSANE_EVENT_LUCK: 'Любимец удачи'

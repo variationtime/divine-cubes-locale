@@ -1606,7 +1606,9 @@ WARPS_1:
 - 's'
 - 's'
 RECIPE_DISABLED: '§cThis command won`t work on this version!'
-HOVER_MESSAGE_CHAT: 'Click here, to write to a\nplayer %s §fin pm'
+HOVER_MESSAGE_CHAT:
+- '§fClick here, to write to a'
+- '§fplayer %s §fin pm'
 HOME_ITEM_EMPTY_NAME: '§cYou do not have a point of the house'
 HOME_ITEM_EMPTY_LORE:
 - '§7at the moment you have not'

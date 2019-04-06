@@ -1682,7 +1682,9 @@ WARPS_1:
 - 'ов'
 - 'ов'
 RECIPE_DISABLED: '§cНа этой версии данная команда не работает'
-HOVER_MESSAGE_CHAT: 'Нажмите сюда, чтобы написать\nигроку %s §fв лс'
+HOVER_MESSAGE_CHAT:
+- '§fНажмите сюда, чтобы написать'
+- '§fигроку %s §fв лс'
 HOME_ITEM_EMPTY_NAME: '§cУ вас нет точек дома'
 HOME_ITEM_EMPTY_LORE:
 - '§7В данный момент у вас'

@@ -1580,7 +1580,9 @@ WARPS_1:
 - 'ів'
 - 'ів'
 RECIPE_DISABLED: '§cНа цій версії дана команда не працює'
-HOVER_MESSAGE_CHAT: 'Натисніть сюди, щоб написати\nгравцю %s §fв лс'
+HOVER_MESSAGE_CHAT:
+- '§fНатисніть сюди, щоб написати'
+- '§fгравцю %s §fв лс'
 HOME_ITEM_EMPTY_NAME: '§cУ вас немає точок будинків'
 HOME_ITEM_EMPTY_LORE:
 - '§7В даний момент у вас'

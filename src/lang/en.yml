@@ -1630,9 +1630,6 @@ WARP_ITEM_LORE:
 - ' §7Y: §c%s'
 - ' §7Z: §c%s'
 - ''
-- '§7Within a radius of 30 blocks'
-- '§7from this warp §a%s §7%s'
-- ''
 - '§e▸ Click, to teleport'
 MYWARP_ITEM_LORE_PRIVATE:
 - ''

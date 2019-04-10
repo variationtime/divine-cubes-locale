@@ -22,7 +22,7 @@ NO_PERMS_SHULKER_ONLY: '§cYou do not have permissions, this function is only fo
 PLAYER_LEFT: '§fPlayer %s§f left the game'
 PING: '§6Server §8| §fYour ping is §a%s §fms'
 
-ANARCHY_KILL_MOB: '§6+%s %s for a killing mob'
+ANARCHY_KILL_MOB: '§6+%s %s for killing a mob'
 
 UNKNOWN: 'Unknown'
 ANSWER_YES: 'Yes'
@@ -42,8 +42,8 @@ HOLO_TOP_MONTHLY:
 
 JOIN_PLAYER_LO_LOBBY: ' §a‣ %s §6joined to the server'
 
-NO_FOUND_PLAYER: '§cPlayer %s§c was not found or player is offline'
-NO_NEVER_PLAYER: '§cError, player has %s never played on the server'
+NO_FOUND_PLAYER: '§cPlayer %s§c was not found or it is offline'
+NO_NEVER_PLAYER: '§cError, player has %s never play at server'
 
 PAGE_ARROW_GUI: 'page'
 PAGE_ARROW1: '§aNext page'
@@ -55,8 +55,8 @@ PAGE_ARROW_LORE:
 KEY_BOX: '%sYou have %s %s'
 BOX_NAME: 'Lucky Chest'
 BOX_SUB_NAME: '§7Click to open'
-BOX_NO_KEY: '§cYou don`t have keys'
-BOX_WORK: '§cWait... Chest scrolls!'
+BOX_NO_KEY: '§cYou do not have keys'
+BOX_WORK: '§cWait... Someone is opening the chest!'
 BOX_OPEN_YOU: '§fYou started opening a chest...'
 BOX_WINNER: '§fYou won %s§f item %s'
 BOX_WINNER_OTHER: '%s §fWon %s§f item %s'
@@ -67,8 +67,8 @@ BOX_MONEY: '§aCoins §f(§6+%s§f)'
 ENABLE: 'Enable'
 DISABLE: 'Disable'
 
-COOLDOWN: '§cWait %s§c %s before using the following'
-COOLDOWN_2: '§cWait %s before using the following'
+COOLDOWN: '§cWait %s§c %s to use that'
+COOLDOWN_2: '§cWait %s to use that'
 AFK: '§cDo not stay on the same place!'
 
 BALANCE: '§6Balance §8| §fYou have §a%s §f%s'
@@ -78,18 +78,18 @@ MESSAGE_NOT_FOUND: '§cMessage %s not found'
 NOT_BEST_SERVER: '§cNot best server'
 REDIRECT_TO_SERVER: '§aRedirect to server %s'
 
-HOLO_TOP_MAIN: '§7Click, to change'
+HOLO_TOP_MAIN: '§7Click to view another'
 HOLO_TOP_SOLO:
-- 'Top players for victories'
+- 'Player top for victories'
 - 'in solo mode'
 HOLO_TOP_DOUBLES:
-- 'Top players for victories'
+- 'Player top for victories'
 - 'in doubles mode'
 HOLO_TOP_TEAM:
-- 'Top players for victories'
+- 'Player top for victories'
 - 'in team mode'
 HOLO_TOP_RUSH:
-- 'Top players for victories'
+- 'Player top for victories'
 - 'in rush mode'
 
 HOLO_INFO_LOBBY:
@@ -107,9 +107,9 @@ HOLO_SPECTATOR_NPC:
 HOLO_SHOP_NPC:
 - '§a§lShop'
 - '§fAllows you to buy or improve'
-- '§fsets in this mode'
+- '§fkits in this mode'
 HOLO_DONATE:
-- 'Price collapse! All prices are reduced by §a10%'
+- 'Price collapse! All prices has been reduced on §a10%'
 - '§e§lGOLD §f- §7§m120§f §6100 §fRubbles'
 - '§b§lDIAMOND §f- §7§m350§f §6300 §fRubbles'
 - '§a§lEMERALD §f- §7§m620§f §6590 §fRubbles'
@@ -121,7 +121,7 @@ HOLO_DONATE:
 BOOK_RULES_NAME: '§eRules'
 BOOK_RULES_LORE:
 - '§7Use this item, to read'
-- '§7a default rules for playing'
+- '§7default rules for playing'
 - '§7on the server'
 PERK_ITEM_NAME: '§ePerks'
 PERK_ITEM_LORE:
@@ -170,7 +170,7 @@ ITEMS_LOBBY_FAST_LORE:
 - '§7maps and arenas of this mode'             
 ITEMS_LOBBY_SHOP_NAME: '§eShop'
 ITEMS_LOBBY_SHOP_LORE:
-- '§7Purchase of sets and upgrades'
+- '§7Purchase of kits and upgrades'
 - '§7as well as improvement of existing ones'
 ITEMS_LOBBY_SELECTORS_NAME: '§eLobby selector'
 ITEMS_LOBBY_SELECTORS_LORE:
@@ -184,7 +184,7 @@ SLOT_BUSY: '§cSorry, but you were moved to the lobby, your place was taken §r%
 ERROR_TELEPORT: '§cTeleportation error in the lobby'
 ONLY_DONATOR: '§cError, this arena is only for donators'
 ARENA_BUSY: '§cThe arena is full. Not enough slots? Purchase §e§lGOLD§c or higher'
-ARENA_START: '§cThe game already has started'
+ARENA_START: '§cThe game has already started'
 ARENA_RESTART: '§cServer is restarting...'
 
 JOIN_GAMER_ARENA: '%s§f joined the game (§a%s§f/§a%s§f)'
@@ -205,8 +205,8 @@ SPECTATOR_SETTINGS_SPEED: 'Speed'
 SPECTATOR_SETTINGS_NO_SPEED: 'No speed'
 SPECTATOR_SETTINGS_FLY_ON: '§aEnable always fly'
 SPECTATOR_SETTINGS_FLY_OFF: '§cDisable always fly'
-SPECTATOR_SETTINGS_HIDE: '§cHide spectator'
-SPECTATOR_SETTINGS_SHOW: '§aShow spectator'
+SPECTATOR_SETTINGS_HIDE: '§cHide spectators'
+SPECTATOR_SETTINGS_SHOW: '§aShow spectators'
 
 SPECTATOR_MENU_NAME: 'Teleporter'
 
@@ -225,9 +225,9 @@ START_TITLE_MSG: 'START'
 WELCOME_TITLE: '§fWelcome!'
 TO_START_TITLE: '§fTo start'
 
-SELECTOR_TEAM_NAME_INV: 'Team selected: %s'
+SELECTOR_TEAM_NAME_INV: 'Selected team: %s'
 SELECTOR_TEAM_PLAYERS: '§7Players:'
-SELECTOR_TEAM_NO_PLAYERS: '§7No players...'
+SELECTOR_TEAM_NO_PLAYERS: '§7There are no players...'
 
 PLAYER_ALIVE_GAME: '§fThere are §a%s§f %s alive'
 CRASH_ERROR_YOU: '§cYou can not crash yourself'
@@ -240,7 +240,7 @@ ENCHANT_TITLE: 'Enchant'
 COMPASS_MESSAGE: '§fPlayer: %s      §fDistance: '
 COMPASS_MESSAGE_SPECTATOR: '§fNearest player: %s      §fDistance: §a%s'
 COMPASS_MESSAGE_ERROR1: '§cAnother world'
-COMPASS_MESSAGE_ERROR2: '§cNo alive players'
+COMPASS_MESSAGE_ERROR2: '§cThere are no players alive'
 
 RESPAWN_TITLE: '§aRespawn'
 RESPAWN_SUBTITLE: '§7You will respawn in §c%s §7%s'
@@ -248,17 +248,17 @@ DEATH_MSG_TITLE: '§cYou died'
 
 ERROR_COMMAND: '§cError, please contact %s'
 ERROR_COMMAND_IN_GAME: '%s§cThis command is not available in the game'
-ERROR_TO_LOBBY: '§cError to teleportation in the lobby'
+ERROR_TO_LOBBY: '§cError ocured while you were being teleportated to the lobby'
 CHANNEL_NOT_FOUND: '§cChannel %s not found'
 
 YOU_REWARD_MSG: 'You reward'
-HOLO_REWARD_MONEY: 'Reward money'
+HOLO_REWARD_MONEY: 'Money earned'
 HOLO_REWARD_STATS: 'Stats'
 HOLO_REWARD_MULTIPLAY: 'Coin multiplier'
 
 START_GAME_SKYWARS_SOLO:
-- '§eYour task is to throw off all players'
-- '§eand stay on the island. Has fallen? Well, everything, you lost'
+- '§eYour task is to throw off all the players'
+- '§eand stay on the island. Has fallen? Well, that is all, you have lost''
 START_GAME_TITLE: 'Stay the last survivor'
 HOLO_CHEST_EMPTY: 'Empty'
 

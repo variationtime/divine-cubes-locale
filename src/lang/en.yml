@@ -258,7 +258,7 @@ HOLO_REWARD_MULTIPLAY: 'Coin multiplier'
 
 START_GAME_SKYWARS_SOLO:
 - '§eYour task is to throw off all the players'
-- '§eand stay on the island. Has fallen? Well, that is all, you have lost''
+- '§eand stay on the island. Has fallen? Well, that is all, you have lost'
 START_GAME_TITLE: 'Stay the last survivor'
 HOLO_CHEST_EMPTY: 'Empty'
 

@@ -2049,10 +2049,13 @@ FRIEND_GUI_MAIN_LORE:
 - ''
 - '§7Всего друзей: §a%s'
 - '§7Онлайн друзей: §a%s'
+FRIENDS_GUI_LORE:
+- '§7Уровень: §d%s'
+- '§7Гильдия: §f%s'
 FRIENDS_GUI_SERVER_LORE:
 - '§7Сейчас на сервере §e%s'
 FRIENDS_GUI_NULL_SERVER_LORE:
-- '§7Последний раз был в сети'
+- '§7Последний раз был в сети:'
 - '§e%s назад'
 REQUEST_GUI_NAME: 'Список запросов'
 FRIEND_REQUEST_GUI_LORE:

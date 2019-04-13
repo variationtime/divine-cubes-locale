@@ -3912,6 +3912,7 @@ TEAM_SELECTOR_SELECT:
 TEAM_SELECTOR_FULL:
 - ' '
 - '§c▸ В команде нет мест'
+TEAM_NAME: 'Команда'
 TEAM_SELECTED: '§fВы выбрали команду %s'
 TEAM_SELECTOR_GUI_TITLE: 'Выбор команды'
 TEAM_RED: 'Красные'

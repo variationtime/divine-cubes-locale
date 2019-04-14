@@ -855,38 +855,22 @@ GUI_DONATE_DIAMOND_ITEM_LORE:
 - ' §8▪ §7Увеличены лимиты на отправку и прием денег'
 - ' §8▪ §7Скидка §c5% §7на покупкк наборов и умений'
 - ''
-GUI_DONATE_DIAMOND_1_LORE:
+GUI_DONATE_DIAMOND_BEDWARS_LORE:
 - ''
 - ' §8▪ §7Доступны скрытые перки'
 - ' §8▪ §7Снижена задержка при респавне (§c2 сек§7)'
 - ''
-GUI_DONATE_DIAMOND_2_LORE:
+GUI_DONATE_DIAMOND_EGGWARS_LORE:
 - ''
 - ' §8▪ §7Снижена задержка при респавне (§c2 сек§7)'
 - ''
-GUI_DONATE_DIAMOND_3_LORE:
-- ''
-- ' §4✕ §7Возможности отсутствуют'
-- ''
-GUI_DONATE_DIAMOND_4_LORE:
-- ''
-- ' §8▪ §7Доступны скрытые перки'
-- ''
-GUI_DONATE_DIAMOND_5_LORE:
-- ''
-- ' §4✕ §7Возможности отсутствуют'
-- ''
-GUI_DONATE_DIAMOND_6_LORE:
-- ''
-- ' §4✕ §7Возможности отсутствуют'
-- ''
-GUI_DONATE_DIAMOND_7_LORE:
+GUI_DONATE_DIAMOND_CREARIVE_LORE:
 - ''
 - ' §8▪ §7Доступно создание участков в специальных мирах'
 - ' §8▪ §7Доступно §c2 §7варпа (§f/setwarp <название>§7)'
 - ' §8▪ §7Доступны все команды из WorldEdit и VoxelSniper:'
 - ''
-GUI_DONATE_DIAMOND_8_LORE:
+GUI_DONATE_DIAMOND_SKYBLOCK_LORE:
 - ''
 - ' §8▪ §7Открыть GUI верстака - §f/workbench'
 - ' §8▪ §7Доступна починка предметов - §f/repair'
@@ -906,16 +890,7 @@ GUI_DONATE_DIAMOND_8_LORE:
 - ' §8▪ §7Разрешено иметь до §c70 §7мобов на острове'
 - ' §8▪ §7Разрешено иметь до §c10 §7предметов на аукционе (§f/ah§7)'
 - ''
-GUI_DONATE_DIAMOND_9_LORE:
-- ''
-- ' §8▪ §7Открыть GUI верстака - §f/workbench'
-- ' §8▪ §7Восстановить голод - §f/feed'
-- ''
-GUI_DONATE_DIAMOND_10_LORE:
-- ''
-- ' §4✕ §7Возможности отсутствуют'
-- ''
-GUI_DONATE_DIAMOND_11_LORE:
+GUI_DONATE_DIAMOND_ANARCHY_LORE:
 - ''
 - ' §8▪ §7После смерти остается §f25% §7от вещей и опыта'
 - ' §8▪ §7Множитель голды от убийства мобов §fx1.2'

@@ -558,12 +558,12 @@ ITEMS_GUI_BACK_LORE:
 LEVEL_REWARD_NAME: 'Награда за %s уровень'
 LEVEL_REWARD_LORE1:
 - '§7За §d%s §7уровень вы получите:'
-- ''
+- ' '
 LEVEL_REWARD_LORE2:
-- ''
+- ' '
 - '§e▸ Получить награду'
 LEVEL_REWARD_MONEY:
-- ' §8Получить §6+%s §8%s'
+- ' §7+%s §8%s'
 LEVELING_LOAD_NAME: '§cИнформация загружается...'
 LEVELING_LOAD_LORE:
 - '§7Информация о ваших уровнях загружается'

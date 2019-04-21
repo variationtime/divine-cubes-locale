@@ -555,6 +555,9 @@ ITEMS_LOBBY_DISABLE_LORE:
 ITEMS_GUI_BACK_NAME: '§cНазад'
 ITEMS_GUI_BACK_LORE:
 - '§7Нажмите, чтобы вернуться назад'
+LEVEL_NO_LEVEL: '§cОшибка, ваш уровень слишком мал для получения данной награды!'
+LEVEL_ALLREADY_GIVE: '§cОшибка, вы уже получили данную награду!'
+LEVEL_NO_OTHER_REWARD: '§cОшибка, перед получением этой награды вы обязаны получить все предыдущие!'
 LEVEL_REWARD_NAME: 'Награда за %s уровень'
 LEVEL_REWARD_LORE1:
 - '§7За §d%s §7уровень вы получите:'

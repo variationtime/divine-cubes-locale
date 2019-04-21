@@ -434,8 +434,7 @@ PROFILE_MAIN_ITEM_LANG_LORE2:
 - '§cПереклад і мови будуть доповнюватися!' 
 - '' 
 - '§e▸ Відкрити меню мов' 
-PROFILE_MAIN_ITEM_SETTINGS_NAME: 'Налаштування' 
-PROFILE_SETTINGS_GUI_NAME: 'Налаштування' 
+PROFILE_MAIN_ITEM_SETTINGS_NAME: 'Налаштування'
 PROFILE_MAIN_ITEM_SETTINGS_LORE: 
 - '§7Персональні налаштування:'
 - '§8 ▪ §7Кров: %s'
@@ -459,7 +458,6 @@ PROFILE_DONATE_MENU_LORE:
 - '§7і багато іншого.'
 - ''
 - '§e▸ Відкрити донат меню'
-PROFILE_LANG_GUI_NAME: 'Зміна мови '
 PROFILE_LANG_ITEM_LORE1: '§7Змінити мову на %s'
 PROFILE_LANG_ITEM_LORE2: '§e▸ Натисніть, щоб змінити мову'
 PROFILE_LANG_ITEM_LORE3: '§aВибраний'

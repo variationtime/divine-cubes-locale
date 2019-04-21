@@ -435,7 +435,6 @@ PROFILE_MAIN_ITEM_LANG_LORE2:
 - ''
 - '§e▸ Open the language menu'
 PROFILE_MAIN_ITEM_SETTINGS_NAME: 'Settings'
-PROFILE_SETTINGS_GUI_NAME: 'Settings'
 PROFILE_MAIN_ITEM_SETTINGS_LORE:
 - '§7Personal settings:'
 - '§8 ▪ §7Blood: %s'
@@ -459,7 +458,6 @@ PROFILE_DONATE_MENU_LORE:
 - '§7and much more.'
 - ''
 - '§e▸ Open the donate menu'
-PROFILE_LANG_GUI_NAME: 'Switch language'
 PROFILE_LANG_ITEM_LORE1: '§7Change language to English'
 PROFILE_LANG_ITEM_LORE2: '§e▸ Click to change language'
 PROFILE_LANG_ITEM_LORE3: '§aSelected'

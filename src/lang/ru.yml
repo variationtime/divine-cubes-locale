@@ -555,6 +555,7 @@ ITEMS_LOBBY_DISABLE_LORE:
 ITEMS_GUI_BACK_NAME: '§cНазад'
 ITEMS_GUI_BACK_LORE:
 - '§7Нажмите, чтобы вернуться назад'
+LEVEL_REWARD_NAME: 'Награда за %s уровень'
 LEVELING_LOAD_NAME: '§cИнформация загружается...'
 LEVELING_LOAD_LORE:
 - '§7Информация о ваших уровнях загружается'

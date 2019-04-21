@@ -562,7 +562,7 @@ LEVEL_REWARD_LORE1:
 LEVEL_REWARD_LORE2:
 - ' '
 - '§e▸ Получить награду'
-LEVEL_REWARD_MONEY:
+LEVEL_REWARD_OTHER:
 - ' §7+%s §8%s'
 LEVELING_LOAD_NAME: '§cИнформация загружается...'
 LEVELING_LOAD_LORE:

@@ -8045,3 +8045,17 @@ QUEST_WEEKLY_DESCRIPTION_LORE: []
 QUEST_MONTHLY: 'Ежемесячное задание'
 QUEST_MONTHLY_DESCRIPTION: '§bЕжемесячные задания'
 QUEST_MONTHLY_DESCRIPTION_LORE: []
+
+SKYWARS_GAMES_QUEST: 'Сыграть на SkyWars'
+SKYWARS_WINS_QUEST_NORMAL: 'Победить на SkyWars Normal'
+SKYWARS_WINS_QUEST_INSANE: 'Победить на SkyWars Insane'
+SKYWARS_WINS_QUEST_ALL: 'Победить на SkyWars'
+SKYWARS_MOB_KILLS_QUEST: 'Убить любых мобов'
+SKYWARS_EVENT_TNTRAINEVENT_QUEST: 'Дожить до финала'
+SKYWARS_EVENT_ENDEFFECTSEVENT_QUEST: 'Пережить 2-ой этап финала'
+SKYWARS_KILLS_QUEST_DEFAULT: 'Убить игроков'
+SKYWARS_KILLS_QUEST_BOW: 'Убить игроков из лука'
+SKYWARS_KILLS_QUEST_HIT: 'Убить игроков ударами'
+SKYWARS_KILLS_QUEST_FALL: 'Скинуть игроков в бездну'
+SKYWARS_KILLS_QUEST_EXPLOSION: 'Взорвать игроков'
+SKYWARS_CHESTS_QUEST: 'Облутать сундуки'

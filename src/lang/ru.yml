@@ -8012,3 +8012,34 @@ INSANE_EVENT_DISARMAMENT: 'Обезоруживание'
 INSANE_EVENT_DISARMAMENT_DESCRIPTION: 'После смерти все игроки в радиусе 7 блоков получают Слабость III на 4с.'
 INSANE_EVENT_HUNTER_MARK: 'Метка охотника'
 INSANE_EVENT_HUNTER_MARK_DESCRIPTION: 'При попадании из лука вы получаете Регенерацию II и Скорость I на 7с.'
+
+QUEST_ALREADY_STARTED: '§cОшибка, для начала выполнения следующего задания Вы должны закончить предыдущее'
+QUEST_STARTED: '§6Задания §8| §fВы начали выполнять задание. За прогрессом Вы можете следить в меню всех заданий. Вы сможете начать следующее, как только закончите выполнение этого'
+
+QUEST_GUI_QUEST_REWARDS: '§7Награда за выполнение:'
+QUEST_GUI_QUEST_START_MESSAGE:
+- ' '
+- '§e► Нажмите, чтобы взять задание'
+QUEST_GUI_QUEST_ALREADY_STARTED:
+- ' '
+- '§c► Вы уже взяли другое задание'
+QUEST_GUI_QUEST_PROGRESS_MESSAGE: 
+- ' '
+- '§7Прогресс: §6%s/§a%s'
+QUEST_GUI_QUEST_COMPLETED:
+- ' '
+- '§7Осталось времени на выполнение:'
+- '§c%s'
+QUEST_GUI_QUEST_COMPLETED:
+- ' '
+- '§c► Это задание уже выполнено'
+
+QUEST_DAILY: 'Ежедневное задание'
+QUEST_DAILY_DESCRIPTION: '§bЕжедневные задания'
+QUEST_DAILY_DESCRIPTION_LORE: []
+QUEST_WEEKLY: 'Еженедельное задание'
+QUEST_WEEKLY_DESCRIPTION: '§bЕженедельные задания'
+QUEST_WEEKLY_DESCRIPTION_LORE: []
+QUEST_MONTHLY: 'Ежемесячное задание'
+QUEST_MONTHLY_DESCRIPTION: '§bЕжемесячные задания'
+QUEST_MONTHLY_DESCRIPTION_LORE: []

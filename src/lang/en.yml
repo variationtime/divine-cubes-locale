@@ -1412,7 +1412,9 @@ REJOIN_TO_BE_PREMIUM:
 - '§6License §8| §f Reconnect to the server from a licensed account, to activate this option'
 - '§6License §8| §fIf after §c2 §fminutes, you will not go from §alic. account§f, then login will again available be pirate account'
 PLEASE_SETUP_EMAIL: §c⚠ Warning! §fYou did not bind §cemail §fto your account, do this right now - §e/email
-PLEASE_SETUP_EMAIL_HOVER: '§fClick here ,\n§fto add a mail'
+PLEASE_SETUP_EMAIL_HOVER:
+- '§fClick here ,'
+- '§fto add a mail'
 INVALID_PASSWORD_LENGTH: §cThis password is short or very long 
 PASSWORDS_MISMATCH: §cError, this passwords do not match!
 PASSWORD_HAS_BEEN_CHANGED: §eYou password was successfully changed

@@ -549,8 +549,6 @@ GUI_HELP_ITEM_5_LORE:
 - ''
 - '§cATTENTION! We are using'
 - '§cely.by skin system'
-- ''
-- '§7Available for §b§lDIAMOND §7and higher'
 GUI_HELP_ITEM_6_NAME: '§bCommunication'
 GUI_HELP_ITEM_6_LORE:
 - '§7If you want to write a specific'

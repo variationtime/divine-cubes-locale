@@ -4560,7 +4560,8 @@ PERK_SW_INSANE_SPARTAN_LORE:
 PERK_SW_INSANE_ENDERMAN: 'Эндермен' 
 PERK_SW_INSANE_ENDERMAN_LORE: 
 - ''
-- '§7При убийстве вы получаете Жемчуг эндера'
+- '§7За каждое второе убийство игрока'
+- '§7Вы получаете Жемчуг эндера'
 
 CAGE_SW_WOOD: 'Деревянная'
 CAGE_SW_WOOD_LORE: []
@@ -4625,7 +4626,6 @@ STAT_ENTRY: ' §8▪ §7%s: §a%s'
 GAMES_STAT: 'Игр сыграно'
 KILLS_STAT: 'Убийств'
 FINAL_KILLS_STAT: 'Финальных убийств'
-ASSISTS_STAT: 'Совместных убийств'
 WINS_STAT: 'Побед'
 RATING_STAT: 'Рейтинг'
 BEST_TIME_STAT: 'Лучшее время'

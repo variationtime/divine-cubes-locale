@@ -8013,39 +8013,6 @@ INSANE_EVENT_DISARMAMENT_DESCRIPTION: 'После смерти все игрок
 INSANE_EVENT_HUNTER_MARK: 'Метка охотника'
 INSANE_EVENT_HUNTER_MARK_DESCRIPTION: 'При попадании из лука вы получаете Регенерацию II и Скорость I на 7с.'
 
-QUESTS_GUI_TITLE: 'Задания'
-
-QUEST_ALREADY_STARTED: '§cОшибка, для начала выполнения следующего задания Вы должны закончить предыдущее'
-QUEST_STARTED: '§6Задания §8| §fВы начали выполнять задание. За прогрессом Вы можете следить в меню всех заданий. Вы сможете начать следующее, как только закончите выполнение этого'
-
-QUEST_GUI_QUEST_REWARDS: '§7Награда за выполнение:'
-QUEST_GUI_QUEST_START_MESSAGE:
-- ' '
-- '§e► Нажмите, чтобы взять задание'
-QUEST_GUI_QUEST_ALREADY_STARTED:
-- ' '
-- '§c► Вы уже взяли другое задание'
-QUEST_GUI_QUEST_PROGRESS_MESSAGE: 
-- ' '
-- '§7Прогресс: %s §6%s§7/§a%s' 
-QUEST_GUI_QUEST_TIME:
-- ' '
-- '§7Осталось времени на выполнение:'
-- '§c%s'
-QUEST_GUI_QUEST_COMPLETED:
-- ' '
-- '§c► Это задание уже выполнено'
-
-QUEST_DAILY: 'Ежедневное задание'
-QUEST_DAILY_DESCRIPTION: '§bЕжедневные задания'
-QUEST_DAILY_DESCRIPTION_LORE: []
-QUEST_WEEKLY: 'Еженедельное задание'
-QUEST_WEEKLY_DESCRIPTION: '§bЕженедельные задания'
-QUEST_WEEKLY_DESCRIPTION_LORE: []
-QUEST_MONTHLY: 'Ежемесячное задание'
-QUEST_MONTHLY_DESCRIPTION: '§bЕжемесячные задания'
-QUEST_MONTHLY_DESCRIPTION_LORE: []
-
 SKYWARS_GAMES_QUEST: 'Сыграть на SkyWars'
 SKYWARS_WINS_QUEST_NORMAL: 'Победить на SkyWars Normal'
 SKYWARS_WINS_QUEST_INSANE: 'Победить на SkyWars Insane'
@@ -8059,3 +8026,17 @@ SKYWARS_KILLS_QUEST_HIT: 'Убить игроков ударами'
 SKYWARS_KILLS_QUEST_FALL: 'Скинуть игроков в бездну'
 SKYWARS_KILLS_QUEST_EXPLOSION: 'Взорвать игроков'
 SKYWARS_CHESTS_QUEST: 'Облутать сундуки'
+
+GAME_SHOP_ICON_LORE:
+- ''
+- '§e▸ Нажмите, чтобы открыть меню'
+BLOCK_SHOP: 'Блоки'
+ARMOR_SHOP: 'Броня'
+TOOL_SHOP: 'Инструменты'
+SWORD_SHOP: 'Оружие'
+POTION_SHOP: 'Зелья'
+OTHER_SHOP: 'Разное'
+GAME_SHOP_GUI_NAME: 'Магазин'
+GAME_SHOP_NPC_HOLO:
+- '§eМагазин'
+- '§fНажмите, чтобы открыть!'

@@ -8032,8 +8032,10 @@ SKYWARS_KILLS_QUEST_FALL: 'Скинуть игроков в бездну'
 SKYWARS_KILLS_QUEST_EXPLOSION: 'Взорвать игроков'
 SKYWARS_CHESTS_QUEST: 'Облутать сундуки'
 
-SKIN_BW_RICARDO_NAME: 'Рикардо Милос'
-SKIN_BW_RICARDO_LORE: []
+SKIN_BW_RICARDO: 'Рикардо Милос'
+SKIN_BW_RICARDO_LORE:
+- ''
+- '§7Просто нереальный флекс :/'
 
 GAME_SHOP_ICON_LORE:
 - ''

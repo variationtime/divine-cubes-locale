@@ -8032,6 +8032,9 @@ SKYWARS_KILLS_QUEST_FALL: 'Скинуть игроков в бездну'
 SKYWARS_KILLS_QUEST_EXPLOSION: 'Взорвать игроков'
 SKYWARS_CHESTS_QUEST: 'Облутать сундуки'
 
+SKIN_BW_RICARDO_NAME: 'Рикардо Милос'
+SKIN_BW_RICARDO_LORE: []
+
 GAME_SHOP_ICON_LORE:
 - ''
 - '§e▸ Нажмите, чтобы открыть меню'

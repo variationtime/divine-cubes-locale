@@ -3673,6 +3673,7 @@ CAGE: 'клетка'
 BB_HEAD: 'голова'
 BB_EFFECT: 'эффект'
 
+SKIN_SELECTION_MESSAGE: 'Вы выбрали скин §a%s'
 KIT_SELECTION_MESSAGE: 'Вы выбрали набор §a%s'
 PERK_SELECTION_MESSAGE: 'Вы выбрали перк §a%s'
 CAGE_SELECTION_MESSAGE: 'Вы выбрали клетку §a%s'

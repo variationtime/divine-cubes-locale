@@ -3777,6 +3777,11 @@ CATEGORY_CAGE_LORE:
 - '§7Это легко исправить! Выбери свою новую'
 - '§7клетку прямо сейчас, чтобы выделяться'
 - '§7среди других игроков'
+CATEGORY_SKIN_NAME: 'Скины'
+CATEGORY_SKIN_LORE:
+- ' '
+- '§7Позволяет заменить дефолтный скин'
+- '§7магазина (NPC)'
 CATEGORY_PERK_NAME: 'Перки'
 CATEGORY_PERK_LORE:
 - ' '
@@ -8033,6 +8038,7 @@ GAME_SHOP_ICON_LORE:
 BLOCK_SHOP: 'Блоки'
 ARMOR_SHOP: 'Броня'
 TOOL_SHOP: 'Инструменты'
+BOW_SHOP: 'Луки'
 SWORD_SHOP: 'Оружие'
 POTION_SHOP: 'Зелья'
 OTHER_SHOP: 'Разное'

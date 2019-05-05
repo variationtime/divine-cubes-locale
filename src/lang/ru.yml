@@ -8075,11 +8075,11 @@ BW_BLOCK_SHOP: 'Блоки'
 BW_BLOCK_SHOP_LORE:
 - ''
 - '§7Покупка блоков, '
-- 'сундуков и других вещей'
+- '§7сундуков и других вещей'
 - ''
 - '§e▸ Нажмите, чтобы открыть меню'
 BW_ARMOR_SHOP: 'Броня'
-ARMOR_SHOP_LORE:
+BW_ARMOR_SHOP_LORE:
 - ''
 - '§7Покупка брони'
 - ''
@@ -8121,7 +8121,7 @@ GAME_SHOP_NPC_HOLO:
 - '§fНажмите, чтобы открыть!'
 
 SANDSTONE: 'Песчаник'
-ENDERSTONE: 'Эндерняк'
+ENDER_STONE: 'Эндерняк'
 WEB: 'Паутина'
 LADDER: 'Лестница'
 SANDSTONE_STAIRS: 'Ступеньки из песчаника'
@@ -8142,14 +8142,14 @@ JUMP_POTION: 'Зелье прыгучести'
 STRENGTH_POTION: 'Зелье силы'
 
 BW_SHOP_HOME_TELEPORT: 'Телепортация на базу'
-BW_SHOP_HOME_TELEPORT:
+BW_SHOP_HOME_TELEPORT_LORE:
 - ''
 - ' §8▪ §7Телепортация на базу §8x1'
 - ''
 - '§7§oПри нажатии ПКМ вас'
 - '§7§oтелепортирует на базу'
 BW_SHOP_PLATFORM: 'Платформа'
-BW_SHOP_PLATFORM:
+BW_SHOP_PLATFORM_LORE:
 - ''
 - ' §8▪ §7Платформа §8x1'
 - ''
@@ -8157,7 +8157,7 @@ BW_SHOP_PLATFORM:
 - '§7§oспасательная платформа на'
 - '§7§o10 секунд'
 BW_SHOP_IRON_GOLEM: 'Железный голем'
-BW_SHOP_IRON_GOLEM:
+BW_SHOP_IRON_GOLEM_LORE:
 - ''
 - ' §8▪ §7Железный голем §8x1'
 - ''
@@ -8165,7 +8165,7 @@ BW_SHOP_IRON_GOLEM:
 - '§7§oжелезный голем, который защищает'
 - '§7§oВашу базу от врагов'
 BW_SHOP_COMPASS: 'Локатор'
-BW_SHOP_COMPASS:
+BW_SHOP_COMPASS_LORE:
 - ''
 - ' §8▪ §7Компас §8x1'
 - ''
@@ -8173,74 +8173,74 @@ BW_SHOP_COMPASS:
 - '§7§oили тиммейта'
 
 BW_SHOP_STICK: 'Палка'
-BW_SHOP_STICK:
+BW_SHOP_STICK_LORE:
 - ''
 - '§8▪ §7Палка §8(Отдача I)'
 BW_SHOP_SWORD_LVL_1: 'Меч'
-BW_SHOP_SWORD_LVL_1:
+BW_SHOP_SWORD_LVL_1_LORE:
 - ''
 - '§8▪ §7Деревянный меч §8(Отдача I)'
 BW_SHOP_SWORD_LVL_2: 'Золотой меч I'
-BW_SHOP_SWORD_LVL_2:
+BW_SHOP_SWORD_LVL_2_LORE:
 - ''
 - '§8▪ §7Золотой меч §8(Острота I, Прочность I)'
 BW_SHOP_SWORD_LVL_3: 'Золотой меч II'
-BW_SHOP_SWORD_LVL_3:
+BW_SHOP_SWORD_LVL_3_LORE:
 - ''
 - '§8▪ §7Золотой меч §8(Острота IV, Прочность I)'
 BW_SHOP_SWORD_LVL_4: 'Железный меч'
-BW_SHOP_SWORD_LVL_4:
+BW_SHOP_SWORD_LVL_4_LORE:
 - ''
 - '§8▪ §7Железный меч §8(Острота IV, Прочность I, Отдача I)'
 BW_SHOP_LEATHER_HELMET: 'Кожаный шлем'
-BW_SHOP_LEATHER_HELMET:
+BW_SHOP_LEATHER_HELMET_LORE:
 - ''
 - ' §8▪ §7Кожаный шлем §8(Защита I, Прочность I)'
 BW_SHOP_LEATHER_LEGGINGS: 'Кожаные штаны'
-BW_SHOP_LEATHER_LEGGINGS:
+BW_SHOP_LEATHER_LEGGINGS_LORE:
 - ''
 - ' §8▪ §7Кожаные штаны §8(Защита I, Прочность I)'
 BW_SHOP_LEATHER_BOOTS: 'Кожаные ботинки'
-BW_SHOP_LEATHER_BOOTS:
+BW_SHOP_LEATHER_BOOTS_LORE:
 - ''
 - ' §8▪ §7Кожаные ботинки §8(Защита I, Прочность I)'
 BW_SHOP_ARMOR_LVL_1: 'Кольчужный нагрудник'
-BW_SHOP_ARMOR_LVL_1:
+BW_SHOP_ARMOR_LVL_1_LORE:
 - ''
 - ' §8▪ §7Кольчужный нагрудник §8(Защита I, Прочность I)'
 BW_SHOP_ARMOR_LVL_2: 'Кольчужный нагрудник II'
-BW_SHOP_ARMOR_LVL_2:
+BW_SHOP_ARMOR_LVL_2_LORE:
 - ''
 - ' §8▪ §7Кольчужный нагрудник §8(Защита II, Прочность I)'
 BW_SHOP_ARMOR_LVL_3: 'Кольчужный нагрудник III'
-BW_SHOP_ARMOR_LVL_3:
+BW_SHOP_ARMOR_LVL_3_LORE:
 - ''
 - ' §8▪ §7Кольчужный нагрудник §8(Защита III, Прочность I)'
 BW_SHOP_ARMOR_LVL_4: 'Кольчужный нагрудник IV'
-BW_SHOP_ARMOR_LVL_4:
+BW_SHOP_ARMOR_LVL_4_LORE:
 - ''
 - ' §8▪ §7Кольчужный нагрудник §8(Защита от снарядов IV, Прочность I)'
 BW_SHOP_WOOD_PICKAXE: 'Деревянная кирка'
-BW_SHOP_WOOD_PICKAXE:
+BW_SHOP_WOOD_PICKAXE_LORE:
 - ''
 - ' §8▪ §7Деревянная кирка §8(Эффективность I, Прочность I)'
 BW_SHOP_STONE_PICKAXE: 'Каменная кирка'
-BW_SHOP_STONE_PICKAXE:
+BW_SHOP_STONE_PICKAXE_LORE:
 - ''
 - ' §8▪ §7Каменная кирка §8(Эффективность I, Прочность I)'
 BW_SHOP_IRON_PICKAXE: 'Железная кирка'
-BW_SHOP_IRON_PICKAXE:
+BW_SHOP_IRON_PICKAXE_LORE:
 - ''
 - ' §8▪ §7Железная кирка §8(Эффективность III, Прочность I)'
 BW_SHOP_BOW_LVL_1: 'Лук I'
-BW_SHOP_BOW_LVL_1:
+BW_SHOP_BOW_LVL_1_LORE:
 - ''
 - ' §8▪ §7Лук §8(Бесконечность I)'
 BW_SHOP_BOW_LVL_2: 'Лук II'
-BW_SHOP_BOW_LVL_2:
+BW_SHOP_BOW_LVL_2_LORE:
 - ''
 - ' §8▪ §7Лук §8(Бесконечность I, Сила I)'
 BW_SHOP_BOW_LVL_3: 'Лук III'
-BW_SHOP_BOW_LVL_3:
+BW_SHOP_BOW_LVL_3_LORE:
 - ''
 - ' §8▪ §7Лук §8(Бесконечность I, Сила II, Откидывание I)'

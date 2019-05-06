@@ -8058,6 +8058,9 @@ BW_GOLD:
 - 'а'
 - 'а'
 
+BW_NO_PLACE_SPAWN: '§cСтавить блоки рядом с местом респавна запрещено'
+BW_BREAK_YOUR_BED: '§cВы не можете сломать кровать вашей команды!'
+
 GAME_SHOP_GUI_NAME: 'Магазин'
 GAME_SHOP_NPC_HOLO:
 - '§eМагазин'

@@ -8046,12 +8046,31 @@ INSANE_EVENT_DISARMAMENT_DESCRIPTION: 'После смерти все игрок
 INSANE_EVENT_HUNTER_MARK: 'Метка охотника'
 INSANE_EVENT_HUNTER_MARK_DESCRIPTION: 'При попадании из лука вы получаете Регенерацию II и Скорость I на 7с.'
 
+GAME_SHOP_GUI_NAME: 'Магазин'
+GAME_SHOP_NPC_HOLO:
+  - '§eМагазин'
+  - '§fНажмите, чтобы открыть!'
+GAME_SHOP_GUI_ITEMS_FIRST_LORE:
+  - ''
+  - '§8Предметы:'
+GAME_SHOP_GUI_ITEMS_SECOND_LORE:
+  - ''
+  - '§7Цена: %s %s'
+  - ''
+  - '§8Нажмите SHIFT чтобы купить предметы'
+  - '§8на все свои ресурсы'
+  - ' '
+GAME_SHOP_NO_SLOTS: '§cУ вас недостаточно места в инвентаре!'
+GAME_SHOP_GUI_ITEMS_NO_ITEMS: '§cУ вас недостаточно ресурсов!'
+GAME_SHOP_GUI_ITEMS_BUY: '§e▸ Нажмите, чтобы купить'
+GAME_REJOIN: '§fВы перезашли в игру'
+
 BW_GAME_STARTED_SUBTITLE: '§7Защитите свои кровати!'
 
 BW_BED_BREAK_TITLE: '§cВаша кровать сломана'
 BW_BED_BREAK_SUBTITLE: '§7Вы больше не сможете возрождаться'
-BW_PLAYER_BREAK_BED: 'Кровать команды %s §f была сломана игроком %s'
-BW_PLAYER_EXPLODE_BED: 'Кровать команды %s §f была взорвана игроком %s'
+BW_PLAYER_BREAK_BED: 'Кровать команды %s§f была сломана игроком %s'
+BW_PLAYER_EXPLODE_BED: 'Кровать команды %s§f была взорвана игроком %s'
 
 BW_BRONZE:
 - 'бронз'
@@ -8075,24 +8094,6 @@ BW_TELEPORT_TIME: '§fТелепортация через §a%s §f%s'
 BW_NO_TELEPORT: '§cТелепортация отменена, Вы двинулись'
 BW_NO_PLACE_SPAWN: '§cСтавить блоки рядом с местом респавна запрещено'
 BW_BREAK_YOUR_BED: '§cВы не можете сломать кровать вашей команды!'
-
-GAME_SHOP_GUI_NAME: 'Магазин'
-GAME_SHOP_NPC_HOLO:
-- '§eМагазин'
-- '§fНажмите, чтобы открыть!'
-GAME_SHOP_GUI_ITEMS_FIRST_LORE:
-- ''
-- '§8Предметы:'
-GAME_SHOP_GUI_ITEMS_SECOND_LORE:
-- ''
-- '§7Цена: %s %s'
-- ''
-- '§8Нажмите SHIFT чтобы купить предметы'
-- '§8на все свои ресурсы'
-- ' '
-GAME_SHOP_NO_SLOTS: '§cУ вас недостаточно места в инвентаре!'
-GAME_SHOP_GUI_ITEMS_NO_ITEMS: '§cУ вас недостаточно ресурсов!'
-GAME_SHOP_GUI_ITEMS_BUY: '§e▸ Нажмите, чтобы купить'
 
 SKIN_BW_RICARDO: 'Рикардо Милос'
 SKIN_BW_RICARDO_LORE:

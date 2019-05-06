@@ -8071,7 +8071,8 @@ GAME_SHOP_GUI_ITEMS_SECOND_LORE:
 - ''
 - '§8Нажмите SHIFT чтобы купить предметы'
 - '§8на все свои ресурсы'
-- ''
+- ' '
+GAME_SHOP_NO_SLOTS: '§cУ вас недостаточно места в инвентаре!'
 GAME_SHOP_GUI_ITEMS_NO_ITEMS: '§cУ вас недостаточно ресурсов!'
 GAME_SHOP_GUI_ITEMS_BUY: '§e▸ Нажмите, чтобы купить'
 

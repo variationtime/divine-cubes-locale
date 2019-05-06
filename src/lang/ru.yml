@@ -8067,10 +8067,13 @@ GAME_SHOP_GUI_ITEMS_FIRST_LORE:
 - '§8Предметы:'
 GAME_SHOP_GUI_ITEMS_SECOND_LORE:
 - ''
+- '§7Цена: %s %s'
+- ''
 - '§8Нажмите SHIFT чтобы купить предметы'
 - '§8на все свои ресурсы'
 - ''
-GAME_SHOP_GUI_ITEMS_NO_ITEMS: ''
+GAME_SHOP_GUI_ITEMS_NO_ITEMS: '§cУ вас недостаточно ресурсов!'
+GAME_SHOP_GUI_ITEMS_BUY: '§e▸ Нажмите, чтобы купить'
 
 SKIN_BW_RICARDO: 'Рикардо Милос'
 SKIN_BW_RICARDO_LORE:

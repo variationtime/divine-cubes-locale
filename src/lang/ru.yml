@@ -815,6 +815,7 @@ GUI_DONATE_GOLD_ITEM_LORE:
 - ' §8▪ §7Множитель монет §fx1.5'
 - ' §8▪ §7Можно иметь до §c30 §7друзей'
 - ' §8▪ §7Доступен запуск салюта - §f/fw'
+- ' §8▪ §7Доступен чат донатеров - §f/dc'
 - ''
 GUI_DONATE_GOLD_CREATIVE_LORE:
 - ''
@@ -862,6 +863,7 @@ GUI_DONATE_DIAMOND_ITEM_LORE:
 - ' §8▪ §7Множитель монет §fx1.5'
 - ' §8▪ §7Есть доступ к донат меню - §f/dm'
 - ' §8▪ §7Доступен запуск салюта - §f/fw'
+- ' §8▪ §7Доступен чат донатеров - §f/dc'
 - ' §8▪ §7Можно иметь до §c40 §7друзей'
 - ' §8▪ §7Сниженная комиссия при переводе денег §f10%'
 - ' §8▪ §7Увеличены лимиты на отправку и прием денег'
@@ -932,6 +934,7 @@ GUI_DONATE_EMERALD_ITEM_LORE:
 - ' §8▪ §7Множитель монет §fx1.75'
 - ' §8▪ §7Есть доступ к донат меню - §f/dm'
 - ' §8▪ §7Доступен запуск салюта - §f/fw'
+- ' §8▪ §7Доступен чат донатеров - §f/dc'
 - ' §8▪ §7Можно иметь до §c50 §7друзей'
 - ' §8▪ §7Сниженная комиссия при переводе денег §f10%'
 - ' §8▪ §7Увеличены лимиты на отправку и прием денег'
@@ -1008,6 +1011,7 @@ GUI_DONATE_MAGMA_ITEM_LORE:
 - ' §8▪ §7Приятная музыка в лобби ожидания игры'
 - ' §8▪ §7Множитель монет §fx2.0'
 - ' §8▪ §7Есть доступ к донат меню - §f/dm'
+- ' §8▪ §7Доступен чат донатеров - §f/dc'
 - ' §8▪ §7Возможность смотреть чужую статистику - §f/stats <ник>'
 - ' §8▪ §7Доступен запуск салюта - §f/fw'
 - ' §8▪ §7Можно иметь до §c65 §7друзей'
@@ -1097,6 +1101,7 @@ GUI_DONATE_SHULKER_ITEM_LORE:
 - ' §8▪ §7Приятная музыка в лобби ожидания игры'
 - ' §8▪ §7Множитель монет §fx2.0'
 - ' §8▪ §7Есть доступ к донат меню - §f/dm'
+- ' §8▪ §7Доступен чат донатеров - §f/dc'
 - ' §8▪ §7Возможность смотреть чужую статистику - §f/stats <ник>'
 - ' §8▪ §7Доступен запуск салюта - §f/fw'
 - ' §8▪ §7Можно иметь до §c65 §7друзей'
@@ -8035,19 +8040,37 @@ INSANE_EVENT_DISARMAMENT_DESCRIPTION: 'После смерти все игрок
 INSANE_EVENT_HUNTER_MARK: 'Метка охотника'
 INSANE_EVENT_HUNTER_MARK_DESCRIPTION: 'При попадании из лука вы получаете Регенерацию II и Скорость I на 7с.'
 
-SKYWARS_GAMES_QUEST: 'Сыграть на SkyWars'
-SKYWARS_WINS_QUEST_NORMAL: 'Победить на SkyWars Normal'
-SKYWARS_WINS_QUEST_INSANE: 'Победить на SkyWars Insane'
-SKYWARS_WINS_QUEST_ALL: 'Победить на SkyWars'
-SKYWARS_MOB_KILLS_QUEST: 'Убить любых мобов'
-SKYWARS_EVENT_TNTRAINEVENT_QUEST: 'Дожить до финала'
-SKYWARS_EVENT_ENDEFFECTSEVENT_QUEST: 'Пережить 2-ой этап финала'
-SKYWARS_KILLS_QUEST_DEFAULT: 'Убить игроков'
-SKYWARS_KILLS_QUEST_BOW: 'Застрелить игроков'
-SKYWARS_KILLS_QUEST_HIT: 'Убить игроков ударами'
-SKYWARS_KILLS_QUEST_FALL: 'Скинуть игроков в бездну'
-SKYWARS_KILLS_QUEST_EXPLOSION: 'Взорвать игроков'
-SKYWARS_CHESTS_QUEST: 'Облутать сундуки'
+BW_GAME_STARTED_SUBTITLE: '§7Защитите свои кровати!'
+
+BW_BRONZE:
+- 'бронз'
+- 'а'
+- 'ы'
+- 'ы'
+BW_IRON:
+- 'желез'
+- 'о'
+- 'а'
+- 'а'
+BW_GOLD:
+- 'золот'
+- 'о'
+- 'а'
+- 'а'
+
+GAME_SHOP_GUI_NAME: 'Магазин'
+GAME_SHOP_NPC_HOLO:
+- '§eМагазин'
+- '§fНажмите, чтобы открыть!'
+GAME_SHOP_GUI_ITEMS_FIRST_LORE:
+- ''
+- '§8Предметы:'
+GAME_SHOP_GUI_ITEMS_SECOND_LORE:
+- ''
+- '§8Нажмите SHIFT чтобы купить предметы'
+- '§8на все свои ресурсы'
+- ''
+GAME_SHOP_GUI_ITEMS_NO_ITEMS: ''
 
 SKIN_BW_RICARDO: 'Рикардо Милос'
 SKIN_BW_RICARDO_LORE:
@@ -8128,10 +8151,6 @@ BW_OTHER_SHOP_LORE:
 - '§7Покупка самых крутых вещей именно тут!'
 - ''
 - '§e▸ Нажмите, чтобы открыть меню'
-GAME_SHOP_GUI_NAME: 'Магазин'
-GAME_SHOP_NPC_HOLO:
-- '§eМагазин'
-- '§fНажмите, чтобы открыть!'
 
 SANDSTONE: 'Песчаник'
 ENDER_STONE: 'Эндерняк'
@@ -8156,14 +8175,12 @@ STRENGTH_POTION: 'Зелье силы'
 
 BW_SHOP_HOME_TELEPORT: 'Телепортация на базу'
 BW_SHOP_HOME_TELEPORT_LORE:
-- ''
 - ' §8▪ §7Телепортация на базу §8x1'
 - ''
 - '§7§oПри нажатии ПКМ вас'
 - '§7§oтелепортирует на базу'
 BW_SHOP_PLATFORM: 'Платформа'
 BW_SHOP_PLATFORM_LORE:
-- ''
 - ' §8▪ §7Платформа §8x1'
 - ''
 - '§7§oПри нажатии ПКМ создается'
@@ -8171,7 +8188,6 @@ BW_SHOP_PLATFORM_LORE:
 - '§7§o10 секунд'
 BW_SHOP_IRON_GOLEM: 'Железный голем'
 BW_SHOP_IRON_GOLEM_LORE:
-- ''
 - ' §8▪ §7Железный голем §8x1'
 - ''
 - '§7§oПри нажатии ПКМ на блок спавнится'
@@ -8179,7 +8195,6 @@ BW_SHOP_IRON_GOLEM_LORE:
 - '§7§oВашу базу от врагов'
 BW_SHOP_COMPASS: 'Локатор'
 BW_SHOP_COMPASS_LORE:
-- ''
 - ' §8▪ §7Компас §8x1'
 - ''
 - '§7§oУказывает на ближайшего игрока'
@@ -8187,73 +8202,55 @@ BW_SHOP_COMPASS_LORE:
 
 BW_SHOP_STICK: 'Палка'
 BW_SHOP_STICK_LORE:
-- ''
 - '§8▪ §7Палка §8(Отдача I)'
 BW_SHOP_SWORD_LVL_1: 'Меч'
 BW_SHOP_SWORD_LVL_1_LORE:
-- ''
 - '§8▪ §7Деревянный меч §8(Отдача I)'
 BW_SHOP_SWORD_LVL_2: 'Золотой меч I'
 BW_SHOP_SWORD_LVL_2_LORE:
-- ''
 - '§8▪ §7Золотой меч §8(Острота I, Прочность I)'
 BW_SHOP_SWORD_LVL_3: 'Золотой меч II'
 BW_SHOP_SWORD_LVL_3_LORE:
-- ''
 - '§8▪ §7Золотой меч §8(Острота IV, Прочность I)'
 BW_SHOP_SWORD_LVL_4: 'Железный меч'
 BW_SHOP_SWORD_LVL_4_LORE:
-- ''
 - '§8▪ §7Железный меч §8(Острота IV, Прочность I, Отдача I)'
 BW_SHOP_LEATHER_HELMET: 'Кожаный шлем'
 BW_SHOP_LEATHER_HELMET_LORE:
-- ''
 - ' §8▪ §7Кожаный шлем §8(Защита I, Прочность I)'
 BW_SHOP_LEATHER_LEGGINGS: 'Кожаные штаны'
 BW_SHOP_LEATHER_LEGGINGS_LORE:
-- ''
 - ' §8▪ §7Кожаные штаны §8(Защита I, Прочность I)'
 BW_SHOP_LEATHER_BOOTS: 'Кожаные ботинки'
 BW_SHOP_LEATHER_BOOTS_LORE:
-- ''
 - ' §8▪ §7Кожаные ботинки §8(Защита I, Прочность I)'
 BW_SHOP_ARMOR_LVL_1: 'Кольчужный нагрудник'
 BW_SHOP_ARMOR_LVL_1_LORE:
-- ''
 - ' §8▪ §7Кольчужный нагрудник §8(Защита I, Прочность I)'
 BW_SHOP_ARMOR_LVL_2: 'Кольчужный нагрудник II'
 BW_SHOP_ARMOR_LVL_2_LORE:
-- ''
 - ' §8▪ §7Кольчужный нагрудник §8(Защита II, Прочность I)'
 BW_SHOP_ARMOR_LVL_3: 'Кольчужный нагрудник III'
 BW_SHOP_ARMOR_LVL_3_LORE:
-- ''
 - ' §8▪ §7Кольчужный нагрудник §8(Защита III, Прочность I)'
 BW_SHOP_ARMOR_LVL_4: 'Кольчужный нагрудник IV'
 BW_SHOP_ARMOR_LVL_4_LORE:
-- ''
 - ' §8▪ §7Кольчужный нагрудник §8(Защита от снарядов IV, Прочность I)'
 BW_SHOP_WOOD_PICKAXE: 'Деревянная кирка'
 BW_SHOP_WOOD_PICKAXE_LORE:
-- ''
 - ' §8▪ §7Деревянная кирка §8(Эффективность I, Прочность I)'
 BW_SHOP_STONE_PICKAXE: 'Каменная кирка'
 BW_SHOP_STONE_PICKAXE_LORE:
-- ''
 - ' §8▪ §7Каменная кирка §8(Эффективность I, Прочность I)'
 BW_SHOP_IRON_PICKAXE: 'Железная кирка'
 BW_SHOP_IRON_PICKAXE_LORE:
-- ''
 - ' §8▪ §7Железная кирка §8(Эффективность III, Прочность I)'
 BW_SHOP_BOW_LVL_1: 'Лук I'
 BW_SHOP_BOW_LVL_1_LORE:
-- ''
 - ' §8▪ §7Лук §8(Бесконечность I)'
 BW_SHOP_BOW_LVL_2: 'Лук II'
 BW_SHOP_BOW_LVL_2_LORE:
-- ''
 - ' §8▪ §7Лук §8(Бесконечность I, Сила I)'
 BW_SHOP_BOW_LVL_3: 'Лук III'
 BW_SHOP_BOW_LVL_3_LORE:
-- ''
 - ' §8▪ §7Лук §8(Бесконечность I, Сила II, Откидывание I)'

@@ -1441,7 +1441,7 @@ HELP_FRIENDS:
 - '§7/friends add <player name> §f- add player to friends list'
 - '§7/friends remove <player name> §f- remove player from friends list'
 - '§7/friends accept <player name> §f- accept friend request from player'
-- '§7/friends reject <player name> §f- decline friend request from player'
+- '§7/friends decline <player name> §f- decline friend request from player'
 - '§7/friends requests §f- friend request list'
 - '§7/friends list §f- friend list'
 - '§7/friends tp <player name> §f- teleport to your friend server'

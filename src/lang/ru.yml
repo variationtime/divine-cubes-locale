@@ -8198,8 +8198,10 @@ STRENGTH_POTION: 'Зелье силы'
 DAMAGE_POTION: 'Туманное зелье урона'
 ELYTRA: 'Элитры'
 SHIELD: 'Щит'
-TOTEM: 'Тотем бессмертия'
 
+BW_SHOP_TOTEM: 'Тотем бессмертия'
+BW_SHOP_TOTEM_LORE:
+- ' §8▪ §7Тотем бессмертия §8x1'
 BW_SHOP_STRING_TRAP: 'Нить-ловушка'
 BW_SHOP_STRING_TRAP_LORE:
 - ' §8▪ §7Нить-ловушка §8x1'

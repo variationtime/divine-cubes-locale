@@ -3683,6 +3683,7 @@ KIT: 'набор'
 CAGE: 'клетка'
 BB_HEAD: 'голова'
 BB_EFFECT: 'эффект'
+SKIN: 'скин'
 
 SKIN_SELECTION_MESSAGE: 'Вы выбрали скин §a%s'
 KIT_SELECTION_MESSAGE: 'Вы выбрали набор §a%s'

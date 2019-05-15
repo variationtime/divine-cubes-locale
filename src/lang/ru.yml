@@ -8104,6 +8104,78 @@ SKIN_BW_RICARDO: 'Рикардо Милос'
 SKIN_BW_RICARDO_LORE:
 - ''
 - '§7Просто нереальный флекс :/'
+SKIN_BW_BUILDER: 'Строиль'
+SKIN_BW_BUILDER_LORE:
+- ''
+- '§7Ходят слухи, что он достраивает'
+- '§7дорожку до центра карты'
+SKIN_BW_BATMAN: 'Бетмен'
+SKIN_BW_BATMAN_LORE:
+- ''
+- '§7Он ужаас летящий на крыльях элитры!'
+SKIN_BW_TERRORIST: 'Террорист'
+SKIN_BW_TERRORIST_LORE:
+- ''
+- '§7Научит вас правильно подрывать кровати'
+SKIN_BW_TANOS: 'Танос'
+SKIN_BW_TANOS_LORE:
+- ''
+- '§7Если его разозлить, он по щелчку'
+- '§7сломает вашу кровать..'
+- '§7Так что лучше не кидайте в него ресурсы'
+SKIN_BW_DOGO: 'Доги'
+SKIN_BW_DOGO_LORE:
+- ''
+- '§7Открыть магазин — одно почёсывание'
+SKIN_BW_VILLAGER: 'Житель'
+SKIN_BW_VILLAGER_LORE:
+- ''
+- '§7Главное, чтобы он не был безработным...'
+SKIN_BW_DEADPOOL: 'Дэдпул'
+SKIN_BW_DEADPOOL_LORE:
+- ''
+- '§7Главное, чтобы он не был безработным...'
+SKIN_BW_COMMUNIST: 'Коммунист'
+SKIN_BW_COMMUNIST_LORE:
+- ''
+- '§7"В смысле твоё золото? Есть только «наше»"'
+SKIN_BW_JACK: 'Джек'
+SKIN_BW_JACK_LORE:
+- ''
+- '§7— Бери всё'
+- '§7— И не отдавай ничего!'
+SKIN_BW_STARLORD: 'Звёздный Лорд'
+SKIN_BW_STARLORD_LORE:
+- ''
+- '§7..Гром идёт в комплекте'
+SKIN_BW_MARIO: 'Марио'
+SKIN_BW_MARIO_LORE:
+- ''
+- '§7Утром — водопроводчик. Ночью — БедВарсер'
+SKIN_BW_NOOB: 'Нуб'
+SKIN_BW_NOOB_LORE:
+- ''
+- '§7И помните: дурной пример заразителен'
+SKIN_BW_SANIC: 'Саник'
+SKIN_BW_SANIC_LORE:
+- ''
+- '§7DOO U NOU ZE VEY???'
+SKIN_BW_PUMPKIN: 'Тыква'
+SKIN_BW_PUMPKIN_LORE:
+- ''
+- '§7Для перекуса не использовать!'
+SKIN_BW_ORC: 'Орк'
+SKIN_BW_ORC_LORE:
+- ''
+- '§7"Опять работа.."'
+SKIN_BW_PETER: 'Питер'
+SKIN_BW_PETER_LORE:
+- ''
+- '§7По нему вы точно не промахнетесь перед закупкой..'
+SKIN_BW_BABY: 'Ребенок'
+SKIN_BW_BABY_LORE:
+- ''
+- '§7Только на плач!'
 
 PERK_BW_UNWAVERING: 'Непоколебимый'
 PERK_BW_UNWAVERING_LORE:

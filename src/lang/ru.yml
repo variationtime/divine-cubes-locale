@@ -3695,6 +3695,7 @@ ITEM_UNSELECTED: 'Выбор снят с текущего предмета'
 KIT_PURCHASE_MESSAGE: 'Вы приобрели набор §a%s §fза §a%s §f%s'
 PERK_PURCHASE_MESSAGE: 'Вы приобрели перк §a%s §fза §a%s §f%s'
 CAGE_PURCHASE_MESSAGE: 'Вы приобрели клетку §a%s §fза §a%s §f%s'
+SKIN_PURCHASE_MESSAGE: 'Вы приобрели скин для магазина §a%s §fза §a%s §f%s'
 BB_HEAD_PURCHASE_MESSAGE: 'Вы приобрели голову §a%s §fза §a%s §f%s. Теперь её можно будет использовать в игре на своем участке.'
 BB_EFFECT_PURCHASE_MESSAGE: 'Вы приобрели эффект §a%s §fза §a%s §f%s. Теперь его можно будет добавлять на свой участок в игре.'
 

@@ -8179,7 +8179,7 @@ SKIN_BW_PETER_LORE:
 SKIN_BW_BABY: 'Ребенок'
 SKIN_BW_BABY_LORE:
 - ''
-- '§7Только на плач!'
+- '§7Только не плач!'
 
 PERK_BW_UNWAVERING: 'Непоколебимый'
 PERK_BW_UNWAVERING_LORE:

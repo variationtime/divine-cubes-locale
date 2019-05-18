@@ -8320,6 +8320,7 @@ BW_SHOP_TIME_LORE:
 BW_SHOP_TIME_LOCATION: 'Локация записана, через §75 §fсекунд вы будете телепортированы!'
 BW_SHOP_TIME_TELEPORT: 'Телепортация на предыдущее место...'
 BW_SHOP_ICE_NO_TELEPORT: 'Вы не можете телепортироваться на базу из ледянок коробки :('
+BW_SHOP_REMOVED: 'До удаления §c%s'
 BW_SHOP_ICE: 'Креостаз'
 BW_SHOP_ICE_LORE:
 - ' §8▪ §7Креостаз §8x1'

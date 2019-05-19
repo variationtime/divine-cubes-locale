@@ -8190,7 +8190,7 @@ PERK_BW_UNWAVERING_LORE:
 - '§7регенерации I и сопротивления I'
 - '§7на 5 минуты'
 PERK_BW_PERSISTENT: 'Стойкий'
-PERK_BW_PERSISTENT_LORE: 'Стойкий'
+PERK_BW_PERSISTENT_LORE:
 - '§7При получении урона есть шанс 15%'
 - '§7получить Сопротивление урону I на 4 секунды'
 PERK_BW_MANIAC: 'Маньяк'

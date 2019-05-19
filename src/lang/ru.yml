@@ -8187,6 +8187,11 @@ PERL_BW_ALCHEMIST_LORE:
 - ''
 - '§7Питьевые зелья в вашем инвентаре'
 - '§7превращаются во взрывные'
+PERK_BW_HEAD_HUNTER: 'Охотник за головами'
+PERK_BW_HEAD_HUNTER_LORE:
+- ''
+- '§7За каждое финальное убийство'
+- '§7вы получаете 1 золото'
 PERK_BW_POINTER: 'Указатель'
 PERK_BW_POINTER_LORE:
 - ''

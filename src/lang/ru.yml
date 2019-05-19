@@ -8183,6 +8183,12 @@ SKIN_BW_BABY_LORE:
 - ''
 - '§7Только не плач!'
 
+PERK_BW_COURIER: 'Курьер'
+PERK_BW_COURIER_LORE:
+- ''
+- '§7Пока у вас в инвентаре'
+- '§7хотя бы 3 золота,'
+- '§7вы получаете Скорость I'
 PERK_BW_DEMENTOR: 'Дементор'
 PERK_BW_DEMENTOR_LORE:
 - ''

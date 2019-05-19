@@ -8182,8 +8182,8 @@ SKIN_BW_BABY_LORE:
 - ''
 - '§7Только не плач!'
 
-PERL_BW_ALCHEMIST: 'Алхимик'
-PERL_BW_ALCHEMIST_LORE:
+PERK_BW_ALCHEMIST: 'Алхимик'
+PERK_BW_ALCHEMIST_LORE:
 - ''
 - '§7Питьевые зелья в вашем инвентаре'
 - '§7превращаются во взрывные'

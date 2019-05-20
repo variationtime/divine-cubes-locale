@@ -8239,7 +8239,7 @@ PERK_BW_HEAD_HUNTER: 'Охотник за головами'
 PERK_BW_HEAD_HUNTER_LORE:
 - ''
 - '§7За каждое финальное убийство'
-- '§7вы получаете 1 золото'
+- '§7вы получаете 1 слиток золото'
 PERK_BW_BED_MONSTER: 'Подкроватный монстр'
 PERK_BW_BED_MONSTER_LORE:
 - ''

@@ -8244,7 +8244,7 @@ PERK_BW_ALL_SEEING: 'Всевидящий'
 PERK_BW_ALL_SEEING_LORE:
 - ''
 - '§7При нажатии на SHIFT,'
-- '§7враги в радиусе 10 блоков'
+- '§7враги в радиусе 15 блоков'
 - '§7от вас получают Свечение'
 PERK_BW_BED_MONSTER: 'Подкроватный монстр'
 PERK_BW_BED_MONSTER_LORE:

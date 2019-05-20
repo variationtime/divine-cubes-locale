@@ -8240,6 +8240,12 @@ PERK_BW_HEAD_HUNTER_LORE:
 - ''
 - '§7За каждое финальное убийство'
 - '§7вы получаете 2 cлитка золота'
+PERK_BW_ALL_SEEING: 'Всевидящий'
+PERK_BW_ALL_SEEING_LORE:
+- ''
+- '§7При нажатии на SHIFT,'
+- '§7враги в радиусе 10 блоков'
+- '§7от вас получают Свечение'
 PERK_BW_BED_MONSTER: 'Подкроватный монстр'
 PERK_BW_BED_MONSTER_LORE:
 - ''

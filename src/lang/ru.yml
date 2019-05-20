@@ -8182,6 +8182,11 @@ SKIN_BW_BABY: 'Ребенок'
 SKIN_BW_BABY_LORE:
 - ''
 - '§7Только не плач!'
+PERK_BW_MISER: 'Скряга'
+PERK_BW_MISER_LORE:
+- ''
+- '§7После смерти, если у вас было хотя'
+- '§7бы две вещи, вы сохраняете одну из них'
 PERK_BW_BUSINESSMAN: 'Бизнесмен'
 PERK_BW_BUSINESSMAN_LORE:
 - ''

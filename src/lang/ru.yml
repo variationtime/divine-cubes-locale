@@ -5380,6 +5380,10 @@ LOBBY_SETTINGS_UNAVAILABLE:
 - ''
 - '§cНедоступно!'
 - '§7Доступно от %s §7и выше'
+LOBBY_SETTINGS_HUB_GLOWING_NAME: 'Подсветка'
+LOBBY_SETTINGS_HUB_GLOWING_LORE:
+- '§7Позволяет включить или выключить'
+- '§7подсветку своего "скина" в лобби'
 LOBBY_SETTINGS_BLOOD_NAME: 'Кровь'
 LOBBY_SETTINGS_BLOOD_LORE:
 - '§7Позволяет включить или выключить'

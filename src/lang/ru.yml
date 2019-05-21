@@ -3694,6 +3694,7 @@ BB_EFFECT: 'эффект'
 SKIN: 'скин'
 SOUND: 'звук'
 
+SOUND_SELECTION_MESSAGE: 'Вы выбрали звук §a%s'
 SKIN_SELECTION_MESSAGE: 'Вы выбрали скин §a%s'
 KIT_SELECTION_MESSAGE: 'Вы выбрали набор §a%s'
 PERK_SELECTION_MESSAGE: 'Вы выбрали перк §a%s'

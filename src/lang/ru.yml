@@ -3722,8 +3722,8 @@ ITEMS_GUI_CONFIRMATION_LORE:
 - '§7приобрести этот предмет?'
 - ' '
 - '§cЭто действие необратимо'
-ITEMS_GUI_COST_FORMAT: '§7Стоимость: §a%s %s'
-ITEMS_GUI_DISCOUNTED_COST_FORMAT: '§7Стоимость (со скидкой): §a%s %s'
+ITEMS_GUI_COST_FORMAT: '§7Стоимость: %s %s'
+ITEMS_GUI_DISCOUNTED_COST_FORMAT: '§7Стоимость (со скидкой): %s %s'
 ITEM_CATEGORY_GUI_NAME: 'Игровые предметы'
 ITEMS_SHOP_GUI_TITLE: 'Магазин предметов'
 

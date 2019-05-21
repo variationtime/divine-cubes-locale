@@ -8207,6 +8207,24 @@ SKIN_BW_BABY: 'Ребенок'
 SKIN_BW_BABY_LORE:
 - ''
 - '§7Только не плач!'
+
+SOUND_BW_FIREWORK: 'Взрыв фейерверка'
+SOUND_BW_FIREWORK_LORE:
+- ''
+- '§7Праздничный салют в честь небольшого достижения'
+SOUND_BW_TOTEM: 'Волшебство вызывателя'
+SOUND_BW_TOTEM_LORE:
+- ''
+- '§7Ловкость рук и никакого мошенничества!'
+SOUND_BW_WITCHCRAFT: 'Колдовство вызывателя'
+SOUND_BW_WITCHCRAFT_LORE:
+- ''
+- '§7Жещина, не колдую, женщина, я не колдую'
+SOUND_BW_DRAGON: 'Рык дракона'
+SOUND_BW_DRAGON_LORE:
+- ''
+- '§7Грозный рык сразит противников в ужас!'
+
 PERK_BW_SEELENDIEB: 'Повелитель душ'
 PERK_BW_SEELENDIEB_LORE:
 - ''

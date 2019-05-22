@@ -1941,7 +1941,7 @@ SHOP_LORE_CHANGED:
  - '§7Change amount items'
  - ''
  - '§e▸ Click, to change'
-CANCEL_NAME: '§cCancle'
+CANCEL_NAME: '§cCancel'
 CONFIRMED_NAME: 'Confirm'
 SHOP_FORMAT: '/shop <shop name>'
 SHOP_NAMES: '§6Store §8| §fAvailable stores: '

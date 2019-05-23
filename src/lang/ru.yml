@@ -8095,8 +8095,10 @@ GAME_SHOP_GUI_ITEMS_SECOND_LORE:
   - '§8купить в 5 раз больше'
   - ' '
 GAME_SHOP_NO_SLOTS: '§cУ вас недостаточно места в инвентаре!'
+GAME_SHOP_GUI_ADD_FAVOURITE: '§aПКМ, чтобы добавить в избранное'
+GAME_SHOP_GUI_REMOVE_FAVOURITE: '§cПКМ, чтобы удалить из избранного'
 GAME_SHOP_GUI_ITEMS_NO_ITEMS: '§cУ вас недостаточно ресурсов!'
-GAME_SHOP_GUI_ITEMS_BUY: '§e▸ Нажмите, чтобы купить'
+GAME_SHOP_GUI_ITEMS_BUY: '§e▸ Нажмите ЛКМ, чтобы купить'
 GAME_REJOIN: '§fВы перезашли в игру'
 TEAM_LOSE: '§fКоманда %s §fпроиграла (последний игрок погиб или покинул игру)'
 

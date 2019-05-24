@@ -3499,7 +3499,6 @@ GAME_TITLE_TEAM_WIN: '§7Your team win in this game'
 GAME_TITLE_SOLO_WIN: '§7You are the last survivor player'
 GAME_TITLE_OVER: '§c§lGAME OVER'
 GAME_TITLE_NOT_WINNER: '§7You lost in this game'
-REWARDS_CANT_USE: '§cError, rewards can get only from level 5'
 HUB_HORSE_HOLO:
   - '§eSled rental animals'
   - 'Click, to get horse'

@@ -2537,7 +2537,7 @@ REWARD_CLICK_TO_CLAIM:
  - ' §e▸ Click, to claim reward'
 REWARD_YOU_CAN_CLAIM_IN:
  - ' '
- - '§7Can be get in'
+ - '§7Can be get in:'
  - '§e%s'
  - ' '
  - ' §c▸ Reward already claim'

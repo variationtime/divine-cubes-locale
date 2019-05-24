@@ -2528,10 +2528,6 @@ FORUM_ACCOUNT_LINKED:
  - ' §f- Email: §a%s'
  - ' §f- Password: §a%s'
 FORUM_ACCOUNT_NOT_LINKED: §c⚠ Warning! §fYou already register §cin forum§f, do this right now - §e/forum
-REWARD_YOU_GOT_REWARDS: '§6Rewards §8| §fYou get this rewards:'
-MONEY_REWARD_LOCALE: ' §c• §fcoins: §2+%s'
-EXP_REWARD_LOCALE: ' §c• §fexperience: §3+%s'
-KEYS_REWARD_LOCALE: ' §c• §fkeys: §6+%s'
 DAILY_REWARD_KEY: '§eDaily rewards'
 WEEKLY_REWARD_KEY: '§eWeekly rewards'
 MONTHLY_REWARD_KEY: '§eMonthly rewards'
@@ -2545,21 +2541,6 @@ REWARD_YOU_CAN_CLAIM_IN:
  - '§e%s'
  - ' '
  - ' §c▸ Reward already claim'
-DAILY_REWARD_LORE_KEY:
- - ' '
- - '§7Dayly reward, which'
- - '§7includes a bonus in the form of'
- - '§7coins'
-WEEKLY_REWARD_LORE_KEY:
- - ' '
- - '§7Weekly reward, which'
- - '§7includes a bonus in the form of'
- - '§7coins and experience'
-MONTHLY_REWARD_LORE_KEY:
- - ' '
- - '§7Mountly reward, which'
- - '§7includes a bonus in the form of'
- - '§7coins, experience, and keys'
 REWARD_DONATE_ITEM: '§eOnline-purchase'
 REWARD_DONATE_ITEM_LORE:
  - ' '

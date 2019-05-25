@@ -3013,6 +3013,7 @@ FORUM_ACCOUNT_LINKED:
 FORUM_ACCOUNT_NOT_LINKED: §c⚠ Внимание! §fВы еще не зарегистрированы §cна форуме§f, сделайте это прямо сейчас - §7/forum
 REWARD_YOU_GOT_REWARDS: '§fВы успешно получили следующие награды:'
 MONEY_REWARD_LOCALE: ' §7+ §6%s §f%s'
+GOLD_REWARD_LOCALE: ' §7+ §e%s §f%s'
 EXP_REWARD_LOCALE: ' §7+ §a%s §fопыта'
 KEYS_REWARD_LOCALE: ' §7+ §d%s §f%s'
 DAILY_REWARD_KEY: 'Ежедневные награды'

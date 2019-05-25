@@ -8676,6 +8676,8 @@ HNS_MASK_CAULDRON: 'Котёл'
 HNS_MASK_CAULDRON_LORE: []
 HNS_MASK_HAY: 'Сено'
 HNS_MASK_HAY_LORE: []
+HNS_MASK_GOLD_ORE: 'Золотая руда'
+HNS_MASK_GOLD_ORE_LORE: []
 
 HIDER_TEAM: 'Прячущиеся'
 SEEKER_TEAM: 'Искатели'

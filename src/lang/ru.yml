@@ -3741,6 +3741,9 @@ ITEM_CLICK_TO_SELECT:
 ITEM_CLICK_TO_UNSELECT:
 - ' '
 - '§e▸ Нажмите, чтобы снять выбор'
+ITEM_IS_SELECTED:
+- ' '
+- '§c▸ Этот предмет уже выбран'
 ITEM_CANT_SELECT:
 - ' '
 - '§cВы не можете выбрать этот предмет'

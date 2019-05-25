@@ -8683,6 +8683,7 @@ HNS_RANDOM_DISGUISE_ITEM: '§aСменить маскировку'
 HNS_RANDOM_DISGUISE_ITEM_LORE:
 - '§7Меняет вашу текущую маскировку'
 - '§7на любую случайную из всех возможных'
+- '§7Перезарядка §c%s §7секунд'
 HNS_BLOCK_DISGUISE_ITEM: '§6Выбор новой маскировки'
 HNS_BLOCK_DISGUISE_ITEM_LORE:
 - '§7Меняет вашу текущую маскировку'

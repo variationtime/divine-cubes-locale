@@ -2429,6 +2429,7 @@ GUILD_CREATE_FORMAT: '/guild create <название>, (стоимость со
 GUILD_INVITE_FORMAT: '/guild invite <ник игрока>'
 GUILD_CANT_INVITE_YOURSELF: '§cТы ебобо? Ты уже в гильдии!'
 GUILD_TARGET_HAS_GUILD: '§cДанный игрок уже состоит в гильдии'
+GUILD_TARGET_NO_LEVEL: '§cВа не можете пригласить данного игрока в свою гильдию, т.к. его уровень ниже 10'
 GUILD_YOU_CANT_DISBAND: '§cОшибка, распустить гильдию может только ее создатель'
 GUILD_DISBANDED: '§2Гильдия §8| %s §fраспустил гильдию'
 GUILDS_PLAYER_JOINED: '§2Гильдия §8| §fИгрок %s §fприсоединился к гильдии'

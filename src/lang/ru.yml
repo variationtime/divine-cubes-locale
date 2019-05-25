@@ -8618,60 +8618,60 @@ BW_SHOP_BOW_LVL_3: 'Лук III'
 BW_SHOP_BOW_LVL_3_LORE:
 - ' §8▪ §7Лук §8(Бесконечность I, Сила II, Откидывание I)'
 
-HNS_BLOCK_STONE: 'Камень'
-HNS_BLOCK_STONE_LORE: []
-HNS_BLOCK_GRASS: 'Трава'
-HNS_BLOCK_GRASS_LORE: []
-HNS_BLOCK_DIRT: 'Земля'
-HNS_BLOCK_DIRT_LORE: []
-HNS_BLOCK_COBBLESTONE: 'Булыжник'
-HNS_BLOCK_COBBLESTONE_LORE: []
-HNS_BLOCK_PLANKS: 'Доски'
-HNS_BLOCK_PLANKS_LORE: []
-HNS_BLOCK_DOOB: 'Дуб'
-HNS_BLOCK_DOOB_LORE: []
-HNS_BLOCK_EL: 'Ель'
-HNS_BLOCK_EL_LORE: []
-HNS_BLOCK_BEREZA: 'Берёза'
-HNS_BLOCK_BEREZA_LORE: []
-HNS_BLOCK_TROPIC: 'Тропик'
-HNS_BLOCK_TROPICE_LORE: []
-HNS_BLOCK_SAND: 'Песок'
-HNS_BLOCK_SAND_LORE: []
-HNS_BLOCK_GRAVEL: 'Гравий'
-HNS_BLOCK_GRAVEL_LORE: []
-HNS_BLOCK_GLASS: 'Стекло'
-HNS_BLOCK_GLASS_LORE: []
-HNS_BLOCK_WOOL: 'Шерсть'
-HNS_BLOCK_WOOL_LORE: []
-HNS_BLOCK_BOOKS: 'Книжная полка'
-HNS_BLOCK_BOOKS_LORE: []
-HNS_BLOCK_SNOW: 'Снег'
-HNS_BLOCK_SNOW_LORE: []
-HNS_BLOCK_PUMPKIN: 'Тыква'
-HNS_BLOCK_PUMPKIN_LORE: []
-HNS_BLOCK_MELON: 'Арбуз'
-HNS_BLOCK_MELON_LORE: []
-HNS_BLOCK_CHEST: 'Сундук'
-HNS_BLOCK_CHEST_LORE: []
-HNS_BLOCK_WORKBENCH: 'Верстак'
-HNS_BLOCK_WORKBENCH_LORE: []
-HNS_BLOCK_FURNACE: 'Печка'
-HNS_BLOCK_FURNACE_LORE: []
-HNS_BLOCK_ENCHANTTABLE: 'Стол зачарования'
-HNS_BLOCK_ENCHANTTABLE_LORE: []
-HNS_BLOCK_ANVIL: 'Наковальня'
-HNS_BLOCK_ANVIL_LORE: []
-HNS_BLOCK_JUKEBOX: 'Проигрыватель'
-HNS_BLOCK_JUKEBOX_LORE: []
-HNS_BLOCK_TNT: 'Динамит'
-HNS_BLOCK_TNT_LORE: []
-HNS_BLOCK_GLOWSTONE: 'Светокамень'
-HNS_BLOCK_GLOWSTONE_LORE: []
-HNS_BLOCK_CAULDRON: 'Котёл'
-HNS_BLOCK_CAULDRON_LORE: []
-HNS_BLOCK_HAY: 'Сено'
-HNS_BLOCK_HAY_LORE: []
+HNS_MASK_STONE: 'Камень'
+HNS_MASK_STONE_LORE: []
+HNS_MASK_GRASS: 'Трава'
+HNS_MASK_GRASS_LORE: []
+HNS_MASK_DIRT: 'Земля'
+HNS_MASK_DIRT_LORE: []
+HNS_MASK_COBBLESTONE: 'Булыжник'
+HNS_MASK_COBBLESTONE_LORE: []
+HNS_MASK_PLANKS: 'Доски'
+HNS_MASK_PLANKS_LORE: []
+HNS_MASK_DOOB: 'Дуб'
+HNS_MASK_DOOB_LORE: []
+HNS_MASK_EL: 'Ель'
+HNS_MASK_EL_LORE: []
+HNS_MASK_BEREZA: 'Берёза'
+HNS_MASK_BEREZA_LORE: []
+HNS_MASK_TROPIC: 'Тропик'
+HNS_MASK_TROPICE_LORE: []
+HNS_MASK_SAND: 'Песок'
+HNS_MASK_SAND_LORE: []
+HNS_MASK_GRAVEL: 'Гравий'
+HNS_MASK_GRAVEL_LORE: []
+HNS_MASK_GLASS: 'Стекло'
+HNS_MASK_GLASS_LORE: []
+HNS_MASK_WOOL: 'Шерсть'
+HNS_MASK_WOOL_LORE: []
+HNS_MASK_BOOKS: 'Книжная полка'
+HNS_MASK_BOOKS_LORE: []
+HNS_MASK_SNOW: 'Снег'
+HNS_MASK_SNOW_LORE: []
+HNS_MASK_PUMPKIN: 'Тыква'
+HNS_MASK_PUMPKIN_LORE: []
+HNS_MASK_MELON: 'Арбуз'
+HNS_MASK_MELON_LORE: []
+HNS_MASK_CHEST: 'Сундук'
+HNS_MASK_CHEST_LORE: []
+HNS_MASK_WORKBENCH: 'Верстак'
+HNS_MASK_WORKBENCH_LORE: []
+HNS_MASK_FURNACE: 'Печка'
+HNS_MASK_FURNACE_LORE: []
+HNS_MASK_ENCHANTTABLE: 'Стол зачарования'
+HNS_MASK_ENCHANTTABLE_LORE: []
+HNS_MASK_ANVIL: 'Наковальня'
+HNS_MASK_ANVIL_LORE: []
+HNS_MASK_JUKEBOX: 'Проигрыватель'
+HNS_MASK_JUKEBOX_LORE: []
+HNS_MASK_TNT: 'Динамит'
+HNS_MASK_TNT_LORE: []
+HNS_MASK_GLOWSTONE: 'Светокамень'
+HNS_MASK_GLOWSTONE_LORE: []
+HNS_MASK_CAULDRON: 'Котёл'
+HNS_MASK_CAULDRON_LORE: []
+HNS_MASK_HAY: 'Сено'
+HNS_MASK_HAY_LORE: []
 
 HIDER_TEAM: 'Прячущиеся'
 SEEKER_TEAM: 'Искатели'
@@ -8779,7 +8779,7 @@ KIT_HNS_SNIPER_LORE:
 - ' §8• §7Стрела §8(x5)'
 - ''
 - '§7§oКаждые 15 секунд игры получает'
-- '§7§oдопольнительно еще одну стрелу'
+- '§7§oдополнительную стрелу'
 KIT_HNS_HUNTER: 'Охотник'
 KIT_HNS_HUNTER_LORE:
 - ''
@@ -8792,7 +8792,7 @@ KIT_HNS_HUNTER_LORE:
 - ' §8• §7Нить охотника §8(x2)'
 - ''
 - '§7§oКаждые 90 секунд игры получает'
-- '§7§oдопольнительно еще одну нить'
+- '§7§oдополнителую нить охотника'
 - ''
 - '§7§oЕсли прячущийся наступит на нить'
 - '§7§oохотника, он получит медлительность X'

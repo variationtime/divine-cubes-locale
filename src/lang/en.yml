@@ -618,7 +618,7 @@ GUI_HELP_ITEM_10_LORE:
 - '§7'
 - '§cATTENTION! Guild creation cost'
 - '§c20.000 coins and available only for §c§lMAGMA'
-- '§cFor entry donate dont need.'
+- '§cYou need level 10+ to join the guild!'
 GUI_REWARDS_NAME: 'Awards (detailed information)'
 GUI_REWARDS_ITEM_1_LORE:
 - '§fSolo mode:'

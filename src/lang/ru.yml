@@ -4575,11 +4575,17 @@ PERK_SW_INSANE_ENDERMAN_LORE:
 - ''
 - '§7За каждое второе убийство игрока'
 - '§7Вы получаете Жемчуг эндера'
-SW_INSANE_MONSTER_CATCHER: ''
+SW_INSANE_MONSTER_CATCHER: 'Ловец чудовищ'
 SW_INSANE_MONSTER_CATCHER_LORE:
 - ''
 - '§7При попадании яйцом курицы в моба, '
 - '§7он превращается в своё яйцо призыва'
+SW_INSANE_SERVANT_OF_PAIN: 'Служитель боли'
+SW_INSANE_SERVANT_OF_PAIN_LORE:
+- ''
+- '§7Когда по вам попадают из лука, '
+- '§7с шансом 50% вы получаете '
+- '§7эту стрелу в инвентарь'
 
 CAGE_SW_WOOD: 'Деревянная'
 CAGE_SW_WOOD_LORE: []

@@ -8805,3 +8805,13 @@ PERK_HNS_FLASH_LORE:
 - ''
 - '§7После выхода из режима полной маскировки,'
 - '§7Вы получите эффект скорости III на 10с.'
+
+WINS_AS_HIDER_STAT: 'Побед за прячущихся'
+SEEKERS_KILLED_STAT: 'Искателей убито'
+HIDERS_FOUND_STAT: 'Прячущихся найдено'
+
+WIN_HIDERS_TITLE: '§bПобедили прячущиеся'
+WIN_HIDERS_SUB_TITLE: '§7Искатели не успели найти всех'
+
+WIN_SEEKERS_TITLE: '§cПобедили искатели'
+WIN_SEEKERS_SUB_TITLE: '§7Всех прячущихся нашли'

@@ -8678,6 +8678,7 @@ HIDE_AND_SEEK_HIDER_FOUND: '§fПрячущийся §b%s §fбыл найден
 HIDE_AND_SEEK_SEEKER_KILLED: '§fИскатель §c%s §fбыл убит прячущимся §b%s'
 HIDE_AND_SEEK_SEEKER_KILLED_FINAL: '§fИскатель §c%s §fбыл убит прячущимся §b%s §fи выбыл из игры'
 
+HNS_PERK_COOLDOWN: '§fВы сможете использовать перк снова через §c%s §fсекунд'
 HNS_MASK_CHANGE_COOLDOWN: '§fВы сможете сменить маскировку через §c%s §fсекунд'
 HNS_MASK_YOU_ARE_SOLID: '§fДля выбора нового блока Вы должны снять маскировку'
 HNS_MASK_NOT_FOUND: '§fВы не можете замаскироваться под этот блок'

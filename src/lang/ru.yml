@@ -8678,11 +8678,11 @@ HIDE_AND_SEEK_HIDER_FOUND: '§fПрячущийся §b%s §fбыл найден
 HIDE_AND_SEEK_SEEKER_KILLED: '§fИскатель §c%s §fбыл убит прячущимся §b%s'
 HIDE_AND_SEEK_SEEKER_KILLED_FINAL: '§fИскатель §c%s §fбыл убит прячущимся §b%s §fи выбыл из игры'
 
-HNS_PERK_COOLDOWN: '§fВы сможете использовать перк снова через §c%s §fсекунд'
-HNS_MASK_CHANGE_COOLDOWN: '§fВы сможете сменить маскировку через §c%s §fсекунд'
-HNS_MASK_YOU_ARE_SOLID: '§fДля выбора нового блока Вы должны снять маскировку'
-HNS_MASK_NOT_FOUND: '§fВы не можете замаскироваться под этот блок'
-HNS_MASK_NOT_PURCHASED: '§fУ вас не приобретена эта маскировка'
+HNS_PERK_COOLDOWN: '§cВы сможете использовать перк снова через %s секунд'
+HNS_MASK_CHANGE_COOLDOWN: '§cВы сможете сменить маскировку через %s секунд'
+HNS_MASK_YOU_ARE_SOLID: '§cДля выбора нового блока Вы должны снять маскировку'
+HNS_MASK_NOT_FOUND: '§cВы не можете замаскироваться под этот блок'
+HNS_MASK_NOT_PURCHASED: '§cУ вас не приобретена эта маскировка'
 
 HNS_ACTION_BAR_YOU_ARE_SOLID: '§aВы стали полноценным блоком!'
 HNS_MESSAGE_YOU_ARE_SOLID: '§fВы замаскировались. Нажмите §eSHIFT§f, чтобы снять маскировку'

@@ -4575,19 +4575,19 @@ PERK_SW_INSANE_ENDERMAN_LORE:
 - ''
 - '§7За каждое второе убийство игрока'
 - '§7Вы получаете Жемчуг эндера'
-SW_INSANE_MONSTER_CATCHER: 'Ловец чудовищ'
-SW_INSANE_MONSTER_CATCHER_LORE:
+PERK_SW_INSANE_MONSTER_CATCHER: 'Ловец чудовищ'
+PERK_SW_INSANE_MONSTER_CATCHER_LORE:
 - ''
 - '§7При попадании яйцом курицы в моба, '
 - '§7он превращается в своё яйцо призыва'
-SW_INSANE_SERVANT_OF_PAIN: 'Служитель боли'
-SW_INSANE_SERVANT_OF_PAIN_LORE:
+PERK_SW_INSANE_SERVANT_OF_PAIN: 'Служитель боли'
+PERK_SW_INSANE_SERVANT_OF_PAIN_LORE:
 - ''
 - '§7Когда по вам попадают из лука, '
 - '§7с шансом 50% вы получаете '
 - '§7эту стрелу в инвентарь'
-SW_INSANE_DAMN: 'Проклятый'
-SW_INSANE_DAMN_LORE:
+PERK_SW_INSANE_DAMN: 'Проклятый'
+PERK_SW_INSANE_DAMN_LORE:
 - ''
 - '§7Каждый удар накладывает '
 - '§7на врага Иссушение II на время, '
@@ -4595,13 +4595,13 @@ SW_INSANE_DAMN_LORE:
 - '§7до максимального здоровья.'
 - '§7Убийство игрока накладывает '
 - '§7на вас Иссушение II на 5 секунд'
-SW_INSANE_GIFTED: 'Одаренный'
-SW_INSANE_GIFTED_LORE:
+PERK_SW_INSANE_GIFTED: 'Одаренный'
+PERK_SW_INSANE_GIFTED_LORE:
 - ''
 - '§7Каждое убийство накладывает'
 - '§7на вас эффект Золотого яблока'
-SW_INSANE_CONSPIRED: 'Заговоренный'
-SW_INSANE_CONSPIRED_LORE:
+PERK_SW_INSANE_CONSPIRED: 'Заговоренный'
+PERK_SW_INSANE_CONSPIRED_LORE:
 - ''
 - '§7Пока на вас есть хотя бы один золотой'
 - '§7элемент брони, вы получаете'

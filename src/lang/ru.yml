@@ -8672,15 +8672,31 @@ HIDER_ROLE_TITLE: '§bВы прячущийся'
 HIDER_ROLE_SUBTITLE: '§7Маскируйтесь и виживите'
 
 SEEKER_ROLE_TITLE: '§cВы искатель'
-SEEKER_ROLE_SUBTITLE: '§7Найдите всех прячущихся'
+SEEKER_ROLE_SUBTITLE: '§7Найдите и убейте всех прячущихся'
 
 HIDE_AND_SEEK_HIDER_FOUND: '§fПрячущийся §b%s §fбыл найден и убит искателем §c%s'
 HIDE_AND_SEEK_SEEKER_KILLED: '§fИскатель §c%s §fбыл убит прячущимся §b%s'
+HIDE_AND_SEEK_SEEKER_KILLED_FINAL: '§fИскатель §c%s §fбыл убит прячущимся §b%s §fи выбыл из игры'
+
+HNS_MASK_CHANGE_COOLDOWN: '§fВы сможете сменить маскировку через §c%s §fсекунд'
+HNS_MASK_YOU_ARE_SOLID: '§fДля выбора нового блока Вы должны снять маскировку'
+HNS_MASK_NOT_FOUND: '§fВы не можете замаскироваться под этот блок'
+HNS_MASK_NOT_PURCHASED: '§fУ вас не приобретена эта маскировка'
+
+HNS_ACTION_BAR_YOU_ARE_SOLID: '§aВы стали полноценным блоком!'
+HNS_MESSAGE_YOU_ARE_SOLID: '§fВы замаскировались. Нажмите §eSHIFT§f, чтобы снять маскировку'
+
+HNS_HIDER_DEATH_TITLE: '§cВы стали искателем'
+HNS_SEEKER_DEATH_TITLE: '§cВы были убиты прячущимися'
 
 HNS_SEEKING_STARTED: '§fИскатели вышли на охоту. Будьте осторожны!'
 HNS_SEEKING_STARTING: '§fИскатели будут выпущены через §a20 §fсекунд'
 
 HIDE_AND_SEEK_GAME_END: '§fВремя вышло. Искатели не успели найти всех прячущихся игроков'
+
+HNS_BOARD_SEEKERS: 'Искателей'
+HNS_BOARD_HIDERS: 'Прячущихся'
+HNS_BOARD_MASK: 'Текущая маскировка'
 
 KIT_HNS_CLASSIC: 'Стандартный'
 KIT_HNS_CLASSIC_LORE:

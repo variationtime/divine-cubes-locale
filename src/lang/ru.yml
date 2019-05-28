@@ -3457,7 +3457,7 @@ ISLAND_BIOME_MESA_LORE:
 - '§7с самым темным оттенком травы.'
 ISLAND_BUY_BIOME_GUI_NAME: 'Купить биом ?'
 ISLAND_BUY_UPGRADE_GUI_NAME: 'Купить улучшение ?'
-ISLAND_BUY_UPGRADE:
+ISLAND_BUY_UPGRADE_LORE:
 - ' '
 - '§7Вы уверены, что хотите купить'
 - '§7данное улучшение ?'
@@ -3626,6 +3626,15 @@ ISLAND_REMOVE_IGNORE_PLAYER: '§6SkyBlock §8| %s §fбыл удален уча�
 ISLAND_MAX_UPGRADE: '§6SkyBlock §8| §cОшибка! У вас уже максимальный уровень данного апгрейда'
 ISLAND_UPGRADE_BUY_ERROR: '§6SkyBlock §8| §fУ вас недостаточно §aизумрудных блоков§f для этой покупки (необходимо §7x%s§f)'
 ISLAND_BUY_UPGRADE_TERRITORY: '§6SkyBlock §8| §fИгрок %s §fкупил расширение территории острова'
+ISLAND_BUY_UPGRADE: '§6SkyBlock §8| §fИгрок %s §fкупил §a%s'
+ISLAND_BUY_UPGRADE_PRICE_LORE:
+- '§7Цена: §ax%s изумрудных блоков'
+- ' '
+- '§e▶ Нажмите, чтобы купить'
+ISLAND_UPGRADE_NETHER_NAME: 'Ад'
+ISLAND_UPGRADE_NETHER_LORE:
+-
+- '§7Покупка ада'
 ISLAND_UPGRADE_TERRITORY_NAME: 'Улучшение территории'
 ISLAND_UPGRADE_TERRITORY_LORE:
 - ' '

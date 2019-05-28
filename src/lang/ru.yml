@@ -4556,8 +4556,8 @@ PERK_SW_INSANE_CANNIBAL_LORE:
 PERK_SW_INSANE_INCUBATOR: 'Инкубатор' 
 PERK_SW_INSANE_INCUBATOR_LORE: 
 - ''
-- '§7При попадагии спавнит прирученного крипера'
-- '§7Убийство игрока даёт 16 яиц'
+- '§7С шансом 15% из брошенного яйца вылупляется Крипер'
+- '§7При убийстве вы получаете 16 яиц курицы'
 PERK_SW_INSANE_BOMBER: 'Взрывной парень' 
 PERK_SW_INSANE_BOMBER_LORE: 
 - ''

@@ -8654,6 +8654,8 @@ HNS_MASK_GRASS: 'Трава'
 HNS_MASK_GRASS_LORE: []
 HNS_MASK_DIRT: 'Земля'
 HNS_MASK_DIRT_LORE: []
+HNS_MASK_PODZOL: 'Подзол'
+HNS_MASK_PODZOL_LORE: []
 HNS_MASK_COBBLESTONE: 'Булыжник'
 HNS_MASK_COBBLESTONE_LORE: []
 HNS_MASK_PLANKS: 'Доски'
@@ -8724,6 +8726,8 @@ HNS_MASK_FLOWER_POT: 'Горшок'
 HNS_MASK_FLOWER_POT_LORE: []
 HNS_MASK_LAMP: 'Лампа'
 HNS_MASK_LAMP_LORE: []
+HNS_MASK_LAMP_ON: 'Светящая лампа'
+HNS_MASK_LAMP_ON_LORE: []
 HNS_MASK_COAL_ORE: 'Уголь'
 HNS_MASK_COAL_ORE_LORE: []
 HNS_MASK_IRON_ORE: 'Железная руда'
@@ -8736,7 +8740,7 @@ HNS_MASK_CAKE: 'Торт'
 HNS_MASK_CAKE_LORE: []
 HNS_MASK_DEAD_BUSH: 'Мертвый куст'
 HNS_MASK_DEAD_BUSH_LORE: []
-HNS_MASK_GLASS_PANE: 'Стеклянная панель'
+HNS_MASK_GLASS_PANE: 'Стекл. панель'
 HNS_MASK_GLASS_PANE_LORE: []
 
 HIDER_TEAM: 'Прячущиеся'
@@ -8789,7 +8793,7 @@ HNS_SEEKER_GUI_TITLE: 'Маскировки прячущихся'
 HNS_SEEKER_GUI_INFO: '§eСписок маскировок'
 HNS_SEEKER_GUI_INFO_LORE:
 - '§7В данном меню можно просмотреть'
-- '§7все возможные блоки, которыами'
+- '§7все возможные блоки, которыми'
 - '§7могли стать прячущиеся.'
 - ''
 - '§7За минуту до окончания игры под'

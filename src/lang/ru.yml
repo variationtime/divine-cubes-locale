@@ -8748,6 +8748,8 @@ HNS_MASK_DEAD_BUSH: 'Мертвый куст'
 HNS_MASK_DEAD_BUSH_LORE: []
 HNS_MASK_GLASS_PANE: 'Стекл. панель'
 HNS_MASK_GLASS_PANE_LORE: []
+HNS_MASK_ANDEZITE: 'Андезит'
+HNS_MASK_ANDEZITE_LORE: []
 HNS_MASK_DEFAULT: 'Случайная маскировка'
 HNS_MASK_DEFAULT_LORE:
 - ''
@@ -8837,6 +8839,7 @@ HNS_SEEKER_DEATH_TITLE: '§cВы были убиты прячущимися'
 HNS_SEEKING_STARTED: '§fИскатели вышли на охоту. Будьте осторожны!'
 HNS_SEEKING_STARTING: '§fИскатели будут выпущены через §a20 §fсекунд'
 
+HIDE_AND_SEEK_END_NOTIFIER: '§fДо победы прячущихся осталась §a1 §fминута. Теперь искатели могут видеть количество игроков, замаскированных под каждый блок'
 HIDE_AND_SEEK_GAME_END: '§fВремя вышло. Искатели не успели найти всех прячущихся игроков'
 
 HNS_BOARD_SEEKERS: 'Искателей'

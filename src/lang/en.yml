@@ -799,9 +799,9 @@ GAMEMENU_ARCADE_LORE:
 - '§8Arcade games'
 - ''
 - '§7Mixed minigame:'
-- '§f ▪ Build Battle'
-- '§f ▪ Hide and seek  §cIn development'
-- '§f ▪ Speed Builders §cIn development'
+- '§f ▪ BuildBattle'
+- '§f ▪ HideAndSeek'
+- '§f ▪ SpeedBuilders §cIn development'
 - '§f ▪ ???'
 - ''
 GAMEMENU_PARKOUR_LORE:

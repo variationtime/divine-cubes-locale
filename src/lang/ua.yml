@@ -772,9 +772,9 @@ GAMEMENU_ARCADE_LORE:
 - '§8Аркадні ігри'
 - ''
 - '§7Збірка міні-ігор, таких як:'
-- '§f ▪ Build Battle'
-- '§f ▪ Hide and seek  §cВ разработке'
-- '§f ▪ Speed Builders §cВ разработке'
+- '§f ▪ BuildBattle'
+- '§f ▪ HideAndSeek'
+- '§f ▪ SpeedBuilders §cВ разработке'
 - '§f ▪ ???'
 - ''
 GAMEMENU_PARKOUR_LORE:

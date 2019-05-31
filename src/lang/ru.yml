@@ -8662,6 +8662,8 @@ HNS_MASK_PODZOL: 'Подзол'
 HNS_MASK_PODZOL_LORE: []
 HNS_MASK_COBBLESTONE: 'Булыжник'
 HNS_MASK_COBBLESTONE_LORE: []
+HNS_MASK_COBBLESTONE_FENCE: 'Булыжная ограда'
+HNS_MASK_COBBLESTONE_FENCE_LORE: []
 HNS_MASK_PLANKS: 'Доски'
 HNS_MASK_PLANKS_LORE: []
 HNS_MASK_BEREZA_PLANKS: 'Березовые доски'
@@ -8746,6 +8748,11 @@ HNS_MASK_DEAD_BUSH: 'Мертвый куст'
 HNS_MASK_DEAD_BUSH_LORE: []
 HNS_MASK_GLASS_PANE: 'Стекл. панель'
 HNS_MASK_GLASS_PANE_LORE: []
+HNS_MASK_DEFAULT: 'Случайная маскировка'
+HNS_MASK_DEFAULT_LORE:
+- ''
+- '§7Ваша маскировка будет выбрана'
+- '§7случайно из всех возможных'
 
 HIDER_TEAM: 'Прячущиеся'
 SEEKER_TEAM: 'Искатели'

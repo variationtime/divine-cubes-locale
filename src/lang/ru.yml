@@ -14,6 +14,11 @@ HELP_PAPER_FOR: '§e▸ Подкоманды для %s:'
 FREE: 'Бесплатно'
 NO_RARITY: 'Без редкости'
 
+TOP_MONEY_HOLO:
+- '§6§lТоп по монетам'
+- '§fТоп игроков по кол-ву'
+- '§fзаработанной валюты'
+
 NO_CHANGE_SKIN: '§cСкин установлен, но для его обновления вам нужно перезайти на сервер'
 FINAL_KILL: '%s §fбыл убит игроком %s §bФИНАЛЬНОЕ УБИЙСТВО!'
 
@@ -8674,8 +8679,6 @@ HNS_MASK_EL: 'Ель'
 HNS_MASK_EL_LORE: []
 HNS_MASK_BEREZA: 'Берёза'
 HNS_MASK_BEREZA_LORE: []
-HNS_MASK_TROPIC: 'Тропик'
-HNS_MASK_TROPIC_LORE: []
 HNS_MASK_SAND: 'Песок'
 HNS_MASK_SAND_LORE: []
 HNS_MASK_GRAVEL: 'Гравий'

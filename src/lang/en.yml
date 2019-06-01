@@ -37,7 +37,7 @@ HOLO_TOP_ALL:
 HOLO_TOP_MONTHLY:
 - '§6§l%s'
 - '§fPlayer top (for victories)'
-- '§fFor §eMonth'
+- '§fFor §e%s'
 - '§cIs updated every 30 minutes'
 
 JOIN_PLAYER_LO_LOBBY: ' §a‣ %s §6has joined to the server'

@@ -3,6 +3,19 @@ LANGUAGE_CHANGE: '§6Сервер §8| §fВаш язык изменен на §
 TOP_POSITION: '§e%s место'
 TOP_EMPTY: '%s'
 
+JANUARY: 'Январь'
+FEBRUARY: 'Февраль'
+MARCH: 'Март'
+APRIL: 'Апрель'
+MAY: 'Май'
+JUNE: 'Июнь'
+JULY: 'Июль'
+AUGUST: 'Август'
+SEPTEMBER: 'Сентябрь'
+OCTOBER: 'Октрябрь'
+NOVEMBER: 'Ноябрь'
+DECEMBER: 'Декабрь'
+
 BREAK_BLOCK_UNDER_TEAM: '§cВы не можете ломать блоки под своими тиммейтами'
 
 CRASH_FORMAT: '/crash <ник игрока>'

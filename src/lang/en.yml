@@ -79,18 +79,6 @@ NOT_BEST_SERVER: '§cNot the best server'
 REDIRECT_TO_SERVER: '§aRedirect to server %s'
 
 HOLO_TOP_MAIN: '§7Click to view another'
-HOLO_TOP_SOLO:
-- 'Player top (for victories)'
-- 'in solo mode'
-HOLO_TOP_DOUBLES:
-- 'Player top (for victories)'
-- 'in doubles mode'
-HOLO_TOP_TEAM:
-- 'Player top (for victories)'
-- 'in team mode'
-HOLO_TOP_RUSH:
-- 'Player top (for victories)'
-- 'in rush mode'
 
 HOLO_INFO_LOBBY:
 - '§fClick on §6NPC§f,'

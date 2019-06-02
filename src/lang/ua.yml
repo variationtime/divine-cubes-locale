@@ -1,7 +1,6 @@
 LANGUAGE_CHANGE: '§6Сервер §8| §fВашу мову змінено на §c%s' 
 
 TOP_POSITION: '§e%s місце'
-TOP_EMPTY: '%s'
 
 BREAK_BLOCK_UNDER_TEAM: '§cВи не можете ламати блоки під своїми товаришами'
 

@@ -1,7 +1,7 @@
 LANGUAGE_CHANGE: '§6Сервер §8| §fВаш язык изменен на §c%s'
 
 TOP_POSITION: '§e%s место'
-TOP_EMPTY: '%s'
+LEVEL: 'уровень'
 
 JANUARY: 'Январь'
 FEBRUARY: 'Февраль'

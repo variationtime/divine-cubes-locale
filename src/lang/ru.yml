@@ -7010,17 +7010,17 @@ GADGETS_350_NAME: 'Чёрный гаст'
 GADGETS_350_LORE:
 - '§7Гаст курильщика'
 GADGETS_351_NAME: 'Серый герб'
-GADGETS_352_LORE:
+GADGETS_351_LORE:
 - '§7И ни капли не блеклый'
-GADGETS_353_NAME: 'Лайк'
-GADGETS_353_LORE:
+GADGETS_352_NAME: 'Лайк'
+GADGETS_352_LORE:
 - '§7Просто царский лайк от самого Бог Румайна'
-GADGETS_354_NAME: 'Рыжая морда'
-GADGETS_354_LORE:
+GADGETS_353_NAME: 'Рыжая морда'
+GADGETS_353_LORE:
 - '§7Последнее, что видишь,'
 - '§7дергая рыжего кота за хвост'
-GADGETS_355_NAME: 'Встреча в аду'
-GADGETS_355_LORE:
+GADGETS_354_NAME: 'Встреча в аду'
+GADGETS_354_LORE:
 - '§7Картина маслом:'
 - '§7читера встречают у своего котла'
 

@@ -9152,5 +9152,7 @@ HIDERS_FOUND_STAT: 'Прячущихся найдено'
 WIN_HIDERS_TITLE: '§bПобедили прячущиеся'
 WIN_HIDERS_SUB_TITLE: '§7Искатели не успели найти всех'
 
+HNS_GAME_TIME_CHANGE: ' %s%s %s секунд игрового времени'
+
 WIN_SEEKERS_TITLE: '§cПобедили искатели'
 WIN_SEEKERS_SUB_TITLE: '§7Всех прячущихся нашли'

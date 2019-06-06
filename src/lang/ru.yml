@@ -6975,6 +6975,52 @@ GADGETS_338_LORE:
 GADGETS_339_NAME: 'Mojang'
 GADGETS_339_LORE:
 - '§7Для особых любителей кубов ❤'
+GADGETS_340_NAME: 'Волк'
+GADGETS_340_LORE:
+- '§7Кусает за бочок'
+GADGETS_341_NAME: 'Ухмылка'
+GADGETS_341_LORE:
+- '§7Отличный способ подкатить к Алекс.'
+GADGETS_342_NAME: 'Эндер лапша'
+GADGETS_342_LORE:
+- '§7Приятного аппетита, ищите по всей кухне'
+GADGETS_343_NAME: 'Клякса'
+GADGETS_343_LORE:
+- '§7Вроде клякса, зато как красиво!'
+GADGETS_344_NAME: 'Задумчивый олень'
+GADGETS_344_LORE:
+- '§7Говорят, что он вдохновляет перед экзаменами'
+GADGETS_345_NAME: 'Страх'
+GADGETS_345_LORE:
+- '§7Не бойтесь, мы его зацензурили'
+GADGETS_346_NAME: 'Тучка'
+GADGETS_346_LORE:
+- '§7..и вовсе не медведь..'
+GADGETS_347_NAME: 'Футуристический кроль'
+GADGETS_347_LORE:
+- '§7Слишком круто для этого сервера...'
+GADGETS_348_NAME: 'Соблазнительный магма-куб'
+GADGETS_348_LORE:
+- '§7Именно так флиртуют магма-кубы. И нет, это не развидеть'
+GADGETS_349_NAME: ''
+GADGETS_349_LORE:
+- '§7'
+GADGETS_350_NAME: ''
+GADGETS_350_LORE:
+- '§7'
+GADGETS_351_NAME: ''
+GADGETS_352_LORE:
+- '§7'
+GADGETS_353_NAME: ''
+GADGETS_353_LORE:
+- '§7'
+GADGETS_354_NAME: ''
+GADGETS_354_LORE:
+- '§7'
+GADGETS_355_NAME: ''
+GADGETS_355_LORE:
+- '§7'
+
 
 DONATE_MENU_JOIN_MESSAGE_ENABLE: '§6Сообщение при входе §8| §fСообщение под номером §a%s §fактивировано'
 DONATE_MENU_JOIN_MESSAGE_BUY: '§6Сообщение при входе §8| §fВы успешно купили §a%s §fсообщение'

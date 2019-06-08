@@ -9191,6 +9191,7 @@ PERK_HNS_FLASH_LORE:
 - '§7получите эффект скорости III на 10 секунд'
 
 WINS_AS_HIDER_STAT: 'Побед за прячущихся'
+WINS_AS_SEEKER_STAT: 'Побед за искателей'
 SEEKERS_KILLED_STAT: 'Искателей убито'
 HIDERS_FOUND_STAT: 'Прячущихся найдено'
 

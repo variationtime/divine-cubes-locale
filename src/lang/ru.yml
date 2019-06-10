@@ -2116,6 +2116,7 @@ WHOIS_STATUS_OFFLINE: ' §c§lИгрок оффлайн'
 WHOIS_OFFLINE_LINES_1: ' §f- Был в сети §e%s назад'
 WHOIS_LINES_4: ' §f- Язык: §a%s'
 WHOIS_LINES_5: ' §f- Серверные данные: §a%s'
+WHOIS_LINES_6: ' §f- Версия: §a%s'
 STAFF_MEMBER_OFFLINE_LORE:
 - ' '
 - '§7Последний раз был в сети'

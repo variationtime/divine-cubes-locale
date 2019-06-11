@@ -9181,8 +9181,8 @@ KIT_HNS_THE_RAT_LORE:
 - '§7§oеще одно взрывное зелье отравления II'
 - '§7§oпри условии, что в инвентаре игрока'
 - '§7§oсейчас есть не больше трех зелий'
-KIT_HNS_HNS_TALKING_TO_FIRE: 'Говорящий с огнём?'
-KIT_HNS_HNS_TALKING_TO_FIRE_LORE:
+KIT_HNS_TALKING_TO_FIRE: 'Говорящий с огнём?'
+KIT_HNS_TALKING_TO_FIRE_LORE:
 - ''
 - '§7Содержит в себе:'
 - ' §8• §7Золотой шлем'

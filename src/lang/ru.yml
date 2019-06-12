@@ -3209,6 +3209,7 @@ ISLAND_TOP_LEVEL_HOLO:
 - '§fпо уровню их острова'
 ISLAND_CREATE_SUBTITLE: '§7Подробная информация §f/is'
 ISLAND_REMOVED_MEMBER: '§6SkyBlock §8| §fВладелец острова удалил свой остров, вы были перемещены на спавн'
+ISLAND_MINE_UPDATE: '§fАвтошахта обновлена!'
 ISLAND_MEMBER_BLOCKED: '§6SkyBlock §8| §fПростите, но вы были внесеты в §cсписок нежелательных игроков §fэтого острова (владелец - %s§f)'
 ISLAND_REMOVED: '§6SkyBlock §8| §fОстров успешно удален, вы были перемещены на спавн'
 ISLAND_OPENED_GUI_NAME: 'Публичные острова'

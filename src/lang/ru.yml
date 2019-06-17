@@ -7076,6 +7076,51 @@ GADGETS_356_LORE:
 GADGETS_357_NAME: 'Презрение гаста'
 GADGETS_357_LORE:
 - '§7"Ты же не видел, как я плачу?"'
+GADGETS_358_NAME: 'Тыква'
+GADGETS_358_LORE:
+- '§7Эта тыква на стиле, а ты нет'
+GADGETS_359_NAME: 'Веселая тыква'
+GADGETS_359_LORE:
+- '§7Никто не знает,'
+- '§7что прячется за этой улыбкой'
+GADGETS_360_NAME: 'Внеземное лицо'
+GADGETS_360_LORE:
+- '§7Может так выглядит'
+- '§7циливизация вне Земли?'
+GADGETS_361_NAME: 'Карандаш'
+GADGETS_361_LORE:
+- '§7Помогает стереть ошибки,'
+- '§7ну и не только'
+GADGETS_362_NAME: 'Морской камень'
+GADGETS_362_LORE:
+  - '§7"А ты случаем не рыба?"'
+GADGETS_363_NAME: 'Призрак'
+GADGETS_363_LORE:
+  - '§7Да, вам не померещилось'
+GADGETS_364_NAME: 'Злой лис'
+GADGETS_364_LORE:
+  - '§7Злой и страшный рыжий лис..'
+GADGETS_365_NAME: 'Пережаренный кролик'
+GADGETS_365_LORE:
+  - '§7"..но я только учусь.."'
+GADGETS_366_NAME: ''
+GADGETS_366_LORE:
+  - '§7'
+GADGETS_367_NAME: ''
+GADGETS_367_LORE:
+  - '§7'
+GADGETS_368_NAME: ''
+GADGETS_368_LORE:
+  - '§7'
+GADGETS_369_NAME: ''
+GADGETS_369_LORE:
+  - '§7'
+GADGETS_370_NAME: ''
+GADGETS_370_LORE:
+  - '§7'
+GADGETS_371_NAME: ''
+GADGETS_371_LORE:
+  - '§7'
 
 DONATE_MENU_JOIN_MESSAGE_ENABLE: '§6Сообщение при входе §8| §fСообщение под номером §a%s §fактивировано'
 DONATE_MENU_JOIN_MESSAGE_BUY: '§6Сообщение при входе §8| §fВы успешно купили §a%s §fсообщение'

@@ -8584,7 +8584,7 @@ SOUND_BW_TOTEM_LORE:
 SOUND_BW_WITCHCRAFT: 'Колдовство вызывателя'
 SOUND_BW_WITCHCRAFT_LORE:
 - ''
-- '§7Жещина, не колдую, женщина, я не колдую'
+- '§7Женщина, не колдую, женщина, я не колдую'
 SOUND_BW_DRAGON: 'Рык дракона'
 SOUND_BW_DRAGON_LORE:
 - ''

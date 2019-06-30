@@ -1416,6 +1416,7 @@ RED: 'Красный'
 LIGHT_PURPLE: 'Розовый'
 YELLOW: 'Желтый'
 WHITE: 'Белый'
+DARK_PURPLE: 'Фиолетовый'
 
 DONATE_MENU_GUI: 'Меню донатера'
 DONATE_MENU_FAST_MESSAGE_NAME: 'Быстрые сообщения'

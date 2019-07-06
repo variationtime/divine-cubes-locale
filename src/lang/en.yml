@@ -1160,7 +1160,7 @@ HOME_GUI_NAME: 'Point of the house'
 KIT_GUI_NAME: 'Player selection'
 CALL_FORMAT: '/call <nickname>'
 SPEED: '§fSpeed set to §a%s'
-SPEED_TO: '§fУSpeed set to §a%s §ffor player %s'
+SPEED_TO: '§fSpeed set to §a%s §ffor player %s'
 HAT: 'Enjoy your headdress!'
 HAT_ERROR: '§cYou must keep something in you hand, to wear this on the head'
 TPPOS: 'Teleport to coordinates: %s'
@@ -1705,7 +1705,7 @@ PARTY_JOINED_BROADCAST: '§6Party §8| %s §fjoined to the group'
 PARTY_NEW_PARTY_WITH: '§6Party §8| §fYou create new party with player %s'
 PARTY_JOINED_PARTY: '§6Party §8| §fYou joined to the group players %s'
 PARTY_INVITE_DECLINED: '§6Party §8| §fYou decline invite in group from player %s'
-PARTY_YOUR_INVITE_DECLINED: '§6Party §8| §f%s §fоdesline your invite in the party :( (he just do not know, what lost)'
+PARTY_YOUR_INVITE_DECLINED: '§6Party §8| §f%s §fdesline your invite in the party :( (he just do not know, what lost)'
 NO_SLOTS_FOR_PARTY: '§c§lWARNING! §cOn this server not enough space for your party!'
 PARTY_INVITE_FORMAT: '/party invite <player name>'
 FRIEND_NEW_INVITE_ACCEPT_HOVER: '§fClick, to accept making friend!'
@@ -1780,7 +1780,7 @@ GOOGLE_AUTHENTICATOR_CONFIRM_FORMAT: '§6GAuth §8| §fFor confirm enter the cod
 GOOGLE_AUTHENTICATOR_CONFIRM_INVALID: '§cError, entered your code is not correct!'
 GOOGLE_AUTHENTICATOR_CONFIRM_DIGITS: '§cError, code must be six-digit number'
 GOOGLE_AUTHENTICATOR_CONFIRMED:
-- '§6GAuth §8| §fВы успешно включили §9G§co§eo§9g§2l§ce §fAuthenticator, now our *** under reliable protection!'
+- '§6GAuth §8| §fYou have successfully enable §9G§co§eo§9g§2l§ce §fAuthenticator, now our *** under reliable protection!'
 - '§fNow it each§6Autorization §fYou need enter §ccode§f from application'
 - '§fFor §cdisabled§f protection you need write command §7/tfa §fand it is disabled (but it is not exactly)'
 GOOGLE_AUTHENTICATOR_SCAN_PLEASE: '§6GAuth §8| §fScan this §eQR-code§f in application GAuth'
@@ -1793,7 +1793,7 @@ GOOGLE_AUTHENTICATOR_CODE_INVALID: '§cError, entering your code is not correct!
 GOOGLE_AUTHENTICATOR_KICK: '§cYour top max number attempts enter code'
 PARTY_NO_REQUESTS: '§cError, you have not invites in party'
 PARTY_REQUESTS_TITLE: '§6Party §8| §fInvite list in party   (§a%s§f):'
-PARTY_REQUEST: '  §c• §fRequest от %s§f, §7§nclick to accept'
+PARTY_REQUEST: '  §c• §fRequest from %s§f, §7§nclick to accept'
 PARTY_REQUEST_HOVER: '§fClick, to join to the group'
 PARTY_REQUESTS_FOOTER: ' §fClick to request what you want to accept'
 GOOGLE_AUTHENTICATOR_RETRIES:
@@ -2188,7 +2188,7 @@ RANK_PRIORITY_ICON_LORE:
   - ' '
   - '§7Current priorityty: §a%s'
   - ' '
-YOU_CAN_DONATE: 'guild balance еще не пополнялся today'
+YOU_CAN_DONATE: 'guild balance is not yet replenished today'
 YOU_CANT_CHANGE_PRIORITY:
   - '§c▸ Cannot change priority this rank'
 CLICK_TO_CHANGE_PRIORITY:
@@ -2238,7 +2238,7 @@ GUILD_YOU_CANT_CHANGE_MOTD: '§6Guild §8| §fYou cannot change welcome message 
 GUILD_MOTD_HELP:
  - '§7/guild motd setline <number> <text> §f- change text on  line'
  - '§7/guild motd addline <text> §f- add line'
- - '§7/guild motd removeline <номер> §f- delete line'
+ - '§7/guild motd removeline <number> §f- delete line'
  - '§7/guild motd info §f- view welcome message'
  - '§7/guild motd clear §f- delete welcome message'
 GUILD_MOTD_SETLINE_FORMAT: '/guild motd setline <number line> <text>'
@@ -2614,7 +2614,7 @@ MODERATOR_STAT:
  - '§6Statistic §8| §fInformation about %s §fat §e%s -> %s'
  - ' §e• §fTotal bans: §a%s'
  - ' §e• §fTotal mutes: §a%s'
-TARGET_FRIENDS_LIMIT: '§cУSpecified by you player cannot accept request in friends, because his limit exceeded'
+TARGET_FRIENDS_LIMIT: '§cSpecified by you player cannot accept request in friends, because his limit exceeded'
 ERROR_WITH_YOUR_BUKKIT: '§cWith your account happened error. Reconnect to server and try enter command again'
 CORE_NAME: '§cServer'
 
@@ -3711,7 +3711,7 @@ ISLAND_TOP_KILLS_HOLO:
  - '§fkilled players'
 NOT_PIAR: '; §cℹ Adversite channels can only players with privilege §f[§6YouTube§f]; '
 NOT_DOMAIN_PIAR: '; §cℹ We are forbidden adversite sites and third-party resources; '
-HIDER_COOLDOWN: '§cClock перегрелись, осталось %s до охлаждения...'
+HIDER_COOLDOWN: '§cClock overheated, left %s before chilling...'
 HIDER_ENABLE_NAME: '§aShow players'
 HIDER_ENABLE_LORE:
 - '§7Use this item,'
@@ -3867,7 +3867,7 @@ ISLAND_ACHIEVEMENT_BEACON_LORE:
 ISLAND_ACHIEVEMENT_SLIME_BLOCK_LORE:
 - '§8 • §7Slime block §fх1'
 ISLAND_ACHIEVEMENT_EMPTY_MAP_LORE:
-- '§8 • §7Пустых карт §fх10'
+- '§8 • §7Empty maps §fх10'
 ISLAND_ACHIEVEMENT_ENCHANTMENT_TABLE_LORE:
 - '§8 • §7Enchantment table §fх1'
 ISLAND_ACHIEVEMENT_BOOKSHELF_LORE:
@@ -3948,3 +3948,23 @@ COMMON: 'Common'
 RARE: 'Rare'
 EPIC: 'Epic'
 LEGENDARY: 'Legendary'
+
+ISLAND_ADDLEVEL_GUI_NAME: 'Island Level'
+ISLAND_PROFILE_ADDLEVEL_NAME: 'Island Level'
+ISLAND_PROFILE_ADDLEVEL_LORE:
+- ' '
+- '§7Growth your island'
+- '§7level by means of adding blocks!'
+- ' '
+- '§8• §fCoal block §8- §a2 §fscores'
+- '§8• §fIron block §8- §a3 §fscores'
+- '§8• §fGolden block §8- §a4 §fscores'
+- '§8• §fDiamond block §8- §a6 §fscores'
+- '§8• §fQuartz block §8- §a2 §fscores'
+- '§8• §fRedstone block §8- §a2 §fscores'
+- '§8• §fEmerald block §8- §a10 §fscores'
+- '§8• §fLapis block §8- §a2 §fscores'
+- ' '
+- '§e▶ Click, to open'
+
+WHOIS_LINES_6: ' §f- Version: §a%s'

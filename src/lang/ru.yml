@@ -3746,7 +3746,7 @@ ISLAND_MOB_COMMAND:
 - ' §c▪ §fДропнутых айтемов: §a%s'
 - 'Ваш лимит мобов §a%s§f/§c%s'
 ISLAND_ADDLEVEL_SUCCES: 'Игрок %s§f поднял очки опыта вашего острова на §a%s §fпунктов'
-ISLAND_ADDLEVEL_ERROR: 'Простите, но данный предмет §8%s §cне подходит§f для повышения уровня острова'
+ISLAND_ADDLEVEL_ERROR: 'Простите, но данный предмет §cне подходит§f для повышения уровня острова'
 ISLAND_ADDLEVEL_NAME: 'Перетащите блоки в этот слот'
 ISLAND_ADDLEVEL_LORE:
 - ''

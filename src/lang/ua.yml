@@ -4285,7 +4285,6 @@ ISLAND_GENERATOR_LORE_PRICE:
 - ' §e▸ Натисніть, щоб купити генератор'
 ISLAND_GENERATOR_LORE_ENABLE: ' §e▸ Натисніть, щоб активувати генератор'
 ISLAND_GENERATOR_LORE_ENABLED: '§fДаний генератор все активований'
-ISLAND_BUY_GENERATOR: '§6SkyBlock §8| §fГравцеь %s §fкупив генератор §a%s §fдля вашого острову за §a%s §f%s'
 ISLAND_CHANGE_GENERATOR: '§6SkyBlock §8| §fГравцеь %s §fзмінив активний генератор на §a%s'
 ISLAND_DEFAULT_GENERATOR_NAME: 'Стандартний'
 ISLAND_DEFAULT_GENERATOR_LORE:

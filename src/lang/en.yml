@@ -3761,7 +3761,6 @@ ISLAND_GENERATOR_LORE_PRICE:
 - ' §e▸ Click, to buy generator'
 ISLAND_GENERATOR_LORE_ENABLE: ' §e▸ Click to activate generator'
 ISLAND_GENERATOR_LORE_ENABLED: '§fThis generator is already activated'
-ISLAND_BUY_GENERATOR: '§6SkyBlock §8| §fPlayer %s §fhas bought generator §a%s §ffor your island for §a%s §f%s'
 ISLAND_CHANGE_GENERATOR: '§6SkyBlock §8| §fPlayer %s §fhas changed an active generator on §a%s'
 ISLAND_DEFAULT_GENERATOR_NAME: 'Standart'
 ISLAND_DEFAULT_GENERATOR_LORE:

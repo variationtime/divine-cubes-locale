@@ -3209,6 +3209,8 @@ ISLAND_TOP_LEVEL_HOLO:
 - '§fпо уровню их острова'
 ISLAND_CREATE_SUBTITLE: '§7Подробная информация §f/is'
 ISLAND_REMOVED_MEMBER: '§6SkyBlock §8| §fВладелец острова удалил свой остров, вы были перемещены на спавн'
+ISLAND_MINE_HOLO: 'До обновления:'
+ISLAND_MINE_UPDATE_HOLO: '§6Обновлено!'
 ISLAND_MINE_UPDATE: '§fАвтошахта обновлена §7/warp mine'
 ISLAND_MEMBER_BLOCKED: '§6SkyBlock §8| §fПростите, но вы были внесеты в §cсписок нежелательных игроков §fэтого острова (владелец - %s§f)'
 ISLAND_REMOVED: '§6SkyBlock §8| §fОстров успешно удален, вы были перемещены на спавн'
@@ -3754,7 +3756,7 @@ ISLAND_ADDLEVEL_LORE:
 - '§7блок в этот слот, он пропадет,'
 - '§7а уровень вашего острова поднимется'
 - ''
-- '§7PS: Можно ложить сразу стак блоков §8(х64)'
+- '§7PS: Можно класть сразу стак блоков §8(х64)'
 ISLAND_ADDLEVEL_HELP_NAME: 'Информация'
 ISLAND_ADDLEVEL_HELP_LORE:
 - ''

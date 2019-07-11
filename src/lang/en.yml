@@ -2971,6 +2971,7 @@ ISLAND_PROFILE_LORE:
  - '§7Island biome: §c%s'
  - '§7Island balance: §6%s'
  - '§7Level island: §d%s'
+ - '§7To next level: §a%s XP'
  - '§7Mobs limit: §a%s'
  - '§7Open territory: §a%s'
  - '§7Amount members: §a%s§7/§c%s'

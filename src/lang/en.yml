@@ -1919,7 +1919,7 @@ SHOP_NAME_SELL_ALL: 'Sell all items'
 SHOP_LORE_SELL_ALL:
  - ''
  - '§7After sales all items'
- - '§7you will receive §c%s$'
+ - '§7you will receive §c%s'
  - ''
  - '§e▸ Click, to sell'
 SHOP_LORE_CHANGED:

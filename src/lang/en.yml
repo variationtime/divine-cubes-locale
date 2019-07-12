@@ -1899,7 +1899,7 @@ SHOP_GUIBUY_NAME: 'Bying %s'
 SHOP_GUISELL_NAME: 'Selling %s'
 SHOP_ITEMBUY_LORE:
  - ''
- - '§7Purchase price §c%s$'
+ - '§7Purchase price §c%s'
 SHOP_ITEM_NO_MONEY:
  - ''
  - '§cError, you have not enough money'
@@ -1908,7 +1908,7 @@ SHOP_ITEM_NO_ITEMS:
  - '§cError, you have not enough items'
 SHOP_ITEMSELL_LORE:
  - ''
- - '§7Take after sell %s$'
+ - '§7Take after sell §a%s'
 SHOP_NAME_REMOVE_1: '§cSet 1'
 SHOP_NAME_REMOVE_2: '§cSubtract 10'
 SHOP_NAME_REMOVE_3: '§cSubtract 1'

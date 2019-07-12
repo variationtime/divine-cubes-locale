@@ -2445,7 +2445,7 @@ SHOP_GUIBUY_NAME: 'Покупка %s'
 SHOP_GUISELL_NAME: 'Продажа %s'
 SHOP_ITEMBUY_LORE:
 - ''
-- '§7Цена покупки §c%s$'
+- '§7Цена покупки §c%s'
 SHOP_ITEM_NO_MONEY:
 - ''
 - '§cОшибка, у вас недостаточно средств'
@@ -2454,7 +2454,7 @@ SHOP_ITEM_NO_ITEMS:
 - '§cОшибка, у вас недостаточно предметов'
 SHOP_ITEMSELL_LORE:
 - ''
-- '§7Получите после продажи %s$'
+- '§7Получите после продажи §a%s'
 SHOP_NAME_REMOVE_1: '§cУстановить 1'
 SHOP_NAME_REMOVE_2: '§cОтнять 10'
 SHOP_NAME_REMOVE_3: '§cОтнять 1'

@@ -1893,8 +1893,8 @@ SHOP_LORE_ITEM:
  - '§7Click on §fmouse wheel,'
  - '§7to sell all %s'
  - ''
- - '§e▸ LBM, to buy'
- - '§e▸ RBM, to sell'
+ - '§e▸ LBM, to buy gui'
+ - '§e▸ RBM, to sell gui'
 SHOP_GUIBUY_NAME: 'Bying %s'
 SHOP_GUISELL_NAME: 'Selling %s'
 SHOP_ITEMBUY_LORE:

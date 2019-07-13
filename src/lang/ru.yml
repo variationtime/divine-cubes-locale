@@ -1830,6 +1830,7 @@ SKYBLOCK_SHOP_FARMING: 'Магазин фермерства'
 SKYBLOCK_SHOP_RES: 'Магазин ресурсов'
 SKYBLOCK_SHOP_OTHER: 'Магазин разного'
 SKYBLOCK_SHOP_LOOT: 'Магазин дропа'
+SKYBLOCK_SHOP_EXCHANGER: 'Магазин обменник'
 PTIME_GUI_NAME: 'Смена времени'
 PTIME_ITEM_LORE:
 - ''

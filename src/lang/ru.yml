@@ -1825,6 +1825,9 @@ HOLO_SKYBLOCK_SHOP_FOOD:
 HOLO_SKYBLOCK_SHOP_OTHER:
 - '§eРазное'
 - '§7Нажмите, чтобы открыть'
+HOLO_SKYBLOCK_SHOP_EXCHANGER:
+- '§eОбменник'
+- '§7Нажмите, чтобы открыть'
 SKYBLOCK_SHOP_BLOCKS: 'Магазин блоков'
 SKYBLOCK_SHOP_FARMING: 'Магазин фермерства'
 SKYBLOCK_SHOP_RES: 'Магазин ресурсов'

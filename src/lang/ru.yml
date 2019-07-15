@@ -1828,12 +1828,16 @@ HOLO_SKYBLOCK_SHOP_OTHER:
 HOLO_SKYBLOCK_SHOP_EXCHANGER:
 - '§eОбменник'
 - '§7Нажмите, чтобы открыть'
+HOLO_SKYBLOCK_SHOP_CUSTOM:
+- '§eРедкости'
+- '§7Нажмите, чтобы открыть'
 SKYBLOCK_SHOP_BLOCKS: 'Магазин блоков'
 SKYBLOCK_SHOP_FARMING: 'Магазин фермерства'
 SKYBLOCK_SHOP_RES: 'Магазин ресурсов'
 SKYBLOCK_SHOP_OTHER: 'Магазин разного'
 SKYBLOCK_SHOP_LOOT: 'Магазин дропа'
 SKYBLOCK_SHOP_EXCHANGER: 'Магазин обменник'
+SKYBLOCK_SHOP_CUSTOM: 'Магазин редкостей'
 PTIME_GUI_NAME: 'Смена времени'
 PTIME_ITEM_LORE:
 - ''

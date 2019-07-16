@@ -9534,6 +9534,7 @@ ALCHEMIST_ITEM_BOX_KIT: 'Алхимик'
 BUILDER_ITEM_BOX_KIT: 'Строитель'
 FARMER_ITEM_BOX_KIT: 'Фермер'
 REDSTONE_ITEM_BOX_KIT: 'Редстоунер'
+OTHER_ITEM_BOX_KIT: 'Разное'
 
 GRASS: 'Блок травы'
 EMERALD: 'Изумруд'

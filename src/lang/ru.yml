@@ -2401,6 +2401,16 @@ AUCTION_ACCEPT_WAIT_LORE:
 AUCTION_ACCEPT_ALL_LORE:
 - ''
 - '§e▸ Нажмите, чтобы подвердить'
+AUCTION_CHEST_SELLED_LORE:
+- ''
+- '§7То, что вы получили за'
+- '§7продажу §c%s'
+AUCTION_CHEST_NOT_AVAILABLE_LORE:
+- ''
+- '§7Время истекло, данный айтем снят с продажи'
+AUCTION_CHEST_AVAILABLE_LORE:
+- ''
+- '§e▸ Нажмите, чтобы снять айтем с продажи'
 AUCTION_MAINGUI_NAME: 'Аукцион'
 AUCTION_GUI_NAME: 'Мои предметы'
 AUCTION_GUI_SELL_NAME: 'Продажа'
@@ -2412,7 +2422,7 @@ AUCTION_COMMAND_ERROR: '§cОшибка, цена предмета должна 
 AUCTION_COMMAND_ERROR1: '§cОшибка, цена и кол-во предмета не может быть равна 0'
 AUCTION_COMMAND_ERROR2: '§cОшибка, кол-во предметов для продажи должно быть числом'
 AUCTION_COMMAND_ERROR3: '§cОшибка, вы не можете продать данный айтем пока он находится во 2й руке'
-AUCTION_ADD_TO_SELL: '§6Аукцион §8| §fПредмет §7%s §fбыл выложен на продажу за §a%s$'
+AUCTION_ADD_TO_SELL: '§6Аукцион §8| §fПредмет §7%s §fбыл выложен на продажу за §a%s'
 AUCTION_ADD_TO_SELL_ERROR: '§6Аукцион §8| §fОшибка, в вашей руке недостаточное кол-во предметов'
 AUCTION_ITEM_ALLREADY_SELLED: '§6Аукцион §8| §fОшибка, предмет был продан, сожалеем...'
 AUCTION_NO_MONEY: '§6Аукцион §8| §fОшибка, у вас недостаточно денег для покупки предмета'

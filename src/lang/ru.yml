@@ -2438,7 +2438,7 @@ AUCTION_BUY_PRICE_LORE:
 AUCTION_NO_RESOURCES_NAME: '§cУ вас недостаточно ресурсов!'
 AUCTION_BUY_GUI_ITEM_LORE:
 - ''
-- '§7Владелец: %s'
+- '§7Продавец: %s'
 - ''
 - '§e▸ Нажмите, чтобы купить'
 AUCTION_SELECT_BLOCK_GUI: 'Выбор блока'

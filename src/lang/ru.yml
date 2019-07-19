@@ -2391,7 +2391,7 @@ AUCTION_SELL_ITEM_LORE:
 AUCTION_SELL_PRICE_ITEM_LORE:
 - ''
 - '§7Вложите в этот слот предмет,'
-- '§7который хотите продать '
+- '§7который хотите получить после'
 - '§7или нажмите, чтобы открыть меню выбора'
 - ''
 AUCTION_ACCEPT_WAIT_LORE:
@@ -2411,6 +2411,13 @@ AUCTION_CHEST_NOT_AVAILABLE_LORE:
 AUCTION_CHEST_AVAILABLE_LORE:
 - ''
 - '§e▸ Нажмите, чтобы снять айтем с продажи'
+AUCTION_SELECT_BLOCK_LORE:
+- ''
+- '§e▸ Нажмите, чтобы выбрать данный предмет'
+AUCTION_SELECTED_BLOCK_LORE:
+- ''
+- '§7Данный предмет будет в качестве цены'
+AUCTION_SELECT_BLOCK_GUI: 'Выбор блока'
 AUCTION_MAINGUI_NAME: 'Аукцион'
 AUCTION_GUI_NAME: 'Мои предметы'
 AUCTION_GUI_SELL_NAME: 'Продажа'
@@ -2559,7 +2566,7 @@ SHOP_NAME_REMOVE_2: '§cОтнять 10'
 SHOP_NAME_REMOVE_3: '§cОтнять 1'
 SHOP_NAME_ADD_1: '§aДобавить 1'
 SHOP_NAME_ADD_2: '§aДобавить 10'
-SHOP_NAME_ADD_3: '§aУстановить 64'
+SHOP_NAME_ADD_3: '§aУстановить максимум'
 SHOP_NAME_SELL_ALL: 'Продать все предметы'
 SHOP_LORE_SELL_ALL:
 - ''

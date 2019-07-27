@@ -8756,7 +8756,7 @@ SOUND_BW_DEATH_LORE:
 SOUND_BW_CRACKLE: 'Треск кровати'
 SOUND_BW_CRACKLE_LORE:
 - ''
-- '§7Очень похоже на звук твои соседей'
+- '§7Очень похоже на звук твоих соседей'
 SOUND_BW_INSURRECTION: 'Восстание нечисти'
 SOUND_BW_INSURRECTION_LORE:
 - ''

@@ -1199,7 +1199,6 @@ TRADE_HELP:
 TRADE_ERROR_YOU: '§cYou cannot trade with yourself'
 TRADE_ERROR: '§6Trade §8| §fNo one wanted to trade with you yet'
 TRADE_ERROR2: '§6Trade §8| §fYou do not have any active requests from player %s'
-TRADE_BROKEN: '§6Trade §8| §fSomething went wrong, the trade was interrupted'
 #survival holo
 HOLO_SURVIVAL_JUMPTOPVP:
 - Jump §cdown
@@ -3763,38 +3762,6 @@ ISLAND_GENERATOR_LORE_PRICE:
 ISLAND_GENERATOR_LORE_ENABLE: ' §e▸ Click to activate generator'
 ISLAND_GENERATOR_LORE_ENABLED: '§fThis generator is already activated'
 ISLAND_CHANGE_GENERATOR: '§6SkyBlock §8| §fPlayer %s §fhas changed an active generator on §a%s'
-ISLAND_DEFAULT_GENERATOR_NAME: 'Standart'
-ISLAND_DEFAULT_GENERATOR_LORE:
-- '§8 • §7100% cobblestone'
-ISLAND_FIRST_GENERATOR_NAME: 'Resources'
-ISLAND_FIRST_GENERATOR_LORE:
-- '§8 • §72% sand'
-- '§8 • §72% gravel'
-- '§8 • §72% dirt'
-- '§8 • §71% clay'
-- '§8 • §793% cobblestone'
-ISLAND_SECOND_GENERATOR_NAME: 'Carbonic'
-ISLAND_SECOND_GENERATOR_LORE:
-- '§8 • §73% coal ore'
-- '§8 • §71% iron ore'
-- '§8 • §796% cobblestone'
-ISLAND_THIRD_GENERATOR_NAME: 'Golden'
-ISLAND_THIRD_GENERATOR_LORE:
-- '§8 • §71% iron ore'
-- '§8 • §73% gold ore'
-- '§8 • §72% redstone'
-- '§8 • §795% cobblestone'
-ISLAND_FOURTH_GENERATOR_NAME: 'Diamond'
-ISLAND_FOURTH_GENERATOR_LORE:
-- '§8 • §73% gold ore'
-- '§8 • §71% diamond ore'
-- '§8 • §796% cobblestone'
-ISLAND_FIFTH_GENERATOR_NAME: 'Emerald'
-ISLAND_FIFTH_GENERATOR_LORE:
-- '§8 • §75% lapis ore'
-- '§8 • §74% redstone'
-- '§8 • §71% emerald ore'
-- '§8 • §790% cobblestone'
 ACHIEVEMENT_COMPLETE: '§a§l§kX§r §6§lACHIEVEMENT COMPLETED §a§l§kX§r'
 INVENTORY_IS_FULL: '§cError, your inventory is full'
 ISLAND_ACHIEVEMENT_START_NAME: 'Start'

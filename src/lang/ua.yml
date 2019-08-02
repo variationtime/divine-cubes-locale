@@ -1173,7 +1173,6 @@ TRADE_HELP:
 TRADE_ERROR_YOU: '§cВи не можете обмінюватися сам з собою'
 TRADE_ERROR: "§6Trade §8| §fЗ вами ще ніхто не хотів помінятися"
 TRADE_ERROR2: "§6Trade §8| §fУ вас немає чекающих заявок від гравця %s"
-TRADE_BROKEN: "§6Trade §8| §fЩось пішло не так, обмін був прерваний"
 #skyblock holo
 HOLO_SKYBLOCK_START:
 - '§fДля початку гри на режимі "§3СкайБлок§f"'
@@ -4281,38 +4280,6 @@ ISLAND_GENERATOR_LORE_PRICE:
 ISLAND_GENERATOR_LORE_ENABLE: ' §e▸ Натисніть, щоб активувати генератор'
 ISLAND_GENERATOR_LORE_ENABLED: '§fДаний генератор все активований'
 ISLAND_CHANGE_GENERATOR: '§6SkyBlock §8| §fГравцеь %s §fзмінив активний генератор на §a%s'
-ISLAND_DEFAULT_GENERATOR_NAME: 'Стандартний'
-ISLAND_DEFAULT_GENERATOR_LORE:
-- '§8 • §7100% кругляк'
-ISLAND_FIRST_GENERATOR_NAME: 'Ресурси'
-ISLAND_FIRST_GENERATOR_LORE:
-- '§8 • §72% пісок'
-- '§8 • §72% гравий'
-- '§8 • §72% земля'
-- '§8 • §71% глина'
-- '§8 • §793% кругляк'
-ISLAND_SECOND_GENERATOR_NAME: 'Вугільний'
-ISLAND_SECOND_GENERATOR_LORE:
-- '§8 • §73% вугільна руда'
-- '§8 • §71% Залізна руда'
-- '§8 • §796% кругляк'
-ISLAND_THIRD_GENERATOR_NAME: 'Золотий'
-ISLAND_THIRD_GENERATOR_LORE:
-- '§8 • §71% залізна руда'
-- '§8 • §73% золота руда'
-- '§8 • §72% редстоун'
-- '§8 • §795% кругляк'
-ISLAND_FOURTH_GENERATOR_NAME: 'Алмазний'
-ISLAND_FOURTH_GENERATOR_LORE:
-- '§8 • §73% золота руда'
-- '§8 • §71% алмазна руда'
-- '§8 • §796% кругляк'
-ISLAND_FIFTH_GENERATOR_NAME: 'Емеральдовий'
-ISLAND_FIFTH_GENERATOR_LORE:
-- '§8 • §75% лазуритова руда'
-- '§8 • §74% редстоун'
-- '§8 • §71% смарагдова руда'
-- '§8 • §790% кругляк'
 ACHIEVEMENT_COMPLETE: '§a§l§kX§r §6§lАЧІВКА ВИКОНАНА §a§l§kX§r'
 INVENTORY_IS_FULL: '§cПомилка, ваш інвентар заповнений'
 ISLAND_ACHIEVEMENT_START_NAME: 'Старт'

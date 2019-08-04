@@ -2566,46 +2566,6 @@ YOU_GOT_KICKED: '§6Anticheat §8| §fYou were kicked for use third-party softwa
 PLAYER_CHECK_NOT_PASSED: '§6Anticheat §8| §fPlayer %s §fbroke check §c%s§f, his new VL - §c%s'
 PLAYER_WAS_KICKED: '§6Anticheat §8| §fPlayer %s §fwas kicked on suspicion use third-party software'
 
-ANSWER_FORMAT: '/ans <nickname> <answer>'
-NO_QUESTIONS_FROM_PLAYER: '§cError, player %s §cdid not ask question or him already answered'
-QUESTION_WAS_ANSWERED: 
- - '§cModeration §8| %s §7answered to the player %s §8(§a%s§8) §7-> §e%s'
-QUESTION_ANSWER: 
- - '§6Question §8| §fYour question was answered by %s'
- - ' §a• §fMessage: §e%s'
-NEW_QUESTION:
- - '§cModeration §8| %s §7asked a question -> §e%s'
-YOU_CANT_ASK_QUESTIONS: '§6Question §8| §fYou can only answer the question, for this write §a/ans'
-QUESTION_COOLDOWN: '§cError, sent question can only once a minute'
-ASK_FORMAT: '/ask <your question>'
-NO_STAFF_ONLINE: '§6Question §8| §fNo staff online, On your question no one to answer :('
-QUESTION_ALREADY_SENT: '§cError, you already sent question, wait answer on it'
-QUESTION_SENT: 
- - '§6Question §8| §fYou question sent all staff online'
- - ' §fIf you noticed, what with you communicate rough, or responded'
- - ' §fplayer will not want help you, refer to the forum:'
- - ' §elastcraft.net§f, section - §eComplaint to the administration'
-QUESTIONS_GUI_MAIN: 'Player questions'
-QUESTIONS_GUI_MAIN_LORE:
- - ' '
- - '§7Total questions:'
- - '§c%s'
-QUESTION_GUI_ITEM_LORE:
- - ' '
- - '§7Player asked question:'
- - '§e%s'
- - ' '
- - '§7~ §e%s ago'
- - ' '
- - ' §e▸ LMB, to answer player'
- - ' §e▸ RMB, to punish for offtopic'
-HOVER_TO_ANSWER: '§7Click, to answer player'
-ANSWER_HELP: '§6Question §8| §fFor answer write §a/ans %s <your message>'
-QUESTION_IS_TOO_SMALLORBIG: '§6Question §8| §fYou question must have §e6 §fи no more §c100 §fcharacters'
-ANSWER_YOU_ARE_OFFTOPPER: 'This chat designed exclusively for helping player with adequate question, remember this'
-OFFTOP_MUTE_REASON: '3.8 (Offtopic)'
-ANSWER_MAKE_SCREEN: '§6Question §8| §fDo screenshot this message - §7[§e%s, §e%s§7]'
-
 BANSTAT_FORMAT: '/banstat <nickname> <start date> <end date>'
 YOU_CANT_CHECK_NON_STAFF: '§cError, this player is not staff project'
 INVALID_DATE_PERIOD: '§cError, specify correct period (day/month/year)'
@@ -3052,17 +3012,6 @@ ISLAND_MOB_COMMAND:
  - ' §c▪ §fPlayers: §a%s'
  - ' §c▪ §fDroped items: §a%s'
  - 'You entity limit §a%s§f/§c%s'
-
-API_TOKEN_PLEASE_WAIT: '§6API §8| §fGenerate new access key can once in 10 minutes'
-TOKEN_HELP:
-  - ' '
-  - ' §fGenerate enter key look only now'
-  - ' §fIn future you need generate new key'
-  - ' §cBe careful! §fNot give key to nobody'
-  - ' '
-YOUR_TOKEN_IS: '§6API §8| §fYour access key - §a%s §7(click)'
-YOUR_TOKEN_IS_HOVER_1: '§fClick, to view in entry field access key'
-YOUR_TOKEN_IS_HOVER_2: '§fAnd copy it (CTRL + A, CTRL + C)'
 
 THIS_PLAYER_IS_TESTER_FIND: '§Server §8| §fThis player is anticheat-tester. His cant spectate at the moment'
 THIS_PLAYER_IS_TESTER_REPORT: '§6Anticheat §8| §fThis player is not cheater'

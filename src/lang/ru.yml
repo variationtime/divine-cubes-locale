@@ -2353,6 +2353,7 @@ GOOGLE_AUTHENTICATOR_RETRIES:
 - 'ка'
 - 'ки'
 - 'ок'
+AUCTION_SHOW_FORMAT: '/ah show <ник>'
 AUCTION_ITEM_LORE:
 - ''
 - '§7Данный предмет продает'

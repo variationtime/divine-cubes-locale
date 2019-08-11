@@ -32,6 +32,8 @@ HELP_PAPER_FOR: '§e▸ Подкоманды для %s:'
 FREE: 'Бесплатно'
 NO_RARITY: 'Без редкости'
 
+FRIEND_LIST_GUILD: '§7Гильдия: %s'
+
 TOP_MONEY_HOLO:
 - '§6§lТоп по монетам'
 - '§fТоп игроков по кол-ву'

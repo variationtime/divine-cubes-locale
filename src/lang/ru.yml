@@ -2128,6 +2128,8 @@ WHOIS_OFFLINE_LINES_1: ' §f- Был в сети §e%s назад'
 WHOIS_LINES_4: ' §f- Язык: §a%s'
 WHOIS_LINES_5: ' §f- Серверные данные: §a%s'
 WHOIS_LINES_6: ' §f- Версия: §a%s'
+WHOIS_LAST_SERVER: ' §f- Последний сервер: §a%s'
+WHOIS_LAST_IP: ' §f- Последний IP: §a%s'
 STAFF_MEMBER_OFFLINE_LORE:
 - ' '
 - '§7Последний раз был в сети'

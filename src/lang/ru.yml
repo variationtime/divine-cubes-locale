@@ -16,6 +16,8 @@ OCTOBER: 'Октрябрь'
 NOVEMBER: 'Ноябрь'
 DECEMBER: 'Декабрь'
 
+VK: '§6VK §8| §fУ пользователя %s §fпривязан аккаунт §7vk.com/id%s'
+
 BREAK_BLOCK_UNDER_TEAM: '§cВы не можете ломать блоки под своими тиммейтами'
 
 CRASH_FORMAT: '/crash <ник игрока>'
@@ -5674,7 +5676,7 @@ LOBBY_SETTINGS_CHAT_LORE:
 LOBBY_SETTINGS_VK_LEAK_NAME: 'Вконтакте'
 LOBBY_SETTINGS_VK_LEAK_LORE:
 - '§7Позволяет включить или выключить'
-- '§7отображение вашего VK'
+- '§7отображение вашего VK другим игрокам'
 - '§7по команде §f/vk <ник>'
 LOBBY_SETTINGS_BOARD_NAME: 'Скорборд'
 LOBBY_SETTINGS_BOARD_LORE:

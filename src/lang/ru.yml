@@ -5671,11 +5671,11 @@ LOBBY_SETTINGS_CHAT_NAME: 'Чат'
 LOBBY_SETTINGS_CHAT_LORE:
 - '§7Позволяет включить или выключить'
 - '§7возможность писать или читать чат'
-LOBBY_SETTINGS_MUSIC_NAME: 'Музыка'
-LOBBY_SETTINGS_MUSIC_LORE:
+LOBBY_SETTINGS_VK_LEAK_NAME: 'Вконтакте'
+LOBBY_SETTINGS_VK_LEAK_LORE:
 - '§7Позволяет включить или выключить'
-- '§7музыку в лобби ожидания'
-- '§7до старта игры'
+- '§7отображение вашего VK'
+- '§7по команде §f/vk <ник>'
 LOBBY_SETTINGS_BOARD_NAME: 'Скорборд'
 LOBBY_SETTINGS_BOARD_LORE:
 - '§7Позволяет включить или выключить'

@@ -4326,11 +4326,6 @@ LOBBY_SETTINGS_CHAT_NAME: 'Чат'
 LOBBY_SETTINGS_CHAT_LORE:
 - '§7Дозволяє увімкнути або вимкнути'
 - '§7можливість писати або читати чат'
-LOBBY_SETTINGS_MUSIC_NAME: 'Музика'
-LOBBY_SETTINGS_MUSIC_LORE:
-- '§7Дозволяє увімкнути або вимкнути'
-- '§7музику в лоббі очікування'
-- '§7до старта игри' 
 LOBBY_SETTINGS_BOARD_NAME: 'Скорборд'
 LOBBY_SETTINGS_BOARD_LORE:
 - '§7Дозволяє увімкнути або вимкнути'

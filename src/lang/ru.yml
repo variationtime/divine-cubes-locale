@@ -16,6 +16,7 @@ OCTOBER: 'Октрябрь'
 NOVEMBER: 'Ноябрь'
 DECEMBER: 'Декабрь'
 
+VK_FORMAT: '/vk <ник>'
 VK: '§6VK §8| §fУ пользователя %s §fпривязан аккаунт §7vk.com/id%s'
 
 BREAK_BLOCK_UNDER_TEAM: '§cВы не можете ломать блоки под своими тиммейтами'

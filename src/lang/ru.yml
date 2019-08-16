@@ -2009,7 +2009,7 @@ TIME_SECOND_2:
 MESSAGE_FORMAT: '§c/msg <ник> <сообщение>'
 IGNORE_FORMAT: '§c/ignore <ник>'
 REPLY_FORMAT: '§c/reply <сообщение>'
-3:
+MESSAGE_TO_VK:
 - '§c§cДанный игрок оффлайн, сообщение было отправлено в его VK'
 - '§cповторное сообщение можно отправить только через 15 минут'
 SENT_MESSAGE_FORMAT: ' §6ЛС §8| §6Я §8-> §6%s §8| §f%s'

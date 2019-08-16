@@ -19,7 +19,11 @@ DECEMBER: 'Декабрь'
 VK_NOT_LINK: '§6VK-bot §8| §fДанный игрок не привязал свой аккаунт к §9VK §fботу'
 VK_ERROR: '§cДанный игрок запретил узнавать его страницу VK'
 VK_FORMAT: '/vk <ник>'
-VK: '§6VK-bot §8| §fУ пользователя %s §fпривязан аккаунт §7vk.com/id%s'
+VK_OTHER: '§6VK-bot §8| §fУ пользователя %s §fпривязан аккаунт §7vk.com/id%s'
+VK: '§6VK-bot §8| §fК вашему аккаунту привязан профиль §7vk.com/id%s'
+VK_NOT_LINK_YOU: '§6VK-bot §8| §fК вашему аккаунту не привязан профиль §9VK'
+VK_SENT_MESSAGE_FORMAT: ' §6ЛС §8| §6Я §8-> §6%s§9(VK) §8| §f%s'
+VK_RECIEVED_MESSAGE_FORMAT: '%s написал вам -> %s'
 
 BREAK_BLOCK_UNDER_TEAM: '§cВы не можете ломать блоки под своими тиммейтами'
 

@@ -2103,6 +2103,8 @@ REPORT_GUI_MAIN_LORE:
 - '§fВсего жалоб: §e%s'
 REPORT_GUI_ITEM_NAME: '§eЖалоба на %s'
 REPORT_GUI_ITEM_SERVER: '§7Сервер: §a%s'
+REPORT_GUI_ITEM_VERSION: '§7Версия: §a%s'
+REPORT_GUI_ITEM_GAME_STATE: '§7Стадия игры: §a%s'
 REPORT_GUI_LAST_REPORT_TITLE: '§7Последняя жалоба:'
 REPORT_GUI_LAST_REPORT: '§e%s назад'
 REPORT_GUI_TOTAL_REPORTS: '§7Всего жалоб: §c%s'

@@ -2113,7 +2113,7 @@ REPORT_GUI_SPECTATORS_TITLE: '§7Список следящих:'
 REPORT_GUI_TP_TITLE:
 - '§e▶ ЛКМ, чтобы начать следить за игроком'
 - '§e▶ ПКМ, чтобы отклонить жалобу'
-REPORT_NO_REPORT: '§cЖалоб нет.'
+REPORT_NO_REPORT: '§cЖалоб нет'
 REPORT_GUI_ACTION: 'Выбор действия'
 REPORT_GUI_ACTION_INNOCENT: '§aИгрок невиновен'
 REPORT_NO_PERM_FOR_ACTIONS: '§cЖалобы §8| §fПринимать решения по жалобам могут только модераторы и выше.'
@@ -3869,6 +3869,7 @@ ISLAND_ADDLEVEL_LORE:
 ISLAND_ADDLEVEL_HELP_NAME: 'Информация'
 ISLAND_ADDLEVEL_HELP_LORE:
 - ''
+- '%s'
 - '§7Уровень вашего острова: §d%s'
 - '§7До следующего уровня: §a%s XP'
 SERVER_WAS_DOWN: '§6Сервер §8| §fСервер §a%s §fзакрыл Ваше соединение, Вы перенаправлены на §a%s'

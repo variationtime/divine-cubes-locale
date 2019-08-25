@@ -3339,6 +3339,10 @@ ISLAND_ADDLEVEL_GUI_NAME: 'Уровень острова'
 ISLAND_PROFILE_BEACON_NAME: 'Эффекты'
 ISLAND_PROFILE_BEACON_LORE:
 - ''
+- 'Покупка и активация эффектов,'
+- 'которые будут действовать на весь остров'
+- ' '
+- '§e▶ Нажмите, чтобы открыть'
 ISLAND_PROFILE_ADDLEVEL_NAME: 'Уровень острова'
 ISLAND_PROFILE_ADDLEVEL_LORE:
 - ' '

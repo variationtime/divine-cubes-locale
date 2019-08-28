@@ -1968,6 +1968,7 @@ ALERT_FORMAT: '/alert <сообщение>'
 SERVER_FORMAT: '/server <сервер>'
 SEND_FORMAT: '/send <ник игрока> <сервер>'
 FIND_RESULT: '§6Сервер §8| §fИгрок %s §fнаходится на сервере §c%s'
+FIND_RESULT_OFFLINE: '§6Сервер §8| §fИгрок %s §cоффлайн§f, последний раз он был на сервере §7%s'
 SERVER_IS_NOT_ONLINE: §cСервер не найден!
 SERVER_TELEPORTATION: '§6Сервер §8| §fВы были телепортированы на сервер §a%s'
 YOU_HAVE_BEEN_SENT: §6Сервер §8| %s §fтелепортировал вас на сервер §c%s

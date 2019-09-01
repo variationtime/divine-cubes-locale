@@ -18,6 +18,12 @@ DECEMBER: 'Декабрь'
 
 HIDE: 'Скрыт'
 
+DISCORD_INFO: '§6Discord §8| §fУ пользователя %s §fпривязан Discord §7%s'
+DISCORD_INFO_ERROR: '§6Discord §8| §fДанный игрок не привязал свой аккаунт к Discord'
+DISCORD_INFO_YOU: '§6Discord §8| §fК вашему аккаунту привязан Discord §7%s'
+DISCORD_INFO_YOU_ERROR: '§6Discord §8| §fК вашему аккаунту не привязан Discord'
+DISCORD_USER_NOTFOUND: '§6Discord §8| §fОшибка, данный профиль §7Discord §fне найден!'
+
 VK_NOT_LINK: '§6VK-bot §8| §fДанный игрок не привязал свой аккаунт к §9VK §fботу'
 VK_ERROR: '§cДанный игрок запретил узнавать его страницу VK'
 VK_FORMAT: '/vk <ник>'

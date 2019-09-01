@@ -28,6 +28,7 @@ DISCORD_LINK: '§6Discord §8| §fВы успешно привязать акк�
 DISCORD_LINK_ERROR_SERVER: '§6Discord §8| §fОшибка, вы должны зайти в Discord сервер LastCraft §7https://discordapp.com/invite/a5Kq7y2'
 DISCORD_LINK_FORMAT: '/discord link <tag>'
 DISCORD_LINK_ALREADY: '§6Discord §8| §fОшибка, у вас уже есть привязка к Discord'
+DISCORD_LINK_ALREADY_2: '§6Discord §8| §fОшибка, данный Discord уже привязан к другому аккаунту'
 DISCORD_INFO: '§6Discord §8| §fУ пользователя %s §fпривязан Discord §7%s'
 DISCORD_INFO_ERROR: '§6Discord §8| §fДанный игрок не привязал свой аккаунт к Discord'
 DISCORD_INFO_YOU: '§6Discord §8| §fК вашему аккаунту привязан Discord §7%s'

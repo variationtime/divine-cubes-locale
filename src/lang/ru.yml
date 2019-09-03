@@ -18,6 +18,7 @@ DECEMBER: 'Декабрь'
 
 HIDE: 'Скрыт'
 
+DISCORD_GIVE_MONEY: 'Вы получаете %s %s за %s %s'
 DISCORD_HELP:
   - '§7/discord link <tag> §f- привязать к дискорду'
   - '§7/discord unlink §f- отвязать от дискорда'

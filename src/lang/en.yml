@@ -2842,7 +2842,6 @@ ISLAND_BUY_BIOME:
  - '§7this biome ?'
  - ' '
 ISLAND_CLOSED: '§6SkyBlock §8| §fThis island is close and teleport to it impossible! Ask for owner disable flag §cprivacy'
-BOARD_OPEN_TERRITORY_ISLAND: 'Open territory'
 BOARD_MEMBER_ISLAND: 'Amount members'
 BOARD_LEVEL_ISLAND: 'Island level'
 BOARD_NO_ISLAND1: 'Island not found!'

@@ -2804,7 +2804,6 @@ ISLAND_BUY_BIOME:
  - ' '
 ISLAND_NOT_FOUND: '§6SkyBlock §8| §fОстрів гравця %s §fне знайдений'
 ISLAND_CLOSED: '§6SkyBlock §8| §fДаний острів закритий та телепортація на нього неможлива! Попросіть власника відключити прапор §cприватність'
-BOARD_OPEN_TERRITORY_ISLAND: 'Відкрито території'
 BOARD_MEMBER_ISLAND: 'Кільк. участників'
 BOARD_LEVEL_ISLAND: 'Рівень острова'
 BOARD_NO_ISLAND1: 'Острів не знайдений!'

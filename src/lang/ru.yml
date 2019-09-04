@@ -3412,6 +3412,17 @@ ISLAND_REQUESTS_ITEM_HEAD_LORE:
 - ''
 - '§e▸ ЛКМ, чтобы принять запрос'
 - '§e▸ ПКМ, чтобы отклонить'
+ISLAND_CLEAR_STATS_ERROR: '§6SkyBlock §8| §fВы не можете очистить пустую статистику :/'
+ISLAND_CLEAR_STATS_APPLY: '§6SkyBlock §8| §fСтатистика очищена'
+ISLAND_CLEAR_STATS_NAME: 'Очистить статистику'
+ISLAND_CLEAR_STATS_LORE:
+- ''
+- '§7Очистить вашу личную'
+- '§7статистику убийств и смертей'
+- ''
+- '§7Цена: §ax%s изумрудных блоков'
+- ''
+- '§e▸ Нажмите, чтобы очистить'
 ISLAND_CREATE_NAME: '§eСоздать остров'
 ISLAND_CREATE_LORE:
 - ''

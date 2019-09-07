@@ -9653,6 +9653,7 @@ WIN_SEEKERS_SUB_TITLE: '§7Всех прячущихся нашли'
 STACKER_ERROR_ITEM: '§cУ вас недостаточно еды для кормления'
 STACKER_ERROR_LIMIT: '§cЖивотные не голодные, следующие кормление возможно через %s'
 
+COAL_ITEM_BOX_KIT: 'Угольное чудо'
 EMERALD_ITEM_BOX_KIT: 'Изумрудное чудо'
 CALLER_ITEM_BOX_KIT: 'Призыватель'
 NETGER_ITEM_BOX_KIT: 'Адский'

@@ -9795,3 +9795,7 @@ CHORUS_FRUIT_POPPED: 'Приготовленный плод хоруса'
 RABBIT: 'Крольчатина'
 MUTTON: 'Баранина'
 COOKED_FISH: 'Приготовленная рыба'
+
+PROTECTION_NOT_YOU: '§6Anarchy §8| §fВы не можете ломать блоки в чужом регионе'
+PROTECTION_CREATE: '§6Anarchy §8| §fРегион успешно создан'
+PROTECTION_CREATE_INTERSECTS_ERROR: '§6Anarchy §8| §fОшибка, ваш регион пересекается с другими регионами, попробуйте в другом месте'

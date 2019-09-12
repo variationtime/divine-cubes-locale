@@ -9812,7 +9812,7 @@ PROTECTION_ITEM_LORE:
 - ' §7X: §c%s'
 - ' §7Y: §c%s'
 - ' §7Z: §c%s'
-PROTECTION_ADDPMEMBER_LIMIT: '§6Anarchy §8| §cОшибка, вы привысили лимит на кол-во участников вашего привата(%s), кол-во участников не должно превышать %s'
+PROTECTION_ADDMEMBER_LIMIT: '§6Anarchy §8| §cОшибка, вы привысили лимит на кол-во участников вашего привата(%s), кол-во участников не должно превышать %s'
 PROTECTION_ITEM_EMPTY_NAME: '§cУ вас нет доступных приватов'
 PROTECTION_REMOVEMEMBER_COMPLETE_ERROR: '§6Anarchy §8| §fИгрок %s §fотсутствует в списке участников привата §7%s'
 PROTECTION_REMOVEMEMBER_COMPLETE: '§6Anarchy §8| §fИгрок %s §fбыл удален из привата §7%s'

@@ -2845,7 +2845,7 @@ ISLAND_CLOSED: '§6SkyBlock §8| §fThis island is close and teleport to it impo
 BOARD_MEMBER_ISLAND: 'Amount members'
 BOARD_LEVEL_ISLAND: 'Island level'
 BOARD_NO_ISLAND1: 'Island not found!'
-BOARD_NO_ISLAND2: 'write - §7/island creatE'
+BOARD_NO_ISLAND2: 'write - §7/island create'
 ISLAND_COMMAND_HELP:
  - '§7/is accept <nickname> §f- accept request for add in someones island'
  - '§7/is cancel <nickname> §f- desline request for add in someones island'

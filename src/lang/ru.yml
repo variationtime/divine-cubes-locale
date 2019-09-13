@@ -9823,6 +9823,8 @@ PROTECTION_ITEM_LORE:
 - ' §7X: §c%s'
 - ' §7Y: §c%s'
 - ' §7Z: §c%s'
+PROTECTION_REMOVE_BY: '§6Anarchy §8| §fВаш приват §7%s §fбыл удален ироком %s'
+PROTECTION_ADDMEMBER_TARGET_LIMIT: '§6Anarchy §8| §cОшибка, вы привысили лимит на кол-во приватов, вы не можете владеть более §a%s§f приватов'
 PROTECTION_SET_BED_ERROR: '§6Anarchy §8| §cОшибка, вы не можете установить кровать в чужом регионе'
 PROTECTION_ADDMEMBER_LIMIT: '§6Anarchy §8| §cОшибка, вы привысили лимит на кол-во участников вашего привата(%s), кол-во участников не должно превышать %s'
 PROTECTION_ITEM_EMPTY_NAME: '§cУ вас нет доступных приватов'

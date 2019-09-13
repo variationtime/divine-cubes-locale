@@ -9805,6 +9805,7 @@ RABBIT: 'Крольчатина'
 MUTTON: 'Баранина'
 COOKED_FISH: 'Приготовленная рыба'
 
+ANARCHY_DEATH_FRIEND: '§6Anarchy §8| §fВаш друг %s §fпогиб('
 PROTECTION_BREAK_BY: '§6Anarchy §8| §fПриват §7%s §fбыл уничтожен взрывом §7%s'
 PROTECTION_HELP:
 - '§7/rg list §f- список ваших регионов'

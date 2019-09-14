@@ -9875,7 +9875,14 @@ PROTECTION_PROFILE_UPGRADE_LORE:
 - ' '
 - '§7Покупка расширений для вашего привата'
 - ' '
-- '§e▶ Нажмите, чтобы открыть'
+- '§e▶ Нажмите, чтобы открыть меню'
+PROTECTION_PROFILE_MEMBERS_NAME: 'Список участников привата'
+PROTECTION_PROFILE_MEMBERS_LORE:
+- ' '
+- '§7Просмотр всех участников привата,'
+- '§7а так же детальная информация о каждом из них'
+- ' '
+- '§e▶ Нажмите, чтобы открыть меню'
 PROTECTION_UPGRADE_HELP_NAME: 'Информация'
 PROTECTION_UPGRADE_HELP_LORE:
 - ''

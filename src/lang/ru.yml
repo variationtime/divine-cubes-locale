@@ -9812,6 +9812,8 @@ RABBIT: 'Крольчатина'
 MUTTON: 'Баранина'
 COOKED_FISH: 'Приготовленная рыба'
 
+SET_BED_ERROR: '§cОшибка, вы не можете установить точку дома в эндер мире'
+
 ANARCHY_DEATH_FRIEND: '§6Anarchy §8| §fВаш друг %s §fпогиб в мире §7%s'
 PROTECTION_BREAK_BY: '§6Anarchy §8| §fПриват §7%s §fбыл уничтожен взрывом §7%s'
 PROTECTION_HELP:

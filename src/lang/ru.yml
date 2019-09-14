@@ -9823,6 +9823,12 @@ PROTECTION_HELP:
 - '§7/rg selection §f- показать границы привата §c(вы должны стоять в привате)'
 - '§7/rg leave §f- покинуть приват §c(вы должны стоять в привате)'
 PROTECTION_ACTION_YOU: '§6Anarchy §8| §cВы не можете удалить или добавить сами себя в свой приват :/'
+PROTECTION_LEAVE_NAME: 'Покинуть регион'
+PROTECTION_LEAVE_LORE:
+- ''
+- '§7Хотите покинуть регион ?'
+- ''
+- '§e▶ Нажмите, чтобы покинуть регион'
 PROTECTION_ITEM_LORE:
 - ''
 - '§7Владелец: %s'
@@ -9834,7 +9840,7 @@ PROTECTION_ITEM_LORE:
 - ' §7Y: §c%s'
 - ' §7Z: §c%s'
 - ''
-- '§e▶ Нажмите ПКМ, чтобы покинуть регион'
+- '§e▶ Нажмите ЛКМ, для управления региона'
 PROTECTION_UPGRADE_GUI_NAME: 'Улучшения'
 PROTECTION_MEMBERS_GUI_NAME: 'Участники'
 PROTECTION_MAIN_GUI_NAME: 'Настройки региона'

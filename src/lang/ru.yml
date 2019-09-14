@@ -9873,8 +9873,16 @@ PROTECTION_PROFILE_UPGRADE_LORE:
 - '§7Покупка расширений для вашего привата'
 - ' '
 - '§e▶ Нажмите, чтобы открыть'
+PROTECTION_UPGRADE_HELP_NAME: 'Информация'
+PROTECTION_UPGRADE_HELP_LORE:
+- ''
+- '§7Размеры: §a%s§7x§a%s§7x§a%s'
+- '§7Доступных прокачек: §e%s§7/§c%s'
+PROTECTION_UPGRADE_FULL_MESSAGE: '§6Anarchy §8| §fОшибка, у вас максимальный уровень прокачки'
 PROTECTION_UPGRADE_FULL:
 - ''
+- '§7Вы исчерпали кол-во улучшений'
+- '§7данного привата'
 PROTECTION_UPGRADE_SIDE_NAME: 'Расширить по X и Z'
 PROTECTION_UPGRADE_SIDE_LORE:
 - ' '

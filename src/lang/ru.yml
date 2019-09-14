@@ -9812,7 +9812,7 @@ RABBIT: 'Крольчатина'
 MUTTON: 'Баранина'
 COOKED_FISH: 'Приготовленная рыба'
 
-ANARCHY_DEATH_FRIEND: '§6Anarchy §8| §fВаш друг %s §fпогиб на координатах §7%s'
+ANARCHY_DEATH_FRIEND: '§6Anarchy §8| §fВаш друг %s §fпогиб в мире §7%s'
 PROTECTION_BREAK_BY: '§6Anarchy §8| §fПриват §7%s §fбыл уничтожен взрывом §7%s'
 PROTECTION_HELP:
 - '§7/rg list §f- список ваших регионов'
@@ -9890,7 +9890,7 @@ PROTECTION_UPGRADE_HELP_NAME: 'Информация'
 PROTECTION_UPGRADE_HELP_LORE:
 - ''
 - '§7Размеры: §a%s§7x§a%s§7x§a%s'
-- '§7Доступных прокачек: §e%s§7/§c%s'
+- '§7Доступных улучшений: §e%s§7/§c%s'
 PROTECTION_UPGRADE_FULL_MESSAGE: '§6Anarchy §8| §fОшибка, у вас максимальный уровень прокачки'
 PROTECTION_UPGRADE_FULL:
 - ''

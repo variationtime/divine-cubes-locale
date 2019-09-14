@@ -9834,6 +9834,7 @@ PROTECTION_ITEM_LORE:
 - ' §7Y: §c%s'
 - ' §7Z: §c%s'
 PROTECTION_UPGRADE_GUI_NAME: 'Улучшения'
+PROTECTION_MEMBERS_GUI_NAME: 'Участники'
 PROTECTION_MAIN_GUI_NAME: 'Настройки региона'
 PROTECTION_LEAVE_OWNER_ERROR: '§6Anarchy §8| §cВы не можете покинуть свой собственный приват'
 PROTECTION_LEAVE_TO: '§6Anarchy §8| §fИгрок %s §fпокинул приват §7%s'
@@ -9916,3 +9917,7 @@ PROTECTION_UPGRADE_UP_LORE:
 - '§7Цена: §a%s$'
 - ''
 - '§e▶ Нажмите, чтобы улучшить'
+PROTECTION_MEMBER_LORE:
+- ''
+- '§7Онлайн: %s'
+- '§7Владелец: %s'

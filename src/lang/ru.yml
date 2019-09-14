@@ -9829,6 +9829,7 @@ PROTECTION_LEAVE_LORE:
 - '§7Хотите покинуть регион ?'
 - ''
 - '§e▶ Нажмите, чтобы покинуть регион'
+PROTECTION_ITEM_LORE2: '§e▶ Нажмите ЛКМ, для управления региона'
 PROTECTION_ITEM_LORE:
 - ''
 - '§7Владелец: %s'
@@ -9839,8 +9840,6 @@ PROTECTION_ITEM_LORE:
 - ' §7X: §c%s'
 - ' §7Y: §c%s'
 - ' §7Z: §c%s'
-- ''
-- '§e▶ Нажмите ЛКМ, для управления региона'
 PROTECTION_UPGRADE_GUI_NAME: 'Улучшения'
 PROTECTION_MEMBERS_GUI_NAME: 'Участники'
 PROTECTION_MAIN_GUI_NAME: 'Настройки региона'

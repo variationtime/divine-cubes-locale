@@ -3648,8 +3648,6 @@ HIDER_DISABLE_NAME: '§cHide players'
 HIDER_DISABLE_LORE:
 - '§7Use this item,'
 - '§7to hide players'
-TITLE_JOIN_LOBBY: '§7Our Discord: §6vk.cc/a5Kq7y2'
-SUBTITLE_JOIN_LOBBY: '§7Fun-group: §cvk.com/memeslc'
 ALREADY_ON_SERVER: '§6Server §8| §cYou are already on this server!'
 PROMO_ITEM_NAME: '§aDISCOUNT!'
 REWARD_FOR_HIGHER_VERSION: ' §6+5 coins (play in 1.12 or higher)'

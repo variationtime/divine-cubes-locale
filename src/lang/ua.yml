@@ -4162,8 +4162,6 @@ HIDER_DISABLE_NAME: '§cПриховати гравців'
 HIDER_DISABLE_LORE:
 - '§7Використовуйте цей предмет,'
 - '§7щоб приховати гравціва'
-TITLE_JOIN_LOBBY: '§7Наш Discord: §6vk.cc/a5Kq7y2'
-SUBTITLE_JOIN_LOBBY: '§7Фан-група: §cvk.com/memeslc'
 ALREADY_ON_SERVER: '§6Сервер §8| §cВи вже знаходитесь на цьому сервері!'
 PROMO_ITEM_NAME: '§aЗНИЖКИ!'
 REWARD_FOR_HIGHER_VERSION: ' §6+5 монет (гра на 1.12 або вище)'

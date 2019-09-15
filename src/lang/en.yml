@@ -3628,18 +3628,6 @@ HOLO_ANARCHY_START:
  - '§cRandom teleport'
  - '§fTeleport you in random point in the world'
  - '§7Click, to activate'
-HOLO_ANARCHY_GOLD:
- - '§eSmall private §e§l31x15x31'
- - '§fAt placing block'
- - '§fprivate all around 15 blocks'
-HOLO_ANARCHY_DIAMOND:
- - '§bSmall private §b§l51x25x51'
- - '§fAt placing block'
- - '§fprivate all around 25 blocks'
-HOLO_ANARCHY_EMERALD:
- - '§aSmall private §a§l71x35x71'
- - '§fAt placing block'
- - '§fprivate all around 35 blocks'
 
 SERVERS_NOT_FOUND: '§cError, current servers not found'
 CHAT_LOBBY_OFF:

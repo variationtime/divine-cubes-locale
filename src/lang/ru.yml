@@ -7729,6 +7729,11 @@ SURVIVAL_KEY_LORE:
 - ''
 - '§7Используется для получения'
 - '§7различных "наборов" и отдельный предметов'
+ANARCHY_KEY: '§aСкайблочный ключ'
+ANARCHY_KEY_LORE:
+- ''
+- '§7Используется для получения'
+- '§7различных "наборов" и отдельный предметов'
 GROUP: 'Статус'
 GROUP_ALREADY_HAVE: '§fУ вас уже есть данная группа, вы получили §e+%s %s'
 BOX_GUI_LORE:
@@ -9828,6 +9833,8 @@ ANARCHY_TPPOS_NO_LOCATION: '§cОшибка, не удалось найти по
 FLY_GOD_PVP_DISABLE: '§cОшибка, вы не можете атаковать игроков в режиме бога или полета'
 SET_BED_ERROR: '§cОшибка, вы не можете установить точку дома в эндер мире'
 
+ANARCHY_HELP_GUI_NAME: 'Анархия'
+ANARCHY_BOX_GUI_NAME: 'Покупка ключей'
 ANARCHY_TPPOS_LOBBY: '§6Anarchy §8| §cДанная команда не доступна в мире спавна'
 ANARCHY_DEATH_FRIEND: '§6Anarchy §8| §fВаш друг %s §fпогиб в мире §7%s'
 PROTECTION_BREAK_BY: '§6Anarchy §8| §fПриват §7%s §fбыл уничтожен взрывом §7%s'

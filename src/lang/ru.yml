@@ -5564,7 +5564,7 @@ HIDER_DISABLE_NAME: '§cСкрыть игроков'
 HIDER_DISABLE_LORE:
 - '§7Используйте этот предмет,'
 - '§7чтобы скрыть игроков'
-TITLE_JOIN_LOBBY: '§fКупи §aлюбой донат и получи'
+TITLE_JOIN_LOBBY: '§fКупи §aлюбой §fдонат и получи'
 SUBTITLE_JOIN_LOBBY: '§c50% §fот стоимости в виде §eзолота'
 ALREADY_ON_SERVER: '§6Сервер §8| §cВы уже находитесь на этом сервере!'
 PROMO_ITEM_NAME: '§aСКИДКИ!'

@@ -2610,16 +2610,11 @@ SHOP_LORE_ITEM:
 - ''
 - '§e▸ ЛКМ, чтобы открыть меню покупок'
 - '§e▸ ПКМ, чтобы открыть меню продаж'
-SHOP_LORE_KEYS_ITEM:
+SHOP_LORE_CLICK_ITEM:
 - ''
 - '§7Цена покупки: §a%s'
 - ''
-- '§e▸ Нажмите, чтобы купить ключи'
-SHOP_LORE_LEVEL_ITEM:
-- ''
-- '§7Цена покупки: §a%s'
-- ''
-- '§e▸ Нажмите, чтобы купить уровень'
+- '§e▸ Нажмите, чтобы купить'
 SHOP_LORE_FIXED_ITEM:
 - ''
 - '§7Цена покупки: §a%s'
@@ -9889,7 +9884,7 @@ PROTECTION_REMOVEMEMBER_COMPLETE_TO: '§6Anarchy §8| §fИгрок %s §fбыл
 PROTECTION_ADDMEMBER_COMPLETE_ERROR: '§6Anarchy §8| §fИгрок %s §fуже добавлен в приват §7%s'
 PROTECTION_ADDMEMBER_COMPLETE: '§6Anarchy §8| §fИгрок %s §fбыл добавлен в ваш приват §7%s'
 PROTECTION_ADDMEMBER_COMPLETE_TARGET: '§6Anarchy §8| §fИгрок %s §fдобавил вас в приват §7%s'
-PROTECTION_ADDMEMBER_COMPLETE_TO: '§6Anarchy §8| §fИгрок %s §fбыл добавил в приват §7%s игроком %s'
+PROTECTION_ADDMEMBER_COMPLETE_TO: '§6Anarchy §8| §fИгрок %s §fбыл добавлен в приват §7%s игроком %s'
 PROTECTION_ADDMEMBER_FORMAT: '/rg addmember <ник>'
 PROTECTION_ADDMEMBERALL_FORMAT: '/rg addmemberall <ник>'
 PROTECTION_REMOVEMEMBER_FORMAT: '/rg removemember <ник>'

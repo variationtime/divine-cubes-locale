@@ -3841,3 +3841,516 @@ ISLAND_PROFILE_ADDLEVEL_LORE:
 - '§e▶ Click, to open'
 
 WHOIS_LINES_6: ' §f- Version: §a%s'
+
+
+CATEGORY_SOUND_NAME: 'Breaking bed sound'
+CATEGORY_SOUND_LORE:
+- ''
+- '§7If you break some bed'
+- '§7all players who plays'
+- '§7with you will hear'
+- '§7this sound'
+CATEGORY_SKIN_NAME: 'Skins'
+CATEGORY_SKIN_LORE:
+- ' '
+- '§7Skin of Bed Wars shopkeeper (NPC)'
+CATEGORY_PERK_NAME: 'Perks'
+CATEGORY_PERK_LORE:
+- ' '
+- '§7Perks gives you different skills,'
+- '§7that can be useful in game'
+
+BWS_GAME_DESC:
+- 'You need to destroy all enemy teams faster than'
+- 'they destroy you! Enemies can respawn until their beds are broken'
+- 'So your objective is break all beds and kill all players'
+- 'in all teams (not yours, of course)'
+BWD_GAME_DESC:
+- 'You need to destroy all enemy teams faster than'
+- 'they destroy you! Enemies can respawn until their beds are broken'
+- 'So your objective is break all beds and kill all players'
+- 'in all teams (not yours, of course)'
+BWT_GAME_DESC:
+- 'You need to destroy all enemy teams faster than'
+- 'they destroy you! Enemies can respawn until their beds are broken'
+- 'So your objective is break all beds and kill all players'
+- 'in all teams (not yours, of course)'
+BW_GAME_STARTED_SUBTITLE: '§7Protect your beds!'
+BW_BED_BREAK_TITLE: '§cYour bed was broken!'
+BW_BED_BREAK_SUBTITLE: '§7You will not respawn'
+BW_PLAYER_BREAK_BED: '%s§f bed was destroyed by %s'
+BW_PLAYER_EXPLODE_BED: '%s§f bed was blew up by %s'
+BW_TEAM_MAX_GOLEM: '§cYour team was reached a maximum count of golems'
+BW_BRONZE:
+- 'bronz'
+- 'e'
+- 'e'
+- 'e'
+BW_IRON:
+- 'iro'
+- 'n'
+- 'n'
+- 'n'
+BW_GOLD:
+- 'gol'
+- 'd'
+- 'd'
+- 'd'
+
+BW_TELEPORT_WAIT: 'Do not move if you want to teleport to your base'
+BW_TELEPORT: '§aTeleporting to base...'
+BW_TELEPORT_TIME: '§fTeleporting in §a%s §f%s'
+BW_NO_TELEPORT: '§cTeleportation was cancelled because you have moved.'
+BW_TELEPORT_ERROR: '§cAll teleportations was cancelled'
+BW_NO_PLACE_SPAWN: '§cYou can not place block near respawn zone'
+BW_BREAK_YOUR_BED: '§cYou can not break your bed'
+BW_TRAP: '§cYou were trapped!'
+BW_TRAP_OWNER_TITLE: '§cTrap success'
+BW_TRAP_OWNER_SUBTITLE: '§7%s §7has catched in your trap'
+
+SKIN_BW_RICARDO: 'Ricardo Milos'
+SKIN_BW_RICARDO_LORE:
+- ''
+- '§7Unreal flex :/'
+SKIN_BW_BUILDER: 'Builda'
+SKIN_BW_BUILDER_LORE:
+- ''
+- '§7Rumor has that he builds'
+- '§7a bridge to middle of map'
+SKIN_BW_BATMAN: 'Batman'
+SKIN_BW_BATMAN_LORE:
+- ''
+- '§7He is a horror flying on'
+- '§7the wings of elytra'
+SKIN_BW_TERRORIST: 'Terrorist'
+SKIN_BW_TERRORIST_LORE:
+- ''
+- '§7He will teach how to blow the beds'
+SKIN_BW_THANOS: 'Thanos'
+SKIN_BW_THANOS_LORE:
+- ''
+- '§7If you piss him off,'
+- '§7he destroy your bed...'
+- '§7So you better do not throw a resources into him'
+SKIN_BW_DOGO: 'Doggy'
+SKIN_BW_DOGO_LORE:
+- ''
+- '§7Open a shop costs one fondle'
+SKIN_BW_VILLAGER: 'Villager'
+SKIN_BW_VILLAGER_LORE:
+- ''
+- '§7Main thing he is not unemployed...'
+SKIN_BW_DEADPOOL: 'Deadpool'
+SKIN_BW_DEADPOOL_LORE:
+- ''
+- '§7Banners, shields, and now NPC more!'
+SKIN_BW_COMMUNIST: 'Communist'
+SKIN_BW_COMMUNIST_LORE:
+- ''
+- '§7"In what sense? There is «our» only"'
+SKIN_BW_JACK: 'Jack'
+SKIN_BW_JACK_LORE:
+- ''
+- '§7— Take what you can'
+- '§7— Give nothing back.'
+SKIN_BW_STARLORD: 'Starlord'
+SKIN_BW_STARLORD_LORE:
+- ''
+- '§7..Lightning comes with'
+SKIN_BW_MARIO: 'Mario'
+SKIN_BW_MARIO_LORE:
+- ''
+- '§7At morning — plumber. At night — BedWars player'
+SKIN_BW_NOOB: 'Noob'
+SKIN_BW_NOOB_LORE:
+- ''
+- '§7And always remember: bad example is contagious'
+SKIN_BW_SANIC: 'Sanic'
+SKIN_BW_SANIC_LORE:
+- ''
+- '§7DO U NOU DE VEY???'
+SKIN_BW_PUMPKIN: 'Pumpkin'
+SKIN_BW_PUMPKIN_LORE:
+- ''
+- '§7Do not eat!'
+SKIN_BW_ORC: 'Orc'
+SKIN_BW_ORC_LORE:
+- ''
+- '§7"Work again.."'
+SKIN_BW_PETER: 'Peter'
+SKIN_BW_PETER_LORE:
+- ''
+- '§7You do not miss at him before bying..'
+SKIN_BW_BABY: 'Baby'
+SKIN_BW_BABY_LORE:
+- ''
+- '§7Please do not cry!'
+
+SOUND_BW_GUARDIAN: 'Guardian death'
+SOUND_BW_GUARDIAN_LORE:
+- ''
+- '§7Guardian was fallen while protecting a bed...'
+SOUND_BW_LAUGHTER: 'Mockery'
+SOUND_BW_LAUGHTER_LORE:
+- ''
+- '§7Broke a bed?'
+- '§7Lets laugh at its owner, haha!'
+SOUND_BW_WITHER: 'Wither Patrol'
+SOUND_BW_WITHER_LORE:
+- ''
+- '§7Wither a wish of your enemy using one sound!'
+SOUND_BW_DEATH: 'Wither Death'
+SOUND_BW_DEATH_LORE:
+- ''
+- '§7Legend says.. that sound hears "olds" only...'
+SOUND_BW_CRACKLE: 'Crackle of bed'
+SOUND_BW_CRACKLE_LORE:
+- ''
+- '§7Sounds same as your neighbours'
+SOUND_BW_INSURRECTION: 'Undead insurrection'
+SOUND_BW_INSURRECTION_LORE:
+- ''
+- '§7Apocalypse? Rise of the Dead?'
+- '§7Worse! Bed was broken...'
+SOUND_BW_DOOR: 'Broken bed'
+SOUND_BW_DOOR_LORE:
+- ''
+- '§7Surprisingly: broken bed sounds'
+- '§7when bed breaks'
+SOUND_BW_ANVIL: 'Anvil hit'
+SOUND_BW_ANVIL_LORE:
+- ''
+- '§7"Im hitting two timme: first by bed,'
+- '§7second - by coffin lid.'
+- '§7And the third by anvil."'
+SOUND_BW_PORTAL: 'Portal Opening'
+SOUND_BW_PORTAL_LORE:
+- ''
+- '§7"Sat on the portal — owes a bed"'
+SOUND_BW_ABYSS: 'Void'
+SOUND_BW_ABYSS_LORE:
+- ''
+- '§7Like a demon was released from bed'
+- '§7to take revenge to you...'
+SOUND_BW_FIREWORK: 'Firework Boom'
+SOUND_BW_FIREWORK_LORE:
+- ''
+- '§7Fireworks in honor of a small achievement'
+SOUND_BW_TOTEM: 'Evoker magic'
+SOUND_BW_TOTEM_LORE:
+- ''
+- '§7Sleight of hand and no fraud!'
+SOUND_BW_WITCHCRAFT: 'Evoker witchcraft'
+SOUND_BW_WITCHCRAFT_LORE:
+- ''
+- '§7Woman, do not conjuring, Woman, I do not conjuring'
+SOUND_BW_DRAGON: 'Dragon Roar'
+SOUND_BW_DRAGON_LORE:
+- ''
+- '§7Terrible roar will defeat enemies to horror!'
+
+PERK_BW_SEELENDIEB: 'Lord of the souls'
+PERK_BW_SEELENDIEB_LORE:
+- ''
+- '§7Kill of enemy will give you 2 yellow'
+- '§7hearts for 1 minute. Full-armor enemy'
+- '§7will give 4 yellow hearts.'
+PERK_BW_MISER: 'Miser'
+PERK_BW_MISER_LORE:
+- ''
+- '§7If you had at least 1 item in your'
+- '§7inventory, you will save one of them'
+PERK_BW_BUSINESSMAN: 'Businessman'
+PERK_BW_BUSINESSMAN_LORE:
+- ''
+- '§7If you spends 48 bornze, you will'
+- '§7receive 1 iron as gift,'
+- '§7for every 10 iron - 1 gold.'
+- '§7Counter cancels when you are die'
+PERK_BW_TAILWIND: 'Favourable wind'
+PERK_BW_TAILWIND_LORE:
+- ''
+- '§7If you were dead from other player,'
+- '§7you will receive Speed II for 10 sec'
+- '§7and your killer will receive Slowness II for 10 sec.'
+- '§7Effects duration increases'
+- '§7by 3 seconds for every Final Kill'
+- '§7was made during this game.'
+PERK_BW_BOXER: 'Boxer'
+PERK_BW_BOXER_LORE:
+- ''
+- '§7If your primal hand is empty'
+- '§7for 15 seconds after respawn,'
+- '§7you will receive Strength I forever'
+PERK_BW_THOR: 'Zeus'
+PERK_BW_THOR_LORE:
+- ''
+- '§7When enemy bed was broken'
+- '§7all enemies in this team will'
+- '§7lightning strike.'
+- '§7Kill of player from this team will'
+- '§7hit with lightning random person from this team.'
+PERK_BW_SENTINEL: 'Defender'
+PERK_BW_SENTINEL_LORE:
+- ''
+- '§7If you take damage within 7 blocks'
+- '§7near the bed, you also receive Resistance I for 10 sec.'
+- '§7When killing an enemy within'
+- '§7a radius of 77 blocks from your bed'
+- '§7you receive Regeneration II for 10 sec'
+PERK_BW_COURIER: 'Courier'
+PERK_BW_COURIER_LORE:
+- ''
+- '§7If you have at least 3 gold'
+- '§7in your inventory, you recieve Speed I'
+PERK_BW_DEMENTOR: 'Dementor'
+PERK_BW_DEMENTOR_LORE:
+- ''
+- '§7When you break any bed all enemies'
+- '§7who owns this bed, recieve Blindless for 7 sec.'
+- '§7If your bed was broken, the one who did that'
+- '§7recieve Blindless for 10 sec'
+PERK_BW_ALCHEMIST: 'Alchemist'
+PERK_BW_ALCHEMIST_LORE:
+- ''
+- '§7Drinkable potions in your inventory'
+- '§7turns to splash'
+PERK_BW_HEAD_HUNTER: 'Head hunter'
+PERK_BW_HEAD_HUNTER_LORE:
+- ''
+- '§7For every Final Kill you recieve'
+- '§72 gold ingots'
+PERK_BW_ALL_SEEING: 'All-seeing'
+PERK_BW_ALL_SEEING_LORE:
+- ''
+- '§7When you crouching'
+- '§7all enemies recieve Glowing'
+PERK_BW_BED_MONSTER: 'Bedside monster'
+PERK_BW_BED_MONSTER_LORE:
+- ''
+- '§7If any bed breaks you recieve Speed II'
+- '§7and Regeneration II for 10 seconds'
+PERK_BW_POINTER: 'Pointer'
+PERK_BW_POINTER_LORE:
+- ''
+- '§7When enemy was hit from bow with your arrow'
+- '§7it recieve Glowing for 5 seconds.'
+- '§7If emeny was killed while had Glowing,'
+- '§7you heals 2 HP'
+PERK_BW_UNWAVERING: 'Unshakable'
+PERK_BW_UNWAVERING_LORE:
+- ''
+- '§7If your bed was broken'
+- '§7you recieve Speed I, Regeneration I'
+- '§7and Resistance I for 5 minutes'
+PERK_BW_PERSISTENT: 'Enduring'
+PERK_BW_PERSISTENT_LORE:
+- ' '
+- '§7While taking damage you have 15% chance'
+- '§7for recieving Resistance I for 4 seconds'
+PERK_BW_BLOOD_FEUD: 'Blood enmity'
+PERK_BW_BLOOD_FEUD_LORE:
+- ''
+- '§7When your teammate dies from other player'
+- '§7you recieve Speed I for 10 seconds'
+- '§7and Resistance I for 4 seconds'
+PERK_BW_MANIAC: 'Maniac'
+PERK_BW_MANIAC_LORE:
+- ''
+- '§7When you breaks enemy bed you recieve'
+- '§7Strength I for 15 seconds'
+PERK_BW_TAILOR: 'Sartor'
+PERK_BW_TAILOR_LORE:
+- ''
+- '§7After kill of your enemy'
+- '§7your steal and wear armor it wearing'
+PERK_BW_PILFERER: 'Stealer'
+PERK_BW_PILFERER_LORE:
+- ''
+- '§7After kill a player you steal'
+- '§71 random item he had in his inventory'
+PERK_BW_TIME_LORD: 'Time Lord'
+PERK_BW_TIME_LORD_LORE:
+- ''
+- '§7After kill a player his respawning'
+- '§7time increases for 1 second'
+
+BW_BLOCK_SHOP: 'Blocks'
+BW_BLOCK_SHOP_LORE:
+- ''
+- '§7Byuing blocks, chests'
+- '§7cobweb and other stuff'
+- ''
+- '§e▸ Click to open the menu'
+BW_ARMOR_SHOP: 'Armor'
+BW_ARMOR_SHOP_LORE:
+- ''
+- '§7Byuing armor'
+- ''
+- '§e▸ Click to open the menu'
+BW_TOOL_SHOP: 'Instruments'
+BW_TOOL_SHOP_LORE:
+- ''
+- '§7Byuing pickaxes, axes and other'
+- ''
+- '§e▸ Click to open the menu'
+BW_BOW_SHOP: 'Bows'
+BW_BOW_SHOP_LORE:
+- ''
+- '§7Byuing bow and arrows'
+- ''
+- '§e▸ Click to open the menu'
+BW_SWORD_SHOP: 'Weapon'
+BW_SWORD_SHOP_LORE:
+- ''
+- '§7Buying weapon for protection'
+- '§7of your bed'
+- ''
+- '§e▸ Click to open the menu'
+BW_POTION_SHOP: 'Potions'
+BW_POTION_SHOP_LORE:
+- ''
+- '§7Byuing potions and other magical stuff'
+- ''
+- '§e▸ Click to open the menu'
+BW_OTHER_SHOP: 'Other'
+BW_OTHER_SHOP_LORE:
+- ''
+- '§7Byuing of coolest stuff is exactly here!'
+- ''
+- '§e▸ Click to open the menu'
+
+SANDSTONE: 'Sandstone'
+WEB: 'Cobweb'
+LADDER: 'Ladder'
+SANDSTONE_STAIRS: 'Sandstone Stairs'
+CHEST: 'Chest'
+ENDER_CHEST: 'Ender Chest'
+ENDER_PEARL: 'Ender Pearl'
+WATER_BUCKET: 'Bucket of Water'
+TNT: 'TNT'
+WOOD_AXE: 'Wooden Axe'
+FISHING_ROD: 'Fishing Rod'
+BREAD: 'Bread'
+CAKE: 'Cake'
+GRILLED_PORK: 'Porkchop'
+GOLDEN_APPLE: 'Golden Apple'
+SPEED_POTION: 'Potion of Swiftness'
+JUMP_POTION: 'Potion of Jump Boost II'
+STRENGTH_POTION: 'Potion of Strength'
+DAMAGE_POTION: 'Lingering Potion of Instant Damage'
+SHIELD: 'Shield'
+
+BW_SHOP_TOTEM: 'Totem of Undying'
+BW_SHOP_TOTEM_LORE:
+- ' §8▪ §7Totem of Undying §8x1'
+BW_SHOP_STRING_TRAP: 'String with trap'
+BW_SHOP_STRING_TRAP_LORE:
+- ' §8▪ §7String with trap §8x1'
+- ''
+- '§7§oAny enemy who step on this string'
+- '§7§oat the ground will receive Glowing for 10 sec'
+- '§7§oand Slowness V for 5 sec'
+BW_SHOP_HOME_TELEPORT: 'Teleport to base'
+BW_SHOP_HOME_TELEPORT_LORE:
+- ' §8▪ §7Teleport to base §8x1'
+- ''
+- '§7§oWhen you click RMB'
+- '§7§oyou will teleport to your base'
+BW_SHOP_PLATFORM: 'Platform'
+BW_SHOP_PLATFORM_LORE:
+- ' §8▪ §7Platform §8x1'
+- ''
+- '§7§oWhen you click RMB item'
+- '§7§owill create a platform under your feets'
+- '§7§ofor 10 seconds'
+BW_SHOP_IRON_GOLEM: 'Iron Golem'
+BW_SHOP_IRON_GOLEM_LORE:
+- ' §8▪ §7Iron Golem §8x1'
+- ''
+- '§7§oWhen you click RMB item'
+- '§7§owill create Iron Golem that'
+- '§7§oprotects you from emenies'
+BW_SHOP_TIME: 'Time Machine'
+BW_SHOP_TIME_LORE:
+- ' §8▪ §7Time Machine §8x1'
+- ''
+- '§7§oWhen you click RMB item'
+- '§7§owill back you at place where'
+- '§7§oyou activated it after 5 seconds'
+BW_SHOP_TIME_LOCATION: 'Location saved, you will teleport here in §75 §fseconds'
+BW_SHOP_TIME_TELEPORT: 'Teleporting to last saved location...'
+BW_SHOP_ICE_NO_TELEPORT: 'You can not teleport to base in ice box :('
+BW_SHOP_REMOVED: 'Before removed §c%s'
+BW_SHOP_ICE: 'Cryostasis'
+BW_SHOP_ICE_LORE:
+- ' §8▪ §7Cryostasis §8x1'
+- ''
+- '§7§oWhen you click RMB item'
+- '§7§owill create a blocks of ice around you for 5 seconds.'
+- '§7§oYou cannot use Teleport to base'
+- '§7§owhile you are inside of the box!'
+BW_SHOP_COMPASS: 'Locator'
+BW_SHOP_COMPASS_LORE:
+- ' §8▪ §7Compass §8x1'
+- ''
+- '§7§oIndicates for nearest player'
+- '§7§oor your team member'
+
+BW_SHOP_STICK: 'Stick'
+BW_SHOP_STICK_LORE:
+- '§8▪ §7Stick §8(Knockback I)'
+BW_SHOP_SWORD_LVL_1: 'Sword'
+BW_SHOP_SWORD_LVL_1_LORE:
+- '§8▪ §7Wooden Sword §8(Knockback I)'
+BW_SHOP_SWORD_LVL_2: 'Golden Sword I'
+BW_SHOP_SWORD_LVL_2_LORE:
+- '§8▪ §7Golden Sword §8(Sharpness I, Unbreaking I)'
+BW_SHOP_SWORD_LVL_3: 'Golden Sword II'
+BW_SHOP_SWORD_LVL_3_LORE:
+- '§8▪ §7Golden Sword §8(Sharpness IV, Unbreaking I)'
+BW_SHOP_SWORD_LVL_4: 'Iron Sword'
+BW_SHOP_SWORD_LVL_4_LORE:
+- '§8▪ §7Iron Sword §8(Sharpness IV, Unbreaking I, Knockback I)'
+BW_SHOP_LEATHER_HELMET: 'Leather Helmet'
+BW_SHOP_LEATHER_HELMET_LORE:
+- ' §8▪ §7Leather Helmet §8(Protection I, Unbreaking I)'
+BW_SHOP_LEATHER_LEGGINGS: 'Leather Leggings'
+BW_SHOP_LEATHER_LEGGINGS_LORE:
+- ' §8▪ §7Leather Leggings §8(Protection I, Unbreaking I)'
+BW_SHOP_LEATHER_BOOTS: 'Leather Boots'
+BW_SHOP_LEATHER_BOOTS_LORE:
+- ' §8▪ §7Leather Boots §8(Protection I, Unbreaking I)'
+BW_SHOP_ARMOR_LVL_1: 'Chainmail Chesplate'
+BW_SHOP_ARMOR_LVL_1_LORE:
+- ' §8▪ §7Chainmail Chesplate §8(Protection I, Unbreaking I)'
+BW_SHOP_ARMOR_LVL_2: 'Chainmail Chesplate II'
+BW_SHOP_ARMOR_LVL_2_LORE:
+- ' §8▪ §7Chainmail Chesplate §8(Protection II, Unbreaking I)'
+BW_SHOP_ARMOR_LVL_3: 'Chainmail Chesplate III'
+BW_SHOP_ARMOR_LVL_3_LORE:
+- ' §8▪ §7Chainmail Chesplate §8(Protection III, Unbreaking I)'
+BW_SHOP_ARMOR_LVL_4: 'Chainmail Chesplate IV'
+BW_SHOP_ARMOR_LVL_4_LORE:
+- ' §8▪ §7Chainmail Chesplate §8(Projectile Protection IV, Unbreaking I)'
+BW_SHOP_WOOD_PICKAXE: 'Wooden Pickaxe'
+BW_SHOP_WOOD_PICKAXE_LORE:
+- ' §8▪ §7Wooden Pickaxe §8(Efficiency I, Unbreaking I)'
+BW_SHOP_STONE_PICKAXE: 'Stone Pickaxe'
+BW_SHOP_STONE_PICKAXE_LORE:
+- ' §8▪ §7Stone Pickaxe §8(Efficiency I, Unbreaking I)'
+BW_SHOP_IRON_PICKAXE: 'Iron Pickaxe'
+BW_SHOP_IRON_PICKAXE_LORE:
+- ' §8▪ §7Iron Pickaxe §8(Efficiency III, Unbreaking I)'
+BW_SHOP_DIAMOND_PICKAXE: 'Diamond Pickaxe'
+BW_SHOP_DIAMOND_PICKAXE_LORE:
+- ' §8▪ §7Diamond Pickaxe §8(Efficiency II, Silk Touch I)'
+BW_SHOP_BOW_LVL_1: 'Bow I'
+BW_SHOP_BOW_LVL_1_LORE:
+- ' §8▪ §7Bow §8(Infinity I)'
+BW_SHOP_BOW_LVL_2: 'Bow II'
+BW_SHOP_BOW_LVL_2_LORE:
+- ' §8▪ §7Bow §8(Infinity I, Power I)'
+BW_SHOP_BOW_LVL_3: 'Bow III'
+BW_SHOP_BOW_LVL_3_LORE:
+- ' §8▪ §7Bow §8(Infinity I, Power II, Punch I)'

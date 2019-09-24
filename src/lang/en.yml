@@ -4613,7 +4613,7 @@ GADGETS_GUI_HAT_LORE:
 GADGETS_GUI_EFFECT_NAME: 'Effects'
 GADGETS_GUI_EFFECT_LORE:
 - ''
-- '§7Want to be spectacular by 110%? You are'
+- '§7Want to be spectacular? You are'
 - '§7welcome right here!'
 - ''
 - '§7Opened: §a%s/%s §6%s'

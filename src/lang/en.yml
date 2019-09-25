@@ -5164,7 +5164,7 @@ SKYWARS_GLOWING_EVENT_STARTED: '§eAll players recieved Glowing'
 SKYWARS_SPEED_EVENT: '§aSpeed Up '
 SKYWARS_SPEED_EVENT_STARTED: '§aAll players recieved Speed %s'
 SKYWARS_SPEED_EVENT_ADDITIONAL_SPEED: '§6SkyWars §8| §fYou recieved Speed §a%s§f because your current perk is §aSonic'
-SKYWARS_LOOT_EVENT: '§aChests Refill'
+SKYWARS_LOOT_EVENT: '§aChests Refill '
 SKYWARS_LOOT_EVENT_STARTED: '§aAll chests in the middle was refilled'
 
 SW_BOARD_KILLS: 'Kills: §a'

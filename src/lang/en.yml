@@ -445,7 +445,7 @@ PROFILE_DONATE_MENU_LORE:
 - '§7and much more.'
 - ''
 - '§e▸ Open the donate menu'
-PROFILE_LANG_ITEM_LORE1: '§7Change language to English'
+PROFILE_LANG_ITEM_LORE1: '§7Change language to %s'
 PROFILE_LANG_ITEM_LORE2: '§e▸ Click to change language'
 PROFILE_LANG_ITEM_LORE3: '§aSelected'
 PROFILE_BACK_ITEM_NAME: '§cBack'

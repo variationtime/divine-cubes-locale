@@ -9816,6 +9816,12 @@ RABBIT: 'Крольчатина'
 MUTTON: 'Баранина'
 COOKED_FISH: 'Приготовленная рыба'
 
+ISLAND_BOX_SHOP_SELECT_NAME: '§eПокупка на /warp shop'
+ISLAND_BOX_SHOP_SELECT_LORE:
+- '§7Покупка ключей происходит на /warp shop'
+- ''
+- '§e▸ Нажмите, чтобы купить ключи'
+
 BETTER_SURVIVAL_PVP_TELEPORT: '§fТелепортации во время PVP запрещены!'
 BETTER_SURVIVAL_PVP_COMMAND: '§fНельзя использовать эту команду во время PVP!'
 BETTER_SURVIVAL_PVP_START: '§fВы вступили в бой! Не покидайте игру в течении §c%s §fсекунд'

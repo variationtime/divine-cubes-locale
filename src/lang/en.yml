@@ -4990,20 +4990,6 @@ BOX_GUI_HELP2_LORE:
 - '§7Click §cRMB §7by key you need or'
 - '§7buy it at §flast-craft.com'
 BOX_SHOP_GUI_NAME: 'Buy keys'
-BOX_BUY_MONEY: '§6Buy keys using coins'
-BOX_BUY_GOLD: '§eBuy keys using gold'
-BOX_NO_OPEN: '§cYou cant open this box at this minimode!'
-BOX_BUY_LORE_MAIN:
-- '§7Buy for %s %s §8§l⇩'
-- ''
-- '§7Discount is §f%s'
-BOX_NO_BUY_LORE:
-- '§cYou cant buy this key using this'
-- '§cmethod =('
-BOX_BUY_LORE:
-- '§7Buy %s %s for %s %s'
-- ''
-- '§e▸ click to buy'
 BOX_KEY_NOT_BUY: '§cThis key is not selling!'
 DEFAULT_KEY: '§bCosmetic Key'
 DEFAULT_KEY_LORE:

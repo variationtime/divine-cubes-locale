@@ -9875,6 +9875,7 @@ PROTECTION_ITEM_LORE:
 - ' §7Z: §c%s'
 PROTECTION_UPGRADE_GUI_NAME: 'Улучшения'
 PROTECTION_MEMBERS_GUI_NAME: 'Участники'
+PROTECTION_FLAGS_GUI_NAME: 'Флаги'
 PROTECTION_MAIN_GUI_NAME: 'Настройки региона'
 PROTECTION_LEAVE_OWNER_ERROR: '§6Anarchy §8| §cВы не можете покинуть свой собственный приват'
 PROTECTION_LEAVE_TO: '§6Anarchy §8| §fИгрок %s §fпокинул приват §7%s'
@@ -9924,6 +9925,13 @@ PROTECTION_PROFILE_MEMBERS_LORE:
 - '§7а так же детальная информация о каждом из них'
 - ' '
 - '§e▶ Нажмите, чтобы открыть меню'
+PROTECTION_PROFILE_FLAGS_NAME: 'Кастомные флаги'
+PROTECTION_PROFILE_FLAGS_LORE:
+  - ' '
+  - '§7Покупка дополнительных флагов'
+  - '§7для улучшения вашего привата'
+  - ' '
+  - '§e▶ Нажмите, чтобы открыть меню'
 PROTECTION_UPGRADE_HELP_NAME: 'Информация'
 PROTECTION_UPGRADE_HELP_LORE:
 - ''
@@ -9987,5 +9995,11 @@ PROTECTION_RANK_MEMBER:
 - '§7Доступные права:'
 - '§8• §7Взаимодействие с территорией привата'
 - ' '
+PROTECTION_FLAG_DISABLED: '§6Anarchy §8| §fВ данном регионе активирован флаг §a%s'
+PROTECTION_FLAG_ANTI_TNT: 'Анти динамит'
+PROTECTION_FLAG_PROTECTION_ALL: 'Максимальная защита'
+PROTECTION_FLAG_ENTITY: 'Защита животных'
+PROTECTION_FLAG_HORUS: 'Защита от хоруса'
+
 PROTECTION_MEMBER_SET_RANK_ALERT: '§6Anarchy §8| §fИгроку %s §fбыли назначены новые права управления приватом'
 ENCHANTED_BOOK_ERROR: '§6Enchanted §8| §fОшибка, вам нужно иметь §a%s §fуровень, чтобы наложить эти чары на предмет'

@@ -10063,9 +10063,9 @@ PROTECTION_EFFECT_DISABLE_LORE:
 PROTECTION_EFFECT_ENABLE_LORE:
 - ''
 - '§7Цена за монеты: §a%s §f(%s)'
-- '§7Повторная покупка обновит время!'
+- '§cПовторная покупка обновит время!'
 - ''
-- '§cДанный эффект истекает:'
+- '§7Данный эффект истекает:'
 - '%s'
 - ''
 - '§e▶ Нажмите, чтобы включить эффект'
@@ -10083,6 +10083,7 @@ PROTECTION_EFFECT_ENABLE_LIMIT_LORE:
 PROTECTION_EFFECT_NOT_OPEN: '§6Anarchy §8| §fДанный эффект вам не доступен, купите его!'
 PROTECTION_EFFECT_ENABLE_ERROR: '§6Anarchy §8| §fПростите, но вы не можете активировать данный эффект, лимит вашего привата на кол-во эффектов §7%s'
 PROTECTION_BUY_FLAG: '§6Anarchy §8| §fИгрок %s §fкупил флаг §a%s §fдо §7%s'
+PROTECTION_BUY_EFFECT: '§6Anarchy §8| §fИгрок %s §fкупил эффект §a%s §fдо §7%s'
 PROTECTION_MEMBER_SET_RANK_ALERT: '§6Anarchy §8| §fИгроку %s §fбыли назначены новые права управления приватом'
 
 ENCHANTED_BOOK_ERROR: '§6Enchanted §8| §fОшибка, вам нужно иметь §a%s §fуровень, чтобы наложить эти чары на предмет'

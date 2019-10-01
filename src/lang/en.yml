@@ -5542,8 +5542,514 @@ MONTHLY_REWARD_LORE_KEY:
 - '§8 • §fCoins §7(§6800§7-§61.200§7)'
 - '§8 • §fGold §7(§e1 §7gold)'
 - '§8 • §fExperience §7(§a1.500§7-§a2.000§7)'
-- '§8 • §fCosmtic Keys §7(§d4§7-§d6§7)'
+- '§8 • §fCosmetic Keys §7(§d4§7-§d6§7)'
 - '§8 • §fGame Keys §7(§d2§7-§d4§7)'
-- '§8 • §fGame (Costmetic) Keys §7(-§d1§7-§d2§7)'
+- '§8 • §fGame (Costmetic) Keys §7(§d1§7-§d2§7)'
 REWARD_YOU_GOT_REWARDS: '§fYou succesfuly got this rewards:'
 EXP_REWARD_LOCALE: ' §7+ §a%s §fexperience'
+
+
+BOX_SHOP_SELECT_LORE:
+- '§7Buy keys using %s'
+- ''
+- '§e▸ Click to buy keys'
+BOX_BUY_LORE:
+- '§7Buy %s %s using %s %s'
+- ''
+- '§7Discount is §f%s'
+- ''
+- '§e▸ Click to buy'
+DAMAGE_CAUSE_KILLED_BY_SKELETON: '%s§f was killed while trying to dodge from skeleton arrows'
+DAMAGE_CAUSE_KILLED_BY_SKELETON_OF: '%s§f was killed while trying to dodge from skeleton arrows summoned by %s'
+DAMAGE_CAUSE_KILLED_BY_LIGHTNING: '%s§f was killed by Zeus Furious'
+FIND_RESULT_OFFLINE: '§6Server §8| §f%s §fis offline, last time it was offline is §7%s §fago'
+NONE: 'Without rarity'
+KIT_BOX: 'items'
+HNS_MASK: 'mask'
+BB_HEAD: 'head'
+BB_EFFECT: 'effect'
+SKIN: 'skin'
+SOUND: 'sound'
+MONTHLY_STATS_NAME: 'Statistics via month'
+ALL_TIME_STATS_NAME: 'Statistics via all time'
+GADGETS_0_NAME: 'Iron Helmet'
+GADGETS_0_LORE:
+- '§7It must be free for Iron'
+- '§7if we use logic :/'
+GADGETS_1_NAME: 'Golden Helmet'
+GADGETS_1_LORE:
+- '§7Golden Helmet from Gold'
+- '§7Is logical? Of course!'
+GADGETS_2_NAME: 'Diamond Hemlet'
+GADGETS_2_LORE:
+- '§7As logical as others'
+GADGETS_3_NAME: 'Earth'
+GADGETS_3_LORE:
+- '§7No! This is not a pimple on the face, this'
+- '§7is a volcano, and you almost awakened it'
+GADGETS_4_NAME: 'Mars'
+GADGETS_4_LORE:
+- '§7No, you are not chocolate bar'
+GADGETS_5_NAME: 'Jake'
+GADGETS_5_LORE:
+- '§7- Can you tell me what time it is?'
+- '§7- It is adventure time, dude!'
+GADGETS_6_NAME: 'Cactus'
+GADGETS_6_LORE:
+- '§7Looks like you need to shave ._.'
+GADGETS_7_NAME: 'Gas mask'
+GADGETS_7_LORE:
+- '§7The last spoonful of pea soup'
+- '§7definitely was superfluous'
+GADGETS_8_NAME: 'Clown'
+GADGETS_8_LORE:
+- '§715 years has gone,'
+- '§7but not the fear'
+GADGETS_9_NAME: 'Frankenstein'
+GADGETS_9_LORE:
+- '§7It`s alive!'
+GADGETS_10_NAME: 'Pirate'
+GADGETS_10_LORE:
+- '§7Whooooo.... '
+- '§7Who lives at the bottom of the ocean?!'
+GADGETS_11_NAME: 'Gorilla'
+GADGETS_11_LORE:
+- '§7It is RIOT police`s.'
+- '§7Now unsee it.'
+GADGETS_12_NAME: 'Monitor'
+GADGETS_12_LORE:
+- '§7We built you a monitor in the monitor,'
+- '§7so you can look at the monitor, '
+- '§7while you are loonking at the monitor.'
+GADGETS_13_NAME: 'Bucket'
+GADGETS_13_LORE:
+- '§7It is filled by half.'
+- '§7Or empty?'
+GADGETS_14_NAME: 'Skeleton'
+GADGETS_14_LORE:
+- '§7Like dejavu but twice!'
+GADGETS_15_NAME: 'Pumpkin'
+GADGETS_15_LORE:
+- '§7"Oooh, its pupmkin! I love pupmki...'
+- '§7Aaaa, what is this, help!"'
+GADGETS_16_NAME: 'Anonimous'
+GADGETS_16_LORE:
+- '§7Find hacker using his IP'
+GADGETS_17_NAME: 'Youtube'
+GADGETS_17_LORE:
+- '§7"Why you looking me that!'
+- '§7Is there video playing on my face!?"'
+GADGETS_18_NAME: 'Golden Steve'
+GADGETS_18_LORE:
+- '§7Imma rich!'
+GADGETS_19_NAME: 'Diamond Steve'
+GADGETS_19_LORE:
+- '§7Imma richer!'
+GADGETS_20_NAME: 'Emerald Steve'
+GADGETS_20_LORE:
+- '§7Calm down, I am richest here)'
+GADGETS_21_NAME: 'Creeper'
+GADGETS_21_LORE:
+- '§7For those,'
+- '§7who has an EXPLOSIVE character!'
+GADGETS_22_NAME: 'Zombie'
+GADGETS_22_LORE:
+- '§7"Did you sleep today?!"'
+GADGETS_23_NAME: 'Skeleton'
+GADGETS_23_LORE:
+- '§7Like dejavu but twice!'
+GADGETS_24_NAME: 'Wither'
+GADGETS_24_LORE:
+- '§7Did you eat today?'
+GADGETS_25_NAME: 'Coral Helmet'
+GADGETS_25_LORE:
+- '§7Karl stole the coral helmet from Clara.'
+- '§7Now it yours.'
+GADGETS_26_NAME: 'Light-blue Helmet'
+GADGETS_26_LORE:
+- '§7Well... you got it)'
+GADGETS_27_NAME: 'Lime helmet'
+GADGETS_27_LORE:
+- '§7Just green helmet,'
+- '§7scroll to next.'
+GADGETS_28_NAME: 'White Glass'
+GADGETS_28_LORE:
+- '§7Just a some glass'
+GADGETS_29_NAME: 'Orange Glass'
+GADGETS_29_LORE:
+- '§7Just a some glass (again)'
+GADGETS_30_NAME: 'Purple Glass'
+GADGETS_30_LORE:
+- '§7And new one glass'
+GADGETS_31_NAME: 'Light-blue Glass'
+GADGETS_31_LORE:
+- '§7I am still here btw'
+GADGETS_32_NAME: 'Yellow Glass'
+GADGETS_32_LORE:
+- '§7Well... You got it...'
+GADGETS_33_NAME: 'Green Glass'
+GADGETS_33_LORE:
+- '§7Glass!!!!'
+GADGETS_34_NAME: 'Pink Glass'
+GADGETS_34_LORE:
+- '§7Pss, guy, do not need some glass?'
+GADGETS_35_NAME: 'Purpur Glass'
+GADGETS_35_LORE:
+- '§7Color of Lord (who knows that understand)'
+GADGETS_36_NAME: 'Blue Glass'
+GADGETS_36_LORE:
+- '§7"Yes, my friend, we both in space..."'
+GADGETS_37_NAME: 'Red Glass'
+GADGETS_37_LORE:
+- '§7Well... This is a last glass... i swear...'
+GADGETS_38_NAME: 'Soccer Player'
+GADGETS_38_LORE:
+- '§7- Where is football field?'
+- '§7- Football? What is this? We have only Spleef!'
+GADGETS_39_NAME: 'Indiana Johnes'
+GADGETS_39_LORE:
+- '§7"That must be in museum!"'
+GADGETS_40_NAME: 'Death'
+GADGETS_40_LORE:
+- '§7"Wait, where is scythe? Is this hoe?'
+- '§7Okay, that will do"'
+GADGETS_41_NAME: 'Shrek'
+GADGETS_41_LORE:
+- '§7SOMEBODY...'
+GADGETS_42_NAME: 'Puss in Boots'
+GADGETS_42_LORE:
+- '§7...although as you know it has boots'
+GADGETS_43_NAME: 'Melon'
+GADGETS_43_LORE:
+- '§7"Stop eating melons!'
+- '§7Now wear off it your head!"'
+GADGETS_44_NAME: 'Dog'
+GADGETS_44_LORE:
+- '§7Want to be a friend? '
+- '§7Now you are best humans friend!'
+GADGETS_45_NAME: 'Hamburger'
+GADGETS_45_LORE:
+- '§7..this is crabsburger in real, but who cares?'
+GADGETS_46_NAME: 'Donut'
+GADGETS_46_LORE:
+- '§7It is a donut.'
+- '§7That is all.'
+GADGETS_47_NAME: 'Snadwich'
+GADGETS_47_LORE:
+- '§7Who will wear a sandwich on his head?'
+- '§7Oh, it is you...'
+GADGETS_48_NAME: 'Netherlands'
+GADGETS_48_LORE:
+- '§7Welcome to Netherlands,'
+- '§7wanna have some drugs?'
+GADGETS_49_NAME: 'Norway'
+GADGETS_49_LORE:
+- '§7Not a country, but the kingdom!'
+GADGETS_50_NAME: 'Sweden'
+GADGETS_50_LORE:
+- '§7Vikings is here'
+GADGETS_51_NAME: 'Chili'
+GADGETS_51_LORE:
+- '§7Who said "chili sauce"'
+GADGETS_52_NAME: 'Monako'
+GADGETS_52_LORE:
+- '§7Exhibitions, competitions?'
+- '§7Welcome!'
+GADGETS_53_NAME: 'Canada'
+GADGETS_53_LORE:
+- '§7We are best country playing hockey'
+- '§7And more...'
+GADGETS_54_NAME: 'Russia'
+GADGETS_54_LORE:
+- '§7Putin, vodka, balalaika'
+GADGETS_55_NAME: 'USA'
+GADGETS_55_LORE:
+- '§7Preparing a package of sanctions'
+GADGETS_56_NAME: 'Italy'
+GADGETS_56_LORE:
+- '§7Mmmm... I love pizza...'
+GADGETS_57_NAME: 'UK'
+GADGETS_57_LORE:
+- '§7London is the capital of Great Britain'
+GADGETS_58_NAME: 'Germany'
+GADGETS_58_LORE:
+- '§7Hitler kaput!'
+GADGETS_59_NAME: 'Singapore'
+GADGETS_59_LORE:
+- '§7Just a city, but what city...'
+GADGETS_60_NAME: 'France'
+GADGETS_60_LORE:
+- '§7Lampshade, croissant and playpen:'
+- '§7all these is here!'
+GADGETS_61_NAME: 'Spain'
+GADGETS_61_LORE:
+- '§7Best wines is here'
+GADGETS_62_NAME: 'Letter A'
+GADGETS_62_LORE:
+- '§7Just a letter A'
+GADGETS_63_NAME: 'Letter B'
+GADGETS_63_LORE:
+- '§7Just a letter B'
+GADGETS_64_NAME: 'Letter C'
+GADGETS_64_LORE:
+- '§7Just a letter C'
+GADGETS_65_NAME: 'Letter D'
+GADGETS_65_LORE:
+- '§7Just a letter D'
+GADGETS_66_NAME: 'Letter E'
+GADGETS_66_LORE:
+- '§7Just a letter E'
+GADGETS_67_NAME: 'Letter F'
+GADGETS_67_LORE:
+- '§7Just a letter F'
+GADGETS_68_NAME: 'Letter G'
+GADGETS_68_LORE:
+- '§7Just a letter G'
+GADGETS_69_NAME: 'Letter H'
+GADGETS_69_LORE:
+- '§7Just a letter H'
+GADGETS_70_NAME: 'Letter I'
+GADGETS_70_LORE:
+- '§7Just a letter I'
+GADGETS_71_NAME: 'Letter J'
+GADGETS_71_LORE:
+- '§7Just a letter J'
+GADGETS_72_NAME: 'Letter K'
+GADGETS_72_LORE:
+- '§7Just a letter K'
+GADGETS_73_NAME: 'Letter L'
+GADGETS_73_LORE:
+- '§7Just a letter L'
+GADGETS_74_NAME: 'Letter M'
+GADGETS_74_LORE:
+- '§7Just a letter M'
+GADGETS_75_NAME: 'Letter N'
+GADGETS_75_LORE:
+- '§7Just a letter N'
+GADGETS_76_NAME: 'Letter O'
+GADGETS_76_LORE:
+- '§7Just a letter O'
+GADGETS_77_NAME: 'Letter P'
+GADGETS_77_LORE:
+- '§7Just a letter P'
+GADGETS_78_NAME: 'Letter Q'
+GADGETS_78_LORE:
+- '§7Just a letter Q'
+GADGETS_79_NAME: 'Letter R'
+GADGETS_79_LORE:
+- '§7Just a letter R'
+GADGETS_80_NAME: 'Letter S'
+GADGETS_80_LORE:
+- '§7Just a letter S'
+GADGETS_81_NAME: 'Letter T'
+GADGETS_81_LORE:
+- '§7Just a letter T'
+GADGETS_82_NAME: 'Letter U'
+GADGETS_82_LORE:
+- '§7Just a letter U'
+GADGETS_83_NAME: 'Letter V'
+GADGETS_83_LORE:
+- '§7Just a letter V'
+GADGETS_84_NAME: 'Letter W'
+GADGETS_84_LORE:
+- '§7Just a letter W'
+GADGETS_85_NAME: 'Letter X'
+GADGETS_85_LORE:
+- '§7Just a letter X'
+GADGETS_86_NAME: 'Letter Y'
+GADGETS_86_LORE:
+- '§7Just a letter Y'
+GADGETS_87_NAME: 'Letter Z'
+GADGETS_87_LORE:
+- '§7Just a letter Z'
+GADGETS_88_NAME: 'Number 0'
+GADGETS_88_LORE:
+- '§7Just a number 0'
+GADGETS_89_NAME: 'Number 1'
+GADGETS_89_LORE:
+- '§7Just a number 1'
+GADGETS_90_NAME: 'Number 2'
+GADGETS_90_LORE:
+- '§7Just a number 2'
+GADGETS_91_NAME: 'Number 3'
+GADGETS_91_LORE:
+- '§7Just a number 3'
+GADGETS_92_NAME: 'Number 4'
+GADGETS_92_LORE:
+- '§7Just a number 4'
+GADGETS_93_NAME: 'Number 5'
+GADGETS_93_LORE:
+- '§7Just a number 5'
+GADGETS_94_NAME: 'Number 6'
+GADGETS_94_LORE:
+- '§7Just a number 6'
+GADGETS_95_NAME: 'Number 7'
+GADGETS_95_LORE:
+- '§7Just a number 7'
+GADGETS_96_NAME: 'Number 8'
+GADGETS_96_LORE:
+- '§7Just a number 8'
+GADGETS_97_NAME: 'Number 9'
+GADGETS_97_LORE:
+- '§7Just a number 9'
+GADGETS_98_NAME: 'Symbol +'
+GADGETS_98_LORE:
+- '§7Just a plus, scroll to next'
+GADGETS_99_NAME: 'Symbol #'
+GADGETS_99_LORE:
+- '§7Use to make a phone call...'
+GADGETS_100_NAME: 'Symbol ?'
+GADGETS_100_LORE:
+- '§7Do you want to ask someting?'
+GADGETS_101_NAME: 'Symbol !'
+GADGETS_101_LORE:
+- '§7.!.'
+GADGETS_102_NAME: 'Blaze'
+GADGETS_102_LORE:
+- '§7Be careful until someone made'
+- '§7a brewing stand of you.'
+GADGETS_103_NAME: 'Enderman'
+GADGETS_103_LORE:
+- '§7Why is so cheap? No, '
+- '§7this is not because he is black'
+GADGETS_104_NAME: 'Slime'
+GADGETS_104_LORE:
+- '§7Step 1: wear it'
+- '§7Step 2: hold you breath'
+- '§7Step 3: you are IBROI now'
+GADGETS_105_NAME: 'Ocelot'
+GADGETS_105_LORE:
+- '§7Meoooow'
+GADGETS_106_NAME: 'Ender Dragon'
+GADGETS_106_LORE:
+- '"§7You have a lot of experience. You suit us"'
+GADGETS_107_NAME: 'Cave Spider'
+GADGETS_107_LORE:
+- '§7Dont be poisoned while you put it on'
+GADGETS_108_NAME: 'Pig Zombie'
+GADGETS_108_LORE:
+- '§7I ordered porkchop,'
+- '§7not alive pig-humans!'
+GADGETS_109_NAME: 'Chicken'
+GADGETS_109_LORE:
+- '§7- Well, how is the chicken?'
+- '§7- Quit, do not smoke more'
+GADGETS_110_NAME: 'Ghast'
+GADGETS_110_LORE:
+- '§7Just dont cry while looking at the price'
+GADGETS_111_NAME: 'Pig'
+GADGETS_111_LORE:
+- '§7One grunt and its GG for you'
+GADGETS_112_NAME: 'Cow'
+GADGETS_112_LORE:
+- '§7У коровы нет других забот (c)'
+GADGETS_113_NAME: 'Squid'
+GADGETS_113_LORE:
+- '§7bloop-bloop'
+GADGETS_114_NAME: 'Horse'
+GADGETS_114_LORE:
+- '§7I-th and I-h-th'
+- '§7and go bw'
+GADGETS_115_NAME: 'Bird'
+GADGETS_115_LORE:
+- '§7You are angry with pigs,'
+- '§7because they stole your eggs'
+GADGETS_116_NAME: 'Pokeball'
+GADGETS_116_LORE:
+- '§7"Pikachu, I choose you!"'
+GADGETS_117_NAME: 'Mario'
+GADGETS_117_LORE:
+- '§7All professions are needed,'
+- '§7all professions are important!'
+GADGETS_118_NAME: 'Freddy'
+GADGETS_118_LORE:
+- '§7Plush music lover'
+GADGETS_119_NAME: 'Bonnie'
+GADGETS_119_LORE:
+- '§7Ну, заяц, ну погоди! (c)'
+GADGETS_120_LORE:
+- '§7Пусть мама услышит,'
+- '§7пусть мама придёт (c)'
+GADGETS_121_NAME: 'Koala'
+GADGETS_121_LORE:
+- '§7Dont use eucalyptus as toilet paper.'
+GADGETS_122_NAME: 'Bee'
+GADGETS_122_LORE:
+- '§7Zzzzzzzzzzzz'
+GADGETS_123_NAME: 'Clownfisg'
+GADGETS_123_LORE:
+- '§7Well, at least some clowns'
+- '§7can not be afraid of'
+GADGETS_124_NAME: 'Ferret'
+GADGETS_124_LORE:
+- '§7...and that is it'
+GADGETS_125_NAME: 'Walrus'
+GADGETS_125_LORE:
+- '§7"Look, your lace is loose!"'
+GADGETS_126_NAME: 'Monkey'
+GADGETS_126_LORE:
+- '§7"Photo with monkey - 5 dollars"'
+GADGETS_127_NAME: 'Duck'
+GADGETS_127_LORE:
+- '§7DuckTales Power!'
+GADGETS_128_NAME: 'Snowball'
+GADGETS_128_LORE:
+- '§7"I said DO NOT jump into snow!"'
+GADGETS_129_NAME: 'Toster'
+GADGETS_129_LORE:
+- '§7Do not jump into water'
+GADGETS_130_NAME: 'Cheeze'
+GADGETS_130_LORE:
+- '§7Roshan looks sad'
+GADGETS_131_NAME: 'Penguin'
+GADGETS_131_LORE:
+- '§7..have you knees?'
+GADGETS_132_NAME: 'Elephant'
+GADGETS_132_LORE:
+- '§7Just do not drink with your nose'
+GADGETS_133_NAME: 'Austronaut'
+GADGETS_133_LORE:
+- '§7Cool helmet!'
+GADGETS_134_NAME: 'Otter'
+GADGETS_134_LORE:
+- '§7Someone seen Otter'
+- '§7who smoking tube? I seen.'
+GADGETS_135_NAME: 'Mummy'
+GADGETS_135_LORE:
+- '§7In real, it is a toilet paper.'
+- '§7But this fact do not care anyone'
+GADGETS_136_NAME: 'Orc'
+GADGETS_136_LORE:
+- '§7Do not think its you'
+GADGETS_137_NAME: 'Minotaur'
+GADGETS_137_LORE:
+- '§7How do you get out of labyrinth?'
+GADGETS_138_NAME: 'Chaos Knight'
+GADGETS_138_LORE:
+- '§7Im sorry, but Knights saves princess'
+- '§7usually'
+GADGETS_139_NAME: 'White wizard'
+GADGETS_139_LORE:
+- '§7Нет, он не новый.'
+- '§7Его стирали Лаской (c)'
+GADGETS_140_NAME: 'Miner'
+GADGETS_140_LORE:
+- '§7..no pickaxe alongside'
+GADGETS_141_NAME: 'Monk'
+GADGETS_141_LORE:
+- '§7Monks are not popular'
+- '§7with hairdressers'
+GADGETS_142_NAME: 'Forest Elf'
+GADGETS_142_LORE:
+- '§7I hope you dont meet a woodcutter'
+GADGETS_143_NAME: 'Odin'
+GADGETS_143_LORE:
+- '§7Tors Father :/'
+GADGETS_144_NAME: 'Ghost'
+GADGETS_144_LORE:
+- '§7Booo! Scared? Im scared too'
+GADGETS_145_NAME: 'Pole'
+GADGETS_145_LORE:
+- '§7No, no, you are not scary!'
+- '§7And you have rich straw world'
+

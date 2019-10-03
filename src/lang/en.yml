@@ -4243,12 +4243,6 @@ BW_SHOP_TOTEM: 'Totem of Undying'
 BW_SHOP_TOTEM_LORE:
 - ' §8▪ §7Totem of Undying §8x1'
 BW_SHOP_STRING_TRAP: 'String with trap'
-BW_SHOP_STRING_TRAP_LORE:
-- ' §8▪ §7String with trap §8x1'
-- ''
-- '§7§oAny enemy who step on this string'
-- '§7§oat the ground will receive Glowing for 10 sec'
-- '§7§oand Slowness V for 5 sec'
 BW_SHOP_HOME_TELEPORT: 'Teleport to base'
 BW_SHOP_HOME_TELEPORT_LORE:
 - ' §8▪ §7Teleport to base §8x1'

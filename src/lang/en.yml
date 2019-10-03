@@ -6032,3 +6032,29 @@ GADGETS_145_LORE:
 - '§7No, no, you are not scary!'
 - '§7And you have rich straw world'
 
+MYSTERY_DUST_DATA: 'Coins'
+GOLD_DATA: 'Gold'
+GAME_COSMETIC_GUI_START_SOUND_NAME: 'Start sound'
+PROFILE_MAIN_ITEM_LANG_LORE1:
+- '§7Change default server language'
+- '§7Translation and language will be added if the future!'
+- ''
+- '§7Availiable at this moment:'
+BW_SHOP_BLAZE_ROD: 'Blaze Rod'
+BW_SHOP_BLAZE_ROD_LORE:
+- '§8▪ §7Blaze Rod §8(Knockback II)'
+BW_SHOP_STRING_TRAP_LORE:
+- ' §8▪ §7String with trap §8x1'
+- ''
+- '§7§oAny enemy who step on this string'
+- '§7§oat the ground will receive Glowing for 10 sec,'
+- '§7§oBlindless for 5 sec and Slowness V for 5 sec'
+BW_SHOP_WATCH_SPAWNED: '§8ready'
+BW_SHOP_WATCH_BAR: '§7Iron §fwill spawn in §a%s§f, §egold §fin §a%s'
+BW_SHOP_WATCH: 'Clock'
+BW_SHOP_WATCH_LORE:
+- ' §8▪ §7Clock §8x1'
+- ''
+- '§7§oShows how much time is left'
+- '§7§ountil spawning of iron ad gold'
+

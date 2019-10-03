@@ -9122,6 +9122,7 @@ BW_SHOP_COMPASS_LORE:
 - ''
 - '§7§oУказывает на ближайшего игрока'
 - '§7§oили тиммейта'
+BW_SHOP_WATCH_SPAWNED: '§8заспавнено'
 BW_SHOP_WATCH_BAR: '§fСпавн §7железа §fчерез §a%s §f%s, а §eзолота §fчерез §a%s §f%s'
 BW_SHOP_WATCH: 'Часы'
 BW_SHOP_WATCH_LORE:

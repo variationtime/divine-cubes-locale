@@ -6058,3 +6058,26 @@ BW_SHOP_WATCH_LORE:
 - '§7§oShows how much time is left'
 - '§7§ountil spawning of iron ad gold'
 
+PROTECTION_FLAGS_GUI_NAME: 'Flags'
+
+PROTECTION_PROFILE_FLAGS_NAME: 'Custom Flags'
+PROTECTION_PROFILE_FLAGS_LORE:
+- ' '
+- '§7Buy new flags'
+- '§7to upgrade your private'
+- ' '
+- '§e▶ Click, to open menu'
+
+PROTECTION_FLAG_DISABLED: '§6Anarchy §8| §fThis region has a §a%s flag'
+PROTECTION_FLAG_ANTI_TNT: 'Anti-TNT'
+PROTECTION_FLAG_PROTECTION_ALL: 'Maximal protection'
+PROTECTION_FLAG_ENTITY: 'Protection from animals'
+PROTECTION_FLAG_HORUS: 'Protection against chorus'
+
+ENCHANTED_BOOK_ERROR: '§6Enchanted §8| §fError, you need §a%s §flevel, to enchanted this enchantments on item'
+
+PROTECTION_MEMBERS_GUI_NAME: 'Участники'
+
+PROTECTION_UPGRADE_SIDE_SUCCES_TO: '§6Anarchy §8| §fPrivate §7%s §fextended to §a%s §fblocks by coordinates §7X §fи §7Z §fby %s'
+PROTECTION_UPGRADE_SIDE_SUCCES: '§6Anarchy §8| §fPrivate §7%s §fsuccesfully extended to §a%s §fblocks by coordinates §7X §fи §7Z'
+

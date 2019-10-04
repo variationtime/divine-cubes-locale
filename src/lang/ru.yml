@@ -9892,7 +9892,7 @@ ANARCHY_HELP_GUI_NAME: 'Анархия'
 ANARCHY_BOX_GUI_NAME: 'Покупка ключей'
 ANARCHY_TPPOS_LOBBY: '§6Anarchy §8| §cДанная команда не доступна в мире спавна'
 ANARCHY_DEATH_FRIEND: '§6Anarchy §8| §fВаш друг %s §fпогиб в мире §7%s'
-PROTECTION_BREAK_BY: '§6Anarchy §8| §fПриват §7%s §fбыл уничтожен взрывом §7%s'
+PROTECTION_BREAK_BY: '§6Anarchy §8| §fПриват §7%s §fбыл уничтожен с помощью §7%s'
 PROTECTION_HELP:
 - '§7/rg list §f- список ваших регионов'
 - '§7/rg addmember <ник> §f- добавить игрока в приват §c(вы должны стоять в привате)'

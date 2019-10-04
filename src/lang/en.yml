@@ -5473,8 +5473,8 @@ CAGE_SW_STAINED_GLASS_16: 'Dark'
 CAGE_SW_STAINED_GLASS_16_LORE: []
 
 
-TITLE_JOIN_LOBBY: '§fBuy §aany §frank and §6get'
-SUBTITLE_JOIN_LOBBY: '§c50% §frefund with §egold'
+TITLE_JOIN_LOBBY: '§fLastCraft §9Discord §fserver'
+SUBTITLE_JOIN_LOBBY: '§ddiscord.gg/a5Kq7y2'
 FREE: 'Free'
 NO_RARITY: 'Without rarity'
 BOARD_GAME_STATS: 'Statistics'

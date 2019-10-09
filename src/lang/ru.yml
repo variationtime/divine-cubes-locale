@@ -9733,6 +9733,7 @@ GARDENER_ITEM_BOX_KIT: 'Садовник'
 COOK_ITEM_BOX_KIT: 'Повар'
 MUSIC_ITEM_BOX_KIT: 'Музыкант'
 
+POTION: 'Питьевое зелье'
 ANDESITE: 'Андезит'
 DIORITE: 'Диорит'
 GRANITE: 'Гранит'

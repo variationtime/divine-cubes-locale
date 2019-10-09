@@ -12,7 +12,7 @@ UNKNOWN_SUBCOMMAND: '§cЦієї команди не існує О_о'
 HELP_PAPER_FOR: '§e▸ Підкоманди для %s:'
 
 RULES_COMMAND: '§6Cервер §8| §fПовний список правил сервера - '
-RULES_COMMAND_HOVER: '§fНатисніть сюди для\n§fпереходу на посилання'
+RULES_COMMAND_HOVER: '§fНатисніть для переходу на посилання'
 
 NO_PERMS: '§cУ вас немає прав'
 NO_PERMS_GROUP: '§cУ вас немає прав, купіть %s§c або вище'

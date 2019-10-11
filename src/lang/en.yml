@@ -367,14 +367,6 @@ REGION_NOT_FOUND: 'Not found'
 
 PROFILE_MAIN_GUI_NAME: 'Profile'
 PROFILE_MAIN_ITEM_PLAYER_NAME: '§bGeneral information'
-PROFILE_MAIN_ITEM_PLAYER_LORE:
-- '§7Rank: %s'
-- '§7Coins: §6%s'
-- '§7Golds: §e%s'
-- '§7Level: §d%s'
-- '§7To next level: §a%s XP'
-- '§7Friends: §e%s§7/§e%s'
-- '§7Skin: §e%s'
 PROFILE_MAIN_ITEM_LEVEL_NAME: 'Leveling'
 PROFILE_MAIN_ITEM_LEVEL_LORE:
 - '§7While playing on the server you get'

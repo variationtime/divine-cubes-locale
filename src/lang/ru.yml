@@ -5601,7 +5601,7 @@ HIDER_DISABLE_NAME: '§cСкрыть игроков'
 HIDER_DISABLE_LORE:
 - '§7Используйте этот предмет,'
 - '§7чтобы скрыть игроков'
-TITLE_JOIN_LOBBY: '§fГолосовой чат сервера'
+TITLE_JOIN_LOBBY: '§fВайп всех §aSkyBlock!'
 SUBTITLE_JOIN_LOBBY: '§9Discord §ddiscord.gg/a5Kq7y2'
 ALREADY_ON_SERVER: '§6Сервер §8| §cВы уже находитесь на этом сервере!'
 PROMO_ITEM_NAME: '§aСКИДКИ!'

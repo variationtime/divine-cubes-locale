@@ -1528,6 +1528,11 @@ WHITE: 'Белый'
 DARK_PURPLE: 'Фиолетовый'
 
 DONATE_MENU_GUI: 'Меню донатера'
+DONATE_MENU_GUI_LORE:
+- '§7Дополнительные возможности'
+- '§7для донатеров'
+- ''
+- '§e▸ Нажмите, чтобы открыть меню'
 DONATE_MENU_FAST_MESSAGE_NAME: 'Быстрые сообщения'
 DONATE_MENU_FAST_MESSAGE_LORE:
 - '§7Покажи всем какой ты сегодня,'

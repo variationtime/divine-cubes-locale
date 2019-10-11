@@ -31,12 +31,16 @@ PARKOUR_ACTION_BAR: 'Вы проходите паркур §a%s §f%s'
 PARKOUR_START_TITLE: '§eВы начали проходить паркур'
 PARKOUR_TO_POINT: '§6Parkour §8| §fТелепортируем на чекпоинт...'
 PARKOUR_MISS_POINT: '§6Parkour §8| §cОшибка, вы пропустили чекпоин!'
+PARKOUR_POINT_HOLO:
+- '§6Чекпоинт #%s'
+- '§fОбязательно наступите на плиту!'
 PARKOUR_START_HOLO:
 - '§6Parkour'
 - '§fСтарт паркура'
 PARKOUR_END_HOLO:
 - '§6Parkour'
 - '§fКонец паркура'
+- '§fПриз: §6%s монет'
 
 SIT_ENABLE: '§6Сервер §8| §fВы успешно сели'
 SIT_DISABLE: '§6Сервер §8| §fВы успешно встали'

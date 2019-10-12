@@ -27,6 +27,9 @@ SERVER_TO_LIMBO: '§6Сервер §8| §fВаш сервер был не най
 SERVER_ERROR: '§cВозникла внутренняя ошибка сервера'
 WAIT_PLS: '§cПодождите немножко...'
 
+STREAMS_NO_STREAM: '§6YouTube §8| §fВ данный момент у вас нет активных стримов!'
+STREAMS_DELETE_STREAM: '§6YouTube §8| §fСтрим на платформе %s §fудален'
+
 PARKOUR_ITEM_NAME: 'Управление паркуром'
 PARKOUR_ITEM_LORE:
 - '§7Используйте этот предмет для'

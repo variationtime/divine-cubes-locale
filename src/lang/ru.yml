@@ -27,14 +27,18 @@ SERVER_TO_LIMBO: '§6Сервер §8| §fВаш сервер был не най
 SERVER_ERROR: '§cВозникла внутренняя ошибка сервера'
 WAIT_PLS: '§cПодождите немножко...'
 
-STREAMS_NO_STREAM: '§6YouTube §8| §fВ данный момент у вас нет активных стримов!'
+STREAMS_NO_STREAM: '§6YouTube §8| §fВ данный момент на сервере нет активных трансляций'
+STREAMS_GUI_NAME: 'Трансляции'
+STREAMS_YOUTUBE_ONLY: '§6YouTube §8| §fПростите, но доступ к управлению трансляциями есть только у %s'
+STREAMS_NO_STREAMS_YOU: '§6YouTube §8| §fВ данный момент у вас нет активных стримов!'
+STREAMS_STOP: '§6YouTube §8| §fВещание вашей трансляции было остановлено...'
 STREAMS_ADD: '§6YouTube §8| §fТрансляция успешно добавлена на сервер'
 STREAMS_ADD_ERROR: '§6YouTube §8| §cВозникла ошибка при добавлении трансляци...'
 STREAMS_ADD_SYNTAX_ERROR: '§6YouTube §8| §cОшибка, введена некорректная ссылка'
 STREAMS_DELETE_STREAM: '§6YouTube §8| §fСтрим на платформе %s §fудален'
 STREAMS_EXAMPLE:
 - '§6YouTube §8| §fПримеры ссылок, которые поддерживаются:'
-- ' §8▪ §fПрямой эфир на §fYou§cTube: §dhttps://www.youtube.com/watch?v=XXXXXXXXX'
+- ' §8▪ §fПрямой эфир на §7You§cTube§f: §dhttps://www.youtube.com/watch?v=XXXXXXXXX'
 - ' §8▪ §5Twitch§f канал, проводящий стрим: §dhttps://www.twitch.tv/XXXXXXXX'
 
 PARKOUR_ITEM_NAME: 'Управление паркуром'

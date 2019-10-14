@@ -4067,39 +4067,17 @@ PERK_BW_TAILWIND_LORE:
 - '§7by 3 seconds for every Final Kill'
 - '§7was made during this game.'
 PERK_BW_BOXER: 'Boxer'
-PERK_BW_BOXER_LORE:
-- ''
-- '§7If your primal hand is empty'
-- '§7for 15 seconds after respawn,'
-- '§7you will receive Strength I forever'
 PERK_BW_THOR: 'Zeus'
-PERK_BW_THOR_LORE:
-- ''
-- '§7When enemy bed was broken'
-- '§7all enemies in this team will'
-- '§7lightning strike.'
-- '§7Kill of player from this team will'
-- '§7hit with lightning random person from this team.'
 PERK_BW_SENTINEL: 'Defender'
 PERK_BW_SENTINEL_LORE:
 - ''
-- '§7If you take damage within 7 blocks'
+- '§7If you take damage within 15 blocks'
 - '§7near the bed, you also receive Resistance I for 10 sec.'
 - '§7When killing an enemy within'
 - '§7a radius of 77 blocks from your bed'
 - '§7you receive Regeneration II for 10 sec'
 PERK_BW_COURIER: 'Courier'
-PERK_BW_COURIER_LORE:
-- ''
-- '§7If you have at least 3 gold'
-- '§7in your inventory, you recieve Speed I'
 PERK_BW_DEMENTOR: 'Dementor'
-PERK_BW_DEMENTOR_LORE:
-- ''
-- '§7When you break any bed all enemies'
-- '§7who owns this bed, recieve Blindless for 7 sec.'
-- '§7If your bed was broken, the one who did that'
-- '§7recieve Blindless for 10 sec'
 PERK_BW_ALCHEMIST: 'Alchemist'
 PERK_BW_ALCHEMIST_LORE:
 - ''
@@ -4119,14 +4097,14 @@ PERK_BW_BED_MONSTER: 'Bedside monster'
 PERK_BW_BED_MONSTER_LORE:
 - ''
 - '§7If any bed breaks you recieve Speed II'
-- '§7and Regeneration II for 10 seconds'
+- '§7and Regeneration II for 20 seconds'
 PERK_BW_POINTER: 'Pointer'
 PERK_BW_POINTER_LORE:
 - ''
 - '§7When enemy was hit from bow with your arrow'
 - '§7it recieve Glowing for 5 seconds.'
 - '§7If emeny was killed while had Glowing,'
-- '§7you heals 2 HP'
+- '§7you heals 4 HP'
 PERK_BW_UNWAVERING: 'Unshakable'
 PERK_BW_UNWAVERING_LORE:
 - ''
@@ -4134,16 +4112,7 @@ PERK_BW_UNWAVERING_LORE:
 - '§7you recieve Speed I, Regeneration I'
 - '§7and Resistance I for 5 minutes'
 PERK_BW_PERSISTENT: 'Enduring'
-PERK_BW_PERSISTENT_LORE:
-- ' '
-- '§7While taking damage you have 15% chance'
-- '§7for recieving Resistance I for 4 seconds'
 PERK_BW_BLOOD_FEUD: 'Blood enmity'
-PERK_BW_BLOOD_FEUD_LORE:
-- ''
-- '§7When your teammate dies from other player'
-- '§7you recieve Speed I for 10 seconds'
-- '§7and Resistance I for 4 seconds'
 PERK_BW_MANIAC: 'Maniac'
 PERK_BW_MANIAC_LORE:
 - ''
@@ -6025,7 +5994,6 @@ GADGETS_145_LORE:
 
 MYSTERY_DUST_DATA: 'Coins'
 GOLD_DATA: 'Gold'
-GAME_COSMETIC_GUI_START_SOUND_NAME: 'Start sound'
 PROFILE_MAIN_ITEM_LANG_LORE1:
 - '§7Change default server language'
 - '§7Translation and language will be added if the future!'

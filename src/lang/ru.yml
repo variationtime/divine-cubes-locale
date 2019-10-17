@@ -4374,9 +4374,9 @@ SPECTATOR_SETTING_HIDE_LORE:
 - '§7для Вас.'
 - ' '
 - '§e▸ Нажмите, чтобы скрыть'
-SPECTATOR_SETTING_HIDING: '§6Наблюдение §8| §fТеперь, Вы не видите других наблюдателей'
+SPECTATOR_SETTING_HIDING: '§6Наблюдение §8| §fВы не видите других наблюдателей'
 SPECTATOR_SETTING_SHOWN: '§6Наблюдение §8| §fВы снова видите других наблюдателей'
-SPECTATOR_SETTING_GLOW_SHOW: '§6Наблюдение §8| §fТеперь, Вы перестали подсвечивать всех игроков'
+SPECTATOR_SETTING_GLOW_SHOW: '§6Наблюдение §8| §fВы перестали подсвечивать всех игроков'
 SPECTATOR_SETTING_GLOW_HIDE: '§6Наблюдение §8| §fВы подсветили всех игроков'
 
 SW_YOUR_TEAMMATE_IS_DEAD: '§cВаш тиммейт (%s§c) погиб'

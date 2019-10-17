@@ -453,7 +453,7 @@ HOLO_REWARD_MONEY: 'Заработано монет'
 HOLO_REWARD_STATS: 'Статистика за игру'
 HOLO_REWARD_MULTIPLAY: 'Множитель монет'
 
-GAME_SPECTATOR_MESSAGE: 'Вы погибли и теперь можете только наблюдать за игровым процессом.'
+GAME_SPECTATOR_MESSAGE: 'Вы погибли и теперь вы можете только наблюдать за игровым процессом.'
 
 SG_YOU_GOT_RATING: 'Вы заработали §a%s §fрейтинга за убийство %s §f(§6%s§f)'
 SG_YOU_LOST_RATING: 'Вы потеряли §a%s §fрейтинга §f(§6%s§f)'
@@ -4334,6 +4334,8 @@ SPECTATOR_SETTING_FLY_LORE:
 - '§e▸ Нажмите, чтобы выключить'
 SPECTATOR_SETTING_VISION_NAME: '§cВыключить ночное видение'
 SPECTATOR_SETTING_NO_VISION_NAME: '§aВключить ночное видение'
+SPECTATOR_SETTING_GLOWING_NAME: '§cОтключить подсвечивание игроков'
+SPECTATOR_SETTING_NO_GLOWING_NAME: '§aВключить подсвечивание игроков'
 SPECTATOR_SETTING_VISION_LORE:
 - ' '
 - '§e▸ Нажмите, чтобы выключить'
@@ -4360,8 +4362,10 @@ SPECTATOR_SETTING_HIDE_LORE:
 - '§7для Вас.'
 - ' '
 - '§e▸ Нажмите, чтобы скрыть'
-SPECTATOR_SETTING_HIDING: '§6Наблюдение §8| §fТеперь Вы не видите других наблюдателей'
+SPECTATOR_SETTING_HIDING: '§6Наблюдение §8| §fТеперь, Вы не видите других наблюдателей'
 SPECTATOR_SETTING_SHOWN: '§6Наблюдение §8| §fВы снова видите других наблюдателей'
+SPECTATOR_SETTING_GLOW_HIDE: '§6Наблюдение §8| §fТеперь, Вы перестали подсвечивать всех игроков'
+SPECTATOR_SETTING_GLOW_SHOW: '§6Наблюдение §8| §fВы подсветили всех игроков'
 
 SW_YOUR_TEAMMATE_IS_DEAD: '§cВаш тиммейт (%s§c) погиб'
 SW_YOUR_TEAMMATE_IS_AT_LOW_HP: '§cУ вашего тиммейта %s §cочень мало здоровья!'

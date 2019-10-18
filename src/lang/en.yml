@@ -1779,7 +1779,7 @@ PARTY_REQUESTS_TITLE: '§6Party §8| §fInvite list in party   (§a%s§f):'
 PARTY_REQUEST: '  §c• §fRequest from %s§f, §7§nclick to accept'
 PARTY_REQUEST_HOVER: '§fClick, to join to the group'
 PARTY_REQUESTS_FOOTER: ' §fClick to request what you want to accept'
-GOOGLE_AUTHENTICATOR_RETRIES:
+RETRIES_1:
  - 'attemp'
  - ''
  - 's'

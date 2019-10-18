@@ -1713,7 +1713,7 @@ PARTY_REQUESTS_TITLE: '§6Party §8| §fСписок запрошень в гр�
 PARTY_REQUEST: '  §c• §fЗапит від %s§f, §7§nНатисніть щоб прийняти'
 PARTY_REQUEST_HOVER: '§fНатисніть, щоб приєднатися до групи'
 PARTY_REQUESTS_FOOTER: ' §fНатисніть на запит який Ви хочите прийняти'
-GOOGLE_AUTHENTICATOR_RETRIES:
+RETRIES_1:
  - 'спроб'
  - 'а'
  - 'и'

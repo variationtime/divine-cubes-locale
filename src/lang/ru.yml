@@ -520,13 +520,6 @@ REPORTS_1:
 - 'а'
 - 'ы'
 - ''
-
-START_SECONDS_FORMAT:
-- 'секунд'
-- 'а'
-- 'ы'
-- ''
-
 DAMAGE_CAUSE_SUCIDE: '%s§f решил покончить жизнь самоубийством'
 DAMAGE_CAUSE_EXPLOSION_TO: '%s§f был взорван игроком %s'
 DAMAGE_CAUSE_EXPLOSION: '%s§f взорвался'

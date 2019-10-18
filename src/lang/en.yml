@@ -293,12 +293,6 @@ REPORTS_1:
 - 's'
 - 's'
 - ''
-
-START_SECONDS_FORMAT:
-  - 'second'
-  - 's'
-  - 's'
-  - ''
   
 DAMAGE_CAUSE_SUCIDE: '%s§f decided to commit suicide'
 DAMAGE_CAUSE_EXPLOSION_TO: '%s§f was blown up by %s'

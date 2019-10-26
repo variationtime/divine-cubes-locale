@@ -5402,6 +5402,8 @@ DAMAGE_CAUSE_KILLED_BY_SHULKER: '%s§f отправился на небеса ш
 DAMAGE_CAUSE_KILLED_BY_SHULKER_OF: '%s§f отправился на небеса шалкером игрока %s'
 DAMAGE_CAUSE_KILLED_BY_VEX: '%s§f был растерзан стаей вредин'
 DAMAGE_CAUSE_KILLED_BY_VEX_OF: '%s§f был растерзан стаей вредин игрока %s'
+DAMAGE_CAUSE_KILLED_BY_SLIME: '%s§f был раздавлен злым слаймом'
+DAMAGE_CAUSE_KILLED_BY_SLIME_OF: '%s§f был раздавлен злым слаймом игрока %s'
 DAMAGE_CAUSE_KILLED_BY_ILLUSIONER: '%s§f испытал на себе фокусы иллюзиониста'
 DAMAGE_CAUSE_KILLED_BY_ILLUSIONER_OF: '%s§f испытал на себе фокусы иллюзиониста игрока %s'
 DAMAGE_CAUSE_KILLED_BY_GUARDIAN_OF: '%s §fопробовал на себе лазер стража игрока %s'

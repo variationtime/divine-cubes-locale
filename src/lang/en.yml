@@ -1427,7 +1427,6 @@ FRIENDS_INVITE_TEXT: '§6Friends §8| §fPlayer %s §fhas sent you a friend requ
 FRIENDS_INVITE_EXPIRED: '§cFriend request to player %s was rejected automatically'
 FRIENDS_DONT_HAVE_INVITES_FROM: '§cYou do not have a friend request from player %s'
 FRIENDS_NEW_FRIEND: '§6Friends §8| §fCongratulations! You are now friends with %s'
-FRIEND_NEW_INVITE: '%s §fwants to be your friend'
 FRIENDS_YOU_REJECTED_REQUEST: '§6Friends §8| §fYou have rejected a friend request from %s'
 FRIENDS_REQUEST_REJECTED: '§6Friends §8| §fPlayer %s §fhas rejected your friend request'
 FRIEND_JOINED: '§6Friends §8| §fYour friend %s §fhas joined the game §7(click here)'

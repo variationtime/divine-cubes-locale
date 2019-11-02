@@ -2218,6 +2218,7 @@ FRIEND_GUI_MAIN_LORE:
 - '§7Онлайн друзей: §a%s'
 FRIENDS_GUI_LORE:
 - '§7Уровень: §d%s'
+- '§7Общих друзей: §f%s'
 FRIENDS_GUI_SERVER_LORE:
 - '§7Сейчас на сервере §e%s'
 FRIENDS_GUI_NULL_SERVER_LORE:

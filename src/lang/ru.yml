@@ -2154,7 +2154,7 @@ FRIENDS_INVITE_TEXT: '§6Друзья §8| §fИгрок %s §fотправил 
 FRIENDS_INVITE_EXPIRED: '§cЗапрос, отправленный игроку %s §fбыл автоматически отклонен'
 FRIENDS_DONT_HAVE_INVITES_FROM: '§cУ вас нет запросов в друзья от игрока %s'
 FRIENDS_NEW_FRIEND: '§6Друзья §8| §fПоздравляем! Вы стали друзьями с игроком %s'
-FRIEND_NEW_INVITE: ' %s §fпредлагает вам дружить §7(общих %s)'
+FRIEND_NEW_INVITE: '%s §fпредлагает вам дружить §7(общих %s)'
 FRIENDS_YOU_REJECTED_REQUEST: '§6Друзья §8| §fВы отклонили запрос в друзья от игрока %s'
 FRIENDS_REQUEST_REJECTED: '§6Друзья §8| §fИгрок %s §fотклонил Ваш запрос в друзья'
 FRIEND_JOINED: '§6Друзья §8| §fВаш друг %s §fзашел в игру §7(нажмите сюда)'

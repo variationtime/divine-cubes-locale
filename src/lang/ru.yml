@@ -9208,6 +9208,7 @@ JUMP_POTION: 'Зелье прыгучести II'
 STRENGTH_POTION: 'Зелье силы'
 DAMAGE_POTION: 'Туманное зелье урона'
 SHIELD: 'Щит'
+PAPER: 'Бумага'
 
 BW_SHOP_TOTEM: 'Тотем бессмертия'
 BW_SHOP_TOTEM_LORE:

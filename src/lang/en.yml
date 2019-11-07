@@ -3806,22 +3806,6 @@ LEGENDARY: 'Legendary'
 
 ISLAND_ADDLEVEL_GUI_NAME: 'Island Level'
 ISLAND_PROFILE_ADDLEVEL_NAME: 'Island Level'
-ISLAND_PROFILE_ADDLEVEL_LORE:
-- ' '
-- '§7Growth your island'
-- '§7level by means of adding blocks!'
-- ' '
-- '§8• §fCoal block §8- §a2 §fscores'
-- '§8• §fIron block §8- §a3 §fscores'
-- '§8• §fGolden block §8- §a4 §fscores'
-- '§8• §fDiamond block §8- §a6 §fscores'
-- '§8• §fQuartz block §8- §a2 §fscores'
-- '§8• §fRedstone block §8- §a2 §fscores'
-- '§8• §fEmerald block §8- §a10 §fscores'
-- '§8• §fLapis block §8- §a2 §fscores'
-- ' '
-- '§e▸ Click, to open'
-
 WHOIS_LINES_6: ' §f- Version: §a%s'
 
 

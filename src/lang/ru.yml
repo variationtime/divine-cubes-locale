@@ -8956,13 +8956,35 @@ SKIN_BW_BABY_LORE:
 - '§7Только не плач!'
 SKIN_BW_CREEPER: 'Крипер'
 SKIN_BW_CREEPER_LORE:
-- ''
+  - ''
+  - '§8Скин является МОБОМ'
+  - ''
 - '§7Пшшш!'
 SKIN_BW_ZOMBIE: 'Зомби'
 SKIN_BW_ZOMBIE_LORE:
 - ''
+- '§8Скин является МОБОМ'
+- ''
 - '§7РРРР!'
-
+SKIN_BW_BLAZE: 'Ифрит'
+SKIN_BW_BLAZE_LORE:
+- ''
+- '§8Скин является МОБОМ'
+- ''
+- '§7Жжётся не по-детски'
+SKIN_BW_ZOMBIE_VILLAGER: 'Зомби житель'
+SKIN_BW_ZOMBIE_VILLAGER_LORE:
+- ''
+- '§8Скин является МОБОМ'
+- ''
+- '§7Когда-то он был простым фермером...'
+SKIN_BW_PIG_ZOMBIE: 'Пигмен'
+SKIN_BW_PIG_ZOMBIE_LORE:
+- ''
+- '§8Скин является МОБОМ'
+- ''
+- '§7Кому пришло в голову сделать'
+- '§7свинозомби продавцом?'
 
 SOUND_BW_GUARDIAN: 'Смерть стража'
 SOUND_BW_GUARDIAN_LORE:

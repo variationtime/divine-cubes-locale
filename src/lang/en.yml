@@ -3313,7 +3313,7 @@ GOLD_COST_FORMAT:
   - 'ds'
   - 'ds'
 
-STAT_ENTRY: ' §8▪ §7%s: §a%s'
+STATS_ENTRY: ' §8▪ §7%s: §a%s'
 GAMES_STAT: 'Games played'
 KILLS_STAT: 'Kills'
 WINS_STAT: 'Victories'

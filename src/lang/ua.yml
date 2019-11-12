@@ -3270,7 +3270,7 @@ PERK_SG_POSEIDON_LORE:
   - '§7Ви не можете потонути,'
   - '§7у вас нескінченне повітря'
 
-STAT_ENTRY: ' §8▪ §7%s: §a%s'
+STATS_ENTRY: ' §8▪ §7%s: §a%s'
 GAMES_STAT: 'Ігор зіграно'
 KILLS_STAT: 'Вбивств'
 WINS_STAT: 'Перемог'

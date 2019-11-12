@@ -8956,9 +8956,9 @@ SKIN_BW_BABY_LORE:
 - '§7Только не плач!'
 SKIN_BW_CREEPER: 'Крипер'
 SKIN_BW_CREEPER_LORE:
-  - ''
-  - '§8Скин является МОБОМ'
-  - ''
+- ''
+- '§8Скин является МОБОМ'
+- ''
 - '§7Пшшш!'
 SKIN_BW_ZOMBIE: 'Зомби'
 SKIN_BW_ZOMBIE_LORE:

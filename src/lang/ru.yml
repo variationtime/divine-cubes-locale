@@ -8953,10 +8953,10 @@ SKIN_BW_BABY: 'Ребенок'
 SKIN_BW_BABY_LORE:
 - ''
 - '§7Только не плач!'
-SKIN_BW_HORSE: 'Лошадь'
-SKIN_BW_HORSE_LORE:
-  - ''
-  - '§7 ИГОГО!'
+SKIN_BW_CREEPER: 'Крипер'
+SKIN_BW_CREEPER_LORE:
+- ''
+- '§7Пшшш!'
 
 SOUND_BW_GUARDIAN: 'Смерть стража'
 SOUND_BW_GUARDIAN_LORE:

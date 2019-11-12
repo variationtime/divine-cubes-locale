@@ -8957,6 +8957,11 @@ SKIN_BW_CREEPER: 'Крипер'
 SKIN_BW_CREEPER_LORE:
 - ''
 - '§7Пшшш!'
+SKIN_BW_ZOMBIE: 'Зомби'
+SKIN_BW_ZOMBIE_LORE:
+- ''
+- '§7РРРР!'
+
 
 SOUND_BW_GUARDIAN: 'Смерть стража'
 SOUND_BW_GUARDIAN_LORE:

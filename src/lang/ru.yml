@@ -16,6 +16,9 @@ OCTOBER: 'Октябрь'
 NOVEMBER: 'Ноябрь'
 DECEMBER: 'Декабрь'
 
+ME_FORMAT: '/me <сообщение>'
+DO_FORMAT: '/do <сообщение>'
+TRY_FORMAT: '/try <сообщение>'
 COMMAND_DISABLE_ON_SPAWN: '§cДанная команда не доступна в мире спавна'
 
 WEB_BUY_ITEMS: '§6Сервер §8| §fПоздравляем с покупкой %s §8x%s'

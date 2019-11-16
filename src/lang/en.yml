@@ -5410,7 +5410,7 @@ CAGE_SW_STAINED_GLASS_16_LORE: []
 
 
 TITLE_JOIN_LOBBY: '§fLastCraft §9Discord §fserver'
-SUBTITLE_JOIN_LOBBY: '§ddiscord.gg/a5Kq7y2'
+SUBTITLE_JOIN_LOBBY: '§ddiscord.lastcraft.net'
 FREE: 'Free'
 NO_RARITY: 'Without rarity'
 BOARD_GAME_STATS: 'Statistics'

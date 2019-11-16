@@ -3323,7 +3323,7 @@ HUB_VK_HOLO:
   - '§d§lvk.com/lastcraft'
 HUB_DISCORD_HOLO:
   - '§fГолосовий чат сервера §7§lDiscord'
-  - '§d§lvk.cc/7BsqTk'
+  - '§d§ldiscord.lastcraft.net'
 
 DAMAGE_CAUSE_SUICIDE: '%s§f вирішив покінчити життя самогубством'
 DAMAGE_CAUSE_ENTITY_EXPLOSION_TO: '%s§f був підірваний гравцем %s'

@@ -3376,7 +3376,7 @@ HUB_VK_HOLO:
   - '§d§lvk.com/lastcraft'
 HUB_DISCORD_HOLO:
   - '§fVoice server chat §7§lDiscord'
-  - '§d§lvk.cc/7BsqTk'
+  - '§d§ldiscord.lastcraft.net'
 
 DAMAGE_CAUSE_SUICIDE: '%s§f Decides to commit suicide'
 DAMAGE_CAUSE_ENTITY_EXPLOSION_TO: '%s§f was blown up by a player %s'

@@ -182,6 +182,7 @@ BOSS_BAR_LOBBY:
 - '§fСОКРУШИТЕЛЬНЫЙ §cОБВАЛ §fЦЕН! ВСЕ ЦЕНЫ БЫЛИ §aСНИЖЕНЫ §fНА §610%'
 - '§fПОКУПКА§e ДОНАТА §fНА САЙТЕ §7► §6§lLAST-CRAFT.COM'
 - '§fГЛОБАЛЬНОЕ ОБНОВЛЕНИЕ §6§lLUCKYWARS!'
+- '§fГОЛОСОВОЙ ЧАТ СЕРВЕРА §9§lDISCORD §7► §d§lDISCORD.LASTCRAFT.NET'
 
 LIMIT_REACHED: '§6Сервер §8| §fВы достигли лимита для этого наказания, подождите еще §e%s'
 
@@ -5735,7 +5736,7 @@ HIDER_DISABLE_NAME: '§cСкрыть игроков'
 HIDER_DISABLE_LORE:
 - '§7Используйте этот предмет,'
 - '§7чтобы скрыть игроков'
-TITLE_JOIN_LOBBY: '§fВайп всех §aSkyBlock!'
+TITLE_JOIN_LOBBY: '§fГолосовой чат сервера!'
 SUBTITLE_JOIN_LOBBY: '§9Discord §ddiscord.lastcraft.net'
 ALREADY_ON_SERVER: '§6Сервер §8| §cВы уже находитесь на этом сервере!'
 PROMO_ITEM_NAME: '§aСКИДКИ!'

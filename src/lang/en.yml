@@ -2422,8 +2422,6 @@ GUILD_DEPOSIT_TOO_FAST: '§6Guild §8| §fDeposit coins from guild balance can o
 GUILD_DONATE_TOO_FAST: '§6Guild §8| §fDonate in guild balance can only one in §a1 §fminute'
 GUILD_MUTE_BROADCAST: '§2Guild §8| %s §fmute guild chat to the player %s §fon §a%s §ffor reason §a%s'
 GUILD_YOU_CANT_SET_POINT: '§6Guild §8| §fYou cannot change point of the guild home'
-MY_ONLINE_TIME: '§6Server §8| §fTime spent on the server - §a%s'
-PLAYER_ONLINE_TIME: '§6Server §8| §fPlayer §e%s §fspent on server §a%s'
 GUILD_NO_TOP_GUILDS: '§cError, server have not guild what can be in top'
 GUILD_TOP_TITLE: '§6Guild §8| §fTop §a%s §fguild:'
 GUILD_TOP_ENTRY_COINS: ' §6#%s §f- §e%s §fplayer %s§f, balance - §a%s'

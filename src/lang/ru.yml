@@ -79,6 +79,7 @@ STREAMS_STOP: '§6YouTube §8| §fВещание вашей трансляции
 STREAMS_ADD: '§6YouTube §8| §fТрансляция успешно добавлена на сервер! Через §a2§f минуты об этом будут уведомлены все игроки! §c(Если вы слишком часто добавляете стрим, то этого уведомления не будет!)'
 STREAMS_ADD_ERROR: '§6YouTube §8| §cВозникла ошибка при добавлении трансляци... Возможно стрим не запущен...'
 STREAMS_ADD_SYNTAX_ERROR: '§6YouTube §8| §cОшибка, введена некорректная ссылка'
+STREAMS_ADD_LAST_ERROR: '§6YouTube §8| §cОшибка, вы должны запускать стрим только на сервере LastCraft'
 STREAMS_DELETE_TARGET: '§6YouTube §8| §fВы удалили трансляцию игрока %s'
 STREAMS_DELETE_STREAM: '§6YouTube §8| §fСтрим на платформе %s §fудален'
 STREAMS_DELETE_STREAM_BY: '§6YouTube §8| %s §fудалил ваш стрим на платформе %s'

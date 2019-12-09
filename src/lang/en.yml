@@ -6018,18 +6018,6 @@ PROTECTION_UPGRADE_SIDE_SUCCES: '§6Anarchy §8| §fPrivate §7%s §fsuccesfully
 ITEM_ALREADY_HAVE: '§fYou already have this item before, you got §6+%s %s §finstead'
 DAMAGE_CAUSE_KILLED_BY_ILLUSIONER: '%s§f tried Illusioner illusions yourself'
 DAMAGE_CAUSE_KILLED_BY_ILLUSIONER_OF: '%s§f tried %s Illusioner illusions yourself'
-PROFILE_MAIN_ITEM_PLAYER_LORE:
-- '§7Rank: %s'
-- ''
-- '§7Coins: §6%s'
-- '§7Gold: §e%s'
-- ''
-- '§7Friends: §e%s§7/§e%s'
-- ''
-- '§7Skin: §e%s'
-- ''
-- '§7Total playtime:'
-- '%s'
 DONATE_MENU_GUI_LORE:
 - '§7Additional features'
 - '§7for doantors'

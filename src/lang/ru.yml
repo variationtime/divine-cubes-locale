@@ -16,6 +16,8 @@ OCTOBER: 'Октябрь'
 NOVEMBER: 'Ноябрь'
 DECEMBER: 'Декабрь'
 
+INDEFINITELY: 'бессрочно'
+
 ME_FORMAT: '/me <сообщение>'
 DO_FORMAT: '/do <сообщение>'
 TRY_FORMAT: '/try <сообщение>'
@@ -628,6 +630,7 @@ PROFILE_MAIN_GUI_NAME: 'Профиль'
 PROFILE_MAIN_ITEM_PLAYER_NAME: '§bОбщая информация'
 PROFILE_MAIN_ITEM_PLAYER_LORE:
 - '§7Статус: %s'
+- '§7Дата окончения: %s'
 - ''
 - '§7Монет: §6%s'
 - '§7Золота: §e%s'

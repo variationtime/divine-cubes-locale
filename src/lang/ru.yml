@@ -34,6 +34,9 @@ SERVER_TO_LIMBO: '§6Сервер §8| §fВаш сервер был не най
 SERVER_ERROR: '§cВозникла внутренняя ошибка сервера'
 WAIT_PLS: '§cПодождите немножко...'
 
+TEMP_GROUP_EXPIRE_TITLE: '§cВремя истекло!'
+TEMP_GROUP_EXPIRE_SUB_TITLE: '§fВаш статус %s §fбыл сброшен до %s'
+
 BUNGEE_ALREADY_ONLINE: '§cДанный игрок уже на сервере!'
 BUNGEE_NO_REASON_SPECIFIED: '§cПричина не указана'
 BUNGEE_INVALID_ADDRESS: '§cВаш IP адрес содержит некорректные данные'

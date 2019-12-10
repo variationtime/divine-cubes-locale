@@ -33,12 +33,12 @@ SERVER_TO: '§6Сервер §8| §fВы подключены к серверу 
 SERVER_TO_LIMBO: '§6Сервер §8| §fВаш сервер был не найден в главном ядре, вы были телепортированы в §aLimbo'
 SERVER_ERROR: '§cВозникла внутренняя ошибка сервера'
 WAIT_PLS: '§cПодождите немножко...'
-BUNGEE:
-  ALREADY_ONLINE: '§cДанный игрок уже на сервере!'
-  NO_REASON_SPECIFIED: '§cПричина не указана'
-  INVALID_ADDRESS: '§cВаш IP адрес содержит некорректные данные'
-  SQL_ERROR: '§cНе удалось загрузить данные авторизации'
-  JOIN_SERVER_UNAVAILABLE: '§cНе удалось найти сервер входа'
+
+BUNGEE_ALREADY_ONLINE: '§cДанный игрок уже на сервере!'
+BUNGEE_NO_REASON_SPECIFIED: '§cПричина не указана'
+BUNGEE_INVALID_ADDRESS: '§cВаш IP адрес содержит некорректные данные'
+BUNGEE_SQL_ERROR: '§cНе удалось загрузить данные авторизации'
+BUNGEE_JOIN_SERVER_UNAVAILABLE: '§cНе удалось найти подходящий сервер входа'
 
 STREAMS_CLICK:
 - ' '

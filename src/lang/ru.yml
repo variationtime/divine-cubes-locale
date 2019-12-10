@@ -2338,6 +2338,7 @@ REPORT_PLAYER_STARTED_SPECTATE: '§cМодерация §8| §7%s §7отпра�
 WHOIS_LINES_1: '§eИнформация об игроке %s'
 WHOIS_LINES_2: ' §f- ID игрока: §a%s'
 WHOIS_LINES_3: ' §f- Привилегия: §a%s'
+WHOIS_LINES_3_1: ' §f- Заканчивается: §a%s'
 WHOIS_ONLINE_LINES_1: ' §f- IP адрес: §a%s'
 WHOIS_ONLINE_LINES_2: ' §f- Прокси: §a%s'
 WHOIS_ONLINE_LINES_3: ' §f- Сервер: §a%s'

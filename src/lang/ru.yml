@@ -2452,6 +2452,7 @@ EMAIL_HAS_BEEN_SENT: '§6Авторизация §8| §fПисьмо с паро
 EMAIL_ADD_FORMAT: /email add <ваша электронная почта> <еще раз>
 EMAIL_CHANGE_FORMAT: /email change <старая эл. почта> <новая эл. почта>
 EMAIL_VERIFY_FORMAT: /email verify <код подтверждения>
+EMAIL_RECOVERY_FORMAT: /recovery <почта>
 EMAIL_ALREADY_ADDED: §cОшибка, у вас уже привязана почта. Для смены почты воспользуйтесь командой /email change <старая эл. почта> <новая эл. почта>
 EMAIL_MISMATCH: §cОшибка, указанные электронные адреса не совпадают!
 EMAIL_IS_INVALID: §cУказанная электронная почта невалидна

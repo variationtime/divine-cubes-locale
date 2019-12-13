@@ -6198,3 +6198,313 @@ PERK_BW_BLOOD_FEUD_LORE:
 - '§7and Resistance I for 6 seconds'
 GAME_COSMETIC_GUI_START_SOUND_NAME: 'Start sound'
 
+GADGETS_146_NAME: 'Fox'
+GADGETS_146_LORE:
+- '§7Ph-ph-ph'
+GADGETS_147_NAME: 'lollipop'
+GADGETS_147_LORE:
+- '§7I want to lick you.'
+- '§7Well really'
+GADGETS_148_NAME: 'mops'
+GADGETS_148_LORE:
+- '§7"Mops can fly, mops read..."'
+GADGETS_149_NAME: 'owl'
+GADGETS_149_LORE:
+- '§7"a you are mouse?"'
+GADGETS_150_NAME: 'panda'
+GADGETS_150_LORE:
+- '§7Good to be a panda,'
+- '§7can not see the bags under your eyes'
+GADGETS_151_NAME: 'sloth'
+GADGETS_151_LORE:
+- '§7"I not lazy, i save energy!"'
+GADGETS_152_NAME: 'snowman'
+GADGETS_152_LORE:
+- '§7No, better put on a Pumpkin,'
+- '§7it suits you better'
+GADGETS_153_NAME: 'squirrel'
+GADGETS_153_LORE:
+- '§7squirrel!'
+GADGETS_154_NAME: 'shulker'
+GADGETS_154_LORE:
+- '§7Rumor has it that served as a prototype'
+- '§7chameleon. it is understandable'
+GADGETS_155_NAME: 'Fire'
+GADGETS_155_LORE:
+- '§7"sorry, but you burn."'
+GADGETS_156_NAME: 'Slime'
+GADGETS_156_LORE:
+- '§7for those who want to be resilient- '
+GADGETS_157_NAME: 'Angry resident'
+GADGETS_157_LORE:
+- '§7He is not evil, he is indignat!'
+GADGETS_158_NAME: 'hearts'
+GADGETS_158_LORE:
+- '§7This love turned everyone is head!'
+GADGETS_160_NAME: 'Wings of fire'
+GADGETS_160_LORE:
+- '§7careful, you can burn yourself!'
+GADGETS_161_NAME: 'atom'
+GADGETS_161_LORE:
+- '§7..actually a molecule, but it doesn`t sound epic'
+GADGETS_162_NAME: 'Angel wings'
+GADGETS_162_LORE:
+- '§7- they told you you looked like an angel?'
+- '§7- no'
+- '§7- no wonder'
+GADGETS_163_NAME: 'Rain'
+GADGETS_163_LORE:
+- '§7A great way to calm down!'
+GADGETS_165_NAME: 'The bloody spiral'
+GADGETS_165_LORE:
+- '§7I wonder whose blood it is?'
+GADGETS_166_NAME: 'blizzard'
+GADGETS_166_LORE:
+- '§7"you feel goose bumps?"'
+GADGETS_167_NAME: 'life'
+GADGETS_167_LORE:
+- '§7The mesmerizing loop of life. Eternal circle'
+GADGETS_168_NAME: 'Santa Claus'
+GADGETS_168_LORE:
+- '§7Holiday comes to us!'
+GADGETS_169_NAME: 'Vampire wings'
+GADGETS_169_LORE:
+- '§7"Vampires there is and to this day!"'
+GADGETS_170_NAME: 'Pokebol'
+GADGETS_170_LORE:
+- '§7They say if they catch 1000 eggs,'
+- '§7then Pikachu will come out of it.'
+GADGETS_171_NAME: 'H...'
+GADGETS_171_LORE:
+- '§7For true fans :)'
+GADGETS_172_NAME: 'bunny'
+GADGETS_172_LORE:
+- '§7Cute white Bunny'
+GADGETS_173_NAME: 'deer'
+GADGETS_173_LORE:
+- '§7it`s Santa`s reindeer!'
+GADGETS_175_NAME: 'wreath'
+GADGETS_175_LORE:
+- '§7Raise the Christmas mood!'
+GADGETS_176_NAME: 'heart'
+GADGETS_176_LORE:
+- '§7Show everyone how much you love them с:'
+GADGETS_177_NAME: 'guitar'
+GADGETS_177_LORE:
+- '§7For music lovers'
+GADGETS_178_NAME: 'Dead Pool'
+GADGETS_178_LORE:
+- '§7But you are not immortal, no'
+GADGETS_179_NAME: 'Penguin'
+GADGETS_179_LORE:
+- '§7..do they have knees?'
+GADGETS_180_NAME: 'Dog'
+GADGETS_180_LORE:
+- '§7Faithful companion and'
+- '§7best friend, after the spirit..'
+GADGETS_181_NAME: 'Skeleton'
+GADGETS_181_LORE:
+- '§7They say it`s a portrait of the last Lord.'
+GADGETS_182_NAME: 'Smile'
+GADGETS_182_LORE:
+- '§7Who knows what`s behind that smile..'
+GADGETS_183_NAME: 'Weeping'
+GADGETS_183_LORE:
+- '§7Don`t cry, eat candy and calm down :3'
+GADGETS_184_NAME: 'Smirk'
+GADGETS_184_LORE:
+- '§7Oh..this is the charisma'
+GADGETS_185_NAME: 'Wink'
+GADGETS_185_LORE:
+- '§7"Hey, gorgeous. Your mother doesn`t need a son in law?"'
+GADGETS_186_NAME: 'Joyful'
+GADGETS_186_LORE:
+- '§7We hope that our server has made you so :3'
+GADGETS_187_NAME: 'surprise'
+GADGETS_187_LORE:
+- '§7Be careful, or a fly will fly into your mouth!'
+GADGETS_188_NAME: 'Sleepy'
+GADGETS_188_LORE:
+- '§7ech.. people already on the move sleep!' 
+GADGETS_189_NAME: 'evil'
+GADGETS_189_LORE:
+- '§7 propose a include effect rain'
+- '§7for calm)'
+GADGETS_190_NAME: 'cool'
+GADGETS_190_LORE:
+- '§7I`m cool, but not you!'
+GADGETS_191_NAME: 'in love'
+GADGETS_191_LORE:
+- '§7 No, no, not at all! I`m not in love'
+- '§7 simply heart of in eye engulfed!'
+GADGETS_192_NAME: 'Crazy'
+GADGETS_192_LORE:
+- '§7I`m sure, you`re in a'
+- '§7very good mood'
+GADGETS_193_NAME: 'desiccant'
+GADGETS_193_LORE:
+- '§7 possible dry throat, caution!'
+GADGETS_194_NAME: 'Creeper'
+GADGETS_194_LORE:
+- '§7 now the fear of being blown up increases'
+GADGETS_195_NAME: 'bird'
+GADGETS_195_LORE:
+- '§7 increases the chance of litter'
+GADGETS_197_NAME: 'Cubone'
+GADGETS_197_LORE:
+- '§7Hero goes on pokemonskiy own manner'
+GADGETS_198_NAME: 'Pink Ambi'
+GADGETS_198_LORE:
+- '§7Very cute pink spirit-Ambi,'
+- '§7who won`t leave you alone'
+GADGETS_199_NAME: 'Vulpix'
+GADGETS_199_LORE:
+- '§7Six-tailed Fox-sister'
+GADGETS_200_NAME: 'Gengar'
+GADGETS_200_LORE:
+- '§7Good thing we have a round shadow'
+GADGETS_201_NAME: 'Arcanin'
+GADGETS_201_LORE:
+- '§7A mixture of dog, tiger and wolf'
+GADGETS_203_NAME: 'Garchomp'
+GADGETS_203_LORE:
+- '§7this is the plane? Is it a bird?'
+- '§7net, this is Garchomp!'
+GADGETS_205_NAME: 'Terrakian'
+GADGETS_205_LORE:
+- '§7 strong as an ox!'
+- '§7oy, this is the bull'
+GADGETS_206_NAME: 'Feraligatr'
+GADGETS_206_LORE:
+- '§7on intimidates your enemies,'
+- '§7 opening his huge mouth O:'
+GADGETS_207_NAME: 'Moldres'
+GADGETS_207_LORE:
+- '§7 dangerous, but not for you'
+GADGETS_208_NAME: 'Entei'
+GADGETS_208_LORE:
+- '§7The culprit of the fall of Pompeii'
+GADGETS_209_NAME: 'Groudon'
+GADGETS_209_LORE:
+- '§7Keep a jar of brine with you'
+GADGETS_210_NAME: 'Dailga'
+GADGETS_210_LORE:
+- '§7Yes he spun your time!'
+GADGETS_211_NAME: 'Dioxis'
+GADGETS_211_LORE:
+- '§7Can do their clones, but'
+- '§7there will be no more spirits, no'
+GADGETS_212_NAME: 'Giratina'
+GADGETS_212_LORE:
+- '§7Jumps on worlds and your neck'
+GADGETS_213_NAME: 'Pink panther'
+GADGETS_213_LORE:
+- '§7Tudum-tudum'
+GADGETS_214_NAME: 'Natsuki'
+GADGETS_214_LORE:
+- '§7Modest girl'
+- '§7Loves to bake cakes :3'
+GADGETS_215_NAME: 'Defender'
+GADGETS_215_LORE:
+- '§7Defender of your back and fortress'
+GADGETS_216_NAME: 'Death'
+GADGETS_216_LORE:
+- '§7Sometimes it seems to everyone that death'
+- '§7watching us from behind'
+GADGETS_217_NAME: 'Gladiator'
+GADGETS_217_LORE:
+- '§7He is, of course, ready for battle,'
+- '§7but not in spirit form'
+GADGETS_218_NAME: 'Pauline'
+GADGETS_218_LORE:
+- '§7In past a favorite player administration'
+GADGETS_219_NAME: 'Victoria'
+GADGETS_219_LORE:
+- '§7Another spirit player, but only here is'
+- '§7the admins already don`t like'
+GADGETS_220_NAME: 'White Walker'
+GADGETS_220_LORE:
+- '§7«Forward, army!»'
+GADGETS_221_NAME: 'Neon cube'
+GADGETS_221_LORE:
+- '§7(BFO) Beautiful Flying Object'
+- '§7Right behind your back!'
+GADGETS_223_NAME: 'Rubik`s Cube'
+GADGETS_223_LORE:
+- '§7Spirit for the smartest, well and stylish'
+GADGETS_224_NAME: 'Pennywise'
+GADGETS_224_LORE:
+- '§7Let`s imagine that he has'
+- '§7in the hands of a balloon, nicely?'
+GADGETS_225_NAME: 'IBROI'
+GADGETS_225_LORE:
+- '§7God Rumina in your pocket'
+GADGETS_226_NAME: 'Sonic'
+GADGETS_226_LORE:
+- '§7«Seryozha, let go of the hedgehog, he`s tired of running»'
+GADGETS_227_NAME: 'Puppet'
+GADGETS_227_LORE:
+- '§7It is difficult to say friendly'
+- '§7that smile or not'
+GADGETS_228_NAME: 'Freddie'
+GADGETS_228_LORE:
+- '§7*the sound of a children`s song*'
+GADGETS_229_NAME: 'Skeleton'
+GADGETS_229_LORE:
+- '§7The spirit of the skeleton.. You heard right'
+GADGETS_230_NAME: 'Witch'
+GADGETS_230_LORE:
+- '§7Caution! Maybe she has'
+- '§7in stock potion love spell!'
+GADGETS_231_NAME: 'Dark skeleton'
+GADGETS_231_LORE:
+- '§7 dark magic of the dark skeleton'
+- '§7 dark night!'
+GADGETS_232_NAME: 'Black wizard'
+GADGETS_232_LORE:
+GADGETS_235_NAME: 'Golden man'
+GADGETS_235_LORE:
+- '§7stalos spirit of, as punishment'
+- '§7 for your greed'
+GADGETS_237_NAME: 'Mystical raccoon'
+GADGETS_237_LORE:
+- '§7Strange and incomprehensible beast, but cute'
+GADGETS_238_NAME: 'Oneeye'
+GADGETS_238_LORE:
+- '§7Cyclops for that cutie'
+- '§7 would sound too rude'
+GADGETS_239_NAME: 'New year Pikachu'
+GADGETS_239_LORE:
+- '§7Did you think we`d forget about him?'
+GADGETS_240_NAME: 'gyffi'
+GADGETS_240_LORE:
+- '§7He`s alive! But.. it`s different' 
+GADGETS_241_NAME: 'Santa'
+GADGETS_241_LORE:
+- '§7It all uznayut of thousands!'
+GADGETS_242_NAME: 'Snowman'
+GADGETS_242_LORE:
+- '§7cold and cute snowman,'
+- '§7which will point the way'
+- '§7to the snow slide'
+GADGETS_245_NAME: 'Penguin'
+GADGETS_245_LORE:
+- '§7Who says penguins don`t fly??'
+GADGETS_245_NAME: 'Penguin'
+GADGETS_245_LORE:
+- '§7Who says penguins don`t fly??'
+GADGETS_246_NAME: 'Hellboy'
+GADGETS_246_LORE:
+- '§7Good as hell'
+GADGETS_247_NAME: 'Angel'
+GADGETS_247_LORE:
+- '§7It`s your guardian angel, but'
+- '§7only before entering the game'
+GADGETS_248_NAME: 'Shark'
+GADGETS_248_LORE:
+- '§7He doesn`t bite, don`t be afraid'
+GADGETS_249_NAME: 'Christmas slug'
+GADGETS_249_LORE:
+- '§7What could be funnier than'
+- '§7slug, celebrating the New Year?'
+

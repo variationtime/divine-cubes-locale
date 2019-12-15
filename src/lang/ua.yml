@@ -4131,7 +4131,6 @@ HIDER_DISABLE_LORE:
 - '§7щоб приховати гравціва'
 ALREADY_ON_SERVER: '§6Сервер §8| §cВи вже знаходитесь на цьому сервері!'
 PROMO_ITEM_NAME: '§aЗНИЖКИ!'
-REWARD_FOR_HIGHER_VERSION: ' §6+5 монет (гра на 1.12 або вище)'
 PLAY_FORMAT: '/play <гра>'
 THANKS_FOR_MARKING_MAP:
 - '§aДякуємо за Ваш голос за мапу %s§f!'

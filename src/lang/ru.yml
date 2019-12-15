@@ -5753,7 +5753,6 @@ TITLE_JOIN_LOBBY: '§fГолосовой чат сервера!'
 SUBTITLE_JOIN_LOBBY: '§9Discord §ddiscord.lastcraft.net'
 ALREADY_ON_SERVER: '§6Сервер §8| §cВы уже находитесь на этом сервере!'
 PROMO_ITEM_NAME: '§aСКИДКИ!'
-REWARD_FOR_HIGHER_VERSION: ' §6+5 монет (игра на 1.12 или выше)'
 PLAY_FORMAT: '/play <игра>'
 
 THANKS_FOR_MARKING_MAP:

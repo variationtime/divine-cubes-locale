@@ -9441,6 +9441,15 @@ EW_SHOP_DIAMOND_ARMOR: 'Алмазная броня'
 EW_SHOP_DIAMOND_ARMOR_LORE:
 - ' §8▪ §7Алмазные поножи §8x1'
 - ' §8▪ §7Алмазные ботинки §8x1'
+EW_SHOP_STONE_PICKAXE: 'Каменная кирка'
+EW_SHOP_STONE_PICKAXE_LORE:
+- ' §8▪ §7Каменная кирка §8(Эффективность II)'
+EW_SHOP_IRON_PICKAXE: 'Железная кирка'
+EW_SHOP_IRON_PICKAXE_LORE:
+- ' §8▪ §7Железная кирка §8(Эффективность II)'
+EW_SHOP_DIAMOND_PICKAXE: 'Алмазная кирка'
+EW_SHOP_DIAMOND_PICKAXE_LORE:
+- ' §8▪ §7Алмазная кирка §8(Эффективность III)'
 
 HNS_MASK_STONE: 'Камень'
 HNS_MASK_STONE_LORE: []

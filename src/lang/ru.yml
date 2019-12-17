@@ -9449,6 +9449,12 @@ EW_SHOP_IRON_PICKAXE_LORE:
 EW_SHOP_DIAMOND_PICKAXE: 'Алмазная кирка'
 EW_SHOP_DIAMOND_PICKAXE_LORE:
 - ' §8▪ §7Алмазная кирка §8(Эффективность III)'
+EW_SHOP_WOOD_AXE: 'Деревянный топор'
+EW_SHOP_WOOD_AXE_LORE:
+- ' §8▪ §7Деревянный топор §8(Эффективность I)'
+EW_SHOP_STONE_AXE: 'Каменный топор'
+EW_SHOP_STONE_AXE_LORE:
+- ' §8▪ §7Каменный топор §8(Эффективность II)'
 EW_SHOP_DIAMOND_AXE: 'Алмазный топор'
 EW_SHOP_DIAMOND_AXE_LORE:
 - ' §8▪ §7Алмазный топор §8(Эффективность II)'
@@ -10005,6 +10011,7 @@ SAND: 'Песок'
 CLAY: 'Глина'
 OBSIDIAN: 'Обсидиан'
 WOOD: 'Доски'
+BOW: 'Лук'
 SHEARS: 'Ножницы'
 NETHERRACK: 'Адский камень'
 SOUL_SAND: 'Песок душ'

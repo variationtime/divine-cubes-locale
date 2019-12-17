@@ -10175,9 +10175,9 @@ ANARCHY_TPPOS_LOBBY: '§6Anarchy §8| §cДанная команда не дос
 ANARCHY_DEATH_FRIEND: '§6Anarchy §8| §fВаш друг %s §fпогиб в мире §7%s'
 
 AIRDROP_COLLECTED: '§6AirDrop §8| §fИгрок %s §fнашел и забрал §7airDrop'
-AIRDROP_SPAWN: '§6AirDrop §8| §7airDrop §fупал в обычном мире на координатах §a%s'
+AIRDROP_SPAWN: '§6AirDrop §8| §7airDrop §fупал в обычном мире на координатах X: §a%s §fY: §a%s §fZ: §a%s'
 AIRDROP_SPAWN_TITLE: '§eAirDrop появился!'
-AIRDROP_WAIT: '§6AirDrop §8| §7airDrop §fлежит в обычном мире на координатах §a%s'
+AIRDROP_WAIT: '§6AirDrop §8| §7airDrop §fлежит в обычном мире на координатах X: §a%s §fY: §a%s §fZ: §a%s'
 AIRDROP_WAIT_SPAWN: '§6AirDrop §8| §7airDrop §fупадет в обычном мире через §7%s'
 AIRDROP_NEXT_SPAWN: '§6AirDrop §8| §fСледующий §7airDrop §fупадет в обычном мире через §7%s'
 

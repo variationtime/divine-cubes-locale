@@ -8911,12 +8911,12 @@ BW_DIAMOND:
 - 'диамант'
 - ''
 - 'а'
-- 'а'
+- 'ов'
 BW_EMERALD:
 - 'изумруд'
 - ''
 - 'а'
-- 'а'
+- 'ов'
 
 BW_TELEPORT_WAIT: 'Не двигайтесь, чтобы телепортироваться на базу'
 BW_TELEPORT: '§aТелепорация на базу...'
@@ -9451,7 +9451,10 @@ EW_SHOP_DIAMOND_PICKAXE_LORE:
 - ' §8▪ §7Алмазная кирка §8(Эффективность III)'
 EW_SHOP_DIAMOND_AXE: 'Алмазный топор'
 EW_SHOP_DIAMOND_AXE_LORE:
-  - ' §8▪ §7Алмазный топор §8(Эффективность II)'
+- ' §8▪ §7Алмазный топор §8(Эффективность II)'
+EW_SHOP_STICK: 'Дубинка'
+EW_SHOP_STICK_LORE:
+- ' §8▪ §7Палка §8(Отдача II) x1'
 
 HNS_MASK_STONE: 'Камень'
 HNS_MASK_STONE_LORE: []

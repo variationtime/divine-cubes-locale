@@ -4121,7 +4121,6 @@ BW_SWORD_SHOP: 'Weapon'
 BW_SWORD_SHOP_LORE:
 - ''
 - '§7Buying weapon for protection'
-- '§7of your bed'
 - ''
 - '§e▸ Click to open the menu'
 BW_POTION_SHOP: 'Potions'

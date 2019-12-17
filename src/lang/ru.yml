@@ -1170,7 +1170,7 @@ GUI_DONATE_EMERALD_BEDWARS_LORE:
 - ''
 GUI_DONATE_EMERALD_EGGWARS_LORE:
 - ''
-- ' §8▪ §7Снижена задержка при респавне (§c1 сек§7)'
+- ' §8▪ §7Снижена задержка при респавне (§c2 сек§7)'
 - ''
 GUI_DONATE_EMERALD_CREATIVE_LORE:
 - ''
@@ -1270,7 +1270,7 @@ GUI_DONATE_MAGMA_BEDWARS_LORE:
 - ''
 GUI_DONATE_MAGMA_EGGWARS_LORE:
 - ''
-- ' §8▪ §7Отсутствует задержка при респавне'
+- ' §8▪ §7Снижена задержка при респавне (§c1 сек§7)'
 - ''
 GUI_DONATE_MAGMA_CREATIVE_LORE:
 - ''
@@ -1380,7 +1380,7 @@ GUI_DONATE_SHULKER_BEDWARS_LORE:
 - ''
 GUI_DONATE_SHULKER_EGGWARS_LORE:
 - ''
-- ' §8▪ §7Отсутствует задержка при респавне'
+- ' §8▪ §7Снижена задержка при респавне (§c2 сек§7)'
 - ''
 GUI_DONATE_SHULKER_CREATIVE_LORE:
 - ''

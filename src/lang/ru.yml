@@ -9429,6 +9429,19 @@ BW_SHOP_BOW_LVL_3: 'Лук III'
 BW_SHOP_BOW_LVL_3_LORE:
 - ' §8▪ §7Лук §8(Бесконечность I, Сила II, Откидывание I)'
 
+EW_SHOP_CHAINMAIL_ARMOR: 'Кольчужная броня'
+EW_SHOP_CHAINMAIL_ARMOR_LORE:
+- ' §8▪ §7Кольчужные поножи §8x1'
+- ' §8▪ §7Кольчужные ботинки §8x1'
+EW_SHOP_IRON_ARMOR: 'Железная броня'
+EW_SHOP_IRON_ARMOR_LORE:
+- ' §8▪ §7Железные поножи §8x1'
+- ' §8▪ §7Железные ботинки §8x1'
+EW_SHOP_DIAMOND_ARMOR: 'Алмазная броня'
+EW_SHOP_DIAMOND_ARMOR_LORE:
+- ' §8▪ §7Алмазные поножи §8x1'
+- ' §8▪ §7Алмазные ботинки §8x1'
+
 HNS_MASK_STONE: 'Камень'
 HNS_MASK_STONE_LORE: []
 HNS_MASK_GRASS: 'Блок травы'
@@ -9971,6 +9984,7 @@ PACKED_ICE: 'Плотный лед'
 SAND: 'Песок'
 CLAY: 'Глина'
 OBSIDIAN: 'Обсидиан'
+WOOD: 'Доски'
 NETHERRACK: 'Адский камень'
 SOUL_SAND: 'Песок душ'
 GLOWSTONE: 'Светокамень'

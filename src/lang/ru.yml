@@ -9455,6 +9455,12 @@ EW_SHOP_DIAMOND_AXE_LORE:
 EW_SHOP_STICK: 'Дубинка'
 EW_SHOP_STICK_LORE:
 - ' §8▪ §7Палка §8(Отдача II) x1'
+EW_SHOP_BOW_LVL_2: 'Лук II'
+EW_SHOP_BOW_LVL_2_LORE:
+- ' §8▪ §7Лук §8(Сила I) x1'
+EW_SHOP_BOW_LVL_3: 'Лук III'
+EW_SHOP_BOW_LVL_3_LORE:
+- ' §8▪ §7Лук §8(Сила I, Отдача I) x1'
 
 HNS_MASK_STONE: 'Камень'
 HNS_MASK_STONE_LORE: []
@@ -10098,6 +10104,7 @@ PORK: 'Свинина'
 BAKED_POTATO: 'Печеный картофель'
 RAW_BEEF: 'Сырое мясо'
 WOOD_SWORD: 'Деревянный меч'
+STONE_SWORD: 'Каменный меч'
 STONE_PICKAXE: 'Каменная кирка'
 GOLD_HELMET: 'Золотой шлем'
 STONE_AXE: 'Каменный топор'

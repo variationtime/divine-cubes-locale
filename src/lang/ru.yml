@@ -10181,9 +10181,9 @@ ANARCHY_HOLOGRAM_REGIONS:
 - '§fне заходят длительное время, будут'
 - '§cудалены! §7(Только сам приват)'
 ANARCHY_HOLOGRAM_AIRDROP:
-- '§fДо падения §7ящика с ресурсами'
-- '§fосталось:'
-ANARCHY_HOLOGRAM_AIRDROP_WAIT: '§cВычисляем...'
+- '§7Ящик с ресурсами §fпадает каждый час'
+- '§fДо падения осталось:'
+ANARCHY_HOLOGRAM_AIRDROP_WAIT: '§cВычесляем...'
 ANARCHY_HOLOGRAM_REGIONS_ANIMATION: '§fНа сервере §a%s§f активных регионов'
 
 ANARCHY_NO_MONEY: '§6Anarchy §8| §fУ вас недостаточно §aмонет§f для покупки'

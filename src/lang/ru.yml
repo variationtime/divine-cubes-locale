@@ -9443,6 +9443,8 @@ BW_SHOP_BOW_LVL_3: 'Лук III'
 BW_SHOP_BOW_LVL_3_LORE:
 - ' §8▪ §7Лук §8(Бесконечность I, Сила II, Откидывание I)'
 
+EW_GENERATOR_NAME: 'Генератор'
+EW_GENERATOR_CLICK: '§fНажмите, чтобы открыть!'
 EW_SHOP_CHAINMAIL_ARMOR: 'Кольчужная броня'
 EW_SHOP_CHAINMAIL_ARMOR_LORE:
 - ' §8▪ §7Кольчужные поножи §8x1'

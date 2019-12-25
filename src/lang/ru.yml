@@ -773,7 +773,6 @@ GUI_HELP_ITEM_1_LORE:
 - '§e/hub §7или §e/lobby §7- Вернуться в лобби'
 - '§e/online §7- Общий онлайн сервера'
 - '§e/find <Ник> §7- Найти игрока'
-- '§e/staff §7- Персонал сервера в режиме онлайн'
 GUI_HELP_ITEM_2_NAME: '§bПривилегии'
 GUI_HELP_ITEM_2_LORE:
 - '§7Список привилегий:'
@@ -9444,7 +9443,6 @@ BW_SHOP_BOW_LVL_3_LORE:
 - ' §8▪ §7Лук §8(Бесконечность I, Сила II, Откидывание I)'
 
 EW_GENERATOR_NAME: 'Генератор'
-EW_GENERATOR_CLICK: '§fНажмите, чтобы открыть!'
 EW_GENERATOR_BREAK: 'Сломан!'
 EW_GENERATOR_TO_SPAWN: '§fСпавн через §c%s §f%s'
 EW_GENERATOR_SPAWNED: '§fЗаспавнено!'

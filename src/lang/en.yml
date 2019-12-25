@@ -451,7 +451,6 @@ GUI_HELP_ITEM_1_LORE:
 - '§e/hub §7or §e/lobby §7- Return to main lobby'
 - '§e/online §7- Online from all servers'
 - '§e/find <Nickname> §7- Find a player'
-- '§e/staff §7- Server staff online'
 GUI_HELP_ITEM_2_NAME: '§bPrivileges'
 GUI_HELP_ITEM_2_LORE:
 - '§7List of paid statuses:'

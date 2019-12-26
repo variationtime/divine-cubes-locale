@@ -9445,7 +9445,15 @@ BW_SHOP_BOW_LVL_3: 'Лук III'
 BW_SHOP_BOW_LVL_3_LORE:
 - ' §8▪ §7Лук §8(Бесконечность I, Сила II, Откидывание I)'
 
+EW_GENERATOR_INFO_LORE:
+- ''
+- '§7Интервал спавна ресурсов:'
+- '§e%s'
+EW_GENERATOR_INFO_BREAKED_LORE:
+- '§7Генератор сломан, улучшите его,'
+- '§7чтобы получать ресурсы'
 EW_GENERATOR_NAME: 'Генератор'
+EW_GENERATOR_LEVEL: 'Уровень'
 EW_GENERATOR_BREAK: 'Сломан!'
 EW_GENERATOR_TO_SPAWN: '§fСпавн через §c%s §f%s'
 EW_GENERATOR_SPAWNED: '§fЗаспавнено!'

@@ -9445,6 +9445,20 @@ BW_SHOP_BOW_LVL_3: 'Лук III'
 BW_SHOP_BOW_LVL_3_LORE:
 - ' §8▪ §7Лук §8(Бесконечность I, Сила II, Откидывание I)'
 
+EW_GENERATOR_UPGRADE_NAME: 'Улучшить до уровня %s ↑'
+EW_GENERATOR_UPGRADE_MAX_NAME: 'Максимальный уровень'
+EW_GENERATOR_UPGRADE_MAX_LORE:
+- ''
+- '§7Генератор %s имеет'
+- '§7максимальный уровень прокачки'
+EW_GENERATOR_UPGRADE_LORE:
+- '§7Нажмите, чтобы улучшить'
+- '§7генератор %s до§c %s уровня'
+- ''
+- '§7Интервал спавна ресурсов'
+- '§7будет: §e%s'
+- ''
+- '§7Стоимость: %s'
 EW_GENERATOR_INFO_LORE:
 - ''
 - '§7Интервал спавна ресурсов:'

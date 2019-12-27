@@ -4268,11 +4268,16 @@ CATEGORY_SOUND_LORE:
 - '§7звук, который услышат'
 - '§7все игроки сервера, если вы'
 - '§7сломаете вражескую кровать'
-CATEGORY_SKIN_NAME: 'Скины'
+CATEGORY_SKIN_NAME: 'Скины магазина'
 CATEGORY_SKIN_LORE:
 - ' '
 - '§7Позволяет заменить дефолтный скин'
 - '§7магазина (NPC)'
+CATEGORY_SKIN_UPGRADE_NAME: 'Скины магазина улучшений'
+CATEGORY_SKIN_UPGRADE_LORE:
+- ' '
+- '§7Позволяет заменить дефолтный скин'
+- '§7магазина с улучшениями (NPC)'
 CATEGORY_PERK_NAME: 'Умения'
 CATEGORY_PERK_LORE:
 - ' '

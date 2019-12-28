@@ -9474,7 +9474,6 @@ EW_UPGRADE_EMERALD_ARMY_MAX_LORE:
 - '§7за каждое убийство любого игрока'
 - ''
 - '§eМаксимальный уровень'
-- ''
 EW_UPGRADE_ARMOR: 'Апгрейд!'
 EW_UPGRADE_ARMOR_LORE:
 - ''
@@ -9491,7 +9490,6 @@ EW_UPGRADE_ARMOR_MAX_LORE:
 - '§7улучшена до железной'
 - ''
 - '§eМаксимальный уровень'
-- ''
 EW_UPGRADE_SHARPEN_SWORD: 'Заострить мечи'
 EW_UPGRADE_SHARPEN_SWORD_LORE:
 - ''
@@ -9539,7 +9537,6 @@ EW_UPGRADE_HEALTH_AURA_MAX_LORE:
 - '§7от вашего яйца'
 - ''
 - '§eУлучшено!'
-- ''
 EW_UPGRADE_SLOWDOWN: 'Замедление'
 EW_UPGRADE_SLOWDOWN_LORE:
 - ''
@@ -9559,7 +9556,6 @@ EW_UPGRADE_SLOWDOWN_MAX_LORE:
 - '§7противников'
 - ''
 - '§eУлучшено!'
-- ''
 EW_UPGRADE_MAX_HEALTH: 'Максимальное здоровье'
 EW_UPGRADE_MAX_HEALTH_LORE:
 - ''
@@ -9577,7 +9573,23 @@ EW_UPGRADE_MAX_HEALTH_MAX_LORE:
 - '§7команде на 2 сердца'
 - ''
 - '§eУлучшено!'
+EW_UPGRADE_FAST_DIGGING: 'Ускорение'
+EW_UPGRADE_FAST_DIGGING_LORE:
 - ''
+- '§7После смерти выдается'
+- '§7скорость копания I'
+- '§7длительностью в 1 минуту'
+- ''
+- '§7Стоимость: §b%s %s'
+- ''
+- '§e▸ Нажмите ЛКМ, чтобы купить'
+EW_UPGRADE_FAST_DIGGING_MAX_LORE:
+- ''
+- '§7После смерти выдается'
+- '§7скорость копания I'
+- '§7длительностью в 1 минуту'
+- ''
+- '§eУлучшено!'
 EW_GAME_STARTED_SUBTITLE: '§7Защитите свои яйца!'
 EW_EGG_BREAK_TITLE: '§cВаше яйцо уничтожено'
 EW_BREAK_YOUR_EGG: '§cВы не можете сломать яйцо вашей команды!'

@@ -9483,6 +9483,15 @@ EW_UPGRADE_SHARPEN_SWORD_LORE:
 - ''
 - '§7Стоимость: §b%s %s'
 - ''
+EW_UPGRADE_TOOL_DIG: 'Наточить кирки'
+EW_UPGRADE_TOOL_DIG_LORE:
+  - ''
+  - '§7Все кирки в инвентарях'
+  - '§7ваших союзников получат'
+  - '§7эффективность I (Максимум Эффективность III)'
+  - ''
+  - '§7Стоимость: §f%s %s'
+  - ''
 EW_UPGRADE_ARMOR_PROTECT: 'На изготовку!'
 EW_UPGRADE_ARMOR_PROTECT_LORE:
 - ''

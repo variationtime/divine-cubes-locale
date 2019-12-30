@@ -9329,6 +9329,12 @@ DAMAGE_POTION: 'Туманное зелье урона'
 SHIELD: 'Щит'
 PAPER: 'Бумага'
 
+PERK_EW_RETURN: 'Возвратка'
+PERK_EW_RETURN_LORE:
+- ''
+- '§7С вероятостью 20%,'
+- '§7вам вернуться все ресурсв,'
+- '§7которые вы потратите в магазине'
 PERK_EW_RANDOM_ARMOR: 'Рандомная броня'
 PERK_EW_RANDOM_ARMOR_LORE:
 - ''

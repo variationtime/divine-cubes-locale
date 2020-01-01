@@ -9329,8 +9329,8 @@ DAMAGE_POTION: 'Туманное зелье урона'
 SHIELD: 'Щит'
 PAPER: 'Бумага'
 
-PERK_EW_EW_GREEDY: 'Жадина'
-PERK_EW_EW_GREEDY_LORE:
+PERK_EW_GREEDY: 'Жадина'
+PERK_EW_GREEDY_LORE:
 - ''
 - '§7С вас никогда не выпадают предметы'
 - '§7после вашей смерти'

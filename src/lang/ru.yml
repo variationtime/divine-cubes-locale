@@ -6144,6 +6144,7 @@ LIMBO_ITEM_NAME: 'Назад в главное лобби'
 LIMBO_ITEM_LORE:
 - '§7Используйте этот предмет,'
 - '§7чтобы вернуться в главное лобби'
+GADGET_BUY_CONFIRM_GUI: 'Купить гаджет ?'
 GADGET_HAT_ON_PLAYER: 'Шляпа'
 GADGET_BANNER_ON_PLAYER: 'Баннер'
 GADGET_EMOTE_ON_PLAYER: 'Эмоция'

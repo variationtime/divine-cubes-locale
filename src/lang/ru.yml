@@ -453,8 +453,6 @@ ENCHANT_TITLE: 'Чары'
 
 COMPASS_MESSAGE: '§fИгрок: %s      §fРасстояние: '
 COMPASS_MESSAGE_SPECTATOR: '§fБлижайший игрок: %s      §fРасстояние: §a%s'
-COMPASS_MESSAGE_ERROR1: '§cДругой мир'
-COMPASS_MESSAGE_ERROR2: '§cНет живых игроков'
 COMPASS_MODE_NEAREST_PLAYER: 'поиск ближайшего игрока'
 COMPASS_MODE_TEAMMATE: 'поиск ближайшего тиммейта'
 COMPASS_MODE_CHANGED: 'Режим локатора изменен на §e%s'

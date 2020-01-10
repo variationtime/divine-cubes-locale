@@ -223,8 +223,6 @@ ENCHANT_TITLE: 'Чари'
 
 COMPASS_MESSAGE: '§fГравець: %s §fВідстань: '
 COMPASS_MESSAGE_SPECTATOR: '§fНайближчий гравець: %s §fВідстань: §a%s'
-COMPASS_MESSAGE_ERROR1: '§cІнший світ'
-COMPASS_MESSAGE_ERROR2: '§cНемає живих гравців'
 
 RESPAWN_TITLE: '§aВи відродилися'
 RESPAWN_SUBTITLE: '§7Ви відродитесь через §c%s §7%s'

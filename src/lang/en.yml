@@ -224,8 +224,6 @@ ENCHANT_TITLE: 'Enchant'
 
 COMPASS_MESSAGE: '§fPlayer: %s      §fDistance: '
 COMPASS_MESSAGE_SPECTATOR: '§fNearest player: %s      §fDistance: §a%s'
-COMPASS_MESSAGE_ERROR1: '§cAnother world'
-COMPASS_MESSAGE_ERROR2: '§cThere are no players alive'
 
 RESPAWN_TITLE: '§aRespawn'
 RESPAWN_SUBTITLE: '§7You will respawn in §c%s §7%s'

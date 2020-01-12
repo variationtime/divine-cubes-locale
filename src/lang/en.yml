@@ -4989,10 +4989,7 @@ CHESTS_LOOTED_STAT: 'Chests looted'
 PARKOURRACERS_CLASSIC_TYPE: '§eClassic mode'
 PARKOURRACERS_SOLO_TYPE: '§eSolo mode'
 PARKOURRACERS_DUO_TYPE: '§eDouble mode'
-SKYWARS_SOLO_NORMAL_TYPE: '§eSolo Normal mode'
-SKYWARS_DUO_NORMAL_TYPE: '§eDouble Normal mode'
-SKYWARS_SOLO_INSANE_TYPE: '§eSolo Insane mode'
-SKYWARS_DUO_INSANE_TYPE: '§eDouble Insande mode'
+SKYWARS_SOLO_TYPE: '§eSolo mode'
 SKYWARS_DUO_TYPE: '§eDuo mode'
 LUCKYWARS_SOLO_TYPE: '§eSolo mode'
 LUCKYWARS_DUO_TYPE: '§eDouble mode'
@@ -5008,28 +5005,13 @@ YOU_DEAD: '§cYou died'
 YOU_DEAD_SPECTATOR: '§7You are spectator now'
 SW_BOARD_NEXT_EVENT: 'Next event:'
 
-SWSN_GAME_DESC: 
-- 'Your objective is play using items in chests, PvP skills,' 
-- 'kits and perks, also using non-standard game style'
-- 'and become last survived player.'
-- 'The cunniest wins!'
-SWDN_GAME_DESC: 
-- 'Your (as well as your teammate) objective is play using' 
-- 'items in chests, PvP skills, kits and perks, also using '
-- 'non-standard game style and become last survived team.'
-
-SWTN_GAME_DESC: 
-- 'Your (as well as your teammate) objective is play using' 
-- 'items in chests, PvP skills, kits and perks, also using '
-- 'non-standard game style and become last survived team.'
-
-SWSI_GAME_DESC: 
+SWS_GAME_DESC:
 - 'Your objective is play using items in chests, PvP skills,' 
 - 'kits and perks, also using non-standard game style'
 - 'and become last survived player.'
 - 'Maybe Random Events can help you?'
 
-SWDI_GAME_DESC: 
+SWD_GAME_DESC:
 - 'Your (as well as your teammate) objective is play using' 
 - 'items in chests, PvP skills, kits and perks, also using '
 - 'non-standard game style and become last survived team.'

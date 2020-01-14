@@ -113,11 +113,6 @@ PERK_ITEM_LORE:
 - '§7Use this item to'
 - '§7choose one perk for'
 - '§7this game'
-KIT_ITEM_NAME: '§eKits'
-KIT_ITEM_LORE:
-- '§7Use this item to'
-- '§7choose one kit for'
-- '§7this game'
 TEAM_ITEM_NAME: '§eTeam selector'
 TEAM_ITEM_LORE:
 - '§7Use this item'
@@ -131,10 +126,6 @@ HUB_ITEM_NAME: '§eExit'
 HUB_ITEM_LORE:
 - '§7Use this item'
 - '§7to teleport back to main lobby'
-PLAYAGAIN_ITEM_NAME: '§ePlay again'
-PLAYAGAIN_ITEM_LORE:
-- '§7Use this item'
-- '§7to start new game'
 SPECTATOR_SETTINGS_ITEM_NAME: '§eSpectator settings'
 SPECTATOR_SETTINGS_ITEM_LORE:
 - '§7Use this item'

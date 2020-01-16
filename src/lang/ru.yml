@@ -10663,7 +10663,7 @@ ENCHANTED_BOOK_ERROR: '§6Enchanted §8| §fОшибка, вам нужно им
 
 LW_MIDDLE_TIMER: '§eСпавн лаки-блока через'
 
-BEST_PLAYER_NAME: '§eСтать новым "лучшим игроком"!'
+BEST_PLAYER_NAME: '§eИнформация'
 BEST_PLAYER_LORE:
 - '§fДанный игрок заплатил: §e%s §f%s'
 - '§7'

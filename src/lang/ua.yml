@@ -3395,41 +3395,11 @@ SG_BOARD_DEATHMATCH_TIME: '§fДезматч через: §a%s'
 
 SG_DEATHMATCH_COUNTDOWN: '§6Survival Games §8| §fДезматч почнеться через §a%s §f%s'
 
-#Наказания / Punishment system
-BAN_TIME_SECONDS:
-  - 'секунду'
-  - 'секунди'
-  - 'секунд'
-BAN_TIME_MINUTES:
-  - 'хвилину'
-  - 'хвилини'
-  - 'хвилин'
-BAN_TIME_HOURS:
-  - 'година'
-  - 'години'
-  - 'годин'
-BAN_TIME_DAYS:
-  - 'день'
-  - 'дня'
-  - 'днів'
-BAN_TIME_WEEKS:
-  - 'тиждень'
-  - 'тижні'
-  - 'тижнів'
-BAN_TIME_MONTHS:
-  - 'місяць'
-  - 'місяця'
-  - 'місяців'
-BAN_TIME_YEARS:
-  - 'рік'
-  - 'року'
-  - 'років'
-
 YOU_CANT_WRITE_SUCH_WORDS: '§cНе закликайте гравців до флуду. Дана команда не вимикає донат-чат.'
 YOU_CANT_PUNISH_HIM: '§cПомилка, Ви не можете покарати даного гравця'
 TOO_BIG_TIME: '§cПомилка, Ви не можете карати на такий термін'
-DEFAULT_MUTE_TIME_SET: '§cВи ввели некоректний час, встановлено значення за замовчуванням на 30 хвилин'
-DEFAULT_BAN_TIME_SET: '§cВи ввели некоректний час, встановлено значення за замовчуванням на 1 день'
+DEFAULT_MUTE_TIME_SET: '§cВи ввели некоректний час'
+DEFAULT_BAN_TIME_SET: '§cВи ввели некоректний час'
 BAN_FORMAT: '/ban <нік> <час/e> <причина>'
 MUTE_FORMAT: '/mute <нік> <час/e> <причина>'
 UNMUTE_FORMAT: '/unmute <нік>'

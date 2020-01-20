@@ -5116,12 +5116,6 @@ PERK_SW_ARROW_RECOVERY_LORE:
 - '§7When you hit an enemy using arrow,'
 - '§7this arrow will be recovered to'
 - '§7your inventory with 75% chance'
-PERK_SW_ARGILLIC: 'Archilich'
-PERK_SW_ARGILLIC_LORE:
-- ''
-- '§7When you kill an enemy, you recieve'
-- '§7Skeleton Spawn Egg. Any skeletons you summon'
-- '§7wearing iron armor'
 PERK_SW_SMOKE_BOMB: 'Smoke bomb'
 PERK_SW_SMOKE_BOMB_LORE:
 - ''

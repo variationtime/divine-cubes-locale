@@ -5104,12 +5104,6 @@ PERK_SW_ARES_LORE:
 - ''
 - '§7When you kill an enemy, you recieve'
 - '§7Regeneration II for 10 seconds.'
-PERK_SW_SONIC: 'Sonic'
-PERK_SW_SONIC_LORE:
-- ''
-- '§7After start you recieve Speed I forever.'
-- '§7Level of Speed from "Speed Up" event will'
-- '§7be increase for 1 level'
 PERK_SW_ARROW_RECOVERY: 'Sagittarius'
 PERK_SW_ARROW_RECOVERY_LORE:
 - ''

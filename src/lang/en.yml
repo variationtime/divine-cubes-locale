@@ -5057,11 +5057,6 @@ PERK_SW_INSANE_SPARTAN_LORE:
 - ''
 - '§7While you are under Shield you recieve'
 - '§7Fire Resistance and Resistance III'
-PERK_SW_INSANE_ENDERMAN: 'Enderman' 
-PERK_SW_INSANE_ENDERMAN_LORE: 
-- ''
-- '§7For every second kill you recieve'
-- '§7Ender Pearl'
 PERK_SW_INSANE_MONSTER_CATCHER: 'Monster catcher'
 PERK_SW_INSANE_MONSTER_CATCHER_LORE:
 - ''
@@ -5097,12 +5092,6 @@ PERK_SW_INSANE_HARD_SKIN_LORE:
 - '§72 additional hearts, '
 - '§7otherwise - 1 heart'
 
-PERK_SW_SEA_ANIMAL: 'Sea monster'
-PERK_SW_SEA_ANIMAL_LORE:
-- ''
-- '§7While you are in water'
-- '§7you recieving Regeneration II,'
-- '§7Water Breathing and Night Vision'
 PERK_SW_HIDDEN_KILLER: 'Hidden Killer'
 PERK_SW_HIDDEN_KILLER_LORE:
 - ''
@@ -5120,8 +5109,6 @@ PERK_SW_ARES_LORE:
 - ''
 - '§7When you kill an enemy, you recieve'
 - '§7Regeneration II for 10 seconds.'
-- '§7If you die, random weapon'
-- '§7will disappear from you killer inventory'
 PERK_SW_SONIC: 'Sonic'
 PERK_SW_SONIC_LORE:
 - ''

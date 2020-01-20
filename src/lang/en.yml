@@ -5121,12 +5121,6 @@ PERK_SW_ARROW_RECOVERY_LORE:
 - '§7When you hit an enemy using arrow,'
 - '§7this arrow will be recovered to'
 - '§7your inventory with 75% chance'
-PERK_SW_AIR_SUPPORT: 'Support from Air'
-PERK_SW_AIR_SUPPORT_LORE:
-- ''
-- '§7When you gets fall damage, all your enemies'
-- '§7within 5 blocks of you recieve Weakness II'
-- '§7for 3 seconds.'
 PERK_SW_ARGILLIC: 'Archilich'
 PERK_SW_ARGILLIC_LORE:
 - ''
@@ -5139,12 +5133,6 @@ PERK_SW_SMOKE_BOMB_LORE:
 - '§7When you taking damage, you have 20% chance'
 - '§7to get Night Vision for you and Blindless'
 - '§7for your opponent'
-PERK_SW_DARK_TIME: 'Hour of Darkness'
-PERK_SW_DARK_TIME_LORE:
-- ''
-- '§7After your death your opponent recieve Blindless'
-- '§7and Wither II for 10 seconds. In your death place'
-- '§7will appear 2 skeletons in iron armor'
 KIT_SW_POSEIDON: 'Poseidon'
 KIT_SW_HEALER: 'Medic'
 KIT_SW_HEALER_LORE:

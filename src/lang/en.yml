@@ -5036,12 +5036,6 @@ PERK_SW_INSANE_CANNIBAL_LORE:
 - '§7and after kill you recieve Rotten Flesh.'
 - '§7If you killed using melee, you recieve 3x Rotten Flesh.'
 - '§7Rotten Flesh effect is same as Golden Apple'
-PERK_SW_INSANE_INCUBATOR: 'Incubator' 
-PERK_SW_INSANE_INCUBATOR_LORE: 
-- ''
-- '§7When you use Chicken Eggs with 15% chance Creeper'
-- '§7will be hatched from an egg.'
-- '§7Every kill grants 16 Chicken Eggs'
 PERK_SW_INSANE_BOMBER: 'Kamikaze' 
 PERK_SW_INSANE_BOMBER_LORE: 
 - ''
@@ -5077,7 +5071,7 @@ PERK_SW_INSANE_SERVANT_OF_PAIN: 'Servant of Pain'
 PERK_SW_INSANE_SERVANT_OF_PAIN_LORE:
 - ''
 - '§7If someone hits you with arrow, '
-- '§7you recieve this arrow with 50% chance'
+- '§7you recieve this arrow with 75% chance'
 PERK_SW_INSANE_DAMN: 'Cursed'
 PERK_SW_INSANE_DAMN_LORE:
 - ''

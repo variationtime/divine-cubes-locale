@@ -5093,12 +5093,6 @@ PERK_SW_HIDDEN_KILLER_LORE:
 - '§7If you hit someone in the back,'
 - '§7it will recieve 2 damage more. Hits'
 - '§7from the sides deals 1 damage more'
-PERK_SW_NORMAL_SWARM_MASTER: 'Swarm Master'
-PERK_SW_NORMAL_SWARM_MASTER_LORE:
-- ''
-- '§7You recieve mob spawn egg when you kill it.'
-- '§7When you hitting your enemy, all mobs'
-- '§7summoned by you stats attack him (of they can)'
 PERK_SW_ARES: 'Ares'
 PERK_SW_ARES_LORE:
 - ''

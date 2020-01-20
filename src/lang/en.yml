@@ -5079,11 +5079,6 @@ PERK_SW_INSANE_GIFTED_LORE:
 - ''
 - '§7Every kill grants Golden Apple'
 - '§7effects to you'
-PERK_SW_INSANE_CONSPIRED: 'Conspired'
-PERK_SW_INSANE_CONSPIRED_LORE:
-- ''
-- '§7If you have at least on Golden item weared,'
-- '§7you recieve Regeneration II and Resistane I'
 PERK_SW_INSANE_HARD_SKIN: 'Hard skinned'
 PERK_SW_INSANE_HARD_SKIN_LORE:
 - ''

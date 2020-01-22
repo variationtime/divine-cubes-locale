@@ -5008,15 +5008,6 @@ KIT_SW_INSANE_SPIDER_LORE:
 - ' §8• §7Iron Boots'
 - ' §8• §7Cobweb §8(x32)'
 KIT_SW_INSANE_ARMADILLO: 'Armadillo'
-KIT_SW_INSANE_ARMADILLO_LORE:
-- ''
-- '§7Contains:'
-- ' §8• §7Iron Chestplate'
-- ' §8• §7Iron Leggings'
-- ' §8• §7Iron Boots'
-- ' §8• §7Shield §8(Unbreaking X)'
-- ' §8• §7Splash Potion of Regeneration §8(x2)'
-- ' §8• §7Golden Apple §8(x2)'
 KIT_SW_INSANE_RUNNER: 'Runner'
 KIT_SW_INSANE_RUNNER_LORE:
 - ''
@@ -5057,11 +5048,6 @@ PERK_SW_INSANE_SPARTAN_LORE:
 - ''
 - '§7While you are under Shield you recieve'
 - '§7Fire Resistance and Resistance III'
-PERK_SW_INSANE_MONSTER_CATCHER: 'Monster catcher'
-PERK_SW_INSANE_MONSTER_CATCHER_LORE:
-- ''
-- '§7If you hit a mob using chicken egg,'
-- '§7you recieve Spawn Egg of that mob'
 PERK_SW_INSANE_SERVANT_OF_PAIN: 'Servant of Pain'
 PERK_SW_INSANE_SERVANT_OF_PAIN_LORE:
 - ''

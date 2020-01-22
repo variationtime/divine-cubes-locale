@@ -5020,13 +5020,6 @@ KIT_SW_INSANE_BASEBALL_PLAYER: 'Baseball Player'
 KIT_SW_INSANE_IMMORTAL: 'Immortal'
 KIT_SW_INSANE_BOMBER: 'Bomber'
 
-PERK_SW_INSANE_CANNIBAL: 'Cannibal' 
-PERK_SW_INSANE_CANNIBAL_LORE: 
-- ''
-- '§7Every hit grants Hunger IV to enemy'
-- '§7and after kill you recieve Rotten Flesh.'
-- '§7If you killed using melee, you recieve 3x Rotten Flesh.'
-- '§7Rotten Flesh effect is same as Golden Apple'
 PERK_SW_INSANE_BOMBER: 'Kamikaze' 
 PERK_SW_INSANE_BOMBER_LORE: 
 - ''
@@ -5073,12 +5066,6 @@ PERK_SW_INSANE_HARD_SKIN_LORE:
 - '§72 additional hearts, '
 - '§7otherwise - 1 heart'
 
-PERK_SW_HIDDEN_KILLER: 'Hidden Killer'
-PERK_SW_HIDDEN_KILLER_LORE:
-- ''
-- '§7If you hit someone in the back,'
-- '§7it will recieve 2 damage more. Hits'
-- '§7from the sides deals 1 damage more'
 PERK_SW_ARES: 'Ares'
 PERK_SW_ARES_LORE:
 - ''

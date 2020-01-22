@@ -5020,11 +5020,6 @@ KIT_SW_INSANE_BASEBALL_PLAYER: 'Baseball Player'
 KIT_SW_INSANE_IMMORTAL: 'Immortal'
 KIT_SW_INSANE_BOMBER: 'Bomber'
 
-PERK_SW_INSANE_BOMBER: 'Kamikaze' 
-PERK_SW_INSANE_BOMBER_LORE: 
-- ''
-- '§7TNT that blows up instanlty will be summoned '
-- '§7at your death place'
 PERK_SW_INSANE_UNRUFFLED: 'Unruffled'
 PERK_SW_INSANE_UNRUFFLED_LORE:
 - ''

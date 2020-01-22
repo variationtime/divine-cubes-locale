@@ -4836,8 +4836,8 @@ PERK_SW_INSANE_BERSERK_LORE:
 PERK_SW_INSANE_BOMBER: 'Взрывной парень' 
 PERK_SW_INSANE_BOMBER_LORE: 
 - ''
-- '§7После смерти на месте, где Вы умерли'
-- '§7появляется моментально взрывающийся динамит'
+- '§7На вашем месте смерти появляется 3 TNT, '
+- '§7которые взорвутся через 1 секунду'
 PERK_SW_INSANE_UNRUFFLED: 'Невозмутимый'
 PERK_SW_INSANE_UNRUFFLED_LORE:
 - ''

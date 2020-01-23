@@ -10456,3 +10456,4 @@ TITLE_NOT_ACCESS: '§cДоступен по особым праздникам и
 TITLE_NOT_YOU: '§cДанный титул вам не доступен'
 TITLE_ACTIVE_LORE: '§7Нажмите, чтобы активировать титул'
 TITLE_DEACTIVE_LORE: '§7Нажмите, чтобы деактивировать титул'
+TITLE_BUY_CONFIRM_GUI: 'Купить титул ?'

@@ -10102,6 +10102,8 @@ CHORUS_FRUIT_POPPED: 'Приготовленный плод хоруса'
 RABBIT: 'Крольчатина'
 MUTTON: 'Баранина'
 COOKED_FISH: 'Приготовленная рыба'
+COOKIE: 'Печенье'
+POISONOUS_POTATO: 'Ядовитый картофель'
 
 ISLAND_BOX_SHOP_SELECT_NAME: '§eПокупка на /warp shop'
 ISLAND_BOX_SHOP_SELECT_LORE:

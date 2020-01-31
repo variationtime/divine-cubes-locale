@@ -5234,6 +5234,7 @@ DAMAGE_CAUSE_KILLED_BY_LIGHTNING: '%s§f был убит разъярённым 
 DAMAGE_CAUSE_KILLED: '%s§f решил покинуть наш мир'
 DAMAGE_CAUSE_VOID_TO: '%s§f выпал из мира, пока боролся с %s'
 DAMAGE_CAUSE_VOID: '%s§f выпал из мира'
+DAMAGE_CAUSE_KILLED_BY_ARROW: '%s§f был застрелен'
 DAMAGE_CAUSE_KILLED_BY_ARROW_OF: '%s§f был застрелен игроком %s'
 DAMAGE_CAUSE_KILLED_BY_SPECTRAL_ARROW_OF: '%s§f был застрелен игроком %s'
 DAMAGE_CAUSE_KILLED_BY_TIPPED_ARROW_OF: '%s§f был застрелен игроком %s'

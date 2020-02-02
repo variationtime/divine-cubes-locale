@@ -3357,7 +3357,8 @@ DAMAGE_CAUSE_CONTACT: '%s§f stabbed to death'
 DAMAGE_CAUSE_DROWNING_TO: '%s§f drowned, escaping from %s'
 DAMAGE_CAUSE_DROWNING: '%s§f drowned'
 DAMAGE_CAUSE_KILLED_BY_PLAYER: '%s§f was killed by a player %s'
-DAMAGE_CAUSE_KILLED_BY_ZOMBIE: '%s§f was killed, escaping from zombies'
+DAMAGE_CAUSE_KILLED_BY_ZOMBIE: '%s§f was killed while trying to escape from zombie'
+DAMAGE_CAUSE_KILLED_BY_ZOMBIE_OF: '%s§f was killed while trying to escape from zombie spawned by %s'
 DAMAGE_CAUSE_KILLED: '%s§f died'
 DAMAGE_CAUSE_VOID_TO: '%s§f fell out of the world, while struggling with %s'
 DAMAGE_CAUSE_VOID: '%s§f fell out of the world'
@@ -5958,11 +5959,8 @@ PERK_BW_BLOOD_FEUD_LORE:
 - '§7When your teammate dies from other player'
 - '§7you recieve Speed I for 10 seconds'
 - '§7and Resistance I for 6 seconds'
-GAME_COSMETIC_GUI_START_SOUND_NAME: 'Start sound'
 
 
-DAMAGE_CAUSE_KILLED_BY_ZOMBIE: '%s§f was killed while trying to escape from zombie'
-DAMAGE_CAUSE_KILLED_BY_ZOMBIE_OF: '%s§f was killed while trying to escape from zombie spawned by %s'
 DAMAGE_CAUSE_KILLED_BY_VEX: '%s§f was torn to pieces by vexes'
 DAMAGE_CAUSE_KILLED_BY_VEX_OF: '%s§f was torn to pieces by vexes spawned by %s'
 TOP_MONEY_HOLO:
@@ -5997,31 +5995,15 @@ SKIN_BW_ZOMBIE_LORE:
 WIN_RATE_STATS: 'Winrate'
 STATS_GUI_TITLE_TARGET: 'Statistics of %s'
 
-SPECTATOR_SETTINGS_GUI_NAME: 'Spectator settings'
-SPECTATOR_SETTINGS_SPEED: 'Speed'
-SPECTATOR_SETTINGS_NO_SPEED: 'Without speed'
-SPECTATOR_SETTINGS_FLY_ON: '§aTurn on fly mode'
-SPECTATOR_SETTINGS_FLY_OFF: '§cTurn off fly mode'
-SPECTATOR_SETTINGS_VISION_OFF: '§cTurn on night vision'
-SPECTATOR_SETTINGS_VISION_ON: '§aTurn off night vision'
-SPECTATOR_SETTINGS_HIDE: '§cHide other spectators'
-SPECTATOR_SETTINGS_SHOW: '§aShow other spectators'
 FRIEND_NEW_INVITE: '%s §fsent friend request §7(%s mutal)'
 
 KIT_SW_MAGIC: 'Alchemist'
-KIT_SW_MAGIC_LORE:
-- ''
-- '§7Contains:'
-- ' §8• §7Lingering Potion of Instant Damage II'
-- ' §8• §7Lingering Potion of Instant Health II'
-- ' §8• §7Lingering Potion of Strength II'
-- ' §8• §7Golden Helmet §8(Fire Resistance II)'
 KIT_SW_TELEKINETIC: 'Shadow killer'
 KIT_SW_TELEKINETIC_LORE:
 - ''
 - '§7Contains:'
 - ' §8• §7Diamond Sword §8(Poison Blade III)'
-- ' §8• §7Potion of Invisibility §8(8 minutes)'
+- ' §8• §7Potion of Invisibility §8(3 minutes)'
 KIT_SW_VIKING: 'Viking'
 KIT_SW_VIKING_LORE:
 - ''
@@ -6042,16 +6024,11 @@ PERK_SW_SONIC_LORE:
 - '§7While you are wearing boots,'
 - '§7you get Speed I'
 PERK_SW_DARK_TIME: 'Hour of Darkness'
-PERK_SW_DARK_TIME_LORE:
-- ''
-- '§7When you die, your killer recieve Blindless and'
-- '§7 Wither III for 7 seconds, and at the place you died'
-- '§7will appear 2 skeletons in iron armor'
 PERK_SW_VAMPIRE: 'Vampire'
 PERK_SW_VAMPIRE_LORE:
 - ''
 - '§7For every kill you heal 4 health, also get'
-- '§7Resistance I and Glowing for 5 seconds'
+- '§7Resistance I and Glowing for 10 seconds'
 PERK_SW_ARGILLIC: 'Magic blacksmith'
 PERK_SW_ARGILLIC_LORE:
 - ''
@@ -6066,13 +6043,13 @@ PERK_SW_VIPER: 'Viper'
 PERK_SW_VIPER_LORE:
 - ''
 - '§7Any damage you taken takes back'
-- '§7in Poison for 3 seconds'
+- '§7in Poison for 2 seconds'
 PERK_SW_INSANE_BERSERK: 'Berserk'
 PERK_SW_INSANE_BERSERK_LORE:
 - ''
-- '§7If you was damaged for more than 3 hearts,'
-- '§7you get Strength I for 10 seconds'
-PERK_SW_ENDERMAN: 'Эндермен'
+- '§7If you was damaged for more than 2.5 hearts,'
+- '§7you get Strength II for 5 seconds'
+PERK_SW_ENDERMAN: 'EnderMan'
 PERK_SW_ENDERMAN_LORE:
 - ''
 - '§7In chance of 50% when you use an Ender Pearl,'
@@ -6080,6 +6057,6 @@ PERK_SW_ENDERMAN_LORE:
 PERK_SW_INSANE_CONSPIRED: 'Psycho'
 PERK_SW_INSANE_CONSPIRED_LORE:
 - ''
-- '§7If you do a damage for more than 3 hearts,'
+- '§7If you do a damage for more than 2.5 hearts,'
 - '§7your enemy gets Blindless for 4 seconds and'
 - '§7Nausea for 6 seconds'

@@ -5847,6 +5847,8 @@ PROFILE_MAIN_ITEM_TITLE_LORE:
 - '§cВНИМАНИЕ! Все титулы будут'
 - '§cработать на всех аренах и играх!'
 - ''
+- '§7Открыто: §a%s/%s §6%s'
+- ''
 - '§e▸ Открыть меню титулов'
 DONATE_MENU_JOIN_MESSAGE_NAME: 'Сообщения при входе'
 DONATE_MENU_JOIN_MESSAGE_LORE:

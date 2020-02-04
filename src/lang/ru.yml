@@ -2735,7 +2735,7 @@ KEYS_REWARD_LOCALE: ' §7+ §d%s §f%s'
 DAILY_REWARD_KEY: 'Ежедневные награды'
 WEEKLY_REWARD_KEY: 'Еженедельные награды'
 MONTHLY_REWARD_KEY: 'Ежемесячные награды'
-REWARD_GUI_NAME: 'Награды'
+REWARD_GUI_NAME: 'Вознаграждения'
 REWARD_CLICK_TO_CLAIM:
 - ' '
 - ' §e▸ Нажмите, чтобы получить награду'
@@ -2778,7 +2778,7 @@ REWARD_DONATE_ITEM_LORE:
 - '§7онлайн-магазин и приобрести их'
 - '§7по адресу §dSITE_NAME'
 REWARD_HOLOGRAM:
-- '§bНаграды'
+- '§bВознаграждения'
 - '§7Нажмите, чтобы открыть'
 REWARDS_1:
 - 'бонус'
@@ -9783,9 +9783,9 @@ BEST_PLAYER_LORE:
 BEST_PLAYER_LORE_2:
 - ''
 - '§e▸ Нажмите, чтобы открыть его статистику'
-BEST_PLAYER_GUI: 'Самый лучший игрок'
-BEST_PLAYER_HOLO: '§fСамый лучший игрок сервера:'
-BEST_PLAYER_HOLO2: '§7Нажмите, чтобы сменить!'
+BEST_PLAYER_GUI: 'Любимый игрок жителя'
+BEST_PLAYER_HOLO: '§fЛюбимый игрок жителя:'
+BEST_PLAYER_HOLO2: '§7Нажмите, чтобы сменить его!'
 
 TITLE_TYPE_LORE:
 - ''

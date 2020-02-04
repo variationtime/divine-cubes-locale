@@ -333,7 +333,7 @@ SPECTATOR_SETTINGS_ITEM_LORE:
 - '§7Используйте этот предмет,'
 - '§7чтобы изменить настройки'
 - '§7наблюдателя'
-ITEMS_LOBBY_SELECTOR_NAME: '§aИгровые режимы'
+ITEMS_LOBBY_SELECTOR_NAME: '§aВыбор сервера'
 ITEMS_LOBBY_SELECTOR_LORE:
 - '§7Универсальный прибор'
 - '§7для передвижения по'
@@ -350,11 +350,11 @@ ITEMS_LOBBY_SHOP_NAME: '§eМагазин'
 ITEMS_LOBBY_SHOP_LORE:
 - '§7Покупка наборов и апгрейдов,'
 - '§7а также улучшение уже существующих'
-ITEMS_LOBBY_SELECTORS_NAME: '§eВыбор лобби'
+ITEMS_LOBBY_SELECTORS_NAME: '§dСменить лобби'
 ITEMS_LOBBY_SELECTORS_LORE:
 - '§7Смени лобби и'
 - '§7найди своих друзей'
-ITEMS_LOBBY_PROFILE_NAME: '§eПрофиль игрока'
+ITEMS_LOBBY_PROFILE_NAME: '§eЛичный профиль'
 ITEMS_LOBBY_PROFILE_LORE:
 - '§7Полезная информация'
 
@@ -4815,11 +4815,11 @@ AIRDROP_TOP_HOLO:
 NOT_PIAR: '; §cℹ Рекламировать каналы могут только игроки с привилегией §f[§2YouTube§f]; '
 NOT_DOMAIN_PIAR: '; §cℹ У нас запрещено рекламировать сайты и сторонние ресурсы; '
 HIDER_COOLDOWN: '§cЧасы перегрелись, осталось %s до охлаждения...'
-HIDER_ENABLE_NAME: '§aПоказать игроков'
+HIDER_ENABLE_NAME: '§aВключить игроков'
 HIDER_ENABLE_LORE:
 - '§7Используйте этот предмет,'
 - '§7чтобы показать игроков'
-HIDER_DISABLE_NAME: '§cСкрыть игроков'
+HIDER_DISABLE_NAME: '§cОтключить игроков'
 HIDER_DISABLE_LORE:
 - '§7Используйте этот предмет,'
 - '§7чтобы скрыть игроков'

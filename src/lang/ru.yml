@@ -2444,8 +2444,6 @@ PARTY_SETTING_SET: '§2Party §8| §fЗначение настройки §a%s§
 PARTY_SETTING_CHANGED: '§2Party §8| §a%s §fобновил значение настройки §a%s§f в группе'
 PARTY_ALL_MEMBERS_LEFT: '§cВаша группа была удалена, поскольку все участники покинули её'
 ERROR_CONNECT: '§cОшибка, вы не смогли подключиться к серверу %s. Вы были перенаправлены на %s'
-AUTH_NOTIFICATION_TITLE_CODE: '§fОткрой §9G§co§eo§9g§2l§ce §fAuthenticator'
-CODE_PLEASE: '§2Авторизация §8| §fВведите код из приложения §9G§co§eo§9g§2l§ce §fAuthenticator'
 PARTY_NO_REQUESTS: '§cОшибка, у вас нет приглашений в группы'
 PARTY_REQUESTS_TITLE: '§2Party §8| §fСписок приглашений в группы (§a%s§f):'
 PARTY_REQUEST: '  §c• §fЗапрос от %s§f, §7§nнажмите чтобы принять'

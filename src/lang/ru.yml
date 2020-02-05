@@ -296,13 +296,14 @@ HOLO_SHOP_NPC:
 - '§fПозволяет купить или улучшить'
 - '§fнаборы на данном режиме'
 HOLO_DONATE:
-- '§fНаш сайт:'
-- '§avillagemc.net'
+- '§fПоддержи деревню, купи донат!'
 - '§6§lWHEAT §f- §699 §fРублей'
 - '§e§lGOLD §f- §6240 §fРублей'
 - '§b§lDIAMOND §f- §6490 §fРублей'
 - '§a§lEMERALD §f- §6800 §fРублей'
 - '§%animation%§lSPONGE §f- §61699 §fРублей'
+- '§fНаш онлайн-магазин:'
+- '§a§lVILLAGEMC.NET'
 
 BOOK_RULES_NAME: '§eПравила'
 BOOK_RULES_LORE:

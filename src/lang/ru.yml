@@ -9764,7 +9764,7 @@ BEST_PLAYER_INFO:
 - '§bс вас будет снят статус "любимого игрока"'
 - ''
 BEST_PLAYER_BUY_MESSAGE: '§2MostPlayer §8▏ §fВы перекупили игрока %s §fза §e%s §f%s и стали новым "лучшим игроком"'
-BEST_PLAYER_BUY: '§aПовысить на %s'
+BEST_PLAYER_BUY: '§eПовысить на %s'
 BEST_PLAYER_BUY_LORE:
 - '§7'
 - '§7Нажмите, чтобы отдать'

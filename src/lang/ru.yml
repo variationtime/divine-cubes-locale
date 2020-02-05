@@ -356,7 +356,7 @@ ITEMS_LOBBY_SELECTORS_NAME: '§dСменить лобби'
 ITEMS_LOBBY_SELECTORS_LORE:
 - '§7Смени лобби и'
 - '§7найди своих друзей'
-ITEMS_LOBBY_PROFILE_NAME: '§eЛичный профиль'
+ITEMS_LOBBY_PROFILE_NAME: '§bЛичный профиль'
 ITEMS_LOBBY_PROFILE_LORE:
 - '§7Полезная информация'
 

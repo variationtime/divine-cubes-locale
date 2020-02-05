@@ -4025,6 +4025,7 @@ ISLAND_PROFILE_IGNORE_LIST_LORE:
 - ' '
 - '§e▸ Нажмите, чтобы открыть список'
 ISLAND_IGNORE_ALREADY: '§cОшибка, данный игрок уже в списке!'
+ISLAND_IGNORE_MEMBER: '§cОшибка, данный игрок является участником острова!'
 ISLAND_ADD_IGNORE_PLAYER: '§6SkyBlock §8| %s §fбыл добавлен участником %s§f в список нежелательных игроков острова'
 ISLAND_REMOVE_IGNORE_PLAYER: '§6SkyBlock §8| %s §fбыл удален участником %s§f из списка нежелательных игроков острова'
 ISLAND_MAX_UPGRADE: '§6SkyBlock §8| §cОшибка! У вас уже максимальный уровень данного апгрейда'

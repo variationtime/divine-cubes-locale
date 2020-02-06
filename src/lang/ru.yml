@@ -620,7 +620,7 @@ BOARD_TOTAL_LUCKYBLOCKS: 'Сломано блоков'
 BOARD_TOTAL_MID_LUCKYBLOCKS: 'Сломано мидовых блоков'
 BOARD_GAME_STATS: 'Статистика'
 BOARD_STATS: 'Детальная статистика'
-BOARD_ON_ISLAND: 'Вы на острове'
+BOARD_ON_ISLAND: 'Остров игрока:'
 BOARD_ISLAND_YOU: 'Ваш остров'
 BOARD_ACHIEVEMENT: 'Выполнено достижений'
 BOARD_OWNER: 'Владелец'
@@ -3190,7 +3190,7 @@ ISLAND_CLICK_TO_ENABLE_BEACON:
 ISLAND_CLICK_TO_DISABLE_BEACON:
 - '§e▸ Нажмите, чтобы отключить эффект'
 ISLAND_CLICK_TO_BUY_BEACON_ERROR:
-- '§7Цена: §e%s §7золота'
+- '§7Цена: §a%s §7изумрудов'
 - '§cДанный эффект вам недоступен!'
 - ' '
 - '§e▸ Нажмите ПКМ, чтобы купить данный эффект'

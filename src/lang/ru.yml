@@ -4325,7 +4325,7 @@ PR_MODULE_PASS_SUMMARY: '§fВы получили §a§l%s §fочков за п
 PR_MODULE_PASS_TIME_SUMMARY: '§fВы прошли модуль §a#%s §fза §a%s'
 PR_MODULE_SKIP_MESSAGE: 'Долго проходится §eмодуль§f? Кликните по §aморкови §fдля пропуска §c(награда не зачисляется)'
 
-CHESTS_LOOTED_STAT: 'Облутано сундуков'
+CHESTS_LOOTED_STAT: 'Открыто сундуков'
 PARKOURRACERS_CLASSIC_TYPE: '§eКлассический режим'
 PARKOURRACERS_SOLO_TYPE: '§eОдиночный режим'
 PARKOURRACERS_DUO_TYPE: '§eПарный режим'

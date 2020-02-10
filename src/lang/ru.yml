@@ -171,7 +171,7 @@ CRASH_FORMAT: '/crash <ник игрока>'
 STATS_FORMAT: '/stats <ник игрока>'
 GAMEINFO_FORMAT: '/gameinfo [канал]'
 
-UNKNOWN_SUBCOMMAND: '§cЭтой команды не существует О_о'
+UNKNOWN_SUBCOMMAND: '§cЭтой команды не существует'
 HELP_PAPER_FOR: '§e▸ Подкоманды для %s:'
 FREE: 'Бесплатно'
 NO_RARITY: 'Без редкости'
@@ -221,11 +221,11 @@ ABSENT: 'Отсутствует'
 REMOVED: '§cУдалено'
 
 HOLO_TOP_ALL:
-- '§6§l%s'
+- '§2§l%s'
 - '§fТоп игроков по победам'
 - '§fза §eВСЕ ВРЕМЯ'
 HOLO_TOP_MONTHLY:
-- '§6§l%s'
+- '§2§l%s'
 - '§fТоп игроков по победам'
 - '§fза §e%s'
 HOLO_TOP_UPDATE: '§cДо обновления: §c%s'

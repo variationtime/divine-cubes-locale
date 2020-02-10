@@ -5082,9 +5082,8 @@ LOBBY_SETTINGS_DONATE_CHAT_LORE:
 - '§7через весь сервер'
 LOBBY_SERVER_NOT_FOUND_NAME: '§cНет запущенных серверов'
 LOBBY_SERVER_NOT_FOUND_LORE:
-- '§7В данный момент нет'
-- '§7ни одного сервера, где'
-- '§7идет игра'
+- '§7В данный момент нет ни одного'
+- '§7сервера, где уже идёт игра!'
 LOBBY_SERVER_SPECTATE_LORE:
 - '§7Карта: §b%s'
 - '§7Онлайн: §a%s§7/§c%s'
@@ -5108,8 +5107,7 @@ LOBBY_CHANNEL_GUI_NO_SERVERS:
 - '§cподходящие сервера'
 LOBBY_CHANNEL_BEST_SERVER_NAME: '§eЛучший сервер'
 LOBBY_CHANNEL_BEST_SERVER_LORE:
-- '§7Выбор самого оптимального'
-- '§7сервера для игры'
+- '§7Выбор лучшего сервера для игры'
 - ''
 - '§e§e▸ Нажмите, чтобы найти сервер'
 LOBBY_DISABLED_MESSAGE_TO_CHAT: '§cОшибка, вы не можете писать в чат, т.к. вы его отключили!'

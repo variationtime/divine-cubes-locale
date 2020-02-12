@@ -4576,7 +4576,7 @@ HOLO_CREATIVE_WORLD55:
 - '§7Нажмите, чтобы телепортироваться!'
 HOLO_CREATIVE_WORLD95:
 - '§fМир с участками §a95x95'
-- '§fУчастки от §b§lDiamond §fи выше'
+- '§fУчастки от §b§lDIAMOND §fи выше'
 - '§7Нажмите, чтобы телепортироваться!'
 HOLO_CREATIVE_WORLD200:
 - '§fМир с участками §a200x200'
@@ -9123,7 +9123,7 @@ QUARTZ: 'Кварц'
 PRISMARINE: 'Призмарин'
 SEA_LANTERN: 'Морской фонарь'
 PURPUR_BLOCK: 'Пурпурный блок'
-Magma: 'Магма'
+MAGMA: 'Магма'
 NETHER_WART_BLOCK: 'Блок адского нароста'
 RED_NETHER_BRICK: 'Красный адский камень'
 CONCRETE: 'Конкрит'

@@ -4915,7 +4915,7 @@ GADGETS_GUI_INFO_LORE1: '§7Типы гаджетов:'
 GADGETS_GUI_INFO_LORE2:
 - '§7Открыто гаджетов: §a%s'
 - '§8• %s §6%s'
-GADGETS_NOT_ACTIVATED: '§cНе выбрано'
+GADGETS_NOT_ACTIVATED: '§bНе выбрано'
 GADGETS_GUI_HAT_NAME: 'Шляпы'
 GADGETS_GUI_HAT_LORE:
 - ''

@@ -5506,7 +5506,7 @@ HIDER_DISABLE_LORE:
 #TITLE_JOIN_LOBBY: '§fГолосовой чат сервера!'
 TITLE_JOIN_LOBBY: '§fС днём святого'
 #SUBTITLE_JOIN_LOBBY: '§9Discord §ddiscord.lastcraft.net'
-SUBTITLE_JOIN_LOBBY: '§c❤ §dВалентиа! §c❤'
+SUBTITLE_JOIN_LOBBY: '§c❤ §dВалентина! §c❤'
 ALREADY_ON_SERVER: '§6Сервер §8| §cВы уже находитесь на этом сервере!'
 PROMO_ITEM_NAME: '§aСКИДКИ!'
 PLAY_FORMAT: '/play <игра>'

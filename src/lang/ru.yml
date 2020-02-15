@@ -204,7 +204,7 @@ RULES_COMMAND: '§2Сервер §8▏ §fПолный список правил
 RULES_COMMAND_HOVER: '§fНажмите сюда, чтобы перейти по ссылке'
 
 NO_PERMS: '§cУ вас нет прав'
-NO_PERMS_GROUP: '§cУ вас нет прав, купите %s§c или выше'
+NO_PERMS_GROUP: '§cУ вас нет прав, вы должны быть %s§c или выше'
 NO_PERMS_SHULKER_ONLY: '§cУ вас нет прав, данная функция только для §7§lSPONGE'
 
 ANARCHY_KILL_MOB: '§6+%s %s за убийство моба'

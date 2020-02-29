@@ -9476,4 +9476,9 @@ HELP_COMMAND:
 - '§fГруппа VK: §dvk.com/villagemc'
 - '§fДискорд: §9discord.villagemc.net'
 - ''
-
+ISLAND_TREE_NAME: 'Одно дерево'
+ISLAND_TREE_LORE:
+- ' '
+- '§7Острова нет, только одно дерево?'
+- ' '
+- '§a▸ Нажмите, чтобы выбрать этот остров'

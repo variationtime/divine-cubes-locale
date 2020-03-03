@@ -10261,6 +10261,7 @@ PROTECTION_NO_LEAVE: '§cВы не можете покинуть собстве�
 PROTECTION_REGIONS_ALL_COMMAND_NO_RG: '§6Anarchy §8| §fРегионы не найдены или вы не их владелец'
 PROTECTION_WOOD_CLICK: '§fУстановлена точка #%s: %s %s %s (§a%s§f)'
 PROTECTION_WOOD_CLICK_VERT: '§fРасширено вверх и вниз (§a%s§f)'
+PROTECTION_WOOD_CLICK_EXPAND: '§fРасширено (§a%s§f)'
 PROTECTION_EXPAND_ERROR: '§cОшибка, у вас не отмечены крайние точки'
 PROTECTION_EXPAND_ERROR_PARSE: '§cОшибка, нужно указывать только число!'
 PROTECTION_EXPAND_FORMAT: '//expand <vert/число>'

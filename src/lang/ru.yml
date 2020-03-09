@@ -9569,3 +9569,50 @@ HOLO_SURVIVAL_SHOP_OTHER:
 HOLO_SURVIVAL_AUCTION:
 - '§eАукцион'
 - '§7Нажмите, чтобы открыть'
+
+REGIONS_FLAG_PVP_NAME: 'ПВП'
+REGIONS_FLAG_PVP_LORE:
+- ''
+- '§7Позволяет включить или'
+- '§7отключить ПВП в регионе'
+REGIONS_FLAG_ENTITY_DAMAGE_NAME: 'Урон по мобам'
+REGIONS_FLAG_ENTITY_DAMAGE_LORE:
+- ''
+- '§7Позволяет включить или'
+- '§7отключить урон по мобам в регионе'
+REGIONS_FLAG_ENTITY_EXPLODE_NAME: 'Взрывы'
+REGIONS_FLAG_ENTITY_EXPLODE_LORE:
+- ''
+- '§7Позволяет включить или'
+- '§7отключить взрывы в регионе'
+REGIONS_FLAG_USE_NAME: 'Использование'
+REGIONS_FLAG_USE_LORE:
+- ''
+- '§7Позволяет включить или'
+- '§7отключить использование в регионе'
+- '§7дверей, верстаков и т.д'
+REGIONS_FLAG_DROP_LEAVES_NAME: 'Опадение листвы'
+REGIONS_FLAG_DROP_LEAVES_LORE:
+- ''
+- '§7Позволяет включить или'
+- '§7отключить опадение листвы в регионе'
+REGIONS_FLAG_FIRE_SPREAD_NAME: 'Распространение огня'
+REGIONS_FLAG_FIRE_SPREAD_LORE:
+- ''
+- '§7Позволяет включить или'
+- '§7отключить распространения огня в регионе'
+REGIONS_FLAG_SNOW_FALL_NAME: 'Выпадения снега'
+REGIONS_FLAG_SNOW_FALL_LORE:
+- ''
+- '§7Позволяет включить или'
+- '§7отключить выпадения снега в регионе'
+REGIONS_FLAG_ICE_FORM_NAME: 'Формирование льда'
+REGIONS_FLAG_ICE_FORM_LORE:
+- ''
+- '§7Позволяет включить или'
+- '§7отключить формирование льда в регионе'
+REGIONS_FLAG_ICE_MELTING_NAME: 'Таяние льда'
+REGIONS_FLAG_ICE_MELTING_LORE:
+- ''
+- '§7Позволяет включить или'
+- '§7отключить таяние льда в регионе'

@@ -9550,3 +9550,22 @@ PROTECTION_FLAG_NOT_USED_GUI:
 PROTECTION_FLAG_FORMAT: '/rg flag <название региона>'
 PROTECTION_NAME_TO_LONG: '§cОшибка, имя региона слишком длинное'
 PROTECTION_FLAG_NOT_USED: 'У вас нет прав на использование этого флага. Владелец привата должен быть %s §fили выше'
+
+HOLO_SURVIVAL_SHOP_BLOCKS:
+- '§eСтроительные блоки'
+- '§7Нажмите, чтобы открыть'
+HOLO_SURVIVAL_SHOP_FOOD:
+- '§eЕда'
+- '§7Нажмите, чтобы открыть'
+HOLO_SURVIVAL_SHOP_ORES:
+- '§eРуды'
+- '§7Нажмите, чтобы открыть'
+HOLO_SURVIVAL_SHOP_FARMING:
+- '§eФермерство'
+- '§7Нажмите, чтобы открыть'
+HOLO_SURVIVAL_SHOP_OTHER:
+- '§eРазное'
+- '§7Нажмите, чтобы открыть'
+HOLO_SURVIVAL_AUCTION:
+- '§eАукцион'
+- '§7Нажмите, чтобы открыть'

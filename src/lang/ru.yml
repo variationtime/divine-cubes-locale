@@ -208,7 +208,7 @@ NO_PERMS_GROUP: '§cУ вас нет прав, вы должны быть %s§c 
 NO_PERMS_SHULKER_ONLY: '§cУ вас нет прав, данная функция только для §7§lSPONGE'
 
 ANARCHY_KILL_MOB: '§a+%s %s за убийство моба'
-KILL_MOB: '§a+%s за убийство моба'
+KILL_MOB: '§a+%s §fза убийство моба'
 
 PLAYER_LEFT: '§fИгрок %s§f покинул игру'
 PING: '§2Сервер §8▏ §fВаш пинг §a%s §fms'

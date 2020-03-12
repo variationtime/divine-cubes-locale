@@ -10188,6 +10188,9 @@ AIRDROP_APPLY_KEYS: '§fКлючи %s'
 AIRDROP_APPLY_MONEY: '§fМонеты'
 AIRDROP_APPLY_REGION_EFFECT: '§fЭффект для регионов §a%s'
 
+PROTECTION_FLAG_NOT_USED_GUI:
+- '§cДоступен для %s §cи выше'
+- '§c(должен быть у владельца острова)'
 PROTECTION_BREAK_BY: '§6Anarchy §8| §fПриват §7%s §fбыл уничтожен с помощью §7%s'
 PROTECTION_HELP:
 - '§7/rg list §f- список ваших регионов'
@@ -10256,6 +10259,7 @@ PROTECTION_REMOVEMEMBER_FORMAT: '/rg removemember <ник>'
 PROTECTION_REMOVEMEMBER_2_FORMAT: '/rg removemember <название региона> <ник>'
 PROTECTION_LEAVE_FORMAT: '/rg leave <название региона>'
 PROTECTION_SELECTION_FORMAT: '/rg selection <название региона>'
+PROTECTION_FLAG_FORMAT: '/rg flag <название региона>'
 PROTECTION_REMOVEMEMBERALL_FORMAT: '/rg removememberall <ник>'
 PROTECTION_REGIONS_COMMAND_NO_RG: '§6Anarchy §8| §fРегионы в данной локации не найдены или вы не их владелец/участник'
 PROTECTION_NO_LEAVE: '§cВы не можете покинуть собственный приват'
@@ -10299,6 +10303,7 @@ PROTECTION_PROFILE_DEFAULT_FLAGS_LORE:
 - '§7Настройка флагов для вашего привата'
 - ' '
 - '§e▸ Нажмите, чтобы открыть меню'
+PROTECTION_NAME_TO_LONG: '§cОшибка, имя региона слишком длинное'
 PROTECTION_PROFILE_FLAGS_NAME: 'Кастомные флаги'
 PROTECTION_PROFILE_FLAGS_LORE:
 - ' '
@@ -10334,6 +10339,8 @@ PROTECTION_UPGRADE_SIDE_LORE:
 - '§e▸ Нажмите, чтобы улучшить'
 PROTECTION_MEMBER_SETTINGS_OWNER: '§6Anarchy §8| §cОшибка, вы не можете настраивать права владельца привата!'
 PROTECTION_NOT_OWNER: '§cОшибка, вы не владелец или со-владелец данного привата!'
+PROTECTION_FLAG_NOT_USED: 'У вас нет прав на использование этого флага. Владелец привата должен быть %s §fили выше'
+
 PROTECTION_UPGRADE_NO_MONEY: '§6Anarchy §8| §fОшибка, у вас недостаточно денег для покупки расширения'
 PROTECTION_UPGRADE_SIDE_SUCCES_TO: '§6Anarchy §8| §fПриват §7%s §fрасширен на §a%s §fблоков по координатам §7X §fи §7Z §fигроком %s'
 PROTECTION_UPGRADE_SIDE_SUCCES: '§6Anarchy §8| §fПриват §7%s §fуспешно расширен на §a%s §fблоков по координатам §7X §fи §7Z'

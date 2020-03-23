@@ -10298,7 +10298,7 @@ PROTECTION_PROFILE_DEFAULT_FLAGS_LORE:
 - '§7Настройка флагов для вашего привата'
 - ' '
 - '§e▸ Нажмите, чтобы открыть меню'
-PROTECTION_NAME_TO_LONG: '§cОшибка, имя региона слишком длинное'
+PROTECTION_NAME_NOT_VALID: '§cОшибка, имя региона слишком длинное или содержит недопустимые символы'
 PROTECTION_PROFILE_FLAGS_NAME: 'Кастомные флаги'
 PROTECTION_PROFILE_FLAGS_LORE:
 - ' '

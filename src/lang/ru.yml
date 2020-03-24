@@ -6575,7 +6575,7 @@ GAME_COSMETIC_138_LORE:
 HOLO_SITESHOP:
 - '§eПредметы из онлайн магазина'
 - '§7Нажмите, чтобы открыть'
-CONVERT_FORMAT: '/convert <изумрудыы>'
+CONVERT_FORMAT: '/convert <изумруды>'
 CONVERT_ERROR: '§cОшибка, нужно указывать только положительное целое число!'
 CONVERT: '§2Магазин §8▏ §fВы успешно обменяли §a%s изумрудов§f на §a%s §fмонет'
 BOX_GUI_NAME: 'Открытие кейса'

@@ -723,7 +723,7 @@ LEVEL_REWARD_GADGET: '§8+ %s §7гаджет'
 LEVEL_REWARD_ANTICHEAT: '§8+ §7Иммунитет к некоторым проверкам античита!'
 LEVEL_REWARD_SENDMONEY: '§8+ §7Принимать и отправлять деньги через §f/sendmoney'
 LEVEL_REWARD_VK: '§8+ §7Писать оффлайн игроку у которого привязан §9VK'
-LEVEL_REWARD_CASINO: '§8+ §7Доступ к казино в группе §9VK'
+LEVEL_REWARD_CASINO: ' '
 LEVEL_REWARD_NAME: 'Награда за %s уровень'
 LEVEL_REWARD_LORE1:
 - '§7За достижение §f%s §7уровня вы получите:'

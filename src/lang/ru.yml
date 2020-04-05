@@ -9382,12 +9382,12 @@ PROTECTION_EFFECT_ENABLE_LIMIT_LORE:
 - '§cактивированных эффектов!'
 PROTECTION_EFFECT_ENABLED: '§aвключил'
 PROTECTION_EFFECT_DISABLED: '§cотключил'
-PROTECTION_EFFECT_NOT_OPEN: '§2Anarchy §8▏ §fДанный эффект вам недоступен, купите его!'
-PROTECTION_EFFECT_ENABLE_ERROR: '§2Anarchy §8▏ §fПростите, но вы не можете активировать данный эффект, лимит вашего привата на кол-во эффектов §7%s'
-PROTECTION_BUY_FLAG: '§2Anarchy §8▏ §fИгрок %s §fкупил флаг §a%s §fдо §7%s'
-PROTECTION_BUY_EFFECT: '§2Anarchy §8▏ §fИгрок %s §fкупил эффект §a%s §fдо §7%s'
-PROTECTION_CHANGE_STATE_EFFECT: '§2Anarchy §8▏ §fИгрок %s %s§f эффект §a%s'
-PROTECTION_MEMBER_SET_RANK_ALERT: '§2Anarchy §8▏ §fИгроку %s §fбыли назначены новые права управления приватом'
+PROTECTION_EFFECT_NOT_OPEN: '§2Survival §8▏ §fДанный эффект вам недоступен, купите его!'
+PROTECTION_EFFECT_ENABLE_ERROR: '§2Survival §8▏ §fПростите, но вы не можете активировать данный эффект, лимит вашего привата на кол-во эффектов §7%s'
+PROTECTION_BUY_FLAG: '§2Survival §8▏ §fИгрок %s §fкупил флаг §a%s §fдо §7%s'
+PROTECTION_BUY_EFFECT: '§2Survival §8▏ §fИгрок %s §fкупил эффект §a%s §fдо §7%s'
+PROTECTION_CHANGE_STATE_EFFECT: '§2Survival §8▏ §fИгрок %s %s§f эффект §a%s'
+PROTECTION_MEMBER_SET_RANK_ALERT: '§2Survival §8▏ §fИгроку %s §fбыли назначены новые права управления приватом'
 
 ENCHANTED_BOOK_ERROR: '§2Enchanted §8▏ §fОшибка, вам нужно иметь §a%s §fуровень, чтобы наложить эти чары на предмет'
 

@@ -5,6 +5,8 @@ rules:
   comments-indentation: disable
   trailing-spaces: disable
   line-length: disable
+  colons:
+    level: warning
   empty-lines:
     level: warning
   empty-values:

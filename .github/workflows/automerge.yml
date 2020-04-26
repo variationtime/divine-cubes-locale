@@ -16,6 +16,9 @@ jobs:
     steps:
       - name: automerge
         uses: "pascalgn/automerge-action@135f0bdb927d9807b5446f7ca9ecc2c51de03c4a"
+        with:
+          args: "--trace"
         env:
-          MERGE_LABELS: ""
+          MERGE_RETRIES: 15
+          MERGE_FILTER_AUTHOR: "CatCoderr"
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"

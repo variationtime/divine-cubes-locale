@@ -1,4 +1,4 @@
-LANGUAGE_CHANGE: '§6Сервер §8| §fВаш язык изменен на §c%s'
+LANGUAGE_CHANGE: '§6Сервер §8| §fВаш язык изменен на: §c%s'
 
 TOP_POSITION: '§e%s место'
 LEVEL: 'уровень'
@@ -698,19 +698,7 @@ PROFILE_MAIN_ITEM_LANG_LORE2:
 - '§e▸ Открыть меню языков'
 PROFILE_MAIN_ITEM_SETTINGS_NAME: 'Настройки'
 PROFILE_MAIN_ITEM_SETTINGS_LORE:
-- '§7Персональные настройки:'
-- '§8 ▪ §7Кровь: %s'
-- '§8 ▪ §7Полет: %s'
-- '§8 ▪ §7Скрытие игроков: %s'
-- '§8 ▪ §7Чат: %s'
-- '§8 ▪ §7VK: %s'
-- '§8 ▪ §7Скорборд: %s'
-- '§8 ▪ §7Личные сообщения: %s'
-- '§8 ▪ §7Приглашения в друзья: %s'
-- '§8 ▪ §7Приглашения в party: %s'
-- '§8 ▪ §7Приглашения в гильдии: %s'
-- '§8 ▪ §7Чат донатеров: %s'
-- '§8 ▪ §7Подсветка в лобби: %s'
+- '§7Персональные настройки'
 - ''
 - '§e▸ Открыть меню настроек'
 PROFILE_DONATE_MENU_NAME: 'Донат меню'
@@ -5688,6 +5676,10 @@ ISLAND_ACHIEVEMENT_CHICKEN_LORE:
 - '§8 • §7Куриц §fх2'
 ISLAND_ACHIEVEMENT_PIG_LORE:
 - '§8 • §7Свиней §fх2'
+LOBBY_SETTINGS_AUTO_MESSAGE_ANNOUNCE_NAME: 'Автосообщения'
+LOBBY_SETTINGS_AUTO_MESSAGE_ANNOUNCE_LORE:
+- '§7Позволяет включить или выключить'
+- '§7автосообщения на всем сервере'
 LOBBY_SETTINGS_UNAVAILABLE:
 - ''
 - '§cНедоступно!'

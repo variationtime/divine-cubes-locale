@@ -259,6 +259,10 @@ BOX_EXP: '§eОпыт §f(§a+%s§f)'
 BOX_MONEY: '§aМонеты §f(§6+%s§f)'
 BOX_GOLD: '§aИзумруды §f(§a+%s§f)'
 
+BOX_CLICK_TO_OPEN_LORE:
+  - ''
+  - '§e▸ Нажмите, чтобы открыть кейс'
+
 ITEM_ALREADY_HAVE: '§fУ вас уже есть данный предмет, вы получили §6+%s %s'
 
 ENABLE: 'Включено'

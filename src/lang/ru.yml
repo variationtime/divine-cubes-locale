@@ -257,6 +257,7 @@ BOX_WINNER_OTHER: '%s §fвыиграл %s§f предмет %s'
 BOX_KEYS: '§dКлючи §f(§6+%s§f)'
 BOX_EXP: '§eОпыт §f(§a+%s§f)'
 BOX_MONEY: '§aМонеты §f(§6+%s§f)'
+BOX_GOLD: '§aИзумруды §f(§a+%s§f)'
 
 ITEM_ALREADY_HAVE: '§fУ вас уже есть данный предмет, вы получили §6+%s %s'
 

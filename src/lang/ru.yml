@@ -234,7 +234,7 @@ HOLO_TOP_MONTHLY:
 HOLO_TOP_UPDATE: '§cДо обновления: §c%s'
 HOLO_TOP_UPDATE_NOW: 'Обновлено!'
 
-JOIN_PLAYER_LO_LOBBY: ' §a‣ %s §6зашел на сервер'
+JOIN_PLAYER_LO_LOBBY: ' §a‣ %s §fзашел на сервер'
 
 NO_FOUND_PLAYER: '§cИгрок %s§c не найден или он оффлайн'
 NO_NEVER_PLAYER: '§cОшибка, игрок %s никогда прежде не играл на нашем проекте'

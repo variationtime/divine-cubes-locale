@@ -37,7 +37,7 @@ HOLO_TOP_MONTHLY:
 - '§fТоп гравців за перемогами'
 - '§fза §e%s'
 
-JOIN_PLAYER_LO_LOBBY: ' §a‣ %s §6зайшов на сервер'
+JOIN_PLAYER_LO_LOBBY: ' §a‣ %s §fзайшов на сервер'
 
 NO_FOUND_PLAYER: '§cГравець %s§c не знайдений або він офлайн'
 NO_NEVER_PLAYER: '§cПомилка, гравець %s ніколи раніше не грав на нашому проекті'

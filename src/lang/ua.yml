@@ -37,7 +37,7 @@ HOLO_TOP_MONTHLY:
 - '§fТоп гравців за перемогами'
 - '§fза §e%s'
 
-JOIN_PLAYER_LO_LOBBY: ' §a‣ %s §6зайшов на сервер'
+JOIN_PLAYER_LO_LOBBY: ' §a‣ %s §fзайшов на сервер'
 
 NO_FOUND_PLAYER: '§cГравець %s§c не знайдений або він офлайн'
 NO_NEVER_PLAYER: '§cПомилка, гравець %s ніколи раніше не грав на нашому проекті'
@@ -71,7 +71,7 @@ AFK: '§cНе стій на місці!'
 BALANCE: '§6Баланс §8| §fНа вашому аккаунті §a%s §f%s & §e%s §f%s'
 LIST_CMD: '%s§fНа сервері §a%s §f%s: %s'
 
-MESSAGE_NOT_FOUND: '§cПовідомлення %s не знайдено'
+MESSAGE_NOT_FOUND: '§cПовідомлення %s не знайдено!'
 NOT_BEST_SERVER: '§cНемає підходящої арени'
 REDIRECT_TO_SERVER: '§aТелепортую на сервер %s'
 

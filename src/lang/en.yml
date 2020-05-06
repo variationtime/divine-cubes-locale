@@ -1,7 +1,7 @@
 LANGUAGE_CHANGE: '§6Server §8| §fYour language has been changed to §c%s'
 
 TOP_POSITION: '§e%s place'
-TOP_LOADING: '§eLoading...'
+TOP_LOADING: '§eLoading....'
 
 BREAK_BLOCK_UNDER_TEAM: '§cYou cannot break blocks under your teammates'
 
@@ -38,7 +38,7 @@ HOLO_TOP_MONTHLY:
 - '§fPlayer top (for victories)'
 - '§fFor §e%s'
 
-JOIN_PLAYER_LO_LOBBY: ' §a‣ %s §6has joined to the server'
+JOIN_PLAYER_LO_LOBBY: ' §a‣ %s §fhas joined to the server'
 
 NO_FOUND_PLAYER: '§cPlayer %s§c was not found or they are offline'
 NO_NEVER_PLAYER: '§cError, player %s has never played at server'

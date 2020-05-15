@@ -455,6 +455,7 @@ LOCATOR_ITEM_LORE:
 RESPAWN_TITLE: '§aВы возродились'
 RESPAWN_SUBTITLE: '§7Вы возродитесь через §c%s §7%s'
 DEATH_MSG_TITLE: '§cВы погибли'
+NO_LIMIT_MSG_ACTION_BAR: '%s §fи выше возраждаются быстрее!'
 
 JOIN_SPEC_MSG_TITLE: '§cИгра уже началась'
 JOIN_SPEC_MSG_SUBTITLE: '§7Вы можете только следить за игровым процессом'

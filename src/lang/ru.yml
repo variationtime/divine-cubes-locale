@@ -4051,7 +4051,7 @@ ISLAND_UPGRADE_EXPENSIVE_PLANTS_NAME: 'Тяга к солнцу'
 ISLAND_UPGRADE_EXPENSIVE_PLANTS_LORE:
 -
 - '§7С шансом 25% ваши культуры будут'
-- '§7рости быстрее'
+- '§7расти быстрее'
 - ''
 - '§8Пшеница, Картошка, Морковь, Свекла, Адский нарост'
 ISLAND_UPGRADE_TERRITORY_NAME: 'Улучшение территории'

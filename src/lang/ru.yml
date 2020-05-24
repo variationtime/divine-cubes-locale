@@ -4038,6 +4038,22 @@ ISLAND_UPGRADE_NETHER_NAME: 'Ад'
 ISLAND_UPGRADE_NETHER_LORE:
 -
 - '§7Покупка ада'
+ISLAND_UPGRADE_FUEL_ECONOMY_FURNACE_NAME: 'Топливный барон'
+ISLAND_UPGRADE_FUEL_ECONOMY_FURNACE_LORE:
+-
+- '§7Любое топливо в печи горит в 1.5 раза дольше'
+ISLAND_UPGRADE_EFFICIENCY_FURNACE_NAME: 'Двойная печь'
+ISLAND_UPGRADE_EFFICIENCY_FURNACE_LORE:
+-
+- '§7С шансом 5% печь выдаст в 2 раза'
+- '§7больше ресурсов после плавки'
+ISLAND_UPGRADE_EXPENSIVE_PLANTS_NAME: 'Тяга к солнцу'
+ISLAND_UPGRADE_EXPENSIVE_PLANTS_LORE:
+-
+- '§7С шансом 25% ваши культуры будут'
+- '§7рости быстрее'
+- ''
+- '§8Пшеница, Картошка, Морковь, Свекла, Адский нарост'
 ISLAND_UPGRADE_TERRITORY_NAME: 'Улучшение территории'
 ISLAND_UPGRADE_TERRITORY_LORE:
 - ' '

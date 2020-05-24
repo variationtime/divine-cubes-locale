@@ -3769,7 +3769,7 @@ BWT_GAME_DESC:
 - 'in all teams (not yours, of course)'
 BW_GAME_STARTED_SUBTITLE: '§7Protect your beds!'
 BW_BED_BREAK_TITLE: '§cYour bed was broken!'
-BW_BED_BREAK_SUBTITLE: '§7You will not respawn'
+BW_BED_BREAK_SUBTITLE: '§fYou will not respawn'
 BW_PLAYER_BREAK_BED: '%s§f bed was destroyed by %s'
 BW_PLAYER_EXPLODE_BED: '%s§f bed was blew up by %s'
 BW_TEAM_MAX_GOLEM: '§cYour team was reached a maximum count of golems'

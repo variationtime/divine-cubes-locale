@@ -9744,3 +9744,4 @@ GUI_DONATE_SPONGE_SURVIVAL_LORE:
 - ''
 
 NO_LIMIT_MSG_ACTION_BAR: '%s §fи выше возраждаются быстрее!'
+WHOIS_ONLINE_ACCOUNT: ' §f- Аккаунты с этого адреса: §a%s'

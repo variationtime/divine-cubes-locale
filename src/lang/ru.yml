@@ -5429,11 +5429,13 @@ BANINFO_BAN_MESSAGES:
 - '§cИгрок в бане от %s %s'
 - ' §e• §fПричина: §a%s'
 - ' §e• §fВремя: §a%s'
+- ' §e• §fДата бана: §a%s'
 BANINFO_MUTE_MESSAGES:
 - ' '
 - '§cИгрок в муте от %s %s'
 - ' §e• §fПричина: §a%s'
 - ' §e• §fВремя: §a%s'
+- ' §e• §fДата мута: §a%s'
 DONT_HAVE_BANS_AND_MUTES: '§cНе в бане и не в муте'
 KICK_DISCONNECT: '§cВас выкинули с сервера\n\n§fВыкинул: §7%s\n§fПричина: §7%s'
 STAFF_CONNECTED_IP: '[IP: %s]'

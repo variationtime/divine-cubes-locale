@@ -10544,3 +10544,4 @@ TITLE_BUY_CONFIRM_GUI: 'Купить титул ?'
 RANKED_NOT_IN_GUILD: "§cВы должны состоять в группе из 4х человек из одной гильдии"
 RANKED_MEMBER_NOT_IN_GUILD: "§c%s §fне состоит в Вашей гильдии"
 RANKED_REQUIREMENTS: "§cДля игры в рейтинговый режим нужно 4 игрока из одной гильдии"
+RATING_STAT: "Рейтинг"

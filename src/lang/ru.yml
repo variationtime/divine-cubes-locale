@@ -9751,3 +9751,9 @@ GUI_DONATE_SPONGE_SURVIVAL_LORE:
 - ''
 
 NO_LIMIT_MSG_ACTION_BAR: '%s §fи выше возраждаются быстрее!'
+
+POINTS_1:
+- 'очк'
+- 'о'
+- 'а'
+- 'ов'

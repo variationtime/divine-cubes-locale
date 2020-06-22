@@ -10553,3 +10553,22 @@ TITLE_BUY_CONFIRM_GUI: 'Купить титул ?'
 
 RANKED_REQUIREMENTS: "§cДля игры в рейтинговый режим нужно 4 игрока в группе"
 RATING_STAT: "Рейтинг"
+
+CREEPER: 'Крипер'
+PIG: 'Свинья'
+BLAZE: 'Ифрит'
+SKELETON: 'Скелет'
+ZOMBIE: 'Зомби'
+WITHER_SKELETON: 'Скелет-иссушитель'
+SLIME: 'Слизень'
+MAGMA_CUBE: 'Адский слизень'
+SPIDER: 'Паук'
+PIG_ZOMBIE: 'Свинозомби'
+ZOMBIE_VILLAGER: 'Зомби-житель'
+COW: 'Корова'
+SILVERFISH: 'Чушейница'
+GUARDIAN: 'Страж'
+
+SPAWNER_IS_BROKEN: '§cВы не можете поменять сущность в сломанном спавнере, почините его'
+SPAWNER_IS_ALREADY_SELECT: '§cЭтот спавнер уже спавнит данный тип энтити'
+SPAWNER_CHANGED: '§fТип спавнера изменен на §a%s'

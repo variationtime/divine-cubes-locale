@@ -10555,6 +10555,12 @@ TITLE_BUY_CONFIRM_GUI: 'Купить титул ?'
 RANKED_REQUIREMENTS: "§cДля игры в рейтинговый режим нужно 4 игрока в группе"
 RATING_STAT: "Рейтинг"
 
+POINTS_1:
+- 'очк'
+- 'о'
+- 'а'
+- 'ов'
+
 CREEPER: 'Крипер'
 PIG: 'Свинья'
 BLAZE: 'Ифрит'

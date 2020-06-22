@@ -10570,9 +10570,9 @@ COW: 'Корова'
 SILVERFISH: 'Чушейница'
 GUARDIAN: 'Страж'
 
-SPAWNER_IS_BROKEN: '§cВы не можете поменять сущность в сломанном спавнере, почините его'
-SPAWNER_IS_ALREADY_SELECT: '§cЭтот спавнер уже спавнит данный тип энтити'
-SPAWNER_CHANGED: '§fТип спавнера изменен на §a%s'
+SPAWNER_IS_BROKEN: '%s §cВы не можете поменять сущность в сломанном спавнере, почините его'
+SPAWNER_IS_ALREADY_SELECT: '%s §cЭтот спавнер уже спавнит данный тип энтити'
+SPAWNER_CHANGED: '%s §fТип спавнера изменен на §a%s'
 SPAWNER_FIXED_NAME: 'Починить спавнер'
 SPAWNER_FIXED_LORE:
 - ''
@@ -10580,7 +10580,7 @@ SPAWNER_FIXED_LORE:
 - '§e%s §7%s'
 - ''
 - '§e▸ Нажмите, чтобы починить'
-SPAWNER_FIXED: '§fВы успешно починили спавнер §a%s'
+SPAWNER_FIXED: '%s §fВы успешно починили спавнер §a%s'
 SPAWNER_DROP_NAME: 'Дропнуть спавнер'
 SPAWNER_DROP_LORE:
 - ''
@@ -10590,8 +10590,8 @@ SPAWNER_DROP_LORE:
 - '§e%s §7%s'
 - ''
 - '§e▸ Нажмите, чтобы дропнуть спавнер'
-SPAWNER_DROP_ERROR: '§cВы не можете дропнуть сломанный спавнер, почините его'
-SPAWNER_DROPPED: '§fСпавнер успешно удален и дропнут в ваш инвентарь'
+SPAWNER_DROP_ERROR: '%s §cВы не можете дропнуть сломанный спавнер, почините его'
+SPAWNER_DROPPED: '%s §fСпавнер успешно удален и дропнут в ваш инвентарь'
 SPAWNER_CHANGE_TYPE:
 - ''
 - '§7Сменить тип спавнера на §f%s'

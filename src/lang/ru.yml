@@ -1097,13 +1097,12 @@ GAMEMENU_SG_LORE:
 - '§7сундуках во время игры.'
 - ''
 GAMEMENU_ARCADE_LORE:
-- '§8Аркадные игры'
+- '§8Аркадные мини-игры'
 - ''
-- '§7Сборник мини-игр, таких как:'
+- '§7Сборник игр, таких как:'
 - '§f ▪ BuildBattle'
 - '§f ▪ HideAndSeek'
-- '§f ▪ SpeedBuilders §cВ разработке'
-- '§f ▪ ???'
+- '§f ▪ ParkourRacers'
 - ''
 GAMEMENU_PARKOUR_LORE:
 - '§8Паркур'

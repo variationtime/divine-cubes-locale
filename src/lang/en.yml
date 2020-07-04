@@ -159,7 +159,7 @@ ITEMS_LOBBY_PROFILE_LORE:
 SLOT_BUSY: '§cSorry, but you were teleported to the lobby, your place was taken by §r%s'
 ERROR_TELEPORT: '§cTeleportation error has occured in the lobby'
 ONLY_DONATOR: '§cError, this arena is only for donators'
-ARENA_BUSY: '§cThe arena is full. Not enough slots? Purchase §e§lGOLD§c or higher'
+ARENA_BUSY: '§cThe arena is full. Not enough slots? Purchase §a§lEMERALD§c or higher'
 ARENA_START: '§cThe game has already started'
 ARENA_RESTART: '§cServer is restarting...'
 

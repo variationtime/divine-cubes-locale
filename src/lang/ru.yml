@@ -10572,7 +10572,7 @@ CAVE_SPIDER: 'Пещерный паук'
 PIG_ZOMBIE: 'Свинозомби'
 ZOMBIE_VILLAGER: 'Зомби-житель'
 COW: 'Корова'
-SILVERFISH: 'Чушейница'
+SILVERFISH: 'Чушуйница'
 GUARDIAN: 'Страж'
 
 SPAWNER_IS_BROKEN: '%s §cВы не можете поменять сущность в сломанном спавнере, почините его'

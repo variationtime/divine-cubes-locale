@@ -8234,13 +8234,13 @@ BW_SHOP_DIAMOND_PICKAXE_LORE:
 - ' §8▪ §7Алмазная кирка §8(Эффективность II, Шелковое касание I)'
 BW_SHOP_BOW_LVL_1: 'Лук I'
 BW_SHOP_BOW_LVL_1_LORE:
-- ' §8▪ §7Лук §8(Бесконечность I)'
+- ' §8▪ §7Лук'
 BW_SHOP_BOW_LVL_2: 'Лук II'
 BW_SHOP_BOW_LVL_2_LORE:
-- ' §8▪ §7Лук §8(Бесконечность I, Сила I)'
+- ' §8▪ §7Лук §8(Сила I)'
 BW_SHOP_BOW_LVL_3: 'Лук III'
 BW_SHOP_BOW_LVL_3_LORE:
-- ' §8▪ §7Лук §8(Бесконечность I, Сила II, Откидывание I)'
+- ' §8▪ §7Лук §8(Сила II, Откидывание I)'
 
 EW_UPGRADE_MAX_LEVEL: '§cУ вас максимальный уровень прокачки!'
 EW_UPGRADE_EMERALD_ARMY: 'Изумрудное войско'

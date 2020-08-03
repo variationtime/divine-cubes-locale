@@ -2070,7 +2070,7 @@ PARTY_YOUR_INVITE_DECLINED: '§2Party §8▏ §f%s §fотклонил Ваше 
 NO_SLOTS_FOR_PARTY: '§c§lВНИМАНИЕ! §cНа данном сервере недостаточно места для Вашей группы!'
 PARTY_INVITE_FORMAT: '/party invite <ник>'
 FRIEND_NEW_INVITE_ACCEPT_HOVER: '§fНажмите, чтобы начать дружить!'
-FRIEND_NEW_INVITE_DECLINE_HOVER: '§fНажмите, чтобы послать на***'
+FRIEND_NEW_INVITE_DECLINE_HOVER: '§fНажмите, чтобы отклонить заявку'
 PARTY_NEW_INVITE_ACCEPT_HOVER: '§fНажмите, чтобы принять приглашение'
 PARTY_NEW_INVITE_DECLINE_HOVER: '§fНажмите, чтобы отклонить приглашение'
 PARTY_CANT_INVITE_YOURSELF: '§cОшибка, Вы не можете пригласить в группу самого себя'

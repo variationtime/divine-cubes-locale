@@ -79,8 +79,7 @@ HOLO_TOP_MAIN: '§7Click to view another'
 
 HOLO_INFO_LOBBY:
 - '§fClick on §6NPC§f,'
-- '§fto start the game §7[LMС]§f,'
-- '§for to select §aa map §7[RMС]'
+- '§fto start the game'
 HOLO_ONLINE_UPDATER: '§fThere are §a%s §f%s playing on this mode'
 HOLO_SELECTOR_GAME_CHANNEL: '§7Click to connect'
 HOLO_REPLACER_CHANNEL: '§a%s §f%s is playing now'

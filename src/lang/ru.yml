@@ -10644,3 +10644,4 @@ BREAK_EFFECT_BW_FLAME: 'Огонь'
 BREAK_EFFECT_BW_FLAME_LORE:
 - ''
 - '§7Самый жаркий из эффектов'
+BREAK_EFFECT_SELECTION_MESSAGE: 'Вы выбрали эффект §a%s'

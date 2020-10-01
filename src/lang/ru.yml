@@ -10819,6 +10819,7 @@ COOKED_PORKCHOP: 'Готовое мясо'
 COBWEB: 'Паутина'
 PIGLIN_SPAWN_EGG: 'Яйцо пиглина'
 SOULD_SAND_ITEM_BOX_KIT: 'Набор песка душ'
+DIAMOND_SHOVEL: 'Алмазная лопата'
 
 SBS_GAME_DESC:
 - 'Ваша задача повторить нужную постройку за '

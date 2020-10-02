@@ -10820,6 +10820,7 @@ COBWEB: 'Паутина'
 PIGLIN_SPAWN_EGG: 'Яйцо пиглина'
 SOULD_SAND_ITEM_BOX_KIT: 'Набор песка душ'
 DIAMOND_SHOVEL: 'Алмазная лопата'
+DOLPHIN_SPAWN_EGG: 'Яйцо дельфина'
 
 SBS_GAME_DESC:
 - 'Ваша задача повторить нужную постройку за '

@@ -10831,6 +10831,7 @@ EFFECT_GLOWING: 'Свечение'
 EFFECT_HERO_OF_THE_VILLAGE: 'Герой деревни'
 
 ISLAND_NETHER_MINE_ERROR: '§cВы не можете рыть блоки в адской шахте, пока не приобретете улучшение "АД"'
+ISLAND_MINE_UPDATE_NETHER: '§fАвтошахта обновлена §7/warp minenether'
 
 
 SBS_GAME_DESC:

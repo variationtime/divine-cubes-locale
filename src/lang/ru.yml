@@ -10824,12 +10824,13 @@ SOULD_SAND_ITEM_BOX_KIT: 'Набор песка душ'
 DIAMOND_SHOVEL: 'Алмазная лопата'
 DOLPHIN_SPAWN_EGG: 'Яйцо дельфина'
 
-
 EFFECT_NIGHT_VISION: 'Ночное зрение'
 EFFECT_DOLPHINS_GRACE: 'Дельфинья грация'
 EFFECT_CONDUIT_POWER: 'Морская сила'
 EFFECT_GLOWING: 'Свечение'
 EFFECT_HERO_OF_THE_VILLAGE: 'Герой деревни'
+
+ISLAND_NETHER_MINE_ERROR: '§cВы не можете рыть блоки в адской шахте, пока не приобретете улучшение "АД"'
 
 
 SBS_GAME_DESC:

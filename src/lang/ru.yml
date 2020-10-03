@@ -10823,6 +10823,14 @@ SOULD_SAND_ITEM_BOX_KIT: 'Набор песка душ'
 DIAMOND_SHOVEL: 'Алмазная лопата'
 DOLPHIN_SPAWN_EGG: 'Яйцо дельфина'
 
+
+EFFECT_NIGHT_VISION: 'Ночное зрение'
+DOLPHINS_GRACE: 'Дельфинья грация'
+CONDUIT_POWER: 'Морская сила'
+GLOWING: 'Свечение'
+HERO_OF_THE_VILLAGE: 'Герой деревни'
+
+
 SBS_GAME_DESC:
 - 'Ваша задача повторить нужную постройку за '
 - 'короткий промежуток времени. Игроки с наименьшим'

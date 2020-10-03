@@ -4047,7 +4047,7 @@ ISLAND_UPGRADE_NETHER_NAME: 'Адские мелочи'
 ISLAND_UPGRADE_NETHER_LORE:
 -
 - '§7Открывает доступ в ад'
-- '§7адскую шахту и генератор базальта'
+- '§7и адскую шахту'
 ISLAND_UPGRADE_FUEL_ECONOMY_FURNACE_NAME: 'Топливный барон'
 ISLAND_UPGRADE_FUEL_ECONOMY_FURNACE_LORE:
 -

@@ -4043,10 +4043,11 @@ ISLAND_BUY_UPGRADE_PRICE_LORE:
 - '§7Цена: §ax%s изумрудных блоков'
 - ' '
 - '§e▸ Нажмите, чтобы купить'
-ISLAND_UPGRADE_NETHER_NAME: 'Ад'
+ISLAND_UPGRADE_NETHER_NAME: 'Адские мелочи'
 ISLAND_UPGRADE_NETHER_LORE:
 -
-- '§7Покупка ада'
+- '§7Открывает доступ в ад'
+- '§7адскую шахту и генератор базальта'
 ISLAND_UPGRADE_FUEL_ECONOMY_FURNACE_NAME: 'Топливный барон'
 ISLAND_UPGRADE_FUEL_ECONOMY_FURNACE_LORE:
 -

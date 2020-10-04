@@ -982,7 +982,6 @@ SURVIVAL_MODE: 'Survival'
 CREATIVE_MODE: 'Creative'
 ADVENTURE_MODE: 'Adventure'
 TP_FORMAT: '/tp <nickname>'
-RECIPE_FORMAT: '/recipe <id>'
 SETHOME_FORMAT: '/sethome <name>'
 DELHOME_FORMAT: '/delhome <name>'
 S_FORMAT: '/s <player name>'
@@ -1060,7 +1059,6 @@ WARPS_1:
 - ''
 - 's'
 - 's'
-RECIPE_DISABLED: '§cThis command won`t work on this version!'
 HOVER_MESSAGE_CHAT:
 - '§fClick here, to write to a'
 - '§fplayer %s §fin pm'
@@ -1132,8 +1130,7 @@ TPPOS_ERROR: '§cArguments are incorrect, must be numbers'
 CALL_YOU: '§cError, you cannot sent request to myself'
 CALL_ERROR: '§cError, you already sent request to this player'
 TPTOGGLE: '§cPlayer %s §cdisabled all teleport requests'
-ITEMDB: 'Item §a%s §f- §e%s'
-ITEMDB_ERROR: '§cError, id incorrect!'
+ITEMDB: 'Item §a%s'
 CALL: '§fTeleport request has been sent to player %s'
 TELEPORT_TO: 'Player %s §fwas teleported to player %s'
 TELEPORT: 'You were teleported to the player %s'
@@ -1316,8 +1313,6 @@ DAY: day
 NIGHT: night
 MORNING: morning
 INVALID_ITEM_RECIPE: '§cError, recipe not found'
-RECIPE_FURNACE: 'For, to get this item, you need fry in furnace §c%s§f'
-RECIPE_LIST_VIEW: 'Item have %s something recipes. Enter §a/%s %s <number> §ffor watching correct'
 #сурв киты
 REDIRECT_ERROR: '§cCannot find right server('
 TAB_HEADER:

@@ -10827,14 +10827,12 @@ DOLPHIN_SPAWN_EGG: 'Яйцо дельфина'
 EFFECT_NIGHT_VISION: 'Ночное зрение'
 EFFECT_DOLPHINS_GRACE: 'Дельфинья грация'
 EFFECT_CONDUIT_POWER: 'Морская сила'
-EFFECT_GLOWING: 'Свечение'
 EFFECT_HERO_OF_THE_VILLAGE: 'Герой деревни'
 
 ISLAND_NETHER_MINE_ERROR: '§cВы не можете рыть блоки в адской шахте, пока не приобретете улучшение "АД"'
 ISLAND_MINE_UPDATE_NETHER: '§fАвтошахта обновлена §7/warp minenether'
 
 ISLAND_BASALT_GENERATOR_UPGRADE: 'Улучшение генератора базальта'
-ISLAND_BASALT_GENERATOR_UPGRADE_MAX: 'Максимальный уровень улучшения'
 ISLAND_DEFAULT_BASALT_GENERATOR_LORE: '§8 • §7100% базальт'
 ISLAND_BUY_BASALT_GENERATOR: '§6SkyBlock §8| §fИгрок %s §fулучшил базальтовый генератор для вашего острова до §a%s §fуровня'
 ISLAND_BASALT_FIRST_GENERATOR_LORE:

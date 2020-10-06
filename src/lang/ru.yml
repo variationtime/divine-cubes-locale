@@ -3621,7 +3621,7 @@ ISLAND_FLAG_TRANSPORT_LORE:
 - '§7Разрешить/запретить использовать как транспорт вагонетки,'
 - '§7лодки, свиней и лошадей'
 ISLAND_FLAG_VILLAGERS_NAME: 'Торговля'
-ISLAND_FLAG_TRANSPORT_LORE:
+ISLAND_FLAG_VILLAGERS_LORE:
 - ''
 - '§7Разрешить/запретить торговаться с жителями'
 ISLAND_FLAG_USE_NAME: 'Использование'

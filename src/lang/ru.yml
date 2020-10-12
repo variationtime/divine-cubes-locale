@@ -10884,3 +10884,33 @@ SBS_GAME_DESC:
 - 'процентом точности постройки будут уничтожены ведущим.'
 - 'Последний оставшиеся в живых побеждает!'
 
+ISLAND_PROFILE_BIOME_NETHER_NAME: 'Выбор адского биома'
+ISLAND_PROFILE_BIOME_NETHER_LORE:
+- ' '
+- '§7Установка и покупка новых адских биомов'
+- ' '
+- '§cВНИМАНИЕ! Покупать и менять биомы'
+- '§cострова может только владелец или со-владелец'
+- ' '
+- '§e▸ Нажмите, чтобы открыть настройки биома'
+
+ISLAND_BIOME_NETHER_WASTES_NAME: 'Незерские пустоши'
+ISLAND_BIOME_NETHER_WASTES_LORE:
+- ' '
+
+ISLAND_BIOME_BASALT_DELTAS_NAME: 'Базальтовые дельты'
+ISLAND_BIOME_BASALT_DELTAS_LORE:
+- ' '
+
+ISLAND_BIOME_SOUL_SAND_VALLEY_NAME: 'Долина песка душ'
+ISLAND_BIOME_SOUL_SAND_VALLEY_LORE:
+- ' '
+
+ISLAND_BIOME_WARPED_FOREST_NAME: 'Искаженный лес'
+ISLAND_BIOME_WARPED_FOREST_LORE:
+- ' '
+
+ISLAND_BIOME_CRIMSON_FOREST_NAME: 'Багровый лес'
+ISLAND_BIOME_CRIMSON_FOREST_LORE:
+- ' '
+

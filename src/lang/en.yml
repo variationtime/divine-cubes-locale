@@ -772,6 +772,7 @@ GAMEMENU_ANARCHY_LORE:
 - '§7This mode do not have rules' 
 - '§7Well or almost..'
 - ''
+- '§cРаботают все блоки из 1.16'
 GAMEMENU_SB_LORE:
 - '§8Survival on the sky island'
 - ''
@@ -780,6 +781,7 @@ GAMEMENU_SB_LORE:
 - '§7islands with a minimum'
 - '§7set of starting resources.'
 - ''
+- '§cРаботают все блоки из 1.16'
 GAMEMENU_CREATIVE_LORE:
 - '§8Plot world'
 - ''
@@ -790,6 +792,7 @@ GAMEMENU_CREATIVE_LORE:
 - '§7for construction without regard for'
 - '§7health or hunger.'
 - ''
+- '§cРаботают все блоки из 1.16'
 
 TYPE_SOLO: 'Solo mode'
 TYPE_DOUBLES: 'Doubles mode'

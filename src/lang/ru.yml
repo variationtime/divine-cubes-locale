@@ -5047,7 +5047,7 @@ PR_MODULE_PASS_TIME_SUMMARY: '§fВы прошли модуль §a#%s §fза �
 PR_MODULE_SKIP_MESSAGE: 'Долго проходится §eмодуль§f? Кликните по §aморкови §fдля пропуска §c(награда не зачисляется)'
 
 CHESTS_LOOTED_STAT: 'Облутано сундуков'
-SPEED_BUILDERS_SOLO_TYPE: '§eОдиночный режим'
+SPEED_BUILDERS_SOLO_TYPE: '§eSpeedBuilders'
 PARKOURRACERS_CLASSIC_TYPE: '§eКлассический режим'
 PARKOURRACERS_SOLO_TYPE: '§eОдиночный режим'
 PARKOURRACERS_DUO_TYPE: '§eПарный режим'
@@ -10641,6 +10641,11 @@ SPAWNER_FLAG_LORE:
 - ''
 - '§e▸ Нажмите, чтобы купить'
 SPAWNER_FLAG_ENABLED: '%s §fВы успешно купили флаг %s §fдля своего спавнера'
+SPAWNER_FLAG_INTELLIGENT_NAME: 'Мозги'
+SPAWNER_FLAG_INTELLIGENT_LORE:
+- ''
+- '§7Включает мозги у всех мобов,'
+- '§7которые будут заспавнены из спавнера'
 SPAWNER_FLAG_TOO_MANY_MOBS_NAME: 'Дополнительная сущность'
 SPAWNER_FLAG_TOO_MANY_MOBS_LORE:
 - ''

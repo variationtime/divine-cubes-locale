@@ -10572,6 +10572,7 @@ BEST_PLAYER_PRESENT_LORE:
 BEST_PLAYER_PRESENT_LEVEL_ERROR: '§cОшибка, ваш уровень слишком мал, чтобы отправить подарок'
 BEST_PLAYER_PRESENT_GIVE_WHO: '§6MostPlayer §8| §fВы отправили §e%s §f%s игроку %s'
 BEST_PLAYER_PRESENT_GIVE: '§6MostPlayer §8| §fВы получили §e%s §f%s от игрока %s'
+BEST_PLAYER_BUY_ERROR: '§cВы не можете перепокупать лучшего игрока так часто!'
 BEST_PLAYER_GUI: 'Самый лучший игрок'
 BEST_PLAYER_INFO_NAME: 'Информация'
 BEST_PLAYER_INFO_LORE:

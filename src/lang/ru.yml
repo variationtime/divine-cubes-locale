@@ -3418,19 +3418,19 @@ KEYS_LORE_REWARD_LOCALE: '§8 • §f%s §7(от §d%s§7 до §d%s§7)'
 DAILY_REWARD_KEY: 'Награда за %s день'
 REWARD_GUI_NAME: 'Награды'
 REWARD_CLICK_TO_CLAIM:
-  - ' '
-  - ' §e▸ Нажмите, чтобы получить награду'
+- ' '
+- ' §e▸ Нажмите, чтобы получить награду'
 REWARD_YOU_CAN_CLAIM_IN_TIME:
-  - ' '
-  - '§7Можно будет получить через:'
-  - '§e%s'
+- ' '
+- '§7Можно будет получить через:'
+- '§e%s'
 REWARD_YOU_CAN_CLAIM_IN:
-  - ' '
-  - ' §c▸ Награда уже получена'
+- ' '
+- ' §c▸ Награда уже получена'
 DAILY_REWARD_LORE_KEY:
-  - ' '
-  - '§7Ежедневная награда, которая'
-  - '§7включает в себя:'
+- ' '
+- '§7Ежедневная награда, которая'
+- '§7включает в себя:'
 REWARD_DONATE_ITEM: '§eОнлайн-покупка'
 REWARD_DONATE_ITEM_LORE:
 - ' '
@@ -10526,6 +10526,7 @@ BEST_PLAYER_INFO:
 - '§cвы потеряете этот статус.'
 - ''
 BEST_PLAYER_BUY_MESSAGE: '§6MostPlayer §8| §fВы перекупили игрока %s §fза §e%s §f%s и стали новым "лучшим игроком"'
+BEST_PLAYER_BUY_MESSAGE_ERROR: '§cОшибка, вы не можете перекупить сами себя'
 BEST_PLAYER_BUY_YOU_MESSAGE: '§6MostPlayer §8| §fВы были перекуплены игроком %s§f и потеряли статус "лучшего игрока"'
 BEST_PLAYER_BUY: '§aПовысить на %s'
 BEST_PLAYER_BUY_LORE:

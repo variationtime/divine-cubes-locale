@@ -2222,7 +2222,7 @@ MESSAGE_CHAT_HOVER:
 REPLY_PLAYER_OFFLINE: '§cВам никто не писал'
 STAFFCHAT_FORMAT: '/staffchat <сообщение>'
 DONATECHAT_FORMAT: '/donatechat <сообщение>'
-ROLL_BROADCAST: '&6Creative &8| &fИгроку %s &fвыпало число &a%s &fиз &e%s'
+ROLL_BROADCAST: '§6Creative §8| §fИгроку %s §fвыпало число §a%s §fиз §e%s'
 STAFFCHAT_MSG: '§eЧат персонала §8| §f%s §8» §f%s'
 DONATECHAT_MSG: '§6Чат донатеров §8| §f%s §8» §7%s'
 YOU_HAVE_DONATECHAT_COOLDOWN: '§cПисать в чат донатеров можно раз в 30 секунд'

@@ -10921,6 +10921,12 @@ PANDA_SPAWN_EGG: 'Яйцо панды'
 STRIDER_SPAWN_EGG: 'Яйцо стридера'
 WANDERING_TRADER_SPAWN_EGG: 'Яйцо странствующего торговца'
 CONDUIT: 'Морской источник'
+CRAFTING_TABLE: 'Верстак'
+LOOM: 'Ткатцкий станок'
+CARTOGRAPHY_TABLE: 'Стол картографа'
+GRINDSTONE: 'Точило'
+SMITH_TABLE: 'Стол кузнеца'
+STONECUTTER: 'Камнерез'
 
 
 EFFECT_NIGHT_VISION: 'Ночное зрение'

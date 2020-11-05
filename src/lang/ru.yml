@@ -1722,6 +1722,13 @@ KIT_GUI_LORE:
 - '§7выбрать доступные из них'
 - ''
 - '§e▸ Нажмите, чтобы открыть меню'
+CONTAINER_GUI_LORE:
+- ''
+- '§7Получить список'
+- '§7всех крафт столов'
+- '§7и эндерсундука'
+- ''
+- '§e▸ Нажмите, чтобы открыть меню'
 WARP_GUI_LORE:
 - ''
 - '§7управление своими'
@@ -1741,6 +1748,11 @@ CALL_GUI_LORE:
 - '§7Ожидает ответа §a%s §7%s'
 - ''
 - '§e▸ Нажмите, чтобы открыть меню'
+CONTAINER_GUI_ITEM_LORE:
+- ''
+- '§7Доступно от %s'
+- ''
+- '§e▸ Нажмите, чтобы открыть'
 CREATE_WARP_FORMAT: '/createwarp <название>'
 DEL_WARP_FORMAT: '/delwarp <название>'
 WARP_TO: 'Вы были телепортированы на варп §a%s'
@@ -1929,6 +1941,7 @@ PLAYER_WARP_ITEM_EMPTY_LORE:
 PLAYER_WARP_FORMAT: '/playerwarp <имя игрока>'
 PLAYER_WARP_GUI_NAME: 'Список варпов - %s'
 WARP_GUI_NAME: 'Список варпов'
+CONTAINER_GUI_NAME: 'Крафт столы'
 CALL_GUI_NAME: 'Запросы на тп'
 HOME_GUI_NAME: 'Точки дома'
 KIT_GUI_NAME: 'Выбор набора'

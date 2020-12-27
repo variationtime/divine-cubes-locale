@@ -4184,13 +4184,13 @@ BW_SHOP_DIAMOND_PICKAXE_LORE:
 - ' §8▪ §7Diamond Pickaxe §8(Efficiency II, Silk Touch I)'
 BW_SHOP_BOW_LVL_1: 'Bow I'
 BW_SHOP_BOW_LVL_1_LORE:
-- ' §8▪ §7Bow §8(Infinity I)'
+- ' §8▪ §7Bow §8(Infinity)'
 BW_SHOP_BOW_LVL_2: 'Bow II'
 BW_SHOP_BOW_LVL_2_LORE:
-- ' §8▪ §7Bow §8(Infinity I, Power I)'
+- ' §8▪ §7Bow §8(Infinity, Power I)'
 BW_SHOP_BOW_LVL_3: 'Bow III'
 BW_SHOP_BOW_LVL_3_LORE:
-- ' §8▪ §7Bow §8(Infinity I, Power II, Punch I)'
+- ' §8▪ §7Bow §8(Infinity, Power II, Punch I)'
 
 
 

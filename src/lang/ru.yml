@@ -4882,8 +4882,8 @@ KIT_SW_BASEBALL_PLAYER_LORE:
 - ' §8• §7Лестница §8(x32)'
 - ' §8• §7Взрывное зелье прыгучести II §8(x3)'
 - ' §8• §7Железные ботинки §8(Невесомость III)'
-KIT_SW_SALAMANDRA_PLAYER: 'Саламандра'
-KIT_SW_SALAMANDRA_PLAYER_LORE:
+KIT_SW_SALAMANDRA: 'Саламандра'
+KIT_SW_SALAMANDRA_LORE:
 - ''
 - '§7Содержит в себе:'
 - ' §8• §7Золотой меч §8(Заговор огня II)'

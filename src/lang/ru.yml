@@ -4826,7 +4826,7 @@ PERK_SW_PHOENIX_LORE:
 PERK_SW_METAMORPHOSIS: 'Метаморфоз'
 PERK_SW_METAMORPHOSIS_LORE:
 - '§7Эффект поглощения заменяется на эффект'
-- '§7прилива здоровья того же уровня и длительностью в 1 минуту'
+- '§7прилива здоровья того же уровня на 1 минуту'
 PERK_SW_HIDDEN_KILLER: 'Скрытый убийца'
 PERK_SW_HIDDEN_KILLER_LORE:
 - ''

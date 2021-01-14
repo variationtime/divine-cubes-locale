@@ -514,6 +514,11 @@ MONEY_1:
 - 'а'
 - 'ы'
 - ''
+DUST_1:
+- 'пыл'
+- 'ь'
+- 'и'
+- 'и'
 MONEY_2:
 - 'монет'
 - 'y'
@@ -6040,6 +6045,7 @@ GADGETS_HOLIDAY_NEW_YEARS: '§cНовогодние'
 GADGETS_HOLIDAY_AVAILABLE: '§7Доступен в %s §7праздники'
 GADGETS_CAN_AVAILABLE: 'Можно получить:'
 GADGETS_GIVE_MONEY: '§7Цена: §6%s монет'
+GADGETS_GIVE_DUST: '§7Цена: §e%s пыли'
 GADGETS_GIVE_DONATE: '§7От привилегии %s §7и выше'
 GADGETS_GIVE_DONATE_ONLY: '§7Бесплатно для %s'
 GADGETS_GIVE_GOLD: '§7Цена: §e%s §7золота'
@@ -7381,7 +7387,7 @@ GAME_COSMETIC_LEVEL_ERROR:
 - '§cВНИМАНИЕ! Для использования этой вещи'
 - '§cвам нужно иметь %s уровень или любой'
 - '§cиз доступных донат-статусов!'
-GAME_COSMETIC_ALREADY_HAVE: '§fУ вас уже есть данный предмет, вы получили §6+%s %s'
+GAME_COSMETIC_ALREADY_HAVE: '§fУ вас уже есть данный предмет, вы получили §a+%s %s'
 GAME_COSMETIC_MAIN_GUI_NAME: 'Косметика'
 GAME_COSMETIC_GUI_ARROW_NAME: 'Эффекты стрел'
 GAME_COSMETIC_GUI_ARROW_LORE:

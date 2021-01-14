@@ -4976,7 +4976,6 @@ CATEGORY_KIT_LORE:
 DAMAGE_CAUSE_KILLED_BY_ARROW_OF: '%s§f was shot by %s'
 DAMAGE_CAUSE_KILLED_BY_SPECTRAL_ARROW_OF: '%s§f was shot by %s'
 DAMAGE_CAUSE_KILLED_BY_TIPPED_ARROW_OF: '%s§f was shot by %s'
-GAME_COSMETIC_ALREADY_HAVE: '§fYou already have this item, you got §6+%s %s §finstead'
 GAMER_NO_KEYS: '§6Server §8| §fError! You have not enough §akeys§f to open a Box! You can buy some keys at §dlast-craft.com §7(click)'
 GAMER_NO_MYSTERY_DUST: '§6Server §8| §fError! You have not enough §acoins§f to open a Box! You can buy some coins at §dlast-craft.com §7(click)'
 GAMER_NO_GOLD: '§6Server §8| §fError! You have not enough §6gold§f to open a Box! You can buy some gold at §dlast-craft.com §7(click)'

@@ -4331,7 +4331,6 @@ GADGET_SETTING_SHOW_MORPH_LORE:
 - '§7Activate this setting if'
 - '§7you want to see yourself'
 - '§7as a mob'
-GADGET_ALREADY_HAVE: '§fYou already have this gadget, you got §6+%s %s instead'
 GADGET_HAT_TYPE: 'Hat'
 GADGET_PETS_TYPE: 'Pet'
 GADGET_COMPANION_TYPE: 'Companion'
@@ -5537,7 +5536,6 @@ PROTECTION_UPGRADE_SIDE_SUCCES_TO: '§6Anarchy §8| §fPrivate §7%s §fextended
 PROTECTION_UPGRADE_SIDE_SUCCES: '§6Anarchy §8| §fPrivate §7%s §fsuccesfully extended to §a%s §fblocks by coordinates §7X §fи §7Z'
 
 
-ITEM_ALREADY_HAVE: '§fYou already have this item before, you got §6+%s %s §finstead'
 DAMAGE_CAUSE_KILLED_BY_ILLUSIONER: '%s§f tried Illusioner illusions yourself'
 DAMAGE_CAUSE_KILLED_BY_ILLUSIONER_OF: '%s§f tried %s Illusioner illusions yourself'
 DONATE_MENU_GUI_LORE:

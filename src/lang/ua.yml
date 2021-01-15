@@ -3403,7 +3403,6 @@ ISLAND_TOP_KILLS_HOLO:
  
 FREE: 'Безкоштовно'
 LIMIT_REACHED: '§6Сервер §8| §fВи досягнули ліміт для цього покарання, зачекайте ще §e%s'
-ITEM_ALREADY_HAVE: '§fУ вас вже є даний предмет, ви отримали §6+%s %s' 
 HOLO_INFO_LOBBY:
 - '§fКлікніть по §6NPC§f,'
 - '§fщоб почати гру'
@@ -4250,7 +4249,6 @@ GADGET_SETTING_SHOW_MORPH_LORE:
 - '§7Активуйте дану опцію,'
 - '§7якщо хочете бачити себе'
 - '§7як моба'
-GADGET_ALREADY_HAVE: '§fУ вас вже є даний гаджет, ви отримали §6+%s %s'
 GADGET_HAT_TYPE: 'Капелюх'
 GADGET_PETS_TYPE: 'Вихованець'
 GADGET_COMPANION_TYPE: 'Компаньон'

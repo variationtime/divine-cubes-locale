@@ -10954,4 +10954,5 @@ CHRISTMAS_KEY_LORE:
 - '§7Можно получить §e§oтолько §7в игре §2§lSpl§c§leef'
 
 
-BOOSTER_0_NAME: 'Бустер пыли I'
+BOOSTER_MONEY_NAME: 'Бустер монеток %s'
+BOOSTER_DUST_NAME: 'Бустер пыли %s'

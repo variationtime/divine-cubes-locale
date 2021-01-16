@@ -366,18 +366,8 @@ PROFILE_MAIN_ITEM_INFO_LORE:
 - '§7games on the server'
 - ''
 - '§e▸ Open the information menu'
-PROFILE_MAIN_ITEM_STATS_NAME: 'Stats'
 PROFILE_STATS_GUI_NAME: 'Stats'
 PROFILE_STATS_GUI_NAME2: 'Stats player'
-PROFILE_MAIN_ITEM_STATS_LORE:
-- '§7Game statistics'
-- '§7from all the mini games'
-- ''
-- '§7Players with §c§lMAGMA §7status'
-- '§7and higher can see other player'
-- '§7stats by typing §f/stats <nickname>'
-- ''
-- '§e▸ Open the statistics menu'
 PROFILE_MAIN_ITEM_DONATE_NAME: 'Donate'
 PROFILE_MAIN_ITEM_DONATE_LORE:
 - '§7Detailed information about the features'

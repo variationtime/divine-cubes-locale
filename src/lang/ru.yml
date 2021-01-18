@@ -10918,7 +10918,11 @@ NO_BOOSTERS_LORE:
 - '§7В данный момент у вас нет'
 - '§7бустеров которые можно активировать'
 
+BOOSTER_LORE:
+- '§7Доступно §f%s §7%s'
 BOOSTER_MULTI:
 - '§7Увеличивает в §e%sх'
+BOOSTER_EXPIRE:
+- '§7Время работы:'
 ACTIVE_BOOSTER_EXPIRE_TIME_LORE:
 - '§7Истекает через:'

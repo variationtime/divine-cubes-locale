@@ -10917,3 +10917,8 @@ NO_BOOSTERS_NAME: '§cБустеров нет('
 NO_BOOSTERS_LORE:
 - '§7В данный момент у вас нет'
 - '§7бустеров которые можно активировать'
+
+BOOSTER_MULTI:
+- '§7Увеличивает в §e%sх'
+ACTIVE_BOOSTER_EXPIRE_TIME_LORE:
+- '§7Истекает через:'

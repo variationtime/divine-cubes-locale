@@ -10907,6 +10907,7 @@ SPLEEF_SOLO_TYPE: '§eSpleef'
 
 BOOSTER_MONEY_NAME: 'Бустер монеток %s'
 BOOSTER_DUST_NAME: 'Бустер пыли %s'
+BOOSTER_EXP_NAME: 'Бустер опыта %s'
 
 NO_ACTIVE_BOOSTER_NAME: '§cУ вас нет активного бустера'
 NO_ACTIVE_BOOSTER_LORE:

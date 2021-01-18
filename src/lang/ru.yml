@@ -10926,3 +10926,5 @@ BOOSTER_EXPIRE:
 - '§7Время работы:'
 ACTIVE_BOOSTER_EXPIRE_TIME_LORE:
 - '§7Истекает через:'
+
+BOOSTER_NO_ACTIVE: '§cОшибка, Вы не можете активировать сразу 2 бустера!'

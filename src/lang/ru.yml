@@ -709,11 +709,11 @@ PROFILE_MAIN_ITEM_DONATE_LORE:
 - '§e▸ Открыть меню привилегий'
 PROFILE_MAIN_ITEM_BOOSTER_NAME: 'Бустеры'
 PROFILE_MAIN_ITEM_BOOSTER_LORE:
-- '§7Покупка и активация бустеров'
+- '§7Покупка бустеров'
 - ''
 - '§7Доступно для активации: §f%s §7%s'
 - ''
-- '§e▸ Открыть меню бустеров'
+- '§e▸ Открыть меню покупки бустеров'
 
 PROFILE_MAIN_ITEM_LANG_NAME: 'Смена языка'
 PROFILE_MAIN_ITEM_LANG_LORE1:
@@ -10920,7 +10920,7 @@ NO_BOOSTERS_LORE:
 - '§7бустеров которые можно активировать'
 
 BOOSTER_LORE:
-- '§7Доступно §f%s §7%s'
+- '§7Доступен §f%s §7%s'
 - ' '
 - ' §e▸ Нажмите для активации бустера'
 BOOSTER_MULTI:

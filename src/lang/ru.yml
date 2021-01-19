@@ -10913,7 +10913,7 @@ BOOSTER_MONEY_NAME: 'Бустер монеток %s'
 BOOSTER_DUST_NAME: 'Бустер пыли %s'
 BOOSTER_EXP_NAME: 'Бустер опыта %s'
 
-BOOSTER_ACTIVATED: '§6§lBoosters §8| %s §fуспешно активирован'
+BOOSTER_ACTIVATED: '§6Boosters §8| %s §fуспешно активирован'
 
 NO_ACTIVE_BOOSTER_NAME: '§cУ вас нет активного бустера'
 NO_ACTIVE_BOOSTER_LORE:
@@ -10935,5 +10935,17 @@ BOOSTER_EXPIRE:
 - '§7После активации работает:'
 ACTIVE_BOOSTER_EXPIRE_TIME_LORE:
 - '§7Истекает через:'
+ACTIVE_BOOSTER_REMOVE: 'Отключение бустера'
+ACTIVE_BOOSTER_REMOVE_LORE:
+- ' §e▸ Нажмите для отключения бустера досрочно'
+- ' '
+- '§c§lВнимание! §cЕсли Вы отключите бустер,'
+- '§cто он будет просто удален'
+ACTIVE_BOOSTER_REMOVE_CONFIRMATION_LORE:
+- ' '
+- '§7Вы уверены, что хотите'
+- '§7отключить этот бустер ?'
+- ' '
+- '§cЭто действие необратимо'
 
 BOOSTER_NO_ACTIVE: '§cОшибка, Вы не можете активировать сразу 2 бустера!'

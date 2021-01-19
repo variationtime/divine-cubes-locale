@@ -711,7 +711,8 @@ PROFILE_MAIN_ITEM_DONATE_LORE:
 - ''
 - '§e▸ Открыть меню привилегий'
 PROFILE_MAIN_ITEM_BOOSTER_NAME: 'Бустеры'
-PROFILE_MAIN_ITEM_BOOSTER_LORE:
+PROFILE_MAIN_ITEM_BOOSTER_BUY_NAME: 'Покупка бустеров'
+PROFILE_MAIN_ITEM_BOOSTER_BUY_LORE:
 - '§7Покупка бустеров'
 - ''
 - '§7Доступно для активации: §f%s §7%s'

@@ -10937,7 +10937,7 @@ ACTIVE_BOOSTER_EXPIRE_TIME_LORE:
 - '§7Истекает через:'
 ACTIVE_BOOSTER_REMOVE: 'Отключение бустера'
 ACTIVE_BOOSTER_REMOVE_LORE:
-- ' §e▸ Нажмите для отключения бустера досрочно'
+- ' §e▸ Нажмите, чтобы отключить бустера досрочно'
 - ' '
 - '§c§lВнимание! §cЕсли Вы отключите бустер,'
 - '§cто он будет просто удален'
@@ -10949,3 +10949,11 @@ ACTIVE_BOOSTER_REMOVE_CONFIRMATION_LORE:
 - '§cЭто действие необратимо'
 
 BOOSTER_NO_ACTIVE: '§cОшибка, Вы не можете активировать сразу 2 бустера!'
+BOOSTER_BUY_ITEM_NAME: 'Купить бустеры'
+BOOSTER_BUY_ITEM_LORE:
+- '§7Покупка бустеров'
+- ''
+- ' §e▸ Нажмите, чтобы купить'
+BOOSTER_HELP_ITEM_NAME: 'Помощь по бустерам'
+BOOSTER_HELP_ITEM_LORE:
+- '§7Скоро тут будет помощь )'

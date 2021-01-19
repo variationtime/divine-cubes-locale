@@ -311,6 +311,9 @@ HOLO_SHOP_NPC:
 - '§a§lМагазин'
 - '§fПозволяет купить или улучшить'
 - '§fнаборы на данном режиме'
+HOLO_BOOSTER_NPC:
+- '§a§lБустеры'
+- '§fАктивация доступных бустеров'
 HOLO_DONATE:
 - 'Обвал цен! Все цены снижены на §a10%'
 - '§e§lGOLD §f- §7§m120§f §6100 §fРублей'
@@ -636,7 +639,7 @@ BOARD_LEVEL: 'Уровень'
 BOARD_GOLD: 'Золота'
 BOARD_GLOBAL_ONLINE: 'Онлайн проекта'
 BOARD_BUSTER: 'Активный бустер'
-BOARD_NO_BUSTER: '§c▻ §7Активных бустеров нет'
+BOARD_NO_BUSTER: '§c▻ §7Активного бустера нет'
 BOARD_GROUP: 'Ваш ранг'
 BOARD_TOTAL_WINS: 'Всего побед'
 BOARD_TOTAL_GEN: 'Улучшено генераторов'
@@ -10924,7 +10927,7 @@ BOOSTER_LORE:
 - ' '
 - ' §e▸ Нажмите для активации бустера'
 BOOSTER_MULTI:
-- '§7Увеличивает в §e%sх'
+- '§7Множитель §e%sх'
 BOOSTER_EXPIRE:
 - '§7После активации работает:'
 ACTIVE_BOOSTER_EXPIRE_TIME_LORE:

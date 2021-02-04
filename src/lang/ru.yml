@@ -4269,8 +4269,8 @@ ITEMS_GUI_CONFIRMATION_LORE:
 - '§7приобрести этот предмет?'
 - ' '
 - '§cЭто действие необратимо'
-ITEMS_GUI_COST_FORMAT: '§7Стоимость: %s %s'
-ITEMS_GUI_DISCOUNTED_COST_FORMAT: '§7Стоимость (со скидкой): %s %s'
+ITEMS_GUI_COST_FORMAT: '§7Цена: %s %s'
+ITEMS_GUI_DISCOUNTED_COST_FORMAT: '§7Цена (со скидкой): %s %s'
 ITEM_CATEGORY_GUI_NAME: 'Игровые предметы'
 ITEMS_SHOP_GUI_TITLE: 'Магазин предметов'
 
@@ -4331,7 +4331,7 @@ CATEGORY_CLICK_TO_VIEW_ITEMS:
 - ' '
 - '§e▸ Нажмите, чтобы открыть'
 
-COINS_PREDICATE_ERROR_MSG: ' §8• §7еще §b%s §7%s (ваш баланс §b%s §7%s)'
+COINS_PREDICATE_ERROR_MSG: ' §8• §b%s §7%s (ваш баланс §b%s §7%s)'
 GROUP_PREDICATE_ABOVE_GROUPS_ERROR_MSG: ' §8• §7привилегия %s §7или выше §7(Вы %s§7)'
 GROUP_PREDICATE_BELOW_GROUPS_ERROR_MSG: ' §8• §7привилегия не выше %s §7(Вы %s§7)'
 GROUP_PREDICATE_ONLY_THIS_GROUP_ERROR_MSG: ' §8• §7привилегия %s §7(Вы %s§7)'

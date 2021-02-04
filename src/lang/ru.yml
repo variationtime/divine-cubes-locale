@@ -10931,6 +10931,9 @@ BOOSTER_LORE:
 - '§7Доступен §f%s §7%s'
 - ' '
 - ' §e▸ Нажмите для активации бустера'
+BOOSTER_BUY_LORE:
+- ' '
+- ' §e▸ Нажмите для покупки'
 BOOSTER_MULTI:
 - '§7Множитель §e%sх'
 BOOSTER_EXPIRE:
@@ -10959,3 +10962,11 @@ BOOSTER_BUY_ITEM_LORE:
 BOOSTER_HELP_ITEM_NAME: 'Помощь по бустерам'
 BOOSTER_HELP_ITEM_LORE:
 - '§7Скоро тут будет помощь )'
+BOOSTER_BUY_CONFIRM_GUI: 'Купить Бустер ?'
+BOOSTER_SELECT_PURCHASE_GUI: 'Выберите тип оплаты бустера'
+BOOSTER_BUY_CONFIRMATION_LORE:
+- ' '
+- '§7Вы уверены, что хотите'
+- '§7купить этот бустер ?'
+- ' '
+- '§cЭто действие необратимо'

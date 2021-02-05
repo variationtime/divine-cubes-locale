@@ -10970,3 +10970,5 @@ BOOSTER_BUY_CONFIRMATION_LORE:
 - '§7купить этот бустер ?'
 - ' '
 - '§cЭто действие необратимо'
+BOOSTER_ACTIVE_MESSAGE: '§6Boosters §8| §fВ данный момент у вас %s'
+BOOSTER_ACTIVED_MESSAGE: 'активирован'

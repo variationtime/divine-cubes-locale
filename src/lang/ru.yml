@@ -10972,4 +10972,4 @@ BOOSTER_BUY_CONFIRMATION_LORE:
 - '§cЭто действие необратимо'
 BOOSTER_ACTIVE_MESSAGE: '§6Boosters §8| §fВ данный момент у вас %s'
 BOOSTER_ACTIVED_MESSAGE: 'активирован'
-MULTI_GAME_VALUE: '§7(с учетом всех бонусов)'
+MULTI_GAME_VALUE: '§f(с учетом всех бонусов §a%s§f)'

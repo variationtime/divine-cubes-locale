@@ -145,7 +145,6 @@ DISCORD_HELP:
   - '§7/discord link <tag> §f- привязать к дискорду'
   - '§7/discord unlink §f- отвязать от дискорда'
   - '§7/discord info <ник игрока> §f- узнать дискорд игрока'
-  - '§7/friends help §f- помощь'
 DISCORD_UNLINK: '§2Discord §8▏ §fВы успешно отвязали аккаунт %s'
 DISCORD_LINK: '§2Discord §8▏ §fВы успешно привязали аккаунт %s §fк Discord §7%s'
 DISCORD_LINK_ERROR_SERVER: '§2Discord §8▏ §fОшибка, вы должны зайти в Discord сервер VillageMC §7discord.villagemc.net'

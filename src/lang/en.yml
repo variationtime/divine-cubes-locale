@@ -69,7 +69,7 @@ COOLDOWN: '§cWait %s§c %s to use that'
 COOLDOWN_2: '§cWait %s to use that'
 AFK: '§cDo not stay on the same place!'
 
-BALANCE: '§6Balance §8| §fYou have §a%s §f%s and §e%s §f%s'
+BALANCE: '§6Balance §8| §fYou have %s'
 LIST_CMD: '%s§fOn the server §a%s §f%s: %s'
 
 MESSAGE_NOT_FOUND: '§cMessage %s was not found'

@@ -2369,6 +2369,7 @@ WHOIS_LINES_6: ' §f- Версия: §a%s'
 WHOIS_LAST_SERVER: ' §f- Последний сервер: §a%s'
 WHOIS_LAST_IP: ' §f- Последний IP: §a%s'
 WHOIS_ONLINE_ACCOUNT: ' §f- Аккаунты с этого адреса: §a%s'
+WHOIS_SECTIONS: ' §f- Загруженные секции игрока: §a%s'
 STAFF_MEMBER_OFFLINE_LORE:
 - ' '
 - '§7Последний раз был в сети'

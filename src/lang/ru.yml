@@ -9045,7 +9045,7 @@ CAKE: 'Торт'
 GRILLED_PORK: 'Свинина'
 GOLDEN_APPLE: 'Золотое яблоко'
 SPEED_POTION: 'Зелье скорости'
-EW_SPEED_POTION: 'Зелье скорости II'
+SPEED_POTION_2: 'Зелье скорости II'
 JUMP_POTION: 'Зелье прыгучести II'
 REGENERATION_POTION: 'Зелье регенерации'
 STRENGTH_POTION: 'Зелье силы'
@@ -9371,21 +9371,6 @@ EW_SHOP_DIAMOND_ARMOR: 'Алмазная броня'
 EW_SHOP_DIAMOND_ARMOR_LORE:
 - ' §8▪ §7Алмазные поножи §8x1'
 - ' §8▪ §7Алмазные ботинки §8x1'
-EW_SHOP_STONE_PICKAXE: 'Каменная кирка'
-EW_SHOP_STONE_PICKAXE_LORE:
-- ' §8▪ §7Каменная кирка §8(Эффективность II)'
-EW_SHOP_IRON_PICKAXE: 'Железная кирка'
-EW_SHOP_IRON_PICKAXE_LORE:
-- ' §8▪ §7Железная кирка §8(Эффективность II)'
-EW_SHOP_DIAMOND_PICKAXE: 'Алмазная кирка'
-EW_SHOP_DIAMOND_PICKAXE_LORE:
-- ' §8▪ §7Алмазная кирка §8(Эффективность III)'
-EW_SHOP_WOOD_AXE: 'Деревянный топор'
-EW_SHOP_WOOD_AXE_LORE:
-- ' §8▪ §7Деревянный топор §8(Эффективность I)'
-EW_SHOP_STONE_AXE: 'Каменный топор'
-EW_SHOP_STONE_AXE_LORE:
-- ' §8▪ §7Каменный топор §8(Эффективность II)'
 EW_SHOP_STICK: 'Дубинка'
 EW_SHOP_STICK_LORE:
 - ' §8▪ §7Палка §8(Отдача II) x1'
@@ -9395,6 +9380,7 @@ EW_SHOP_BOW_LVL_2_LORE:
 EW_SHOP_BOW_LVL_3: 'Лук III'
 EW_SHOP_BOW_LVL_3_LORE:
 - ' §8▪ §7Лук §8(Сила I, Отдача I) x1'
+EW_SHOP_TIPPED_ARROW: 'Стрела вреда'
 
 HNS_KICK_SPECTATOR: 'Спектаторы в данной игре отключены!'
 HNS_MASK_STONE: 'Камень'

@@ -9099,9 +9099,6 @@ PERK_EW_TIME_MANAGER_LORE:
 - '§7время его возрождения будет'
 - '§7увеличено на 1 секунду'
 
-BW_SHOP_TOTEM: 'Тотем бессмертия'
-BW_SHOP_TOTEM_LORE:
-- ' §8▪ §7Тотем бессмертия §8x1'
 BW_SHOP_STRING_TRAP: 'Нить-ловушка'
 BW_SHOP_STRING_TRAP_LORE:
 - ' §8▪ §7Нить-ловушка §8x1'

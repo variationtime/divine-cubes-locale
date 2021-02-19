@@ -8651,7 +8651,7 @@ BW_GOLD:
 - 'а'
 - 'а'
 BW_DIAMOND:
-- 'даймонд'
+- 'алмаз'
 - ''
 - 'а'
 - 'ов'
@@ -9060,8 +9060,7 @@ PERK_EW_ARROW_RECOVERY_LORE:
 PERK_EW_GREEDY: 'Жадина'
 PERK_EW_GREEDY_LORE:
 - ''
-- '§7С вас никогда не выпадают ресурсы'
-- '§7после вашей смерти'
+- '§7После смерти с вас не выпадают драгоценные ресурсы'
 PERK_EW_GENERATOR: 'Электрик'
 PERK_EW_GENERATOR_LORE:
 - ''

@@ -207,7 +207,7 @@ BOSS_BAR_LOBBY:
 - '§fНОВЫЕ §cПОХОТЛИВЫЕ§f ТИТУЛЫ! СПЕШИ §aКУПИТЬ§f! '
 - '§fХОЧЕШЬ БЫСТРЕЕ ПОЛУЧИТЬ §aМОНЕТЫ §fИ §6ОПЫТ§f? ПОКУПАЙ §aБУСТЕРЫ§f!'
 - '§fУДИВИ СВОИХ §eДРУЗЕЙ §fНЕОБЫЧНЫМ §6ПРЕФИКСОМ §7► §c§l/RGB'
-- '§fКРУПНОЕ ИЗМЕНЕНИЕ §6КАРТ §fДЛЯ РЕЖИМА §aSKYWARS'
+- '§fКРУПНОЕ ИЗМЕНЕНИЕ §eКАРТ §fДЛЯ РЕЖИМОВ §aSkyWars §fИ §6LuckyWars' 
 
 LIMIT_REACHED: '§6Сервер §8| §fВы достигли лимита для этого наказания, подождите еще §e%s'
 
@@ -5480,8 +5480,8 @@ HIDER_DISABLE_NAME: '§cСкрыть игроков'
 HIDER_DISABLE_LORE:
 - '§7Используйте этот предмет,'
 - '§7чтобы скрыть игроков'
-TITLE_JOIN_LOBBY: '§fГолосовой чат сервера!'
-SUBTITLE_JOIN_LOBBY: '§9Discord §ddiscord.lastcraft.net'
+TITLE_JOIN_LOBBY: '§fНовые и обновленные карты' 
+SUBTITLE_JOIN_LOBBY: '§fДля режимов §6LuckyWars §fи §3SkyWars'
 ALREADY_ON_SERVER: '§6Сервер §8| §cВы уже находитесь на этом сервере!'
 PROMO_ITEM_NAME: '§aСКИДКИ!'
 PLAY_FORMAT: '/play <игра>'

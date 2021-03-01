@@ -6355,6 +6355,7 @@ GADGETS_371_LORE:
 - '§7..или почему я бросил наркотики'
 
 MYSTERY_DUST_DATA: 'Монеты'
+SURVIVAL_DATA: 'Баты'
 GOLD_DATA: 'Изумруды'
 DONATE_MENU_JOIN_MESSAGE_ENABLE: '§2Сообщение при входе §8▏ §fСообщение под номером §a%s §fактивировано'
 DONATE_MENU_JOIN_MESSAGE_BUY: '§2Сообщение при входе §8▏ §fВы успешно купили §a%s §fсообщение'

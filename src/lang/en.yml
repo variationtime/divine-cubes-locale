@@ -38,7 +38,7 @@ HOLO_TOP_MONTHLY:
 - '§fPlayer top (for victories)'
 - '§fFor §e%s'
 
-JOIN_PLAYER_LO_LOBBY: ' §a‣ %s §fhas joined to the server'
+JOIN_PLAYER_LO_LOBBY: '%s §fhas joined to the server'
 
 NO_FOUND_PLAYER: '§cPlayer %s§c was not found or they are offline'
 NO_NEVER_PLAYER: '§cError, player %s has never played at server'

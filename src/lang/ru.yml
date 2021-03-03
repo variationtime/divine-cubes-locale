@@ -4242,6 +4242,7 @@ BB_EFFECT: 'эффект'
 SKIN: 'скин магазина'
 SKIN_UPGRADE: 'скин магазина улучшений'
 SOUND: 'звук'
+BREAK_EFFECT: 'эффект сломанной кровати\яйца'
 
 SOUND_SELECTION_MESSAGE: 'Вы выбрали звук §a%s'
 SKIN_SELECTION_MESSAGE: 'Вы выбрали скин §a%s'

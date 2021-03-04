@@ -569,7 +569,7 @@ DAMAGE_CAUSE_BURN_TO: '%s§f был сожжён дотла, пока борол
 DAMAGE_CAUSE_BURN: '%s§f сгорел заживо'
 DAMAGE_CAUSE_DROP_TO: '%s§f был скинут игроком %s'
 DAMAGE_CAUSE_DROP: '%s§f разбился насмерть'
-DAMAGE_CAUSE_KILLED_BY_FIREBALL_OF: '%s§f убит огненным шаром %s§f'
+#DAMAGE_CAUSE_KILLED_BY_FIREBALL_OF: '%s§f убит огненным шаром %s§f'
 
 LVL_UP: '§a§l§kX§r §6§lУРОВЕНЬ ПОВЫШЕН §a§l§kX§r'
 NEW_LVL: '§fВы достигли §d%s§f уровня!'

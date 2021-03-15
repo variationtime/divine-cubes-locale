@@ -9113,7 +9113,7 @@ BW_SHOP_ICE_LORE:
 - '§7§oна базу работать не будет!'
 BW_SHOP_COMPASS: 'Локатор'
 BW_SHOP_COMPASS_LORE:
-- ' §8▪ §7Компас §8x1'
+- ' §8▪ §7Локатор'
 - ''
 - '§7§oУказывает на ближайшего игрока'
 - '§7§oили тиммейта'
@@ -9128,74 +9128,19 @@ BW_SHOP_WATCH_LORE:
 
 EW_SHOP_OBSIDIAN: 'Уничтожитель 3000'
 EW_SHOP_OBSIDIAN_LORE:
-- ' §8▪ §7Уничтожитель 3000 §8x1'
+- ' §8▪ §7Уничтожитель 3000'
 - ''
 - '§8Перезарядка 5 секунд'
 - ''
 - '§7§oПри нажатии ПКМ по обсидиану'
 - '§7§oвы потеряете "уничтожитель", а'
 - '§7§oблок обсидиана будет удален'
-
-BW_SHOP_BLAZE_ROD: 'Стержень ифрита'
-BW_SHOP_BLAZE_ROD_LORE:
-- '§8▪ §7Стержень ифрита §8(Отдача II)'
-BW_SHOP_STICK: 'Палка'
-BW_SHOP_STICK_LORE:
-- '§8▪ §7Палка §8(Отдача I)'
-BW_SHOP_SWORD_LVL_1: 'Меч'
-BW_SHOP_SWORD_LVL_1_LORE:
-- '§8▪ §7Деревянный меч §8(Отдача I)'
-BW_SHOP_SWORD_LVL_2: 'Золотой меч I'
-BW_SHOP_SWORD_LVL_2_LORE:
-- '§8▪ §7Золотой меч §8(Острота I, Прочность I)'
-BW_SHOP_SWORD_LVL_3: 'Золотой меч II'
-BW_SHOP_SWORD_LVL_3_LORE:
-- '§8▪ §7Золотой меч §8(Острота IV, Прочность I)'
-BW_SHOP_SWORD_LVL_4: 'Железный меч'
-BW_SHOP_SWORD_LVL_4_LORE:
-- '§8▪ §7Железный меч §8(Острота IV, Прочность I, Отдача I)'
-BW_SHOP_LEATHER_HELMET: 'Кожаный шлем'
-BW_SHOP_LEATHER_HELMET_LORE:
-- ' §8▪ §7Кожаный шлем §8(Защита I, Прочность I)'
-BW_SHOP_LEATHER_LEGGINGS: 'Кожаные штаны'
-BW_SHOP_LEATHER_LEGGINGS_LORE:
-- ' §8▪ §7Кожаные штаны §8(Защита I, Прочность I)'
-BW_SHOP_LEATHER_BOOTS: 'Кожаные ботинки'
-BW_SHOP_LEATHER_BOOTS_LORE:
-- ' §8▪ §7Кожаные ботинки §8(Защита I, Прочность I)'
-BW_SHOP_ARMOR_LVL_1: 'Кольчужный нагрудник'
-BW_SHOP_ARMOR_LVL_1_LORE:
-- ' §8▪ §7Кольчужный нагрудник §8(Защита I, Прочность I)'
-BW_SHOP_ARMOR_LVL_2: 'Кольчужный нагрудник II'
-BW_SHOP_ARMOR_LVL_2_LORE:
-- ' §8▪ §7Кольчужный нагрудник §8(Защита II, Прочность I)'
-BW_SHOP_ARMOR_LVL_3: 'Кольчужный нагрудник III'
-BW_SHOP_ARMOR_LVL_3_LORE:
-- ' §8▪ §7Кольчужный нагрудник §8(Защита III, Прочность I)'
-BW_SHOP_ARMOR_LVL_4: 'Кольчужный нагрудник IV'
-BW_SHOP_ARMOR_LVL_4_LORE:
-- ' §8▪ §7Кольчужный нагрудник §8(Защита от снарядов IV, Прочность I)'
-BW_SHOP_WOOD_PICKAXE: 'Деревянная кирка'
-BW_SHOP_WOOD_PICKAXE_LORE:
-- ' §8▪ §7Деревянная кирка §8(Эффективность I, Прочность I)'
-BW_SHOP_STONE_PICKAXE: 'Каменная кирка'
-BW_SHOP_STONE_PICKAXE_LORE:
-- ' §8▪ §7Каменная кирка §8(Эффективность I, Прочность I)'
-BW_SHOP_IRON_PICKAXE: 'Железная кирка'
-BW_SHOP_IRON_PICKAXE_LORE:
-- ' §8▪ §7Железная кирка §8(Эффективность III, Прочность I)'
-BW_SHOP_DIAMOND_PICKAXE: 'Алмазная кирка'
-BW_SHOP_DIAMOND_PICKAXE_LORE:
-- ' §8▪ §7Алмазная кирка §8(Эффективность II, Шелковое касание I)'
-BW_SHOP_BOW_LVL_1: 'Лук I'
-BW_SHOP_BOW_LVL_1_LORE:
-- ' §8▪ §7Лук §8(Бесконечность)'
-BW_SHOP_BOW_LVL_2: 'Лук II'
-BW_SHOP_BOW_LVL_2_LORE:
-- ' §8▪ §7Лук §8(Бесконечность, Сила I)'
-BW_SHOP_BOW_LVL_3: 'Лук III'
-BW_SHOP_BOW_LVL_3_LORE:
-- ' §8▪ §7Лук §8(Бесконечность, Сила II, Откидывание I)'
+EW_SHOP_FIRE_FLINT: 'Огненная зажигалка'
+EW_SHOP_FIRE_FLINT_LORE:
+- ' §8▪ §7Огненная зажигалка §8x1'
+- ''
+- '§7§oПоджигает блоки, а огонь'
+- '§7§oполучает возможность распространяться'
 
 EW_BASE_UPGRADE_PICKAXE: 'Стартовая кирка'
 EW_BASE_UPGRADE_PICKAXE_LORE:
@@ -9260,7 +9205,7 @@ EW_UPGRADE_ARMOR_MAX_LORE:
 - '§8Командное улучшение'
 - ''
 - '§7Броня вашей команды'
-- '§7улучшена до железной'
+- '§7максимального уровня'
 - ''
 - '§eМаксимальный уровень'
 EW_UPGRADE_SHARPEN_SWORD: 'Улучшение оружия'
@@ -9403,26 +9348,16 @@ EW_GENERATOR_TO_SPAWN: '§fСпавн через §c%s §f%s'
 EW_GENERATOR_SPAWNED: '§fЗаспавнено!'
 EW_SHOP_CHAINMAIL_ARMOR: 'Кольчужная броня'
 EW_SHOP_CHAINMAIL_ARMOR_LORE:
-- ' §8▪ §7Кольчужные поножи §8x1'
-- ' §8▪ §7Кольчужные ботинки §8x1'
+- ' §8▪ §7Кольчужные поножи'
+- ' §8▪ §7Кольчужные ботинки'
 EW_SHOP_IRON_ARMOR: 'Железная броня'
 EW_SHOP_IRON_ARMOR_LORE:
-- ' §8▪ §7Железные поножи §8x1'
-- ' §8▪ §7Железные ботинки §8x1'
+- ' §8▪ §7Железные поножи'
+- ' §8▪ §7Железные ботинки'
 EW_SHOP_DIAMOND_ARMOR: 'Алмазная броня'
 EW_SHOP_DIAMOND_ARMOR_LORE:
-- ' §8▪ §7Алмазные поножи §8x1'
-- ' §8▪ §7Алмазные ботинки §8x1'
-EW_SHOP_STICK: 'Дубинка'
-EW_SHOP_STICK_LORE:
-- ' §8▪ §7Палка §8(Отдача II) x1'
-EW_SHOP_BOW_LVL_2: 'Лук II'
-EW_SHOP_BOW_LVL_2_LORE:
-- ' §8▪ §7Лук §8(Сила I) x1'
-EW_SHOP_BOW_LVL_3: 'Лук III'
-EW_SHOP_BOW_LVL_3_LORE:
-- ' §8▪ §7Лук §8(Сила I, Отдача I) x1'
-EW_SHOP_TIPPED_ARROW: 'Стрела вреда'
+- ' §8▪ §7Алмазные поножи'
+- ' §8▪ §7Алмазные ботинки'
 
 HNS_KICK_SPECTATOR: 'Спектаторы в данной игре отключены!'
 HNS_MASK_STONE: 'Камень'

@@ -3926,9 +3926,7 @@ STRENGTH_POTION: 'Potion of Strength'
 DAMAGE_POTION: 'Lingering Potion of Instant Damage'
 SHIELD: 'Shield'
 
-BW_SHOP_TOTEM: 'Totem of Undying'
-BW_SHOP_TOTEM_LORE:
-- ' §8▪ §7Totem of Undying §8x1'
+
 BW_SHOP_STRING_TRAP: 'String with trap'
 BW_SHOP_HOME_TELEPORT: 'Teleport to base'
 BW_SHOP_HOME_TELEPORT_LORE:
@@ -3975,66 +3973,6 @@ BW_SHOP_COMPASS_LORE:
 - ''
 - '§7§oIndicates for nearest player'
 - '§7§oor your team member'
-
-BW_SHOP_STICK: 'Stick'
-BW_SHOP_STICK_LORE:
-- '§8▪ §7Stick §8(Knockback I)'
-BW_SHOP_SWORD_LVL_1: 'Sword'
-BW_SHOP_SWORD_LVL_1_LORE:
-- '§8▪ §7Wooden Sword §8(Knockback I)'
-BW_SHOP_SWORD_LVL_2: 'Golden Sword I'
-BW_SHOP_SWORD_LVL_2_LORE:
-- '§8▪ §7Golden Sword §8(Sharpness I, Unbreaking I)'
-BW_SHOP_SWORD_LVL_3: 'Golden Sword II'
-BW_SHOP_SWORD_LVL_3_LORE:
-- '§8▪ §7Golden Sword §8(Sharpness IV, Unbreaking I)'
-BW_SHOP_SWORD_LVL_4: 'Iron Sword'
-BW_SHOP_SWORD_LVL_4_LORE:
-- '§8▪ §7Iron Sword §8(Sharpness IV, Unbreaking I, Knockback I)'
-BW_SHOP_LEATHER_HELMET: 'Leather Helmet'
-BW_SHOP_LEATHER_HELMET_LORE:
-- ' §8▪ §7Leather Helmet §8(Protection I, Unbreaking I)'
-BW_SHOP_LEATHER_LEGGINGS: 'Leather Leggings'
-BW_SHOP_LEATHER_LEGGINGS_LORE:
-- ' §8▪ §7Leather Leggings §8(Protection I, Unbreaking I)'
-BW_SHOP_LEATHER_BOOTS: 'Leather Boots'
-BW_SHOP_LEATHER_BOOTS_LORE:
-- ' §8▪ §7Leather Boots §8(Protection I, Unbreaking I)'
-BW_SHOP_ARMOR_LVL_1: 'Chainmail Chesplate'
-BW_SHOP_ARMOR_LVL_1_LORE:
-- ' §8▪ §7Chainmail Chesplate §8(Protection I, Unbreaking I)'
-BW_SHOP_ARMOR_LVL_2: 'Chainmail Chesplate II'
-BW_SHOP_ARMOR_LVL_2_LORE:
-- ' §8▪ §7Chainmail Chesplate §8(Protection II, Unbreaking I)'
-BW_SHOP_ARMOR_LVL_3: 'Chainmail Chesplate III'
-BW_SHOP_ARMOR_LVL_3_LORE:
-- ' §8▪ §7Chainmail Chesplate §8(Protection III, Unbreaking I)'
-BW_SHOP_ARMOR_LVL_4: 'Chainmail Chesplate IV'
-BW_SHOP_ARMOR_LVL_4_LORE:
-- ' §8▪ §7Chainmail Chesplate §8(Projectile Protection IV, Unbreaking I)'
-BW_SHOP_WOOD_PICKAXE: 'Wooden Pickaxe'
-BW_SHOP_WOOD_PICKAXE_LORE:
-- ' §8▪ §7Wooden Pickaxe §8(Efficiency I, Unbreaking I)'
-BW_SHOP_STONE_PICKAXE: 'Stone Pickaxe'
-BW_SHOP_STONE_PICKAXE_LORE:
-- ' §8▪ §7Stone Pickaxe §8(Efficiency I, Unbreaking I)'
-BW_SHOP_IRON_PICKAXE: 'Iron Pickaxe'
-BW_SHOP_IRON_PICKAXE_LORE:
-- ' §8▪ §7Iron Pickaxe §8(Efficiency III, Unbreaking I)'
-BW_SHOP_DIAMOND_PICKAXE: 'Diamond Pickaxe'
-BW_SHOP_DIAMOND_PICKAXE_LORE:
-- ' §8▪ §7Diamond Pickaxe §8(Efficiency II, Silk Touch I)'
-BW_SHOP_BOW_LVL_1: 'Bow I'
-BW_SHOP_BOW_LVL_1_LORE:
-- ' §8▪ §7Bow §8(Infinity)'
-BW_SHOP_BOW_LVL_2: 'Bow II'
-BW_SHOP_BOW_LVL_2_LORE:
-- ' §8▪ §7Bow §8(Infinity, Power I)'
-BW_SHOP_BOW_LVL_3: 'Bow III'
-BW_SHOP_BOW_LVL_3_LORE:
-- ' §8▪ §7Bow §8(Infinity, Power II, Punch I)'
-
-
 
 JANUARY: 'January'
 FEBRUARY: 'February'
@@ -5407,9 +5345,6 @@ PROFILE_MAIN_ITEM_LANG_LORE1:
 - '§7Translation and language will be added if the future!'
 - ''
 - '§7Availiable at this moment:'
-BW_SHOP_BLAZE_ROD: 'Blaze Rod'
-BW_SHOP_BLAZE_ROD_LORE:
-- '§8▪ §7Blaze Rod §8(Knockback II)'
 BW_SHOP_STRING_TRAP_LORE:
 - ' §8▪ §7String with trap §8x1'
 - ''

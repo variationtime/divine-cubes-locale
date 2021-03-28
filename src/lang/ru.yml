@@ -4663,7 +4663,7 @@ PERK_PR_COWARD: 'Трус'
 PERK_PR_COWARD_LORE:
 - ''
 - '§7С шансом 20% вы'
-- '§7получаете Скорость II на 5 секунд'
+- '§7получаете Скорость III на 5 секунд'
 PERK_PR_EAGER: 'Нетерпеливый'
 PERK_PR_EAGER_LORE:
 - ''
@@ -4715,6 +4715,7 @@ PERK_SW_PHOENIX_LORE:
 - '§7а так же Вас невозможно поджечь'
 PERK_SW_METAMORPHOSIS: 'Метаморфоз'
 PERK_SW_METAMORPHOSIS_LORE:
+- ''
 - '§7Эффект поглощения заменяется на эффект'
 - '§7прилива здоровья того же уровня на 2 минуты'
 PERK_SW_HIDDEN_KILLER: 'Скрытый убийца'

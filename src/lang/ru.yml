@@ -1845,7 +1845,7 @@ BANINFO_MUTE_MESSAGES:
   - ' §e• §fДата мута: §a%s'
 BAN_HISTORY_FORMAT: '/history <ник> <BAN/MUTE>'
 BAN_HISTORY_EMPTY: '§cИстория наказаний пуста'
-BAN_HISTORY_CAPTION: '§cАдминистрирование §8▏ §fИстория наказаний: (§a%s шт.§f)'
+BAN_HISTORY_CAPTION: '§cАдминистрирование §8▏ §fИстория наказаний: '
 HISTORY_ENTRY: ' §f- §7Администратор: §c%s %s §8▏ §7Причина: §c%s §8▏ §7Дата: §c%s'
 GUI_STAFF_SHOW_LIST:
 - ''

@@ -10009,7 +10009,7 @@ GUILD_BROADCAST_PROMOTE: §2Гильдия §8| §f%s §fизменил ранг
 GUILD_CANT_ACCEPT_MEMBERS: §cОшибка, в гильдии уже максимальное количество участников
 GUILD_CANT_CHANGE_HIS_RANK: §6Гильдии §8| §fВы не можете управлять рангом данного
   игрока
-GUILD_CANT_CREATE: §cСоздавать гильдии могут только игроки со статусом §c§lMAGMA §cи
+GUILD_CANT_CREATE: §cСоздавать гильдии могут только игроки со статусом §a§lEMERALD §cи
   выше
 GUILD_CANT_INVITE_YOURSELF: §cТы ебобо? Ты уже в гильдии!
 GUILD_CANT_SET_THIS_RANK: §6Гильдии §8| §fВы не можете установить такой ранг игроку
@@ -10102,7 +10102,7 @@ GUILD_MAKELEADER_BROADCAST: §2Гильдия §8| §7%s §fпередал §cп
   игроку %s
 GUILD_MAKELEADER_FORMAT: /guild makeleader <ник игрока>
 GUILD_MAKELEADER_NO_RANK: §cОшибка, у нового владельца гильдии должен быть статус
-  §c§lMAGMA §cили выше
+  §a§lEMERALD §cили выше
 GUILD_MAKELEADER_SUCCESS: §6Гильдии §8| §fВы передали права управления гильдей игроку
   %s§f. Вы по-прежнему остаетесь в гильдии, но в роли модератора
 GUILD_MOTD_ADDLINE_FORMAT: /guild motd addline <текст>

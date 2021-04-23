@@ -10000,6 +10000,9 @@ GUILDS_INVITE_SENT: §6Гильдии §8| §fПриглашение в гиль
 GUILDS_JOINED_GUILD: §6Гильдии §8| §fВы вступили в гильдию §e%s
 GUILDS_MEMBER_CONNECTED: §6Гильдии §8| §a%s §fзашел на сервер
 GUILDS_PLAYER_JOINED: §2Гильдия §8| §fИгрок %s §fприсоединился к гильдии
+PERM_CLICK_TO_REMOVE: '§e▸ Нажмите, чтобы запретить'
+PERM_CLICK_TO_ADD: '§e▸ Нажмите, чтобы разрешить'
+PERM_YOU_CANT: '§c▸ Нельзя изменять права этого ранга'
 GUILD_ACCEPT_FORMAT: /guild accept <ник игрока>
 GUILD_ADDRANK_FORMAT: /guild addrank <название>
 GUILD_ALREADY_EXISTS: §cОшибка, гильдия с таким именем уже существует

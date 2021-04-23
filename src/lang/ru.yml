@@ -10008,6 +10008,10 @@ GUILD_ALREADY_EXISTS: §cОшибка, гильдия с таким именем
 GUILD_ALREADY_IN_GUILD: §cОшибка, Вы уже состоите в гильдии
 GUILD_TOP_ENTRY_COINS: ' §6#%s §f- §e%s §fигрока %s§f, баланс - §a%s'
 GUILD_TOP_ENTRY_MEMBERS: ' §6#%s §f- §e%s §fигрока %s§f, участников - §a%s'
+GUILDLIST_PLACE_STRING_YES_COINS: '§7На §a%s §7месте в топе по монетам'
+GUILDLIST_PLACE_STRING_YES_MEMBERS: '§7На §a%s §7месте в топе по участникам'
+GUILDLIST_PLACE_STRING_NO_COINS: '§cНе участвует в топе по монетам'
+GUILDLIST_PLACE_STRING_NO_MEMBERS: '§cНе участвует в топе по участникам'
 GUILD_ALREADY_MUTED: §cЧат игрока %s §cуже заблокирован
 GUILD_BROADCAST_PROMOTE: §2Гильдия §8| §f%s §fизменил ранг игрока %s §fна "§a%s§f"
 GUILD_CANT_ACCEPT_MEMBERS: §cОшибка, в гильдии уже максимальное количество участников

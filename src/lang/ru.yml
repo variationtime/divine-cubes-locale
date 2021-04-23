@@ -10004,6 +10004,8 @@ GUILD_ACCEPT_FORMAT: /guild accept <ник игрока>
 GUILD_ADDRANK_FORMAT: /guild addrank <название>
 GUILD_ALREADY_EXISTS: §cОшибка, гильдия с таким именем уже существует
 GUILD_ALREADY_IN_GUILD: §cОшибка, Вы уже состоите в гильдии
+GUILD_TOP_ENTRY_COINS: ' §6#%s §f- §e%s §fигрока %s§f, баланс - §a%s'
+GUILD_TOP_ENTRY_MEMBERS: ' §6#%s §f- §e%s §fигрока %s§f, участников - §a%s'
 GUILD_ALREADY_MUTED: §cЧат игрока %s §cуже заблокирован
 GUILD_BROADCAST_PROMOTE: §2Гильдия §8| §f%s §fизменил ранг игрока %s §fна "§a%s§f"
 GUILD_CANT_ACCEPT_MEMBERS: §cОшибка, в гильдии уже максимальное количество участников

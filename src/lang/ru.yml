@@ -4699,6 +4699,14 @@ ISLAND_ACHIEVEMENT_CHICKEN_LORE:
 - '§8 • §7Куриц §fх2'
 ISLAND_ACHIEVEMENT_PIG_LORE:
 - '§8 • §7Свиней §fх2'
+
+
+LOBBY_SETTINGS_SHOW_GUILD_TAG_NAME: 'Тэг гильдии'
+LOBBY_SETTINGS_SHOW_GUILD_TAG_LORE:
+  - '§7Позволяет включить или выключить'
+  - '§7Отображения тэга гильдии после ника'
+  - '§7Если настройка выключена, то'
+  - '§7вместо тэга будет отображаться активный титул'
 LOBBY_SETTINGS_AUTO_MESSAGE_ANNOUNCE_NAME: 'Автосообщения'
 LOBBY_SETTINGS_AUTO_MESSAGE_ANNOUNCE_LORE:
 - '§7Позволяет включить или выключить'

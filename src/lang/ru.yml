@@ -10008,23 +10008,31 @@ GUILDS_INVITE_SENT: §6Гильдии §8| §fПриглашение в гиль
 GUILDS_JOINED_GUILD: §6Гильдии §8| §fВы вступили в гильдию §e%s
 GUILDS_MEMBER_CONNECTED: §6Гильдии §8| §a%s §fзашел на сервер
 GUILDS_PLAYER_JOINED: §2Гильдия §8| §fИгрок %s §fприсоединился к гильдии
+PERM_CLICK_TO_REMOVE: '§e▸ Нажмите, чтобы запретить'
+PERM_CLICK_TO_ADD: '§e▸ Нажмите, чтобы разрешить'
 GUILD_ACCEPT_FORMAT: /guild accept <ник игрока>
 GUILD_ADDRANK_FORMAT: /guild addrank <название>
 GUILD_ALREADY_EXISTS: §cОшибка, гильдия с таким именем уже существует
 GUILD_ALREADY_IN_GUILD: §cОшибка, Вы уже состоите в гильдии
+GUILD_TOP_ENTRY_COINS: ' §6#%s §f- §e%s §fигрока %s§f, баланс - §a%s'
+GUILD_TOP_ENTRY_MEMBERS: ' §6#%s §f- §e%s §fигрока %s§f, участников - §a%s'
+GUILDLIST_PLACE_STRING_YES_COINS: '§7На §a%s §7месте в топе по монетам'
+GUILDLIST_PLACE_STRING_YES_MEMBERS: '§7На §a%s §7месте в топе по участникам'
+GUILDLIST_PLACE_STRING_NO_COINS: '§cНе участвует в топе по монетам'
+GUILDLIST_PLACE_STRING_NO_MEMBERS: '§cНе участвует в топе по участникам'
 GUILD_ALREADY_MUTED: §cЧат игрока %s §cуже заблокирован
 GUILD_BROADCAST_PROMOTE: §2Гильдия §8| §f%s §fизменил ранг игрока %s §fна "§a%s§f"
 GUILD_CANT_ACCEPT_MEMBERS: §cОшибка, в гильдии уже максимальное количество участников
 GUILD_CANT_CHANGE_HIS_RANK: §6Гильдии §8| §fВы не можете управлять рангом данного
   игрока
-GUILD_CANT_CREATE: §cСоздавать гильдии могут только игроки со статусом §c§lMAGMA §cи
+GUILD_CANT_CREATE: §cСоздавать гильдии могут только игроки со статусом §a§lEMERALD §cи
   выше
 GUILD_CANT_INVITE_YOURSELF: §cТы ебобо? Ты уже в гильдии!
 GUILD_CANT_SET_THIS_RANK: §6Гильдии §8| §fВы не можете установить такой ранг игроку
 GUILD_CHANGE_MOTD_BROADCAST: §2Гильдия §8| §fИгрок %s §fобновил приветствие гильдии
 GUILD_CHANGE_RANK_FORMAT: /guild setrank <ник игрока> <ранг>
 GUILD_CHANGE_TAG_BROADCAST: §2Гильдия §8| §fИгрок %s §fизменил тэг гильдии на §7%s
-GUILD_CHAT: §2Чат гильдии §8| §f%s §8» §f%s
+GUILD_CHAT: §bЧат гильдии §8| §f%s §8» §f%s
 GUILD_CHAT_FORMAT: /gchat <сообщение>
 GUILD_CREATED: §6Гильдии §8| §fВы создали гильдию §e%s
 GUILD_CREATE_FORMAT: /guild create <название>, (стоимость создания гильдии - 20,000
@@ -10085,7 +10093,6 @@ GUILD_HELP:
   - §7/guild ranks §f- открыть меню управления рангами
   - §7/guild delete §f- распустить гильдию
   - §7/guild makeleader <ник игрока> §f- передать лидерство
-  - §7/guild tag <тэг> §f- установить тэг гильдии
   - §7/guild party §f- собрать группу гильдии
   - §7/guild motd §f- управление приветствием гильдии
   - §7/guild shop §f- открыть магазин гильдии
@@ -10111,7 +10118,7 @@ GUILD_MAKELEADER_BROADCAST: §2Гильдия §8| §7%s §fпередал §cп
   игроку %s
 GUILD_MAKELEADER_FORMAT: /guild makeleader <ник игрока>
 GUILD_MAKELEADER_NO_RANK: §cОшибка, у нового владельца гильдии должен быть статус
-  §c§lMAGMA §cили выше
+  §a§lEMERALD §cили выше
 GUILD_MAKELEADER_SUCCESS: §6Гильдии §8| §fВы передали права управления гильдей игроку
   %s§f. Вы по-прежнему остаетесь в гильдии, но в роли модератора
 GUILD_MOTD_ADDLINE_FORMAT: /guild motd addline <текст>
@@ -10244,8 +10251,7 @@ GUILD_SHOP_POINT_LORE:
   - §7каждому участнику одной командой. Установить
   - '§7дом гильдии можно будет на следующих режимах:'
   - ' §8• SkyBlock'
-  - ' §8• Creative'
-  - ' §8• Anarchy'
+  - ' §8• Survival'
   - ' '
   - '§7Стоимость улучшения: §a%s'
   - ' '
@@ -10271,8 +10277,11 @@ GUILD_SHOP_TAG_LORE:
   - §7Позволяет задать тэг (суффикс)
   - §7гильдии, который будет отображаться
   - §7после ника каждого участника.
+  - §7Если у вас есть титул, то он будет
+  - §eзаменен §7на тэг гильдии!
   - ' '
   - §7Лимит - 10 букв или знаков
+  - '§8Пока недоступно...'
   - ' '
   - '§7Стоимость улучшения: §a%s'
   - ' '

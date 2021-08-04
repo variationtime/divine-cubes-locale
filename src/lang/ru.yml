@@ -10638,6 +10638,18 @@ DIAMOND_SHOVEL: 'Алмазная лопата'
 EXPERIENCE_BOTTLE: 'Бутыльки с опытом'
 ENCHANTED_GOLDEN_APPLE: 'Зачарованное золотое яблоко'
 NETHERITE_SCRAP: 'Незеритовый шлак'
+NETHERITE_PICKAXE: 'Незеритовая кирка'
+NETHERITE_HELMET: 'Незеритовый шлем'
+NETHERITE_BOOTS: 'Незеритовые ботинки'
+CRYING_OBSIDIAN: 'Плачущий обсидиан'
+WITHER_SKELETON_SKULL: 'Голова скелета иссушителя'
+REDSTONE_BLOCK: 'Блок редстоуна'
+FLINT_AND_STEEL: 'Зажигалка'
+NETHERITE_SWORD: 'Незеритовый меч'
+NETHERITE_AXE: 'Незеритовый топор'
+NETHERITE_SHOVEL: 'Незеритовая лопата'
+NETHERITE_HOE: 'Незеритовая мотыга'
+
 
 PROTECTION_UPGRADE_LEVEL_NAME: '§7Повысить уровень региона'
 PROTECTION_UPGRADE_LEVEL_LORE:
@@ -10674,23 +10686,29 @@ SELECT_VAULT_MONEY_LORE:
 
 VIPE_KIT_BUY_GUI_NAME: 'Подтвердите вашу покупку'
 VIPE_KIT_BUY_LORE:
-- '§fНажмите, если вы уверены в вашем выборе!'
+- ' '
+- '§7Нажмите, если вы уверены в вашем выборе!'
 VIPE_KIT_RERUN_GUI_NAME: 'Досрочная покупка набора'
 VIPE_KIT_RERUN_LORE:
 - '§fНажмите, если вы уверены в вашем выборе!'
 VIPE_KIT_GUI_NAME: 'Киты на весь вайп'
 VIPE_KIT_DEFAULT_LORE:
+- ' '
 - '§7Позволяет купить возможность'
 - '§7брать данный набор неограниченное'
 - '§7количество раз на этом вайпе,'
-- '§7с определенным интервалом.'
+- '§7с определенным интервалом'
+- ' '
 VIPE_KIT_LORE_ENABLE: '§aНажмите, чтобы забрать данный набор!'
 VIPE_KIT_LORE_COOLDOWN:
+- ' '
 - '§7Позволяет купить возможность'
 - '§7брать данный набор неограниченное'
 - '§7количество раз на этом Вайпе'
+- ' '
 VIPE_KIT_LORE_BUY:
-- '§fНажмите, чтобы купить данный набор'
+- '§aНажмите, чтобы купить данный набор'
+- ' '
 - '§7Цена: §e%s'
 VIPE_KIT_SELECT: '§aВы успешно купили данный набор!'
 VIPE_KIT_PVP_NAME: '§bНабор для PvP'

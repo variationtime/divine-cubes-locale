@@ -10720,3 +10720,11 @@ VIPE_KIT_BUILDER_NAME: '§bНабор Строителя'
 VIPE_KIT_GRIEFER_NAME: '§bНабор Грифера'
 VIPE_KIT_LIBRARIAN_NAME: '§bНабор Библиотекаря'
 VIPE_KIT_INSTRUMENTS_NAME: '§bНабор с Инструментами'
+
+HOLO_SHOP:
+- '§bТорговец предметами'
+- '§7Нажмите, чтобы открыть'
+
+HOLO_CUSTOMSHOP:
+- '§aТорговец редкостями'
+- '§7Нажмите, чтобы открыть'

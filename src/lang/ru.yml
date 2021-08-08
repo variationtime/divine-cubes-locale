@@ -10649,6 +10649,10 @@ NETHERITE_SWORD: 'Незеритовый меч'
 NETHERITE_AXE: 'Незеритовый топор'
 NETHERITE_SHOVEL: 'Незеритовая лопата'
 NETHERITE_HOE: 'Незеритовая мотыга'
+NETHERITE_CHESTPLATE: 'Незеритовый нагрудник'
+NETHERITE_LEGGINGS: 'Незеритовые штаны'
+TOTEM_OF_UNDYING: 'Тотем бессмертия'
+CROSSBOW: 'Арбалет'
 
 
 PROTECTION_UPGRADE_LEVEL_NAME: '§7Повысить уровень региона'

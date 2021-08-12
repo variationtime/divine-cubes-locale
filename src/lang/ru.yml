@@ -1,5 +1,6 @@
 LANGUAGE_CHANGE: '§2Сервер §8| §fВаш язык изменен на §c%s'
 BOARD_DOMAIN: '§aplay.villagemc.net'
+PROJECT_NAME: '§2§lVillageMC'
 
 TOP_POSITION: '§e%s место'
 LEVEL: 'уровень'

@@ -1,6 +1,6 @@
-LANGUAGE_CHANGE: '§2Сервер §8| §fВаш язык изменен на §c%s'
-BOARD_DOMAIN: '§aplay.villagemc.net'
-PROJECT_NAME: '§2§lVillageMC'
+LANGUAGE_CHANGE: '§5Сервер §8| §fВаш язык изменен на §c%s'
+BOARD_DOMAIN: '§aplay.kanddycraft.net'
+PROJECT_NAME: '§5§lKanddyCraft'
 
 TOP_POSITION: '§e%s место'
 LEVEL: 'уровень'
@@ -19,20 +19,20 @@ NOVEMBER: 'Ноябрь'
 DECEMBER: 'Декабрь'
 
 # группы
-WHEAT_NAME: '§6§lWHEAT'
-WHEAT_PREFIX: '§6§lWHEAT §6'
+WHEAT_NAME: '§6§lSWEET'
+WHEAT_PREFIX: '§6§lSWEET §6'
 GOLD_NAME: '§6§lGOLD'
 GOLD_PREFIX: '§e§lGOLD §e'
 DIAMOND_NAME: '§b§lDIAMOND'
 DIAMOND_PREFIX: '§b§lDIAMOND §b'
 EMERALD_NAME: '§a§lEMERALD'
 EMERALD_PREFIX: '§a§lEMERALD §a'
-SPONGE_NAME: '§7§lSPONGE'
-SPONGE_PREFIX: '§7§lSPONGE §7'
-COMPOT_NAME: '§c§lVILLAGER'
-COMPOT_PREFIX: '§c§lVILLAGER §c'
-JUNIOR_NAME: '§2§lDEFENDER'
-JUNIOR_PREFIX: '§2§lDEFENDER §a'
+SPONGE_NAME: '§7§lCRYSTAL'
+SPONGE_PREFIX: '§7§lCRYSTAL §7'
+COMPOT_NAME: '§c§lCANDY'
+COMPOT_PREFIX: '§c§lCANDY §c'
+JUNIOR_NAME: '§2§lPROTECTOR'
+JUNIOR_PREFIX: '§2§lPROTECTOR §a'
 YOUTUBE_NAME: '§f§lYou§c§lTube'
 YOUTUBE_PREFIX: '§f§lYouTube §c'
 BUILDER_NAME: '§3Строитель'
@@ -46,7 +46,7 @@ ADMIN_PREFIX: '§4§lADMIN §4'
 DEFAULT_NAME: '§7Игрок'
 DEFAULT_PREFIX: '§7'
 
-DOLLAR_SYMBOL_SURVIVAL: 'Бат'
+DOLLAR_SYMBOL_SURVIVAL: 'Доллар'
 INDEFINITELY: 'бессрочно'
 
 ME_FORMAT: '/me <сообщение>'
@@ -54,14 +54,14 @@ DO_FORMAT: '/do <сообщение>'
 TRY_FORMAT: '/try <сообщение>'
 COMMAND_DISABLE_ON_SPAWN: '§cДанная команда не доступна в мире спавна'
 
-WEB_BUY_ITEMS: '§2Сервер §8▏ §fПоздравляем с покупкой %s §8x%s'
+WEB_BUY_ITEMS: '§5Сервер §8▏ §fПоздравляем с покупкой %s §8x%s'
 
 RESTART: 'Рестарт сервера через'
 HIDE: 'Скрыт'
 
-SERVER_TO_WAIT: '§2Сервер §8▏ §fЖдем появления вашего сервера...'
-SERVER_TO: '§2Сервер §8▏ §fВы подключены к серверу §a%s'
-SERVER_TO_LIMBO: '§2Сервер §8▏ §fВаш сервер был не найден в главном ядре, вы были телепортированы в §aLimbo'
+SERVER_TO_WAIT: '§5Сервер §8▏ §fЖдем появления вашего сервера...'
+SERVER_TO: '§5Сервер §8▏ §fВы подключены к серверу §a%s'
+SERVER_TO_LIMBO: '§5Сервер §8▏ §fВаш сервер был не найден в главном ядре, вы были телепортированы в §aLimbo'
 SERVER_ERROR: '§cВозникла внутренняя ошибка сервера'
 WAIT_PLS: '§cПодождите немножко...'
 
@@ -114,20 +114,20 @@ STREAMS_GUI_LORE:
 - '§7Длительность: §f%s'
 - ''
 - '§a▸ Нажмите, чтобы получить ссылку'
-STREAMS_YOUTUBE_ONLY: '§2YouTube §8▏ §fПростите, но доступ к управлению трансляциями есть только у %s'
-STREAMS_NO_STREAMS_YOU: '§2YouTube §8▏ §fВ данный момент у вас нет активных стримов!'
-STREAMS_ALREADY: '§2YouTube §8▏ §fУ вас уже есть запущенная трансляция!'
-STREAMS_NO_STREAMS_TARGET: '§2YouTube §8▏ §fУ игрока %s §fнет активных трансляций!'
-STREAMS_STOP: '§2YouTube §8▏ §fВещание вашей трансляции было остановлено...'
-STREAMS_ADD: '§2YouTube §8▏ §fТрансляция успешно добавлена на сервер! Через §a2§f минуты об этом будут уведомлены все игроки! §c(Если вы слишком часто добавляете стрим, то этого уведомления не будет!)'
-STREAMS_ADD_ERROR: '§2YouTube §8▏ §cВозникла ошибка при добавлении трансляци... Возможно стрим не запущен...'
-STREAMS_ADD_SYNTAX_ERROR: '§2YouTube §8▏ §cОшибка, введена некорректная ссылка'
-STREAMS_ADD_LAST_ERROR: '§2YouTube §8▏ §cОшибка, вы должны запускать стрим только на сервере VillageMC'
-STREAMS_DELETE_TARGET: '§2YouTube §8▏ §fВы удалили трансляцию игрока %s'
-STREAMS_DELETE_STREAM: '§2YouTube §8▏ §fСтрим на платформе %s §fудален'
-STREAMS_DELETE_STREAM_BY: '§2YouTube §8▏ %s §fудалил ваш стрим на платформе %s'
+STREAMS_YOUTUBE_ONLY: '§5YouTube §8▏ §fПростите, но доступ к управлению трансляциями есть только у %s'
+STREAMS_NO_STREAMS_YOU: '§5YouTube §8▏ §fВ данный момент у вас нет активных стримов!'
+STREAMS_ALREADY: '§5YouTube §8▏ §fУ вас уже есть запущенная трансляция!'
+STREAMS_NO_STREAMS_TARGET: '§5YouTube §8▏ §fУ игрока %s §fнет активных трансляций!'
+STREAMS_STOP: '§5YouTube §8▏ §fВещание вашей трансляции было остановлено...'
+STREAMS_ADD: '§5YouTube §8▏ §fТрансляция успешно добавлена на сервер! Через §a2§f минуты об этом будут уведомлены все игроки! §c(Если вы слишком часто добавляете стрим, то этого уведомления не будет!)'
+STREAMS_ADD_ERROR: '§5YouTube §8▏ §cВозникла ошибка при добавлении трансляци... Возможно стрим не запущен...'
+STREAMS_ADD_SYNTAX_ERROR: '§5YouTube §8▏ §cОшибка, введена некорректная ссылка'
+STREAMS_ADD_LAST_ERROR: '§5YouTube §8▏ §cОшибка, вы должны запускать стрим только на сервере KanddyCraft'
+STREAMS_DELETE_TARGET: '§5YouTube §8▏ §fВы удалили трансляцию игрока %s'
+STREAMS_DELETE_STREAM: '§5YouTube §8▏ §fСтрим на платформе %s §fудален'
+STREAMS_DELETE_STREAM_BY: '§5YouTube §8▏ %s §fудалил ваш стрим на платформе %s'
 STREAMS_EXAMPLE:
-- '§2YouTube §8▏ §fПримеры ссылок, которые поддерживаются:'
+- '§5YouTube §8▏ §fПримеры ссылок, которые поддерживаются:'
 - ' §8▪ §fПрямой эфир на §7You§cTube§f: §dhttps://www.youtube.com/watch?v=XXXXXXXXX'
 - ' §8▪ §5Twitch§f канал, проводящий стрим: §dhttps://www.twitch.tv/XXXXXXXX'
 
@@ -138,14 +138,14 @@ PARKOUR_ITEM_LORE:
 - '§7чтобы закончить паркур §8(ПКМ)'
 PARKOUR_ACTION_BAR: 'Вы проходите паркур §a%s §f%s'
 PARKOUR_START_TITLE: '§eВы начали проходить паркур'
-PARKOUR_START: '§2Parkour §8▏ §fВы начали проходить паркур. На вашем пути будет §a%s§f чекпоинтов и за прохождение вы получите §6%s монет'
-PARKOUR_FINISH: '§2Parkour §8▏ §fПаркур успешно пройден за §a%s §f%s, а ваш приз составил §6%s монет'
-PARKOUR_TO_POINT: '§2Parkour §8▏ §fТелепортируем на чекпоинт...'
-PARKOUR_MISS_POINT: '§2Parkour §8▏ §cОшибка, вы пропустили чекпоин!'
-PARKOUR_DISABLE_FLY: '§2Parkour §8▏ §cОшибка, режим полета на паркуре запрещен!'
-PARKOUR_DISABLE_JUMP: '§2Parkour §8▏ §cОшибка, двойные прыжки на паркуре запрещены!'
-PARKOUR_DISABLE_SIT: '§2Parkour §8▏ §cОшибка, вы не можете использовать /sit во время паркура!'
-PARKOUR_DISABLE_DISABLE: '§2Parkour §8▏ §fВы покинули паркур'
+PARKOUR_START: '§5Parkour §8▏ §fВы начали проходить паркур. На вашем пути будет §a%s§f чекпоинтов и за прохождение вы получите §6%s монет'
+PARKOUR_FINISH: '§5Parkour §8▏ §fПаркур успешно пройден за §a%s §f%s, а ваш приз составил §6%s монет'
+PARKOUR_TO_POINT: '§5Parkour §8▏ §fТелепортируем на чекпоинт...'
+PARKOUR_MISS_POINT: '§5Parkour §8▏ §cОшибка, вы пропустили чекпоин!'
+PARKOUR_DISABLE_FLY: '§5Parkour §8▏ §cОшибка, режим полета на паркуре запрещен!'
+PARKOUR_DISABLE_JUMP: '§5Parkour §8▏ §cОшибка, двойные прыжки на паркуре запрещены!'
+PARKOUR_DISABLE_SIT: '§5Parkour §8▏ §cОшибка, вы не можете использовать /sit во время паркура!'
+PARKOUR_DISABLE_DISABLE: '§5Parkour §8▏ §fВы покинули паркур'
 PARKOUR_POINT_HOLO:
 - '§6§lЧекпоинт #%s'
 - '§fОбязательно наступите на плиту!'
@@ -158,43 +158,43 @@ PARKOUR_END_HOLO:
 - '§fКонец паркура'
 - '§fПриз: §6%s монет'
 
-SIT_ENABLE: '§2Сервер §8▏ §fВы успешно сели'
-SIT_DISABLE: '§2Сервер §8▏ §fВы успешно встали'
-SIT_ERROR: '§2Сервер §8▏ §fВы не можете сидеть в воздухе'
+SIT_ENABLE: '§5Сервер §8▏ §fВы успешно сели'
+SIT_DISABLE: '§5Сервер §8▏ §fВы успешно встали'
+SIT_ERROR: '§5Сервер §8▏ §fВы не можете сидеть в воздухе'
 
-DISCORD_CONFIRM_ERROR: '§2Discord §8▏ §cОшибка, включите личные сообщения от участников сервера или разблокируйте личные сообщения от бота (%s)'
+DISCORD_CONFIRM_ERROR: '§5Discord §8▏ §cОшибка, включите личные сообщения от участников сервера или разблокируйте личные сообщения от бота (%s)'
 DISCORD_CONFIRM_PLS:
 - ' '
-- '§2Discord §8▏ §fВам было отправлено сообщение в §9Discord'
-- '§2Discord §8▏ §cСледуйте указаниям бота§f, чтобы закончить привязку'
+- '§5Discord §8▏ §fВам было отправлено сообщение в §9Discord'
+- '§5Discord §8▏ §cСледуйте указаниям бота§f, чтобы закончить привязку'
 - ' '
-DISCORD_PRINT_NAME: 'Привет! Для того, чтобы привязать этот дискорд к вашему аккаунту на сервере VillageMC, вы должны написать в этот чат свой игровой никнейм. Учти, если ты покинешь сервер, то процесс привязки прервется!'
+DISCORD_PRINT_NAME: 'Привет! Для того, чтобы привязать этот дискорд к вашему аккаунту на сервере KanddyCraft, вы должны написать в этот чат свой игровой никнейм. Учти, если ты покинешь сервер, то процесс привязки прервется!'
 DISCORD_NAME_IS_ERROR: 'Ошибка, имя игрока указано не правильно'
-DISCORD_GIVE_MONEY: 'Вы получаете %s %s за %s %s в дискорд канале сервера VillageMC'
+DISCORD_GIVE_MONEY: 'Вы получаете %s %s за %s %s в дискорд канале сервера KanddyCraft'
 DISCORD_HELP:
   - '§7/discord link <tag> §f- привязать к дискорду'
   - '§7/discord unlink §f- отвязать от дискорда'
   - '§7/discord info <ник игрока> §f- узнать дискорд игрока'
-DISCORD_UNLINK: '§2Discord §8▏ §fВы успешно отвязали аккаунт %s'
-DISCORD_LINK: '§2Discord §8▏ §fВы успешно привязали аккаунт %s §fк Discord §7%s'
-DISCORD_LINK_ERROR_SERVER: '§2Discord §8▏ §fОшибка, вы должны зайти в Discord сервер VillageMC §7discord.villagemc.net'
+DISCORD_UNLINK: '§5Discord §8▏ §fВы успешно отвязали аккаунт %s'
+DISCORD_LINK: '§5Discord §8▏ §fВы успешно привязали аккаунт %s §fк Discord §7%s'
+DISCORD_LINK_ERROR_SERVER: '§5Discord §8▏ §fОшибка, вы должны зайти в Discord сервер KanddyCraft §7discord.KanddyCraft.net'
 DISCORD_LINK_FORMAT: '/discord link <tag>'
-DISCORD_LINK_ALREADY: '§2Discord §8▏ §fОшибка, у вас уже есть привязка к Discord'
-DISCORD_LINK_ALREADY_2: '§2Discord §8▏ §fОшибка, данный Discord уже привязан к другому аккаунту'
-DISCORD_INFO: '§2Discord §8▏ §fУ пользователя %s §fпривязан Discord §7%s'
-DISCORD_INFO_ERROR: '§2Discord §8▏ §fДанный игрок не привязал свой аккаунт к Discord'
-DISCORD_INFO_YOU: '§2Discord §8▏ §fК вашему аккаунту привязан Discord §7%s'
-DISCORD_INFO_YOU_ERROR: '§2Discord §8▏ §fК вашему аккаунту не привязан Discord'
-DISCORD_USER_NOTFOUND: '§2Discord §8▏ §fОшибка, данный профиль §7Discord §fне найден!'
+DISCORD_LINK_ALREADY: '§5Discord §8▏ §fОшибка, у вас уже есть привязка к Discord'
+DISCORD_LINK_ALREADY_2: '§5Discord §8▏ §fОшибка, данный Discord уже привязан к другому аккаунту'
+DISCORD_INFO: '§5Discord §8▏ §fУ пользователя %s §fпривязан Discord §7%s'
+DISCORD_INFO_ERROR: '§5Discord §8▏ §fДанный игрок не привязал свой аккаунт к Discord'
+DISCORD_INFO_YOU: '§5Discord §8▏ §fК вашему аккаунту привязан Discord §7%s'
+DISCORD_INFO_YOU_ERROR: '§5Discord §8▏ §fК вашему аккаунту не привязан Discord'
+DISCORD_USER_NOTFOUND: '§5Discord §8▏ §fОшибка, данный профиль §7Discord §fне найден!'
 
-VK_NOT_LINK: '§2VK-bot §8▏ §fДанный игрок не привязал свой аккаунт к §9VK §fботу'
+VK_NOT_LINK: '§5VK-bot §8▏ §fДанный игрок не привязал свой аккаунт к §9VK §fботу'
 VK_ERROR: '§cДанный игрок запретил узнавать его страницу VK'
 VK_FORMAT: '/vk <ник>'
-VK_OTHER: '§2VK-bot §8▏ §fУ пользователя %s §fпривязан аккаунт §7vk.com/id%s'
+VK_OTHER: '§5VK-bot §8▏ §fУ пользователя %s §fпривязан аккаунт §7vk.com/id%s'
 VK: '§2VK-bot §8▏ §fК вашему аккаунту привязан профиль §7vk.com/id%s'
-VK_NOT_LINK_YOU: '§2VK-bot §8▏ §fК вашему аккаунту не привязан профиль §9VK'
-VK_SENT_MESSAGE_FORMAT: ' §2ЛС §8▏ §2Я §8-> §2%s §7(VK) §8▏ §f%s'
-VK_RECIEVED_MESSAGE_FORMAT: ' §2ЛС §8▏ §2%s §7(VK) §8-> §2Я §8▏ §f%s'
+VK_NOT_LINK_YOU: '§5VK-bot §8▏ §fК вашему аккаунту не привязан профиль §9VK'
+VK_SENT_MESSAGE_FORMAT: ' §5ЛС §8▏ §2Я §8-> §2%s §7(VK) §8▏ §f%s'
+VK_RECIEVED_MESSAGE_FORMAT: ' §5ЛС §8▏ §2%s §7(VK) §8-> §2Я §8▏ §f%s'
 
 BREAK_BLOCK_UNDER_TEAM: '§cВы не можете ломать блоки под своими тиммейтами'
 
@@ -208,15 +208,15 @@ FREE: 'Бесплатно'
 NO_RARITY: 'Без редкости'
 
 TOP_MONEY_HOLO:
-- '§2§lТоп по монетам'
+- '§5§lТоп по монетам'
 - '§fИгроки с самыми большим'
 - '§fколичеством монет'
 TOP_LEVEL_HOLO:
-- '§2§lТоп по уровню'
+- '§5§lТоп по уровню'
 - '§fИгроки с самыми большим'
 - '§fмежсерверным уровнем'
 TOP_TIME_HOLO:
-- '§2§lТоп по сыгранному времени'
+- '§5§lТоп по сыгранному времени'
 - '§fТоп игроков по'
 - '§fпроведенному времени на сервере'
 - '§fза §7%s'
@@ -225,13 +225,13 @@ NO_CHANGE_SKIN: '§cСкин установлен, но для его обнов
 FINAL_KILL: '%s §fбыл убит игроком %s §bФИНАЛЬНОЕ УБИЙСТВО!'
 
 BOSS_BAR_LOBBY:
-- '§fПОДДЕРЖИ НАШУ §aДЕРЕВНЮ§f, КУПИ §eПРИВИЛЕГИЮ §fНА САЙТЕ §7► §6§lVILLAGEMC.NET'
-- '§fУСТАЛ ИГРАТЬ §eОДИН? §fЗАХОДИ В §9§lDISCORD §7► §d§lDISCORD.VILLAGEMC.NET'
-- '§fНАШ §aЕДИНСТВЕННЫЙ §fИ §eНЕПОВТОРИМЫЙ §fСАЙТ §7► §6§lVILLAGEMC.NET'
+- '§fПОДДЕРЖИ НАШУ §aДЕРЕВНЮ§f, КУПИ §eПРИВИЛЕГИЮ §fНА САЙТЕ §7► §6§lKanddyCraft.NET'
+- '§fУСТАЛ ИГРАТЬ §eОДИН? §fЗАХОДИ В §9§lDISCORD §7► §d§lDISCORD.KanddyCraft.NET'
+- '§fНАШ §aЕДИНСТВЕННЫЙ §fИ §eНЕПОВТОРИМЫЙ §fСАЙТ §7► §6§lKanddyCraft.NET'
 
-LIMIT_REACHED: '§2Сервер §8▏ §fВы достигли лимита для этого наказания, подождите еще §e%s'
+LIMIT_REACHED: '§5Сервер §8▏ §fВы достигли лимита для этого наказания, подождите еще §e%s'
 
-RULES_COMMAND: '§2Сервер §8▏ §fПолный список правил сервера - '
+RULES_COMMAND: '§5Сервер §8▏ §fПолный список правил сервера - '
 RULES_COMMAND_HOVER: '§fНажмите сюда, чтобы перейти по ссылке'
 
 NO_PERMS: '§cУ вас нет прав'
@@ -242,7 +242,7 @@ ANARCHY_KILL_MOB: '§a+%s %s за убийство моба'
 KILL_MOB: '§a+%s §fза убийство моба'
 
 PLAYER_LEFT: '§fИгрок %s§f покинул игру'
-PING: '§2Сервер §8▏ §fВаш пинг §a%s §fms'
+PING: '§5Сервер §8▏ §fВаш пинг §a%s §fms'
 ACCEPT: 'Подтвердить'
 RARITY: 'Редкость'
 
@@ -253,11 +253,11 @@ ABSENT: 'Отсутствует'
 REMOVED: '§cУдалено'
 
 HOLO_TOP_ALL:
-- '§2§l%s'
+- '§5§l%s'
 - '§fТоп игроков по победам'
 - '§fза §eВСЕ ВРЕМЯ'
 HOLO_TOP_MONTHLY:
-- '§2§l%s'
+- '§5§l%s'
 - '§fТоп игроков по победам'
 - '§fза §e%s'
 HOLO_TOP_UPDATE: '§cДо обновления: §c%s'
@@ -306,7 +306,7 @@ COOLDOWN_2: '§cПодождите %s перед следующим исполь
 COOLDOWN_SEND_MESSAGE: '§cПодождите %s перед следующим использованием оффлайн сообщений (если вы будете писать друзьями, то лимита не будет)'
 AFK: '§cНе стой на месте!'
 
-BALANCE: '§2Баланс §8▏ §fНа вашем аккаунте §a%s §f%s и §2%s %s'
+BALANCE: '§5Баланс §8▏ §fНа вашем аккаунте §a%s §f%s и §5%s %s'
 
 LIST_CMD: '%s§fНа сервере §a%s §f%s: %s'
 
@@ -332,15 +332,15 @@ HOLO_SHOP_NPC:
 - '§fНажмите, чтобы купить'
 - '§fразличные улучшения для игры'
 HOLO_DONATE:
-- '§fПоддержи деревню, купи донат!'
-- '§6§lWHEAT §f- §669 §fРублей'
+- '§fПоддержи сервер, купи донат!'
+- '§6§lSWEET §f- §669 §fРублей'
 - '§e§lGOLD §f- §6169 §fРублей'
 - '§b§lDIAMOND §f- §6299 §fРублей'
 - '§a§lEMERALD §f- §6399 §fРублей'
-- '§%animation%§lSPONGE §f- §6859 §fРублей'
-- '§c§lVILLAGER §f- §61399 §fРублей'
+- '§%animation%§lCRYSTAL §f- §6859 §fРублей'
+- '§c§lCANDY §f- §61399 §fРублей'
 - '§fНаш онлайн-магазин:'
-- '§a§lVILLAGEMC.NET'
+- '§a§lKanddyCraft.NET'
 
 BOOK_RULES_NAME: '§eПравила'
 BOOK_RULES_LORE:
@@ -605,8 +605,8 @@ LVL_UP: '§a§l§kX§r §6§lУРОВЕНЬ ПОВЫШЕН §a§l§kX§r'
 NEW_LVL: '§fВы достигли §d%s§f уровня!'
 EXP_TO_NEW_LVL: '§fДо следующего уровня нужно §a%s§f опыта'
 GET_REWARD: '§7Зайдите в профиль, чтобы получить свою награду'
-LEVEL_COMMAND_1: '§2Игровой уровень §8▏ §fУ вас §d%s§f уровень'
-LEVEL_COMMAND_2: '§2Игровой уровень §8▏ §fДо следующего уровня необходимо набрать §a%s§f опыта'
+LEVEL_COMMAND_1: '§5Игровой уровень §8▏ §fУ вас §d%s§f уровень'
+LEVEL_COMMAND_2: '§5Игровой уровень §8▏ §fДо следующего уровня необходимо набрать §a%s§f опыта'
 
 BOARD_BED: 'Кровать'
 BOARD_EGG: 'Яйцо'
@@ -673,7 +673,7 @@ PROFILE_MAIN_ITEM_PLAYER_LORE:
 - '§7Дата окончения: %s'
 - ''
 - '§7Монет: §6%s'
-- '§7Изумрудов: §2%s'
+- '§7Изумрудов: §5%s'
 - ''
 - '§7Друзей: §f%s§7/§f%s'
 - ''
@@ -759,7 +759,7 @@ LEVEL_REWARD_LORE1:
 LEVEL_REWARD_LORE2:
 - ' '
 - '§a▸ Получить награду'
-LEVELING_WAIT_REWARD: '§2Сервер §8▏ §fЭй! Ты не забрал §a%s§f награды. Чтобы их забрать, напиши §7/profile§f и кликни на вкладку §6уровень'
+LEVELING_WAIT_REWARD: '§5Сервер §8▏ §fЭй! Ты не забрал §a%s§f награды. Чтобы их забрать, напиши §7/profile§f и кликни на вкладку §6уровень'
 LEVELING_LOAD_NAME: '§cИнформация загружается...'
 LEVELING_LOAD_LORE:
 - '§7Информация о ваших уровнях загружается'
@@ -798,7 +798,7 @@ GUI_DONATE_GUI_NAME: 'Возможности'
 GUI_DONATE_GUI_ITEM_NAME: '§bОбщие бонусы'
 GUI_DONATE_WHEAT_ITEM_LORE:
 - ''
-- ' §8▪ §7Преффикс §6§lWHEAT'
+- ' §8▪ §7Преффикс §6§lSWEET'
 - ' §8▪ §7Приветствие при входе'
 - ' §8▪ §7Доступен х2 прыжок во всех лобби'
 - ' §8▪ §7Возможность писать заглавными БУКВАМИ'
@@ -818,7 +818,7 @@ GUI_DONATE_WHEAT_SKYBLOCK_LORE:
 - ' §8▪ §7Восстановить голод - §f/feed'
 - ' §8▪ §7Надевать различные вещи на голову - §f/hat'
 - ' §8▪ §7Доступ к особым флагам острова - §f/is flag'
-- ' §8▪ §7Особый набор вещей каждые два §7дня (§f/kit wheat§7)'
+- ' §8▪ §7Особый набор вещей каждые два §7дня (§f/kit sweet§7)'
 - ' §8▪ §7Телепортация на спавн при падении в бездну'
 - ' §8▪ §7Возможность поставить 2 варпа'
 - ' §8▪ §7Разрешено иметь до §c70 §7мобов на острове'
@@ -988,7 +988,7 @@ GUI_DONATE_EMERALD_SKYBLOCK_LORE:
 - ''
 GUI_DONATE_SPONGE_ITEM_LORE:
 - ''
-- ' §8▪ §7Преффикс §7§lSPONGE'
+- ' §8▪ §7Преффикс §7§lCRYSTAL'
 - ' §8▪ §7Приветствие при входе'
 - ' §8▪ §7Возможность сменить цвет преффикса'
 - ' §8▪ §7Доступен х2 прыжок во всех лобби(если отключить полет)'
@@ -1234,8 +1234,8 @@ DONATE_MENU_FAST_MESSAGE_LORE:
 - '§7команду §c/fm §7или §c/fastmessage'
 - ''
 - '§a▸ Нажмите, чтобы открыть меню'
-NO_PREFIX_SET: '§2Сервер §8▏ §cВы не можете сменить префикс во время игры'
-PREFIX_SET: '§2Сервер §8▏ §fВаш префикс был изменен'
+NO_PREFIX_SET: '§5Сервер §8▏ §cВы не можете сменить префикс во время игры'
+PREFIX_SET: '§5Сервер §8▏ §fВаш префикс был изменен'
 DONATE_MENU_PREFIX_NAME: 'Смена префикса'
 DONATE_MENU_PREFIX_LORE:
 - '§7Смена цвета префикса'
@@ -1359,7 +1359,7 @@ GOD_DISABLE_TO: 'Для игрока %s §fрежим бога - §cотключ
 TELEPORTING_RUNNING: '§cПроцесс телепортации уже запущен!'
 LIST:
 - ''
-- '§2Сервер §8▏ §fНа режиме %s'
+- '§5Сервер §8▏ §fНа режиме %s'
 - ' §a▪ §fКрутые ребята: %s'
 - ' §a▪ §fИгроки: %s'
 - ' §a▪ §fДонатеры: %s'
@@ -1564,8 +1564,8 @@ TRADE_HELP:
 - '§7/trade <ник> §f- предложить обмен'
 - '§7/trade accept <ник> §f- принять обмен'
 TRADE_ERROR_YOU: '§cВы не можете обмениваться сам с собой'
-TRADE_ERROR: '§2Trade §8▏ §fС вами еще никто не хотел поменяться'
-TRADE_ERROR2: '§2Trade §8▏ §fУ вас нет ожидающих заявок от игрока %s'
+TRADE_ERROR: '§5Trade §8▏ §fС вами еще никто не хотел поменяться'
+TRADE_ERROR2: '§5Trade §8▏ §fУ вас нет ожидающих заявок от игрока %s'
 #skyblock holo
 HOLO_SKYBLOCK_START:
 - '§fДля начала игры на режиме "§3СкайБлок§f"'
@@ -1692,15 +1692,15 @@ INVALID_ITEM_RECIPE: '§cОшибка, рецепт не найден'
 
 REDIRECT_ERROR: '§cНевозможно найти подходящий сервер('
 TAB_HEADER:
-- '§2§lVillageMC'
+- '§5§lKanddyCraft'
 - ''
 - '§fПривилегии, кейсы и многое другое:'
-- '§avillagemc.net'
+- '§aKanddyCraft.net'
 - ''
 TAB_FOOTER:
 - ''
 - '§fИгровой сервер:'
-- '§2%s'
+- '§5%s'
 AUTH_PLEASE: §7Авторизуйтесь - §e/login §f[§eпароль§f]
 REGISTER_PLEASE: §7Зарегистрируйтесь - §e/reg §f[§eпароль§f] §f[§eповтор пароля§f]
 AUTH_NOTIFICATION_TITLE_REGISTER: §7Для продолжения зарегистрируйтесь
@@ -1710,8 +1710,8 @@ ALREADY_AUTHORIZED: §cВы уже авторизованы!
 FAIL_AUTH: §cОшибка, неверный пароль!
 SUCCESS_AUTH: §fАвторизация успешна! Приятной игры :)
 YOU_HAVE_JUST_LOGGED_OUT: §cВы вышли из своего аккаунта
-NOT_PREMIUM_ANYMORE: §2Лицензия §8▏ §fВход через лицензию отключен, надеюсь ты помнишь свой пароль, ибо он тебе пригодится
-YOU_ARE_NOW_PREMIUM: §2Лицензия §8▏ §fПоздравляем, теперь вход возможен только с §aлицензионного аккаунта!
+NOT_PREMIUM_ANYMORE: §5Лицензия §8▏ §fВход через лицензию отключен, надеюсь ты помнишь свой пароль, ибо он тебе пригодится
+YOU_ARE_NOW_PREMIUM: §5Лицензия §8▏ §fПоздравляем, теперь вход возможен только с §aлицензионного аккаунта!
 SUCCESSFUL_REGISTRATION: '§6Ты успешно зарегистрировался! §fТвой текущий пароль'
 HOVER: ' §7(наведи сюда)'
 REGISTERED_PASS_HOVER:
@@ -1724,8 +1724,8 @@ KICK_AUTH:
 - '§cввода пароля. Ваш аккаунт'
 - '§cзаблокирован на несколько минут'
 REJOIN_TO_BE_PREMIUM:
-- '§2Лицензия §8▏ §fПерезайди на сервер с лицензионного аккаунта, чтобы активировать данную опцию'
-- '§2Лицензия §8▏ §fЕсли спустя §c2 §fминуты, ты не зайдешь с §aлиц. аккаунта§f, то вход будет вновь доступен с пиратского'
+- '§5Лицензия §8▏ §fПерезайди на сервер с лицензионного аккаунта, чтобы активировать данную опцию'
+- '§5Лицензия §8▏ §fЕсли спустя §c2 §fминуты, ты не зайдешь с §aлиц. аккаунта§f, то вход будет вновь доступен с пиратского'
 PLEASE_SETUP_EMAIL: §c⚠ Эй, посмотри сюда! §fТы не привязал свою §cэл. почту §fк аккаунту, сделай это прямо сейчас и §6защити §fсвой аккаунт от взлома - §a/email
 PLEASE_SETUP_EMAIL_HOVER:
 - '§fНажмите сюда,'
@@ -1736,20 +1736,20 @@ PASSWORD_HAS_BEEN_CHANGED: §eВаш пароль был успешно изме
 LOGIN_USAGE: /login <ваш пароль>
 REGISTER_USAGE: /reg <пароль> <повтор пароля>
 CHANGEPASS_FORMAT: '/changepass <старый пароль> <новый пароль>'
-SKIN_HAS_BEEN_RESET: §2Скин §8▏ §fВаш скин был сброшен
+SKIN_HAS_BEEN_RESET: §5Скин §8▏ §fВаш скин был сброшен
 SELECTED_SKIN_IS_INVALID: §cВыбранный вами скин невалиден или произошла какая-то ошибка
-SKIN_HAS_BEEN_UPDATED_TO: §2Скин §8▏ §fВаш скин был обновлен
+SKIN_HAS_BEEN_UPDATED_TO: §5Скин §8▏ §fВаш скин был обновлен
 SKIN_FORMAT: '/skin <reset/ник игрока>'
 FIND_FORMAT: '/find <ник игрока>'
 ALERT_FORMAT: '/alert <сообщение>'
 SERVER_FORMAT: '/server <сервер>'
 SEND_FORMAT: '/send <ник игрока> <сервер>'
-FIND_RESULT: '§2Сервер §8▏ §fИгрок %s §fнаходится на сервере §c%s'
-FIND_RESULT_OFFLINE: '§2Сервер §8▏ §fИгрок %s §fоффлайн, последний раз он был на сервере §7%s §fназад'
+FIND_RESULT: '§5Сервер §8▏ §fИгрок %s §fнаходится на сервере §c%s'
+FIND_RESULT_OFFLINE: '§5Сервер §8▏ §fИгрок %s §fоффлайн, последний раз он был на сервере §7%s §fназад'
 SERVER_IS_NOT_ONLINE: §cСервер не найден!
-SERVER_TELEPORTATION: '§2Сервер §8▏ §fВы были телепортированы на сервер §a%s'
-YOU_HAVE_BEEN_SENT: §2Сервер §8▏ %s §fтелепортировал вас на сервер §c%s
-SENDING_PLAYER_TO_SERVER: §2Сервер §8▏ §fИгрок %s §fуспешно телепортирован на сервер §c%s
+SERVER_TELEPORTATION: '§5Сервер §8▏ §fВы были телепортированы на сервер §a%s'
+YOU_HAVE_BEEN_SENT: §5Сервер §8▏ %s §fтелепортировал вас на сервер §c%s
+SENDING_PLAYER_TO_SERVER: §5Сервер §8▏ §fИгрок %s §fуспешно телепортирован на сервер §c%s
 FRIENDS_ADD_FORMAT: /f add <ник игрока>
 FRIENDS_REMOVE_FORMAT: /f remove <ник друга>
 FRIENDS_ACCEPT_FORMAT: /f accept <ник игрока>
@@ -1766,22 +1766,22 @@ HELP_FRIENDS:
 - '§7/friends party §f- отправить всем друзьям онлайн приглашение в Party'
 FRIENDS_YOURSELF_AS_FRIEND: '§cВы не можете отправить заявку в друзья самому себе'
 FRIENDS_ALREADY_FRIENDS: '§cВы уже являетесь друзьями!'
-FRIENDS_PLAYER_REMOVED: '§2Друзья §8▏ §fИгрок %s §fбыл удален из вашего списка друзей'
-FRIENDS_PLAYER_REMOVED_YOU: '§2Друзья §8▏ §fИгрок %s §fудалил Вас из друзей.'
-FRIENDS_ONLINE: '§2Друзья §8▏ §fВ онлайне §a%d §f%s'
-FRIENDS_INVITE_SENT: '§2Друзья §8▏ §fЗапрос в друзья отправлен игроку %s'
+FRIENDS_PLAYER_REMOVED: '§5Друзья §8▏ §fИгрок %s §fбыл удален из вашего списка друзей'
+FRIENDS_PLAYER_REMOVED_YOU: '§5Друзья §8▏ §fИгрок %s §fудалил Вас из друзей.'
+FRIENDS_ONLINE: '§5Друзья §8▏ §fВ онлайне §a%d §f%s'
+FRIENDS_INVITE_SENT: '§5Друзья §8▏ §fЗапрос в друзья отправлен игроку %s'
 FRIENDS_ALREADY_SENT_REQUEST: '§cВы уже отправляли запрос в друзья данному игроку...'
 FRIENDS_INVITE_EVENT_CANCELLED: '§cДанный игрок запретил отправлять ему запросы в друзья'
-FRIENDS_INVITE_TEXT: '§2Друзья §8▏ §fИгрок %s §fотправил Вам запрос в друзья. Он будет автоматически отклонен через 5 минут'
+FRIENDS_INVITE_TEXT: '§5Друзья §8▏ §fИгрок %s §fотправил Вам запрос в друзья. Он будет автоматически отклонен через 5 минут'
 FRIENDS_INVITE_EXPIRED: '§cЗапрос, отправленный игроку %s §fбыл автоматически отклонен'
 FRIENDS_DONT_HAVE_INVITES_FROM: '§cУ вас нет запросов в друзья от игрока %s'
-FRIENDS_NEW_FRIEND: '§2Друзья §8▏ §fПоздравляем! Вы стали друзьями с игроком %s'
+FRIENDS_NEW_FRIEND: '§5Друзья §8▏ §fПоздравляем! Вы стали друзьями с игроком %s'
 FRIEND_NEW_INVITE: '%s §fпредлагает вам дружить §7(общих %s)'
-FRIENDS_YOU_REJECTED_REQUEST: '§2Друзья §8▏ §fВы отклонили запрос в друзья от игрока %s'
-FRIENDS_REQUEST_REJECTED: '§2Друзья §8▏ §fИгрок %s §fотклонил Ваш запрос в друзья'
-FRIEND_JOINED: '§2Друзья §8▏ §fВаш друг %s §fзашел в игру §7(нажмите сюда)'
+FRIENDS_YOU_REJECTED_REQUEST: '§5Друзья §8▏ §fВы отклонили запрос в друзья от игрока %s'
+FRIENDS_REQUEST_REJECTED: '§5Друзья §8▏ §fИгрок %s §fотклонил Ваш запрос в друзья'
+FRIEND_JOINED: '§5Друзья §8▏ §fВаш друг %s §fзашел в игру §7(нажмите сюда)'
 FRIEND_JOINED_HOVER: '§fНажмите, чтобы написать игроку %s §fсообщение'
-PARTY_REQUEST_SENT_TO_FRIENDS: '§2Друзья §8▏ §fЗапрос в группу отправлен всем друзьям онлайн'
+PARTY_REQUEST_SENT_TO_FRIENDS: '§5Друзья §8▏ §fЗапрос в группу отправлен всем друзьям онлайн'
 YOU_SHOULD_LEAVE_YOUR_PARTY: '§cОшибка, Вы должны быть создателем группы в которой состоите. Для использования команды покиньте текущую группу - /party leave'
 YOU_HAVE_NO_ONLINE_FRIENDS: '§cОшибка, у Вас нет онлайн друзей'
 
@@ -1800,8 +1800,8 @@ TIME_SECOND_2:
 MESSAGE_FORMAT: '§c/msg <ник> <сообщение>'
 IGNORE_FORMAT: '§c/ignore <ник>'
 REPLY_FORMAT: '§c/reply <сообщение>'
-SENT_MESSAGE_FORMAT: ' §2ЛС §8▏ §2Я §8-> §2%s §8▏ §f%s'
-RECIEVED_MESSAGE_FORMAT: ' §2ЛС §8▏ §2%s §8-> §2Я §8▏ §f%s'
+SENT_MESSAGE_FORMAT: ' §5ЛС §8▏ §5Я §8-> §5%s §8▏ §f%s'
+RECIEVED_MESSAGE_FORMAT: ' §5ЛС §8▏ §5%s §8-> §5Я §8▏ §f%s'
 MESSAGE_CHAT_HOVER:
 - '§fНажмите сюда, чтобы еще раз написать'
 - '§fигроку %s §fв лс'
@@ -1809,13 +1809,13 @@ REPLY_PLAYER_OFFLINE: '§cВам никто не писал'
 STAFFCHAT_FORMAT: '/staffchat <сообщение>'
 DONATECHAT_FORMAT: '/donatechat <сообщение>'
 STAFFCHAT_MSG: '§eЧат персонала §8▏ §f%s §8» §f%s'
-DONATECHAT_MSG: '§2Чат донатеров §8▏ §f%s §8» §7%s'
+DONATECHAT_MSG: '§5Чат донатеров §8▏ §f%s §8» §7%s'
 YOU_HAVE_DONATECHAT_COOLDOWN: '§cПисать в чат донатеров можно раз в 30 секунд'
 CANT_MESSAGE_YOURSELF: '§cВы не можете написать самому себе'
 STAFFCHAT_ENABLED: '§cМодерация §8▏ §f%s §7снова видит чат персонала'
 STAFFCHAT_DISABLED: '§cМодерация §8▏ §f%s §7теперь не видит чат персонала'
 DONATECHAT_ENABLED: '§aВы снова видите донат-чат'
-DONATECHAT_TOGGLE: '§2Чат донатеров §8▏ %s'
+DONATECHAT_TOGGLE: '§5Чат донатеров §8▏ %s'
 YOU_DISABLED_DONATECHAT: '§cВы отключили чат донатеров. Чтобы написать туда, включите его в личных настройках'
 YOU_DISABLED_STAFFCHAT: '§cВы отключили чат персонала. Чтобы писать в него, напишите /sc toggle'
 FRIENDS_GUI_TP_LORE: ' §a▸ Кликните для телепорта на сервер друга'
@@ -1886,7 +1886,7 @@ GUI_STAFF_MODERATORS: 'Модераторы'
 GUI_STAFF_ADMINS: 'Администраторы'
 REPORT_USAGE: '/report <ник> <причина>'
 REPORT_ALLOW_USAGE: '/report allow <минимальная группа>'
-REPORT_INVALID_GROUP_TO_USE: '§cОшибка, минимальная группа для использования не может быть ниже, чем §2§lJUNIOR'
+REPORT_INVALID_GROUP_TO_USE: '§cОшибка, минимальная группа для использования не может быть ниже, чем §5§lJUNIOR'
 REPORT_MINIMAL_GROUP_CHANGED: '§aВы изменили минимальную группу для просмотра жалоб на %s'
 REPORT_UNKNOWN_REASON: 'Неизвестная причина'
 REPORT_PLAYER_IS_STAFF: '§cВы не можете отправить жалобу на персонал проекта'
@@ -1897,7 +1897,7 @@ REPORT_SENT_FIRST: '§cЖалобы §8▏ §fЖалоба отправлена.
 TOO_MANY_REPORTS: '§cЖалобы §8▏ §fНа игрока %s §fпоступило уже §c%s §fжалоб(ы)'
 REPORT_NO_REPORT_PLAYER: '§cНа этого игрока не поступало жалоб'
 REPORT_INFO_MESSAGES:
-- '§2Жалобы §8▏ §fИнформация об игроке §e%s:'
+- '§5Жалобы §8▏ §fИнформация об игроке §e%s:'
 - ' - §fЖаловались: §a%s'
 - ' - §fСейчас следят: §a%s'
 - ' - §fПоследняя жалоба: §a%s назад'
@@ -2009,8 +2009,8 @@ NO_LOBBY_FOUND: '§cХаб не найден'
 REDIRECTED_TO_LOBBY: '§aВы были телепортированы на %s'
 DO_NOT_SPAM: ' §cℹ Не флудите'
 DO_NOT_SEND_SIMILAR_MESSAGES: ' §cℹ Не повторяйте одинаковые сообщения'
-ONLINE_PLAYERS_ONLINE: '§2Онлайн §8▏ §fОнлайн указанных режимов §a%s §f%s'
-ONLINE_ALL_PLAYERS_ONLINE: '§2Онлайн §8▏ §fОбщий онлайн проекта §a%s §f%s'
+ONLINE_PLAYERS_ONLINE: '§5Онлайн §8▏ §fОнлайн указанных режимов §a%s §f%s'
+ONLINE_ALL_PLAYERS_ONLINE: '§5Онлайн §8▏ §fОбщий онлайн проекта §a%s §f%s'
 GUI_LOBBY_SELECTOR: Выбор лобби
 GUI_LOBBY_ON:
 - ''
@@ -2028,17 +2028,17 @@ GUI_ANOTHER_LOBBY_FRIENDS:
 - ' §a▸ Нажмите для телепортации'
 GUI_LOBBY_FRIEND_MAX: '§7и другие...'
 GROUP_SET_FORMAT: '/group set <ник> <донат-группа>'
-GROUP_INVALID: '§cВы указали неверную группу. Доступные группы: §fDEFAULT, WHEAT, GOLD, DIAMOND, EMERALD, SPONGE'
-FRIENDS_REDIRECTING: '§2Друзья §8▏ §fВы были телепортированы на сервер игрока %s §f(§7%s§f)'
+GROUP_INVALID: '§cВы указали неверную группу. Доступные группы: §fDEFAULT, SWEET, GOLD, DIAMOND, EMERALD, CRYSTAL, CANDY'
+FRIENDS_REDIRECTING: '§5Друзья §8▏ §fВы были телепортированы на сервер игрока %s §f(§7%s§f)'
 AUTH_HELP:
 - '§7/auth info <ник> §f- Посмотреть информацию об игроке'
 - '§7/auth unregister <ник> §f- Удалить регистрацию игрока'
 - '§7/auth register <ник> <пароль> §f- Зарегать игрока(игрок должен быть оффлайн)'
 - '§7/auth resetlicense <ник> §f - Отключить вход по лицензии'
 AUTH_REGISTER_ADMIN_FORMAT: '/auth register <ник> <пароль>'
-AUTH_REGISTER_DONE: '§2Авторизация §8▏ §fИгрока §e%s §fзарегистрирован'
+AUTH_REGISTER_DONE: '§5Авторизация §8▏ §fИгрока §e%s §fзарегистрирован'
 AUTH_INFO_PLAYER:
-- '§2Авторизация §8▏ §fИнформация об игроке §e%s:'
+- '§5Авторизация §8▏ §fИнформация об игроке §e%s:'
 - ' - §fПочта: §a%s'
 - ' - §fЛицензия: §a%s'
 - ' - §fЖдет активацию лицезии: §a%s'
@@ -2046,9 +2046,9 @@ AUTH_INFO_PLAYER:
 - ' - §fИп при регистрации: §a%s'
 - ' - §fПоследний сервер: §a%s'
 PLAYER_NOT_REGISTER: '§cДанный игрок не зарегистрирован'
-AUTH_REMOVED_REG: '§2Авторизация §8▏ §fРегистрация игрока §e%s §fудалена'
+AUTH_REMOVED_REG: '§5Авторизация §8▏ §fРегистрация игрока §e%s §fудалена'
 LICENSE_NOT_USED: '§cОшибка, у игрока %s не включен вход по лицензии'
-ADMIN_LICENSE_OFF: '§2Авторизация §8▏ §fВход по лицензии был отключен у игрока §e%s'
+ADMIN_LICENSE_OFF: '§5Авторизация §8▏ §fВход по лицензии был отключен у игрока §e%s'
 EMAIL_HELP_FORMAT:
 - '§7/email add <ваша электронная почта> <еще раз> §f- Привязать эл. почту к вашему аккаунту'
 - '§7/email change <старая эл. почта> <новая эл. почта> §f- Сменить эл. почту на вашем аккаунте'
@@ -2056,7 +2056,7 @@ EMAIL_HELP_FORMAT:
 - '§7/recovery <email> §f- Выслать на почту установленный пароль'
 EMAIL_HAS_USED: '§cОшибка, вы не можете привязать данный email, т.к. он уже используется!'
 EMAIL_NOT_FOUND: §cОшибка, у вас нет привязанной почты
-EMAIL_HAS_BEEN_SENT: '§2Авторизация §8▏ §fПисьмо с паролем было выслано на §c%s'
+EMAIL_HAS_BEEN_SENT: '§5Авторизация §8▏ §fПисьмо с паролем было выслано на §c%s'
 EMAIL_ADD_FORMAT: /email add <ваша электронная почта> <еще раз>
 EMAIL_CHANGE_FORMAT: /email change <старая эл. почта> <новая эл. почта>
 EMAIL_VERIFY_FORMAT: /email verify <код подтверждения>
@@ -2065,32 +2065,32 @@ EMAIL_ALREADY_ADDED: §cОшибка, у вас уже привязана поч
 EMAIL_MISMATCH: §cОшибка, указанные электронные адреса не совпадают!
 EMAIL_IS_INVALID: §cУказанная электронная почта невалидна
 EMAIL_IS_ERROR: '§cПочта, указанная вами как ранее привязанная к аккаунту, неверна'
-EMAIL_CHANGE_CODE_HAS_BEEN_SENT: §2Авторизация §8▏ §fМы выслали сообщение с кодом на вашу старую электронную почту
+EMAIL_CHANGE_CODE_HAS_BEEN_SENT: §5Авторизация §8▏ §fМы выслали сообщение с кодом на вашу старую электронную почту
 EMAIL_VERIFICATION_CODE_NOTHING: §cВ данный момент ничего подтверждать не нужно
 EMAIL_VERIFICATION_CODE_EXPIRED: §cВремя действия кода подтверждения истекло, данный код не действителен
-EMAIL_CHANGE: §2Авторизация §8▏ §fВы успешно отвязали старую электронную почту и инициировали процедуру привязки новой
-EMAIL_HAS_BEEN_VERIFIED: §2Авторизация §8▏ §fВладение электронной почтой успешно подтверждено!
-EMAIL_ADDED: §2Авторизация §8▏ §fВы привязали новую почту к своему аккаунту!
-EMAIL_ADDED2: §2Авторизация §8▏ §fМы отправили на нее код подтверждения. Введите его через команду §7/email verify <код> §fдля подверждения адреса электронной почты
+EMAIL_CHANGE: §5Авторизация §8▏ §fВы успешно отвязали старую электронную почту и инициировали процедуру привязки новой
+EMAIL_HAS_BEEN_VERIFIED: §5Авторизация §8▏ §fВладение электронной почтой успешно подтверждено!
+EMAIL_ADDED: §5Авторизация §8▏ §fВы привязали новую почту к своему аккаунту!
+EMAIL_ADDED2: §5Авторизация §8▏ §fМы отправили на нее код подтверждения. Введите его через команду §7/email verify <код> §fдля подверждения адреса электронной почты
 REPORT_PLAYER_PUNISHED: '§cЖалобы §8▏ §fИгрок %s§f, на которого Вы подавали жалобу был наказан. Спасибо за содействие в поимке!'
-PARTY_YOU_CANT_SENT_INVITES: '§2Party §8▏ §fОтправлять приглашения в группу может только ее создатель!'
+PARTY_YOU_CANT_SENT_INVITES: '§5Party §8▏ §fОтправлять приглашения в группу может только ее создатель!'
 PARTY_INVITE_ALREADY_SENT: '§cВы уже отправили запрос этому игроку'
-PARTY_INVITE_TOO_FAST: '§2Party §8▏ §fВы §cслишком часто §fотправляете §cзапросы§f в группу'
-PARTY_INVITE_CANCELLED: '§2Party §8▏ §fВы не можете отправить приглашение в группу этому игроку, так как он отключил приглашения в группы'
+PARTY_INVITE_TOO_FAST: '§5Party §8▏ §fВы §cслишком часто §fотправляете §cзапросы§f в группу'
+PARTY_INVITE_CANCELLED: '§5Party §8▏ §fВы не можете отправить приглашение в группу этому игроку, так как он отключил приглашения в группы'
 PARTY_NEW_INVITE: '   %s §fпригласил вас в группу'
 INVITE_TITLE: '              §8-| §6§l%s §8▏-'
 FRIEND_TITLE: 'ДРУЗЬЯ'
 INVITE_ACCEPT_BUTTON: '§a§l[ПРИНЯТЬ]'
 INVITE_DECLINE_BUTTON: '§c§l[ОТКЛОНИТЬ]'
-PARTY_INVITE_SENT: '§2Party §8▏ §fПриглашение в группу отправлено игроку %s'
-PARTY_INVITE_EXPIRED: '§2Party §8▏ §fПриглашение в группу, отправленное игроку %s §fистекло'
+PARTY_INVITE_SENT: '§5Party §8▏ §fПриглашение в группу отправлено игроку %s'
+PARTY_INVITE_EXPIRED: '§5Party §8▏ §fПриглашение в группу, отправленное игроку %s §fистекло'
 PARTY_NO_INVITES: '§cУ вас нет приглашения в эту группу или оно истекло'
 PARTY_OWNER_OFFLINE: '§cОшибка, отправитель приглашения сейчас оффлайн'
-PARTY_JOINED_BROADCAST: '§2Party §8▏ %s §fприсоединился к группе'
-PARTY_NEW_PARTY_WITH: '§2Party §8▏ §fВы создали новую группу с игроком %s'
-PARTY_JOINED_PARTY: '§2Party §8▏ §fВы присоединились к группе игрока %s'
-PARTY_INVITE_DECLINED: '§2Party §8▏ §fВы отклонили приглашение в группу от игрока %s'
-PARTY_YOUR_INVITE_DECLINED: '§2Party §8▏ §f%s §fотклонил Ваше приглашение в группу (он просто не знает, что теряет)'
+PARTY_JOINED_BROADCAST: '§5Party §8▏ %s §fприсоединился к группе'
+PARTY_NEW_PARTY_WITH: '§5Party §8▏ §fВы создали новую группу с игроком %s'
+PARTY_JOINED_PARTY: '§5Party §8▏ §fВы присоединились к группе игрока %s'
+PARTY_INVITE_DECLINED: '§5Party §8▏ §fВы отклонили приглашение в группу от игрока %s'
+PARTY_YOUR_INVITE_DECLINED: '§5Party §8▏ §f%s §fотклонил Ваше приглашение в группу (он просто не знает, что теряет)'
 NO_SLOTS_FOR_PARTY: '§c§lВНИМАНИЕ! §cНа данном сервере недостаточно места для Вашей группы!'
 PARTY_INVITE_FORMAT: '/party invite <ник>'
 FRIEND_NEW_INVITE_ACCEPT_HOVER: '§fНажмите, чтобы начать дружить!'
@@ -2099,35 +2099,35 @@ PARTY_NEW_INVITE_ACCEPT_HOVER: '§fНажмите, чтобы принять п�
 PARTY_NEW_INVITE_DECLINE_HOVER: '§fНажмите, чтобы отклонить приглашение'
 PARTY_CANT_INVITE_YOURSELF: '§cОшибка, Вы не можете пригласить в группу самого себя'
 PARTY_TARGET_IN_PARTY: '§cОшибка, игрок %s §cуже в группе'
-PARTY_NOT_IN_PARTY: '§2Party §8▏ §fОшибка, вы не состоите в группе, видимо вы никому не нужны :('
+PARTY_NOT_IN_PARTY: '§5Party §8▏ §fОшибка, вы не состоите в группе, видимо вы никому не нужны :('
 YOU_CANT_DISBAND_PARTY: '§cРаспустить группу может только её создатель'
-PARTY_DISBANDED: '§2Party §8▏ §fВаша группа была расформирована'
+PARTY_DISBANDED: '§5Party §8▏ §fВаша группа была расформирована'
 YOU_CANT_KICK_PARTY: '§cУдалять игроков из группы может только её создатель'
 PARTY_CANT_KICK_YOURSELF: '§cТы дурак или да?!'
 PARTY_PLAYER_NOT_IN_YOUR_PARTY: '§cОшибка, данный игрок не состоит в Вашей группе'
-PARTY_PLAYER_KICKED: '§2Party §8▏ §fВы удалили игрока %s §fиз группы'
-PARTY_YOU_KICKED: '§2Party §8▏ %s §fудалил Вас из группы'
-PARTY_KICK_BROADCAST: '§2Party §8▏ %s §fбыл удален лидером группы'
-PARTY_KICKOFFLINE_BROADCAST: '§2Party §8▏ %s §fудалил всех оффлайн игроков из группы'
+PARTY_PLAYER_KICKED: '§5Party §8▏ §fВы удалили игрока %s §fиз группы'
+PARTY_YOU_KICKED: '§5Party §8▏ %s §fудалил Вас из группы'
+PARTY_KICK_BROADCAST: '§5Party §8▏ %s §fбыл удален лидером группы'
+PARTY_KICKOFFLINE_BROADCAST: '§5Party §8▏ %s §fудалил всех оффлайн игроков из группы'
 PARTY_KICK_OFFLINE_NO: '§cВсе участники группы онлайн...'
 PARTY_CHAT: '§dЧат группы §8▏ §f%s §8» §f%s'
 PARTY_CHAT_FORMAT: '/pchat <сообщение>'
 PARTY_KICK_FORMAT: '/party kick <ник>'
 YOU_CANT_SET_OWNER_PARTY: '§cОшибка, передать управление группой может только её владелец'
 PARTY_SETOWNER_FORMAT: '/party setowner <ник>'
-PARTY_SETOWNER_YOURSELF: '§2Party §8▏ §fВы уже являетесь владельцем группы'
-PARTY_PLAYER_SET_OWNER: '§2Party §8▏ §fВы передали права лидера игроку %s'
-PARTY_YOU_NOW_OWNER: '§2Party §8▏ %s §fпередал Вам права на управление группой'
-PARTY_BROADCAST_OWNER: '§2Party §8▏ %s §fстал новым владельцем группы'
-LEADER_LEAVE_PARTY: '§2Party §8▏ §fЧтобы §cпокинуть §fгруппу, сначала передайте права управления ею другому игроку!'
-PARTY_LEFT_PARTY: '§2Party §8▏ §fВы покинули группу игрока %s'
-PARTY_LEAVE_BROADCAST: '§2Party §8▏ %s §fпокинул группу'
-PARTY_ALREADY_IN_PARTY: '§2Party §8▏ §fВы уже в группе'
+PARTY_SETOWNER_YOURSELF: '§5Party §8▏ §fВы уже являетесь владельцем группы'
+PARTY_PLAYER_SET_OWNER: '§5Party §8▏ §fВы передали права лидера игроку %s'
+PARTY_YOU_NOW_OWNER: '§5Party §8▏ %s §fпередал Вам права на управление группой'
+PARTY_BROADCAST_OWNER: '§5Party §8▏ %s §fстал новым владельцем группы'
+LEADER_LEAVE_PARTY: '§5Party §8▏ §fЧтобы §cпокинуть §fгруппу, сначала передайте права управления ею другому игроку!'
+PARTY_LEFT_PARTY: '§5Party §8▏ §fВы покинули группу игрока %s'
+PARTY_LEAVE_BROADCAST: '§5Party §8▏ %s §fпокинул группу'
+PARTY_ALREADY_IN_PARTY: '§5Party §8▏ §fВы уже в группе'
 PARTY_LIMIT: '§cОшибка, в вашей группе максимальное кол-во участников'
-PARTY_AVAILABLE_SETTING_LIST: '§2Party §8▏ §fСписок доступных настроек:'
+PARTY_AVAILABLE_SETTING_LIST: '§5Party §8▏ §fСписок доступных настроек:'
 PARTY_SETTING_ENTRY: ' §c• §e%s §f[§a%s§f] - %s'
 PARTY_LIST:
-- '§2Party §8▏ §fСписок игроков в группе (§a%s§f\§a%s§f):'
+- '§5Party §8▏ §fСписок игроков в группе (§a%s§f\§a%s§f):'
 - ' §c• §fЛидер: §a%s §f(§a%s§f)'
 - ' §c• §fУчастники: §a%s'
 PARTY_NULL_HELP:
@@ -2148,19 +2148,19 @@ PARTY_ALL_HELP:
 - '§7/party list §f- список участников группы'
 - '§7/party invite <ник игрока> §f- пригласить игрока в группу'
 YOU_CANT_SET_SETTINGS: '§cИзменять настройки группы может только её создатель'
-YOU_WERE_KICKED_FROM_THIS_PARTY: '§2Party §8▏ §fВы были исключены из этой группы, поэтому больше не можете войти в нее'
+YOU_WERE_KICKED_FROM_THIS_PARTY: '§5Party §8▏ §fВы были исключены из этой группы, поэтому больше не можете войти в нее'
 PARTY_HE_IS_NOT_IN_PARTY: '§cОшибка, данный игрок не состоит в группе'
 PARTY_NOT_PUBLIC: '§cОшибка, группа этого игрока не является публичной'
-PLAYER_JOINED_PUBLIC_PARTY: '§2Party §8▏ %s §fприсоединился к публичной группе'
+PLAYER_JOINED_PUBLIC_PARTY: '§5Party §8▏ %s §fприсоединился к публичной группе'
 PARTY_JOIN_FORMAT: '/party join <ник игрока>'
 PARTY_SETTINGS_FORMAT: '/party setting <настройка> <true/false>'
 PARTY_SETTING_ALREADY_SET: '§cОшибка, значение данной настройки уже является указанным'
-PARTY_SETTING_SET: '§2Party §8▏ §fЗначение настройки §a%s§f обновлено'
-PARTY_SETTING_CHANGED: '§2Party §8▏ §a%s §fобновил значение настройки §a%s§f в группе'
+PARTY_SETTING_SET: '§5Party §8▏ §fЗначение настройки §a%s§f обновлено'
+PARTY_SETTING_CHANGED: '§5Party §8▏ §a%s §fобновил значение настройки §a%s§f в группе'
 PARTY_ALL_MEMBERS_LEFT: '§cВаша группа была удалена, поскольку все участники покинули её'
 ERROR_CONNECT: '§cОшибка, вы не смогли подключиться к серверу %s. Вы были перенаправлены на %s'
 PARTY_NO_REQUESTS: '§cОшибка, у вас нет приглашений в группы'
-PARTY_REQUESTS_TITLE: '§2Party §8▏ §fСписок приглашений в группы (§a%s§f):'
+PARTY_REQUESTS_TITLE: '§5Party §8▏ §fСписок приглашений в группы (§a%s§f):'
 PARTY_REQUEST: '  §c• §fЗапрос от %s§f, §7§nнажмите чтобы принять'
 PARTY_REQUEST_HOVER: '§fНажмите, чтобы присоединиться к группе'
 PARTY_REQUESTS_FOOTER: ' §fНажмите на запрос который Вы хотите принять'
@@ -2263,20 +2263,20 @@ AUCTION_GUI_SELL_NAME: 'Продажа'
 AUCTION_GUI_BUY_NAME: 'Покупка'
 AUCTION_PLAYERGUI_NAME: 'Аукцион %s'
 AUCTION_FORMAT: '/ah sell <цена> [кол-во]'
-AUCTION_SELL_AIR: '§2Аукцион §8▏ §fОшибка, вы не можете продавать воздух ('
+AUCTION_SELL_AIR: '§5Аукцион §8▏ §fОшибка, вы не можете продавать воздух ('
 AUCTION_COMMAND_ERROR: '§cОшибка, цена предмета должна быть только числом'
 AUCTION_COMMAND_ERROR1: '§cОшибка, цена и кол-во предмета не может быть равна 0'
 AUCTION_COMMAND_ERROR2: '§cОшибка, кол-во предметов для продажи должно быть числом'
 AUCTION_COMMAND_ERROR3: '§cОшибка, вы не можете продать данный айтем пока он находится во 2й руке'
-AUCTION_ADD_TO_SELL: '§2Аукцион §8▏ §fПредмет §7%s §fбыл выложен на продажу за §a%s'
-AUCTION_ADD_TO_SELL_ERROR: '§2Аукцион §8▏ §fОшибка, в вашей руке недостаточное кол-во предметов'
-AUCTION_ITEM_ALLREADY_SELLED: '§2Аукцион §8▏ §fОшибка, предмет был продан, сожалеем...'
-AUCTION_NO_MONEY: '§2Аукцион §8▏ §fОшибка, у вас недостаточно денег для покупки предмета'
-AUCTION_BUY_YOU_ERROR: '§2Аукцион §8▏ §fОшибка, вы не можете купить сами у себя...'
-AUCTION_BUY: '§2Аукцион §8▏ §fВы успешно купили §7%s §fx §7%s §fза §a%s Бат'
-AUCTION_BUY_SELLER: '§2Аукцион §8▏ §fИгрок %s §fкупил у вас §7%s §fx §7%s §fза §a%s'
-AUCTION_LIMIT_ERROR: '§2Аукцион §8▏ §fОшибка, у вас превышен лимит на кол-во активных предметов. Ваш текующий лимит §a%s §fпредметов'
-AUCTION_SHOW_ERROR: '§2Аукцион §8▏ §fОшибка, у игрока %s §fнет активных товаров для продажи'
+AUCTION_ADD_TO_SELL: '§5Аукцион §8▏ §fПредмет §7%s §fбыл выложен на продажу за §a%s'
+AUCTION_ADD_TO_SELL_ERROR: '§5Аукцион §8▏ §fОшибка, в вашей руке недостаточное кол-во предметов'
+AUCTION_ITEM_ALLREADY_SELLED: '§5Аукцион §8▏ §fОшибка, предмет был продан, сожалеем...'
+AUCTION_NO_MONEY: '§5Аукцион §8▏ §fОшибка, у вас недостаточно денег для покупки предмета'
+AUCTION_BUY_YOU_ERROR: '§5Аукцион §8▏ §fОшибка, вы не можете купить сами у себя...'
+AUCTION_BUY: '§5Аукцион §8▏ §fВы успешно купили §7%s §fx §7%s §fза §a%s Бат'
+AUCTION_BUY_SELLER: '§5Аукцион §8▏ §fИгрок %s §fкупил у вас §7%s §fx §7%s §fза §a%s'
+AUCTION_LIMIT_ERROR: '§5Аукцион §8▏ §fОшибка, у вас превышен лимит на кол-во активных предметов. Ваш текующий лимит §a%s §fпредметов'
+AUCTION_SHOW_ERROR: '§5Аукцион §8▏ §fОшибка, у игрока %s §fнет активных товаров для продажи'
 AUCTION_TYPE_ARMOR_NAME: 'Броня'
 AUCTION_TYPE_WEAPON_NAME: 'Оружие'
 AUCTION_TYPE_TOOLS_NAME: 'Инструменты'
@@ -2307,7 +2307,7 @@ AUCTION_NO_ITEMS_LORE:
 - ''
 - '§7Кажется я ничего не нашел'
 - '§7или предметы отсутствуют'
-AUCTION_REMOVED_ITEM: '§2Аукцион §8▏ §fВы успешно сняли свой лот с аукциона'
+AUCTION_REMOVED_ITEM: '§5Аукцион §8▏ §fВы успешно сняли свой лот с аукциона'
 AUCTION_LORE_MYGUI:
 - ''
 - '§7Цена продажи: §a%s Бат'
@@ -2416,28 +2416,28 @@ SHOP_LORE_CHANGED:
 CANCEL_NAME: '§cОтменить'
 CONFIRMED_NAME: 'Подтвердить'
 SHOP_FORMAT: '/shop <название магазина>'
-SHOP_NAMES: '§2Магазин §8▏ §fДоступные магазины: '
+SHOP_NAMES: '§5Магазин §8▏ §fДоступные магазины: '
 SHOP_NOT_FOUND: '§cОшибка, магазин %s не найден'
-SHOP_ALL_ITEMS_SELLED: '§2Магазин §8▏ §fВы успешно продали §7%s §fx §7%s §fза §a%s Бат'
-SHOP_ALL_ITEMS_BUY: '§2Магазин §8▏ §fВы успешно купили §7%s §fx §7%s §fза §a%s Бат'
+SHOP_ALL_ITEMS_SELLED: '§5Магазин §8▏ §fВы успешно продали §7%s §fx §7%s §fза §a%s Бат'
+SHOP_ALL_ITEMS_BUY: '§5Магазин §8▏ §fВы успешно купили §7%s §fx §7%s §fза §a%s Бат'
 PERMISSION_YES: '§aразрешено'
 PERMISSION_NO: '§cзапрещено'
 
 MY_ONLINE_TIME:
-- '§2Время §8▏ §fПроведено времени на сервере за §7все время§f - §a%s'
-- '§2Время §8▏ §fПроведено времени на сервере за §7%s §f- §a%s'
+- '§5Время §8▏ §fПроведено времени на сервере за §7все время§f - §a%s'
+- '§5Время §8▏ §fПроведено времени на сервере за §7%s §f- §a%s'
 PLAYER_ONLINE_TIME:
-- '§2Время §8▏ §e%s §fпровел на сервере §f- §a%s'
-- '§2Время §8▏ §e%s §fпровел на сервере за §7%s §f- §a%s'
+- '§5Время §8▏ §e%s §fпровел на сервере §f- §a%s'
+- '§5Время §8▏ §e%s §fпровел на сервере за §7%s §f- §a%s'
 YOU_CANNOT_RESUME: '§cОшибка, Вы нигде не играли или сервер был перезагружен'
 YOU_CAN_REJOIN: '§fЕсли Вы были §cкикнуты§f, напишите §7/rejoin§f для повторного входа в игру'
 YOU_WERE_REJOINED: '§aВы повторно вошли в игру на сервере %s'
 YOU_CANT_CONTACT_HIM_SETTING: '§cОшибка, данный игрок принимает сообщения только от своих друзей'
 YOU_CANT_WRITE_BY_SETTINGS: '§cВ соответствии с Вашими настройками приватности Вы можете общаться только с друзьями'
-PARTY_WARP_NO_MEMBERS: '§2Party §8▏ §fВ группе нет онлайн-участников для телепортации'
-PARTY_PLAYERS_WARPED: '§2Party §8▏ §fВсе онлайн-участники были телепортированы на Ваш сервер'
-PARTY_YOU_WARPED: '§2Party §8▏ §fЛидер группы %s §fтелепортировал Вас на его сервер'
-YOU_CANT_WARP_PARTY: '§2Party §8▏ §fТелепортировать участников на свой сервер может только лидер группы'
+PARTY_WARP_NO_MEMBERS: '§5Party §8▏ §fВ группе нет онлайн-участников для телепортации'
+PARTY_PLAYERS_WARPED: '§5Party §8▏ §fВсе онлайн-участники были телепортированы на Ваш сервер'
+PARTY_YOU_WARPED: '§5Party §8▏ §fЛидер группы %s §fтелепортировал Вас на его сервер'
+YOU_CANT_WARP_PARTY: '§5Party §8▏ §fТелепортировать участников на свой сервер может только лидер группы'
 YOU_CANT_DONATE: '§cПеред тем как вложить монетки выйдите с других аккаунтов, которые сейчас онлайн'
 REWARD_YOU_GOT_REWARDS: '§fВы успешно получили следующие награды:'
 MONEY_REWARD_LOCALE: ' §7+ §6%s §f%s'
@@ -2486,7 +2486,7 @@ REWARD_DONATE_ITEM_LORE:
 - '§7награды, а монет не хватает, то'
 - '§7заходи к нам на сайт, там ты'
 - '§7сможешь приобрести их по выгодной цене'
-- '§7Сайт: §dvillagemc.net'
+- '§7Сайт: §dKanddyCraft.net'
 REWARD_HOLOGRAM:
 - '§aВознаграждения'
 - '§7Нажмите, чтобы открыть'
@@ -2510,10 +2510,10 @@ ALL_INVITE_PARTY_SETTING_DESCRIPTION: 'позволяет всем участн�
 
 BOARD_BORDERTIME: 'Сужение границ'
 
-PLAYER_GOT_BANNED: '§2Античит §8▏ §fИгрок %s §fбыл уличен в использовании читов'
-YOU_GOT_KICKED: '§2Античит §8▏ §fВы были отключены за возможное использование читов'
-PLAYER_CHECK_NOT_PASSED: '§2Античит §8▏ §fИгрок %s §fнарушил проверку §c%s§f, его новый VL - §c%s'
-PLAYER_WAS_KICKED: '§2Античит §8▏ §fИгрок %s §fбыл кикнут по подозрению в использовании читов'
+PLAYER_GOT_BANNED: '§5Античит §8▏ §fИгрок %s §fбыл уличен в использовании читов'
+YOU_GOT_KICKED: '§5Античит §8▏ §fВы были отключены за возможное использование читов'
+PLAYER_CHECK_NOT_PASSED: '§5Античит §8▏ §fИгрок %s §fнарушил проверку §c%s§f, его новый VL - §c%s'
+PLAYER_WAS_KICKED: '§5Античит §8▏ §fИгрок %s §fбыл кикнут по подозрению в использовании читов'
 
 ANSWER_FORMAT: '/ans <ник> <ответ>'
 GOODGAME_FORMAT: '/gg <ник>'
@@ -2522,7 +2522,7 @@ BANSTAT_FORMAT: '/banstat <ник> <нач. дата> <конеч. дата>'
 YOU_CANT_CHECK_NON_STAFF: '§cОшибка, данный игрок не является персоналом проекта'
 INVALID_DATE_PERIOD: '§cОшибка, укажите верный период (день/месяц/год)'
 MODERATOR_STAT:
-- '§2Статистика §8▏ §fИнформация об %s §fза §e%s -> %s'
+- '§5Статистика §8▏ §fИнформация об %s §fза §e%s -> %s'
 - ' §e• §fВсего банов: §a%s'
 - ' §e• §fВсего мутов: §a%s'
 TARGET_FRIENDS_LIMIT: '§cУказанный Вами игрок не может принимать заявки в друзья, поскольку его лимит превышен'
@@ -2532,16 +2532,16 @@ CORE_NAME: '§cСервер'
 ISLAND_CREATE_TITLE: '§eОстров успешно создан!'
 ISLAND_TOP_LEVEL: 'уровень'
 ISLAND_TOP_LEVEL_HOLO:
-- '§2§lТоп по уровню острова'
+- '§5§lТоп по уровню острова'
 - '§fТоп владельцев островов'
 - '§fпо уровню их острова'
 ISLAND_CREATE_SUBTITLE: '§7Подробная информация §f/is'
-ISLAND_REMOVED_MEMBER: '§2SkyBlock §8▏ §fВладелец острова удалил свой остров, вы были перемещены на спавн'
+ISLAND_REMOVED_MEMBER: '§5SkyBlock §8▏ §fВладелец острова удалил свой остров, вы были перемещены на спавн'
 ISLAND_MINE_HOLO: 'До обновления'
 ISLAND_MINE_UPDATE_HOLO: 'Обновлено!'
 ISLAND_MINE_UPDATE: '§fАвтошахта обновлена §7/warp mine'
-ISLAND_MEMBER_BLOCKED: '§2SkyBlock §8▏ §fПростите, но вы были внесеты в §cсписок нежелательных игроков §fэтого острова (владелец - %s§f)'
-ISLAND_REMOVED: '§2SkyBlock §8▏ §fОстров успешно удален, вы были перемещены на спавн'
+ISLAND_MEMBER_BLOCKED: '§5SkyBlock §8▏ §fПростите, но вы были внесеты в §cсписок нежелательных игроков §fэтого острова (владелец - %s§f)'
+ISLAND_REMOVED: '§5SkyBlock §8▏ §fОстров успешно удален, вы были перемещены на спавн'
 ISLAND_OPENED_GUI_NAME: 'Публичные острова'
 ISLAND_OPENED_GUI_LORE:
 - ''
@@ -2551,7 +2551,7 @@ ISLAND_OPENED_GUI_LORE:
 - '§7Открыто территории: §a%s'
 - '§7Кол-во участников: §a%s§7/§c%s'
 - '§7Онлайн участников: §a%s'
-ISLAND_BEACON_ENABLE_ERROR: '§2SkyBlock §8▏ §fПростите, но вы не можете активировать данный эффект, лимит вашего острова на кол-во эффектов §7%s'
+ISLAND_BEACON_ENABLE_ERROR: '§5SkyBlock §8▏ §fПростите, но вы не можете активировать данный эффект, лимит вашего острова на кол-во эффектов §7%s'
 ISLAND_BEACON_GUI_NAME: 'Эффекты'
 ISLAND_ADDLEVEL_GUI_NAME: 'Уровень острова'
 EFFECT_FIRE_RESISTANCE: 'Огнестойкость'
@@ -2614,12 +2614,12 @@ ISLAND_CREATE_LORE:
 ISLAND_NOT_OWNER: '§cОшибка, вы не владелец или со-владелец острова!'
 ISLAND_NOT_YOU_COMMAND: '§cОшибка, вы не можете использовать эту команду на чужом острове!'
 ISLAND_NOT_YOU: '§cОшибка, вы не можете это сделать, вы не участник острова!'
-ISLAND_TELEPORT_HOME: '§2SkyBlock §8▏ §fВы были телепортированы на остров (владелец - %s§f)'
+ISLAND_TELEPORT_HOME: '§5SkyBlock §8▏ §fВы были телепортированы на остров (владелец - %s§f)'
 ISLAND_COMMAND_ADD_FORMAT: '/island add <ник игрока>'
 ISLAND_COMMAND_TP_FORMAT: '/island tp <ник игрока>'
 ISLAND_COMMAND_REMOVE_FORMAT: '/island remove <ник игрока>'
-ISLAND_ALREADY_CREATE: '§2SkyBlock §8▏ §fОшибка, у вас уже есть остров. Чтобы попасть на свой остров напишите §7/island home'
-ISLAND_NO_ISLAND: '§2SkyBlock §8▏ §fОшибка, кажется у вас нет острова... Чтобы создать свой остров напишите §7/island create'
+ISLAND_ALREADY_CREATE: '§5SkyBlock §8▏ §fОшибка, у вас уже есть остров. Чтобы попасть на свой остров напишите §7/island home'
+ISLAND_NO_ISLAND: '§5SkyBlock §8▏ §fОшибка, кажется у вас нет острова... Чтобы создать свой остров напишите §7/island create'
 ISLAND_ADD_REQUEST: '§fПриглашение отправлено игроку %s'
 ISLAND_ADD_PLAYER_REQUEST_1: ' %s §fпредлагает вам играть вместе на своем острове'
 ISLAND_ADD_PLAYER_REQUEST_2: ' §fДля принятия запроса пишите '
@@ -2782,28 +2782,28 @@ ISLAND_MEMBER_LORE:
 - ''
 - '§a▸ Нажмите ПКМ, чтобы управлять игроком'
 ISLAND_MEMBER_OFFLINE: '§cоффлайн'
-ISLAND_MEMBER_SETTINGS_OWNER: '§2SkyBlock §8▏ §cОшибка, вы не можете настраивать права владельца острова!'
-ISLAND_REQUESTS_ERROR: '§2SkyBlock §8▏ §cОшибка, у вас уже есть остров, приглашения вам не нужны'
-ISLAND_ADDMEMBER_LIMIT: '§2SkyBlock §8▏ §cОшибка, вы привысили лимит на кол-во участников вашего острова, кол-во участников не должно превышать %s'
-ISLAND_ADDMEMBER_YOU: '§2SkyBlock §8▏ §cОшибка, вы не можете кинуть приглашение сами себе'
-ISLAND_ADDMEMBER_ERROR: '§2SkyBlock §8▏ §cОшибка, данный игрок уже является участником или владельцем какого-то острова'
-ISLAND_SETHOME: '§2SkyBlock §8▏ §fТочка дома установлена (§7%s§f)'
-ISLAND_SETHOME_ERROR: '§2SkyBlock §8▏ §cВы не можете установить точку дома в этой локации'
-ISLAND_DELETE: '§2SkyBlock §8▏ §fИгрок %s §fбыл успешно удален с вашего острова'
-ISLAND_DELETE_TO: '§2SkyBlock §8▏ §fИгрок %s §fудалил вас с острова %s §fи вы были отправлены на спавн'
-ISLAND_DELETE_MEMBER_OWNER: '§2SkyBlock §8▏ §cОшибка, вы не можете удалить сами себя со своего острова'
-ISLAND_DELETE_MEMBER_ERROR: '§2SkyBlock §8▏ §cОшибка, данный игрок не является участником вашего острова'
-ISLAND_DELETE_MEMBER_ERROR2: '§2SkyBlock §8▏ §cОшибка, данный игрок владелец острова'
-ISLAND_LEAVE: '§2SkyBlock §8▏ §fВы покинули остров игрока %s'
-ISLAND_LEAVE_OWNER: '§2SkyBlock §8▏ §cОшибка, вы не можете покинуть свой же остров'
-ISLAND_DESTROY_COOLDOWN: '§2SkyBlock §8▏ §cВы не можете так часто делать рестарт острова, вам придется подождать %s'
+ISLAND_MEMBER_SETTINGS_OWNER: '§5SkyBlock §8▏ §cОшибка, вы не можете настраивать права владельца острова!'
+ISLAND_REQUESTS_ERROR: '§5SkyBlock §8▏ §cОшибка, у вас уже есть остров, приглашения вам не нужны'
+ISLAND_ADDMEMBER_LIMIT: '§5SkyBlock §8▏ §cОшибка, вы привысили лимит на кол-во участников вашего острова, кол-во участников не должно превышать %s'
+ISLAND_ADDMEMBER_YOU: '§5SkyBlock §8▏ §cОшибка, вы не можете кинуть приглашение сами себе'
+ISLAND_ADDMEMBER_ERROR: '§5SkyBlock §8▏ §cОшибка, данный игрок уже является участником или владельцем какого-то острова'
+ISLAND_SETHOME: '§5SkyBlock §8▏ §fТочка дома установлена (§7%s§f)'
+ISLAND_SETHOME_ERROR: '§5SkyBlock §8▏ §cВы не можете установить точку дома в этой локации'
+ISLAND_DELETE: '§5SkyBlock §8▏ §fИгрок %s §fбыл успешно удален с вашего острова'
+ISLAND_DELETE_TO: '§5SkyBlock §8▏ §fИгрок %s §fудалил вас с острова %s §fи вы были отправлены на спавн'
+ISLAND_DELETE_MEMBER_OWNER: '§5SkyBlock §8▏ §cОшибка, вы не можете удалить сами себя со своего острова'
+ISLAND_DELETE_MEMBER_ERROR: '§5SkyBlock §8▏ §cОшибка, данный игрок не является участником вашего острова'
+ISLAND_DELETE_MEMBER_ERROR2: '§5SkyBlock §8▏ §cОшибка, данный игрок владелец острова'
+ISLAND_LEAVE: '§5SkyBlock §8▏ §fВы покинули остров игрока %s'
+ISLAND_LEAVE_OWNER: '§5SkyBlock §8▏ §cОшибка, вы не можете покинуть свой же остров'
+ISLAND_DESTROY_COOLDOWN: '§5SkyBlock §8▏ §cВы не можете так часто делать рестарт острова, вам придется подождать %s'
 SKYBLOCK_CHOISED_GUI_NAME: 'Выбор острова'
 SKYBLOCK_UPGRADE_GUI_NAME: 'Улучшения'
-ISLAND_RESET: '§2SkyBlock §8▏ §fВаш остров был очищен и пересоздан'
-ISLAND_BIOME_SET_ERROR: '§2SkyBlock §8▏ §fЭтот биом уже установлен на вашем острове'
-ISLAND_BIOME_NOT_OPEN: '§2SkyBlock §8▏ §fДанный биом вам недоступен, купите его!'
-ISLAND_BEACON_NOT_OPEN: '§2SkyBlock §8▏ §fДанный эффект вам недоступен, купите его!'
-ISLAND_BIOME_SET: '§2SkyBlock §8▏ §fУстановлен биом §a%s'
+ISLAND_RESET: '§5SkyBlock §8▏ §fВаш остров был очищен и пересоздан'
+ISLAND_BIOME_SET_ERROR: '§5SkyBlock §8▏ §fЭтот биом уже установлен на вашем острове'
+ISLAND_BIOME_NOT_OPEN: '§5SkyBlock §8▏ §fДанный биом вам недоступен, купите его!'
+ISLAND_BEACON_NOT_OPEN: '§5SkyBlock §8▏ §fДанный эффект вам недоступен, купите его!'
+ISLAND_BIOME_SET: '§5SkyBlock §8▏ §fУстановлен биом §a%s'
 ISLAND_BIOME_OCEAN_NAME: 'Океан'
 ISLAND_BIOME_PLAINS_NAME: 'Равнина'
 ISLAND_BIOME_DESERT_NAME: 'Пустыня'
@@ -2814,10 +2814,10 @@ ISLAND_BIOME_SWAMPLAND_NAME: 'Болото'
 ISLAND_BIOME_MUSHROOM_ISLAND_NAME: 'Грибной остров'
 ISLAND_BIOME_JUNGLE_NAME: 'Джунгли'
 ISLAND_BIOME_MESA_NAME: 'Глинянные равнины'
-ISLAND_BIOME_BUY: '§2SkyBlock §8▏ §fВы успешно купили биом §c%s'
-ISLAND_BIOME_BUY_TO: '§2SkyBlock §8▏ §fИгрок %s §fкупил биом §c%s §fза §a%s изумрудных блока'
-ISLAND_BIOME_BUY_ALREADY: '§2SkyBlock §8▏ §fВы уже владеете данным биомом'
-ISLAND_BEACON_BUY_ALREADY: '§2SkyBlock §8▏ §fВы уже владеете данным эффектом'
+ISLAND_BIOME_BUY: '§5SkyBlock §8▏ §fВы успешно купили биом §c%s'
+ISLAND_BIOME_BUY_TO: '§5SkyBlock §8▏ §fИгрок %s §fкупил биом §c%s §fза §a%s изумрудных блока'
+ISLAND_BIOME_BUY_ALREADY: '§5SkyBlock §8▏ §fВы уже владеете данным биомом'
+ISLAND_BEACON_BUY_ALREADY: '§5SkyBlock §8▏ §fВы уже владеете данным эффектом'
 ISLAND_CLICK_TO_SET_BIOME: '§a▸ Нажмите, чтобы выбрать биом'
 ISLAND_CLICK_TO_SET_BIOME_ERROR:
 - '§7Цена: §ax%s изумрудных блоков'
@@ -2894,8 +2894,8 @@ ISLAND_CLICK_TO_BUY_BEACON_ERROR:
 - '§cДанный эффект вам недоступен!'
 - ' '
 - '§a▸ Нажмите ПКМ, чтобы купить данный эффект'
-ISLAND_NOT_FOUND: '§2SkyBlock §8▏ §fОстров игрока %s §fне найден'
-ISLAND_CLOSED: '§2SkyBlock §8▏ §fДанный остров закрыт и телепортация на него не возможна! Попросите владельца отключить флаг §cприватность'
+ISLAND_NOT_FOUND: '§5SkyBlock §8▏ §fОстров игрока %s §fне найден'
+ISLAND_CLOSED: '§5SkyBlock §8▏ §fДанный остров закрыт и телепортация на него не возможна! Попросите владельца отключить флаг §cприватность'
 BOARD_MEMBER_ISLAND: 'Кол-во участников'
 BOARD_LEVEL_ISLAND: 'Уровень острова'
 BOARD_NO_ISLAND1: 'Остров не найден!'
@@ -3053,12 +3053,12 @@ ISLAND_PROFILE_IGNORE_LIST_LORE:
 - '§a▸ Нажмите, чтобы открыть список'
 ISLAND_IGNORE_ALREADY: '§cОшибка, данный игрок уже в списке!'
 ISLAND_IGNORE_MEMBER: '§cОшибка, данный игрок является участником острова!'
-ISLAND_ADD_IGNORE_PLAYER: '§2SkyBlock §8▏ %s §fбыл добавлен участником %s§f в список нежелательных игроков острова'
-ISLAND_REMOVE_IGNORE_PLAYER: '§2SkyBlock §8▏ %s §fбыл удален участником %s§f из списка нежелательных игроков острова'
-ISLAND_MAX_UPGRADE: '§2SkyBlock §8▏ §cОшибка! У вас уже максимальный уровень данного апгрейда'
-ISLAND_UPGRADE_BUY_ERROR: '§2SkyBlock §8▏ §fУ вас недостаточно §aизумрудных блоков§f для этой покупки (необходимо §7x%s§f)'
-ISLAND_BUY_UPGRADE_TERRITORY: '§2SkyBlock §8▏ §fИгрок %s §fкупил расширение территории острова'
-ISLAND_BUY_UPGRADE: '§2SkyBlock §8▏ §fИгрок %s §fкупил улучшение §a%s'
+ISLAND_ADD_IGNORE_PLAYER: '§5SkyBlock §8▏ %s §fбыл добавлен участником %s§f в список нежелательных игроков острова'
+ISLAND_REMOVE_IGNORE_PLAYER: '§5SkyBlock §8▏ %s §fбыл удален участником %s§f из списка нежелательных игроков острова'
+ISLAND_MAX_UPGRADE: '§5SkyBlock §8▏ §cОшибка! У вас уже максимальный уровень данного апгрейда'
+ISLAND_UPGRADE_BUY_ERROR: '§5SkyBlock §8▏ §fУ вас недостаточно §aизумрудных блоков§f для этой покупки (необходимо §7x%s§f)'
+ISLAND_BUY_UPGRADE_TERRITORY: '§5SkyBlock §8▏ §fИгрок %s §fкупил расширение территории острова'
+ISLAND_BUY_UPGRADE: '§5SkyBlock §8▏ §fИгрок %s §fкупил улучшение §a%s'
 ISLAND_BUY_UPGRADE_PRICE_LORE:
 - '§7Цена: §ax%s изумрудных блоков'
 - ' '
@@ -3109,8 +3109,8 @@ ISLAND_MEMBER_REMOVE_LORE:
 - '§7вашего острова'
 - ' '
 - '§a▸ Нажмите, чтобы удалить участника'
-ISLAND_MEMBER_REMOVED: '§2SkyBlcok §8▏ %s §fбыл удален с острова игроком %s'
-ISLAND_MEMBER_SET_RANK_ALERT: '§2SkyBlcok §8▏ §fИгроку %s §fбыли назначены новые права управления островом'
+ISLAND_MEMBER_REMOVED: '§5SkyBlcok §8▏ %s §fбыл удален с острова игроком %s'
+ISLAND_MEMBER_SET_RANK_ALERT: '§5SkyBlcok §8▏ §fИгроку %s §fбыли назначены новые права управления островом'
 ISLAND_MEMBER_SET_RANK_NAME_OFF: '§aНазначить'
 ISLAND_MEMBER_SET_RANK_LORE_OFF:
 - '§7Нажмите, чтобы выдать новые права'
@@ -3132,7 +3132,7 @@ ISLAND_RANK_MEMBER:
 - '§8• §7Телепортация на остров'
 - '§8• §7Взаимодействие с территорией острова'
 - ' '
-ISLAND_MOB_COMMAND_ERROR: '§2SkyBlock §8▏ §fВы должны находится на территории своего острова'
+ISLAND_MOB_COMMAND_ERROR: '§5SkyBlock §8▏ §fВы должны находится на территории своего острова'
 ISLAND_MOB_COMMAND:
 - '§fНа вашем острове:'
 - ' §c▪ §fЖивотных: §a%s'
@@ -3155,7 +3155,7 @@ ISLAND_ADDLEVEL_HELP_LORE:
 - ''
 - '§7Уровень острова: §d%s %s §6%s'
 - '§7До следующего уровня: §a%s XP'
-SERVER_WAS_DOWN: '§2Сервер §8▏ §fВы были отключены от сервера §a%s §fи перенаправлены на §a%s'
+SERVER_WAS_DOWN: '§5Сервер §8▏ §fВы были отключены от сервера §a%s §fи перенаправлены на §a%s'
 SERVER_QUEUE: '§aТелепортирую на сервер %s'
 
 
@@ -3379,9 +3379,9 @@ SPECTATOR_SETTING_SPEED_ALREADY:
 SPECTATOR_SETTING_SPEED_CLICK:
 - ' '
 - '§a▸ Нажмите, чтобы изменить скорость'
-SPECTATOR_SETTING_CHANGED: '§2Наблюдение §8▏ §fСкорость передвижения изменена'
-SPECTATOR_SETTING_FLY_ON: '§2Наблюдение §8▏ §fВы включили постоянный полет'
-SPECTATOR_SETTING_FLY_OFF: '§2Наблюдение §8▏ §fВы выключили постоянный полет'
+SPECTATOR_SETTING_CHANGED: '§5Наблюдение §8▏ §fСкорость передвижения изменена'
+SPECTATOR_SETTING_FLY_ON: '§5Наблюдение §8▏ §fВы включили постоянный полет'
+SPECTATOR_SETTING_FLY_OFF: '§5Наблюдение §8▏ §fВы выключили постоянный полет'
 
 SPECTATOR_SETTING_NOSPEED_NAME: '§cБез скорости'
 SPECTATOR_SETTING_NOSPEED_LORE:
@@ -3419,8 +3419,8 @@ SPECTATOR_SETTING_NO_VISION_LORE:
 - '§a▸ Нажмите, чтобы включить'
 SPECTATOR_SETTING_HIDE_NAME: '§cСкрыть наблюдателей'
 SPECTATOR_SETTING_SHOW_NAME: '§aПоказать наблюдателей'
-SPECTATOR_SETTING_VISION_ON: '§2Наблюдение §8▏ §fНочное видение включено'
-SPECTATOR_SETTING_VISION_OFF: '§2Наблюдение §8▏ §fНочное видение выключено'
+SPECTATOR_SETTING_VISION_ON: '§5Наблюдение §8▏ §fНочное видение включено'
+SPECTATOR_SETTING_VISION_OFF: '§5Наблюдение §8▏ §fНочное видение выключено'
 SPECTATOR_SETTING_SHOW_LORE:
 - ' '
 - '§7Сейчас Вы не видите других'
@@ -3437,10 +3437,10 @@ SPECTATOR_SETTING_HIDE_LORE:
 - '§7для Вас.'
 - ' '
 - '§a▸ Нажмите, чтобы скрыть'
-SPECTATOR_SETTING_HIDING: '§2Наблюдение §8▏ §fВы не видите других наблюдателей'
-SPECTATOR_SETTING_SHOWN: '§2Наблюдение §8▏ §fВы снова видите других наблюдателей'
-SPECTATOR_SETTING_GLOW_SHOW: '§2Наблюдение §8▏ §fВы перестали подсвечивать всех игроков'
-SPECTATOR_SETTING_GLOW_HIDE: '§2Наблюдение §8▏ §fВы подсветили всех игроков'
+SPECTATOR_SETTING_HIDING: '§5Наблюдение §8▏ §fВы не видите других наблюдателей'
+SPECTATOR_SETTING_SHOWN: '§5Наблюдение §8▏ §fВы снова видите других наблюдателей'
+SPECTATOR_SETTING_GLOW_SHOW: '§5Наблюдение §8▏ §fВы перестали подсвечивать всех игроков'
+SPECTATOR_SETTING_GLOW_HIDE: '§5Наблюдение §8▏ §fВы подсветили всех игроков'
 
 SW_YOUR_TEAMMATE_IS_DEAD: '§cВаш тиммейт (%s§c) погиб'
 SW_YOUR_TEAMMATE_IS_AT_LOW_HP: '§cУ вашего тиммейта %s §cочень мало здоровья!'
@@ -3465,7 +3465,7 @@ SG_SPONSOR_GUI_ITEM_NOT_ENOUGH:
 - ''
 - '§c▸ У Вас недостаточно рейтинга'
 
-SG_PLAYER_WAS_SPONSORED: '§2Спонсорство §8▏ §fВы отправили подарок игроку %s'
+SG_PLAYER_WAS_SPONSORED: '§5Спонсорство §8▏ §fВы отправили подарок игроку %s'
 SG_YOU_HAVE_BEEN_SPONSORED:
 - ''
 - ' §aПоздравляем! §fВы получили §eподарок §fот спонсора %s'
@@ -4106,7 +4106,7 @@ INGAME_STATS_MESSAGES_TITLE:
 - ' §fс текущего режима. Чтобы просматривать статистику'
 - ' §fсо всех режимов, перейдите в лобби'
 INGAME_STATS_MESSAGES:
-- '§2Статистика §8▏ §f%s %s §fна §e%s %s§f:'
+- '§5Статистика §8▏ §f%s %s §fна §e%s %s§f:'
 INGAME_STATS_ENTRY: ' §7• §f%s: §a%s'
 LWS_GAME_DESC:
 - 'Ваша задача ломать лакиблоки и убивать игроков'
@@ -4227,7 +4227,7 @@ HUB_HORSE_HOLO:
 - 'Нажмите, чтобы взять лошадку'
 HUB_VK_HOLO:
 - '§fЗаходите в нашу группу §7§lVK'
-- '§d§lvk.com/villagemc'
+- '§d§lvk.com/KanddyCraft'
 HUB_DISCORD_HOLO:
 - '§fГолосовой чат сервера §7§lDiscord'
 - '§d§ldiscord'
@@ -4329,11 +4329,11 @@ SG_ZOMBIE_EVENT: 'Зомби-апокалипсис'
 SG_ZOMBIE_EVENT_BOARD: '§cЗомби-апокалипсис %s'
 SG_ZOMBIE_EVENT_STARTED: '§cЗомби-апокалипсис'
 SG_ZOMBIE_EVENT_DESC: '§7Не попадитесь под руку голодным зомби'
-SG_ZOMBIE_EVENT_REWARD: '§2Зомби-апокалипсис §8▏ §fПоздравляем! Вы выжили и получили §a%s §fмонет'
+SG_ZOMBIE_EVENT_REWARD: '§5Зомби-апокалипсис §8▏ §fПоздравляем! Вы выжили и получили §a%s §fмонет'
 
 SG_FIRE_EVENT: 'Адский гонщик'
 SG_FIRE_EVENT_BOARD: '§cАдский гонщик %s'
-SG_FIRE_EVENT_REWARD: '§2Адский гонщик §8▏ §fПоздравляем! Вы выжили и получили §a%s §fмонет'
+SG_FIRE_EVENT_REWARD: '§5Адский гонщик §8▏ §fПоздравляем! Вы выжили и получили §a%s §fмонет'
 
 SG_FIRE_EVENT_STARTED: '§cАдский гонщик'
 SG_FIRE_EVENT_DESC: '§7Бегите, иначе сгорите! Еще 60 секунд...'
@@ -4348,7 +4348,7 @@ SG_ABNORMAL_HEAT_EVENT_BOARD: '§cАномальная жара %s'
 SG_ABNORMAL_HEAT_EVENT_BAR: '§eУкройтесь в помещении! Аномальная жара через %s секунд...'
 SG_ABNORMAL_HEAT_EVENT_STARTED: '§cАномальная жара началась! Вы умрете под открытым небом...'
 ABNORMAL_HEAT_WARN: '§cВы умрете находясь под открытым небом!'
-SG_ABNORMAL_HEAT_EVENT_REWARD: '§2Аномальная жара §8▏ §fПоздравляем! Вы выжили и получили §a%s §fмонет'
+SG_ABNORMAL_HEAT_EVENT_REWARD: '§5Аномальная жара §8▏ §fПоздравляем! Вы выжили и получили §a%s §fмонет'
 SG_ABNORMAL_HEAT_EVENT_STARTED_TITLE: '§cАномальная жара'
 SG_ABNORMAL_HEAT_EVENT_STARTED_SUBTITLE: '§7У Вас есть 30 секунд, чтобы укрыться в помещении'
 SG_REFILL_EVENT: 'Божья помощь'
@@ -4392,7 +4392,7 @@ SG_TEAM_GAME_ENDED: 'Игра окончена. Победителем стан�
 SG_BOARD_DEATHMATCH: 'До конца игры: §a%s'
 SG_BOARD_DEATHMATCH_TIME: '§fДо дезматча: §a%s'
 
-SG_DEATHMATCH_COUNTDOWN: '§2Survival Games §8▏ §fДезматч начнется через §a%s §f%s'
+SG_DEATHMATCH_COUNTDOWN: '§5Survival Games §8▏ §fДезматч начнется через §a%s §f%s'
 
 SW_BOARD_NEXT_EVENT: 'Следующее событие:'
 
@@ -4412,7 +4412,7 @@ SKYWARS_GLOWING_EVENT: '§aСвечение игроков '
 SKYWARS_GLOWING_EVENT_STARTED: '§eВсе игроки получили эффект свечения'
 SKYWARS_SPEED_EVENT: '§aУскорение '
 SKYWARS_SPEED_EVENT_STARTED: '§aВсе игроки получили эффект скорости %s'
-SKYWARS_SPEED_EVENT_ADDITIONAL_SPEED: '§2SkyWars §8▏ §fВы получили эффект скорости §a%s§f, поскольку выбрали умение §aСоник'
+SKYWARS_SPEED_EVENT_ADDITIONAL_SPEED: '§5SkyWars §8▏ §fВы получили эффект скорости §a%s§f, поскольку выбрали умение §aСоник'
 SKYWARS_LOOT_EVENT: '§aОбновление лута '
 SKYWARS_LOOT_EVENT_STARTED: '§aЛут в сундуках на центре карты был обновлен'
 
@@ -4444,9 +4444,9 @@ YOU_ARE_MUTED:
 - ' §7Заблокировал: §c%s'
 - ''
 - ' §7Обжаловать наказание можно в группе VK:'
-- ' §b§nvk.com/villagemc'
+- ' §b§nvk.com/KanddyCraft'
 - '§8▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬'
-YOU_WERE_UNMUTED: '§2Сервер §8▏ §fДоступ к чату был восстановлен! Вы снова можете говорить!'
+YOU_WERE_UNMUTED: '§5Сервер §8▏ §fДоступ к чату был восстановлен! Вы снова можете говорить!'
 BROADCAST_UNBAN: '§cМодерация §8▏ §f%s §7снял бан с %s'
 YOU_CANT_BANIP: '§cВы не можете банить игроков по IP'
 YOU_CANT_BANHIM: '§cВы не можете наказать данного игрока'
@@ -4528,15 +4528,15 @@ CHAT_LOBBY_OFF:
 - '§4§lВнимание! §cЧат отключен!'
 - '§cВы можете включить его в личном профиле -> настройки'
 ISLAND_TOP_KILLS_HOLO:
-- '§2§lТоп по убийствам'
+- '§5§lТоп по убийствам'
 - '§fТоп игроков по кол-ву'
 - '§fубитых игроков'
 MOBS_TOP_KILLS_HOLO:
-- '§2§lТоп по убийствам'
+- '§5§lТоп по убийствам'
 - '§fТоп игроков по кол-ву'
 - '§fубитых мобов'
 AIRDROP_TOP_HOLO:
-- '§2§lТоп по собранным ящикам'
+- '§5§lТоп по собранным ящикам'
 - '§fТоп игроков по кол-ву'
 - '§fсобранных ящиков'
 NOT_PIAR: '; §cℹ У нас запрещено рекламировать сайты и сторонние ресурсы; '
@@ -4552,7 +4552,7 @@ HIDER_DISABLE_LORE:
 - '§7чтобы скрыть игроков'
 TITLE_JOIN_LOBBY: ''
 SUBTITLE_JOIN_LOBBY: ''
-ALREADY_ON_SERVER: '§2Сервер §8▏ §cВы уже находитесь на этом сервере!'
+ALREADY_ON_SERVER: '§5Сервер §8▏ §cВы уже находитесь на этом сервере!'
 PROMO_ITEM_NAME: '§aСКИДКИ!'
 PLAY_FORMAT: '/play <игра>'
 
@@ -4585,8 +4585,8 @@ ISLAND_GENERATOR_UPGRADE_LEVEL_CLICK:
 - '§7Цена: §ax%s изумурудных блоков'
 - ''
 - ' §a▸ Нажмите, чтобы купить'
-ISLAND_BUY_BEACON_ALERT: '§2SkyBlock §8▏ §fИгрок %s §fкупил эффект маяка §7%s §fза §e%s §f%s'
-ISLAND_BUY_GENERATOR: '§2SkyBlock §8▏ §fИгрок %s §fулучшил генератор для вашего острова до §a%s §fуровня'
+ISLAND_BUY_BEACON_ALERT: '§5SkyBlock §8▏ §fИгрок %s §fкупил эффект маяка §7%s §fза §e%s §f%s'
+ISLAND_BUY_GENERATOR: '§5SkyBlock §8▏ §fИгрок %s §fулучшил генератор для вашего острова до §a%s §fуровня'
 ISLAND_DEFAULT_GENERATOR_LORE: '§8 • §7100% булыжник'
 ISLAND_FIRST_GENERATOR_LORE:
 - '§8 • §73% угольная руда'
@@ -4831,7 +4831,7 @@ ISLAND_FLAG_ENTITY_GRIEF_LORE:
 - '§7постоянно воруют блоки,'
 - '§7то данный флаг решит'
 - '§7все ваши проблемы'
-AVAILABLE_SERVER_NOT_FOUND: '§2Сервер §8▏ §fНе удалось найти подходящий сервер'
+AVAILABLE_SERVER_NOT_FOUND: '§5Сервер §8▏ §fНе удалось найти подходящий сервер'
 LOBBY_SPECTATE_GUI_NAME: 'Наблюдение за игрой'
 LOBBY_CHANNEL_GUI_NAME: 'Выбор карты %s'
 LOBBY_CHANNEL_MAP_LORE:
@@ -4918,7 +4918,7 @@ JOIN_MESSAGE_LORE:
 JOIN_MESSAGE_LORE_SELECT: '§aСообщение выбрано'
 JOIN_MESSAGE_LORE_NOT_SELECT: '§a▸ Нажмите, чтобы выбрать'
 JOIN_MESSAGE_LORE_NOT_AVAILABLE: '§cДанное сообщение вам не доступно'
-LIMBO_NO_CHAT: '§2Сервер §8▏ §fИзвините, но вы не можете писать в §aчат§f. Вернуться в главное лобби §7/hub §fили §7/lobby'
+LIMBO_NO_CHAT: '§5Сервер §8▏ §fИзвините, но вы не можете писать в §aчат§f. Вернуться в главное лобби §7/hub §fили §7/lobby'
 LIMBO_ITEM_NAME: 'Назад в главное лобби'
 LIMBO_ITEM_LORE:
 - '§7Используйте этот предмет,'
@@ -5099,7 +5099,7 @@ GADGETS_GIVE_DONATE_ONLY: '§7Бесплатно для %s'
 GADGETS_GIVE_GOLD: '§7Цена: §a%s изумрудов'
 GADGETS_GIVE_BOX: '§7Выпадает из §bСундука удачи §7(%s§7)'
 GADGETS_GIVE_LEVEL: '§7При достижении §d%s §7уровня'
-GADGETS_GIVE_SITE: '§7Купить на сайте §bvillagemc.net'
+GADGETS_GIVE_SITE: '§7Купить на сайте §bKanddyCraft.net'
 GADGETS_NO_USE: '§cДанный гаджет вам недоступен'
 GADGETS_FAVORITE_ADD: '§aПКМ, чтобы добавить в избранное'
 GADGETS_FAVORITE_REMOVE: '§cПКМ, чтобы убрать из избранного'
@@ -6405,20 +6405,20 @@ GADGETS_371_LORE:
 MYSTERY_DUST_DATA: 'Монеты'
 SURVIVAL_DATA: 'Баты'
 GOLD_DATA: 'Изумруды'
-DONATE_MENU_JOIN_MESSAGE_ENABLE: '§2Сообщение при входе §8▏ §fСообщение под номером §a%s §fактивировано'
-DONATE_MENU_JOIN_MESSAGE_BUY: '§2Сообщение при входе §8▏ §fВы успешно купили §a%s §fсообщение'
-GAMER_NO_KEYS: '§2Сервер §8▏ §fОшибка! У вас недостаточно §aключей§f для открытия кейсов! Купить немного ключей можно на нашем сайте §dvillagemc.net §7(жми)'
-GAMER_NO_MYSTERY_DUST: '§2Сервер §8▏ §fОшибка! У вас недостаточно §aмонет§f для покупки! Купить еще монеток можно на нашем сайте §dvillagemc.net §7(жми)'
-GAMER_NO_GOLD: '§2Сервер §8▏ §fОшибка! У вас недостаточно §aизумрудов§f для покупки! Покупка изумрудов осуществляется только на сайте §dvillagemc.net §7(жми)'
-SITE_SHOP_WAIT_MESSAGE: '§2Магазин §8▏ §fУ вас есть §a%s §fпредметов, которые вы не забрали после покупки! Чтобы их забрать, напишите §7/give'
+DONATE_MENU_JOIN_MESSAGE_ENABLE: '§5Сообщение при входе §8▏ §fСообщение под номером §a%s §fактивировано'
+DONATE_MENU_JOIN_MESSAGE_BUY: '§5Сообщение при входе §8▏ §fВы успешно купили §a%s §fсообщение'
+GAMER_NO_KEYS: '§5Сервер §8▏ §fОшибка! У вас недостаточно §aключей§f для открытия кейсов! Купить немного ключей можно на нашем сайте §dKanddyCraft.net §7(жми)'
+GAMER_NO_MYSTERY_DUST: '§5Сервер §8▏ §fОшибка! У вас недостаточно §aмонет§f для покупки! Купить еще монеток можно на нашем сайте §dKanddyCraft.net §7(жми)'
+GAMER_NO_GOLD: '§5Сервер §8▏ §fОшибка! У вас недостаточно §aизумрудов§f для покупки! Покупка изумрудов осуществляется только на сайте §dKanddyCraft.net §7(жми)'
+SITE_SHOP_WAIT_MESSAGE: '§5Магазин §8▏ §fУ вас есть §a%s §fпредметов, которые вы не забрали после покупки! Чтобы их забрать, напишите §7/give'
 SITE_SHOP_ITEMS_NAME: 'Предметы'
 SITE_SHOP_DISABLE_SPAWNERS: '§cСмена существа в рассаднике монстров отключена!'
-SITE_SHOP_ITEM_ALERT: '§2Магазин §8▏ §fВсе предметы успешно выданы!'
+SITE_SHOP_ITEM_ALERT: '§5Магазин §8▏ §fВсе предметы успешно выданы!'
 SITE_SHOP_ITEMS_GUI_NAME: 'Доступные предметы'
 SITE_SHOP_ITEM_EMPTY_NAME: '§cНет доступных предметов'
 SITE_SHOP_ITEM_EMPTY_LORE:
 - '§7У вас нет доступных предметов'
-- '§7Покупка на сайте §dvillagemc.net'
+- '§7Покупка на сайте §dKanddyCraft.net'
 SITE_SHOP_ITEM_LORE_1:
 - '§7Получить следующие предметы:'
 SITE_SHOP_ITEM_LORE_2:
@@ -6653,7 +6653,7 @@ HOLO_VILLAGESTART:
 - '§7Нажмите, чтобы открыть'
 CONVERT_FORMAT: '/convert <изумруды>'
 CONVERT_ERROR: '§cОшибка, нужно указывать только положительное целое число!'
-CONVERT: '§2Магазин §8▏ §fВы успешно обменяли §a%s изумрудов§f на §a%s §fБат'
+CONVERT: '§5Магазин §8▏ §fВы успешно обменяли §a%s изумрудов§f на §a%s §fБат'
 BOX_GUI_NAME: 'Открытие кейса'
 BOX_GUI_HELP_NAME: '§bПомощь с ключами'
 BOX_GUI_HELP_LORE:
@@ -6681,7 +6681,7 @@ BOX_GUI_HELP2_LORE:
 - '§7Если же вам не хватает ключей,'
 - '§7то вы всегда их можете купить за монеты'
 - '§7нажав §cПКМ §7по нужному ключу или'
-- '§7на нашей сайте §fvillagemc.net'
+- '§7на нашей сайте §fKanddyCraft.net'
 BOX_SHOP_GUI_NAME: 'Покупка ключей'
 BOX_SHOP_SELECT_LORE:
 - '§7Купить ключи за %s'
@@ -6733,23 +6733,23 @@ GROUP_KEY: '§eДонатный ключ'
 GROUP_KEY_LORE:
 - ''
 - '§7Используется для получения'
-- '§7статуса от §6§lWHEAT §7до §7§lSPONGE'
+- '§7статуса от §6§lSWEET §7до §7§lSPONGE'
 - ''
 - '§bВнимание! При выбивании уже существующего'
 - '§bстатуса вы получите от 10 до 40 изумрудов!'
-COMPOT_KEY: '§eКлюч жителя'
+COMPOT_KEY: '§eКлюч кристала'
 COMPOT_KEY_LORE:
 - ''
 - '§7Используется для получения'
 - '§7эксклюзивных титулов, самой'
 - '§7дорогой привилегии и многих плюшек'
-CHRISTMAS_KEY: '§2Новогодний §cключ'
+CHRISTMAS_KEY: '§5Новогодний §cключ'
 CHRISTMAS_KEY_LORE:
 - ''
 - '§7Эксклюзивный ключ, который'
 - '§7действует только во время'
 - '§7Новогоднего обновления!'
-- '§7Можно получить §e§oтолько §7в игре §2§lSpl§c§leef'
+- '§7Можно получить §e§oтолько §7в игре §5§lSpl§c§leef'
 TITLE_KEY: '§fТитульный ключ'
 TITLE_KEY_LORE:
 - ''
@@ -6780,10 +6780,10 @@ BOX_GUI_LORE:
 - '§a▸ ПКМ, чтобы купить ключи'
 SENDMONEY_FORMAT: '/sendmoney <ник игрока> <сумма>'
 SENDMONEY_YOU: '§cНельзя отправить деньги самому себе!'
-SENDMONEY_SEND: '§2Сервер §8▏ §fВы успешно передали §a%s §f%s игроку %s§f. Комиссия при переводе составила §c%s §f%s (§e%s§f)'
+SENDMONEY_SEND: '§5Сервер §8▏ §fВы успешно передали §a%s §f%s игроку %s§f. Комиссия при переводе составила §c%s §f%s (§e%s§f)'
 SENDMONEY_ERROR_SEND: '§cОшибка, вы не можете отправить %s %s, так как ваш дневной лимит на отправку денег не должен превышать %s %s'
 SENDMONEY_ERROR_SENDED: '§cОшибка, вы не можете отправить %s %s игроку %s§c, так как его дневной лимит на получение денег не должен превышать %s %s'
-SENDMONEY_TO: '§2Сервер §8▏ §fВы успешно получили §a%s §f%s от игрока %s'
+SENDMONEY_TO: '§5Сервер §8▏ §fВы успешно получили §a%s §f%s от игрока %s'
 SENDMONEY_NO_LEVEL_YOU: '§cОшибка, вы не можете перевести деньги, ваш уровень ниже 10!'
 SENDMONEY_NO_LEVEL_OTHER: '§cОшибка, вы не можете перевести деньги данному игроку. Его уровень ниже 10!'
 SENDMONEY_NO_MONEY: '§cОшибка, на вашем балансе недостаточно средств! Включая комиссию %s на вашем счету должно быть %s %s'
@@ -6863,7 +6863,7 @@ VERY_BAD_VOTING_ITEM: '§4Отвратительно'
 BAD_VOTING_ITEM: '§cПлохо'
 NORMAL_VOTING_ITEM: '§eНормально'
 GOOD_VOTING_ITEM: '§aХорошо'
-VERY_GOOD_VOTING_ITEM: '§2Отлично'
+VERY_GOOD_VOTING_ITEM: '§5Отлично'
 VERY_BAD_VOTING_ITEM_LORE:
 - '§7Нажмите, чтобы поставить оценку'
 - '§4отвратительно'
@@ -6878,7 +6878,7 @@ GOOD_VOTING_ITEM_LORE:
 - '§aхорошо'
 VERY_GOOD_VOTING_ITEM_LORE:
 - '§7Нажмите, чтобы поставить оценку'
-- '§2отлично'
+- '§5отлично'
 BUILDBATTLE_BUILD_TIME_END: 'Время вышло. Начинается голосование за лучшую постройку!'
 BUILDBATTLE_MENU_TITLE: 'Управление участком'
 BUILDBATTLE_MENU_ITEM_LORE:
@@ -8323,16 +8323,16 @@ EW_UPGRADE_EMERALD_ARMY_LORE:
 - ''
 - '§7После улучшения,'
 - '§7Ваша команда будет получать'
-- '§2%s §7%s'
+- '§5%s §7%s'
 - '§7за каждое убийство любого игрока'
 - ''
-- '§7Стоимость: §2%s %s'
+- '§7Стоимость: §5%s %s'
 - ''
 - '§a▸ Нажмите ЛКМ, чтобы купить'
 EW_UPGRADE_EMERALD_ARMY_MAX_LORE:
 - ''
 - '§7Ваша команда будет получать'
-- '§7§2%s §7%s'
+- '§7§5%s §7%s'
 - '§7за каждое убийство любого игрока'
 - ''
 - '§eМаксимальный уровень'
@@ -8396,7 +8396,7 @@ EW_UPGRADE_TEAM_WORK_LORE:
 - '§7длительностью в 30 секунд'
 - '§7на всех игроков вашей команды'
 - ''
-- '§7Стоимость: §2%s %s'
+- '§7Стоимость: §5%s %s'
 - ''
 - '§a▸ Нажмите ЛКМ, чтобы купить'
 EW_UPGRADE_HEALTH_AURA: 'Аура регенерации'
@@ -9253,27 +9253,27 @@ ANARCHY_HOLOGRAM_AIRDROP:
 ANARCHY_HOLOGRAM_AIRDROP_WAIT: '§cВычисляем время до падения...'
 ANARCHY_HOLOGRAM_REGIONS_ANIMATION: '§fНа сервере §a%s§f активных регионов'
 
-ANARCHY_NO_MONEY: '§2Anarchy §8▏ §fУ вас недостаточно §aмонет§f для покупки'
-ANARCHY_WAND: '§2Anarchy §8▏ §fПриват на сервере осуществляется с помощью §eЗолотого блока §7(10 во все стороны от него) §fили §aИзумрудной руды §7(25 во все стороны)'
-ANARCHY_TPA: '§2Anarchy §8▏ §fНа режиме §cнет телепортаций §fк игроку. Найти друга можно по координатам, а также с помощью §7/compass <координата x> <координата z> §f(если у вас есть компас)'
+ANARCHY_NO_MONEY: '§5Anarchy §8▏ §fУ вас недостаточно §aмонет§f для покупки'
+ANARCHY_WAND: '§5Anarchy §8▏ §fПриват на сервере осуществляется с помощью §eЗолотого блока §7(10 во все стороны от него) §fили §aИзумрудной руды §7(25 во все стороны)'
+ANARCHY_TPA: '§5Anarchy §8▏ §fНа режиме §cнет телепортаций §fк игроку. Найти друга можно по координатам, а также с помощью §7/compass <координата x> <координата z> §f(если у вас есть компас)'
 ANARCHY_HELP_GUI_NAME: 'Анархия'
 ANARCHY_BOX_GUI_NAME: 'Покупка ключей'
-ANARCHY_TPPOS_LOBBY: '§2Anarchy §8▏ §cДанная команда не доступна в мире спавна'
-ANARCHY_DEATH_FRIEND: '§2Anarchy §8▏ §fВаш друг %s §fпогиб в мире §7%s'
+ANARCHY_TPPOS_LOBBY: '§5Anarchy §8▏ §cДанная команда не доступна в мире спавна'
+ANARCHY_DEATH_FRIEND: '§5Anarchy §8▏ §fВаш друг %s §fпогиб в мире §7%s'
 
-AIRDROP_COLLECTED: '§2AirDrop §8▏ %s §fнашел и забрал §7Ящик с припасами'
-AIRDROP_SPAWN: '§2AirDrop §8▏ §7Ящик с припасами §fупал в обычном мире на координатах X: §a%s §fY: §a%s §fZ: §a%s'
+AIRDROP_COLLECTED: '§5AirDrop §8▏ %s §fнашел и забрал §7Ящик с припасами'
+AIRDROP_SPAWN: '§5AirDrop §8▏ §7Ящик с припасами §fупал в обычном мире на координатах X: §a%s §fY: §a%s §fZ: §a%s'
 AIRDROP_SPAWN_TITLE: '§eЯщик с припасами появился!'
-AIRDROP_WAIT: '§2AirDrop §8▏ §7Ящик с припасами §fлежит в обычном мире на координатах X: §a%s §fY: §a%s §fZ: §a%s'
-AIRDROP_WAIT_SPAWN: '§2AirDrop §8▏ §7ящик с припасами §fупадет в обычном мире на координатах X: §a%s §fY: §a%s §fZ: §a%s§f через §7%s'
-AIRDROP_NEXT_SPAWN: '§2AirDrop §8▏ §fСледующий §7Ящик с припасами §fупадет в обычном мире через §7%s'
-AIRDROP_APPLY_START: '§2AirDrop §8▏ §fВы нашли следующие предметы:'
+AIRDROP_WAIT: '§5AirDrop §8▏ §7Ящик с припасами §fлежит в обычном мире на координатах X: §a%s §fY: §a%s §fZ: §a%s'
+AIRDROP_WAIT_SPAWN: '§5AirDrop §8▏ §7ящик с припасами §fупадет в обычном мире на координатах X: §a%s §fY: §a%s §fZ: §a%s§f через §7%s'
+AIRDROP_NEXT_SPAWN: '§5AirDrop §8▏ §fСледующий §7Ящик с припасами §fупадет в обычном мире через §7%s'
+AIRDROP_APPLY_START: '§5AirDrop §8▏ §fВы нашли следующие предметы:'
 AIRDROP_APPLY_LASTCRAFT_BOOK: '§fКнига с зачарованием §7%s'
 AIRDROP_APPLY_KEYS: '§fКлючи %s'
 AIRDROP_APPLY_MONEY: '§fМонеты'
 AIRDROP_APPLY_REGION_EFFECT: '§fЭффект для регионов §a%s'
 
-PROTECTION_BREAK_BY: '§2Anarchy §8▏ §fПриват §7%s §fбыл уничтожен с помощью §7%s'
+PROTECTION_BREAK_BY: '§5Anarchy §8▏ §fПриват §7%s §fбыл уничтожен с помощью §7%s'
 PROTECTION_HELP:
 - '§7/rg list §f- список ваших регионов'
 - '§7/rg addmember <ник> §f- добавить игрока в приват §c(вы должны стоять в привате)'
@@ -9305,24 +9305,24 @@ PROTECTION_MEMBERS_GUI_NAME: 'Участники'
 PROTECTION_FLAGS_GUI_NAME: 'Флаги'
 PROTECTION_EFFECTS_GUI_NAME: 'Эффекты'
 PROTECTION_MAIN_GUI_NAME: 'Настройки региона'
-PROTECTION_LEAVE_TO: '§2Anarchy §8▏ §fИгрок %s §fпокинул приват §7%s'
-PROTECTION_LEAVE: '§2Anarchy §8▏ §fВы покинули приват §7%s'
-PROTECTION_ADDMEMBER_TARGET_LIMIT: '§2Anarchy §8▏ §cОшибка, вы привысили лимит на кол-во приватов, вы не можете владеть более §a%s§f приватов'
-PROTECTION_SET_BED_ERROR: '§2Anarchy §8▏ §cОшибка, вы не можете установить точку дома в чужом регионе'
+PROTECTION_LEAVE_TO: '§5Anarchy §8▏ §fИгрок %s §fпокинул приват §7%s'
+PROTECTION_LEAVE: '§5Anarchy §8▏ §fВы покинули приват §7%s'
+PROTECTION_ADDMEMBER_TARGET_LIMIT: '§5Anarchy §8▏ §cОшибка, вы привысили лимит на кол-во приватов, вы не можете владеть более §a%s§f приватов'
+PROTECTION_SET_BED_ERROR: '§5Anarchy §8▏ §cОшибка, вы не можете установить точку дома в чужом регионе'
 PROTECTION_ITEM_EMPTY_NAME: '§cУ вас нет доступных приватов'
 PROTECTION_ADDMEMBER_FORMAT: '/rg addmember <ник>'
 PROTECTION_ADDMEMBERALL_FORMAT: '/rg addmemberall <ник>'
 PROTECTION_REMOVEMEMBER_FORMAT: '/rg removemember <ник>'
 PROTECTION_REMOVEMEMBERALL_FORMAT: '/rg removememberall <ник>'
-PROTECTION_REGIONS_COMMAND_NO_RG: '§2Anarchy §8▏ §fРегионы в данной локации не найдены или вы не их владелец/участник'
-PROTECTION_REGIONS_ALL_COMMAND_NO_RG: '§2Anarchy §8▏ §fРегионы не найдены или вы не их владелец'
+PROTECTION_REGIONS_COMMAND_NO_RG: '§5Anarchy §8▏ §fРегионы в данной локации не найдены или вы не их владелец/участник'
+PROTECTION_REGIONS_ALL_COMMAND_NO_RG: '§5Anarchy §8▏ §fРегионы не найдены или вы не их владелец'
 PROTECTION_REGIONS_STICK: '§eНайден регион игрока: %s'
 PROTECTION_REGIONS_STICK_EMPTY: '§eРегионы не найдены'
-AIRDROP_DISABLE_REGION: '§2Anarchy §8▏ §fВы не можете заприватить территорию §7ящика с припасами'
-FRIEND_PVP_DISABLE: '§2Anarchy §8▏ §fВы не можете ударить своего друга'
+AIRDROP_DISABLE_REGION: '§5Anarchy §8▏ §fВы не можете заприватить территорию §7ящика с припасами'
+FRIEND_PVP_DISABLE: '§5Anarchy §8▏ §fВы не можете ударить своего друга'
 PROTECTION_REGION_LIST: 'Список регионов'
 PROTECTION_NOT_YOU: '§cДанный регион вам не принадлежит'
-PROTECTION_END: '§2Anarchy §8▏ §cОшибка, ставить приваты в энде запрещено'
+PROTECTION_END: '§5Anarchy §8▏ §cОшибка, ставить приваты в энде запрещено'
 PROTECTION_NAME: 'Приват'
 PROTECTION_PROFILE_UPGRADE_NAME: 'Расширение привата'
 PROTECTION_PROFILE_UPGRADE_LORE:
@@ -9356,7 +9356,7 @@ PROTECTION_UPGRADE_HELP_LORE:
 - ''
 - '§7Размеры: §a%s§7x§a%s§7x§a%s'
 - '§7Уровень региона: §e%s§7/§c%s'
-PROTECTION_UPGRADE_FULL_MESSAGE: '§2Anarchy §8▏ §fОшибка, у вас максимальный уровень прокачки'
+PROTECTION_UPGRADE_FULL_MESSAGE: '§5Anarchy §8▏ §fОшибка, у вас максимальный уровень прокачки'
 PROTECTION_UPGRADE_FULL:
 - ''
 - '§7Вы исчерпали кол-во улучшений'
@@ -9370,13 +9370,13 @@ PROTECTION_UPGRADE_SIDE_LORE:
 - '§7Цена: §a%s$'
 - ''
 - '§a▸ Нажмите, чтобы улучшить'
-PROTECTION_MEMBER_SETTINGS_OWNER: '§2Anarchy §8▏ §cОшибка, вы не можете настраивать права владельца привата!'
+PROTECTION_MEMBER_SETTINGS_OWNER: '§5Anarchy §8▏ §cОшибка, вы не можете настраивать права владельца привата!'
 PROTECTION_NOT_OWNER: '§cОшибка, вы не владелец или со-владелец данного привата!'
-PROTECTION_UPGRADE_NO_MONEY: '§2Anarchy §8▏ §fОшибка, у вас недостаточно денег для покупки расширения'
-PROTECTION_UPGRADE_SIDE_SUCCES_TO: '§2Anarchy §8▏ §fПриват §7%s §fрасширен на §a%s §fблоков по координатам §7X §fи §7Z §fигроком %s'
-PROTECTION_UPGRADE_SIDE_SUCCES: '§2Anarchy §8▏ §fПриват §7%s §fуспешно расширен на §a%s §fблоков по координатам §7X §fи §7Z'
-PROTECTION_UPGRADE_UP_SUCCES: '§2Anarchy §8▏ §fПриват §7%s §fуспешно расширен на §a%s §fблоков по координате §7Y'
-PROTECTION_UPGRADE_UP_SUCCES_TO: '§2Anarchy §8▏ §fПриват §7%s §fрасширен на §a%s §fблоков по координате §7Y §fигроком %s'
+PROTECTION_UPGRADE_NO_MONEY: '§5Anarchy §8▏ §fОшибка, у вас недостаточно денег для покупки расширения'
+PROTECTION_UPGRADE_SIDE_SUCCES_TO: '§5Anarchy §8▏ §fПриват §7%s §fрасширен на §a%s §fблоков по координатам §7X §fи §7Z §fигроком %s'
+PROTECTION_UPGRADE_SIDE_SUCCES: '§5Anarchy §8▏ §fПриват §7%s §fуспешно расширен на §a%s §fблоков по координатам §7X §fи §7Z'
+PROTECTION_UPGRADE_UP_SUCCES: '§5Anarchy §8▏ §fПриват §7%s §fуспешно расширен на §a%s §fблоков по координате §7Y'
+PROTECTION_UPGRADE_UP_SUCCES_TO: '§5Anarchy §8▏ §fПриват §7%s §fрасширен на §a%s §fблоков по координате §7Y §fигроком %s'
 PROTECTION_UPGRADE_UP_NAME: 'Расширить по Y'
 PROTECTION_UPGRADE_UP_LORE:
 - ' '
@@ -9414,7 +9414,7 @@ PROTECTION_RANK_MEMBER:
 - '§7Доступные права:'
 - '§8• §7Взаимодействие с территорией привата'
 - ' '
-PROTECTION_FLAG_DISABLED: '§2Anarchy §8▏ §fВ данном регионе активирован флаг §a%s'
+PROTECTION_FLAG_DISABLED: '§5Anarchy §8▏ §fВ данном регионе активирован флаг §a%s'
 PROTECTION_FLAG_ANTI_TNT_NAME: 'Анти динамит'
 PROTECTION_FLAG_ANTI_TNT_LORE:
 - ''
@@ -9496,14 +9496,14 @@ PROTECTION_EFFECT_ENABLE_LIMIT_LORE:
 - '§cактивированных эффектов!'
 PROTECTION_EFFECT_ENABLED: '§aвключил'
 PROTECTION_EFFECT_DISABLED: '§cотключил'
-PROTECTION_EFFECT_NOT_OPEN: '§2Survival §8▏ §fДанный эффект вам недоступен, купите его!'
-PROTECTION_EFFECT_ENABLE_ERROR: '§2Survival §8▏ §fПростите, но вы не можете активировать данный эффект, лимит вашего привата на кол-во эффектов §7%s'
-PROTECTION_BUY_FLAG: '§2Survival §8▏ §fИгрок %s §fкупил флаг §a%s §fдо §7%s'
-PROTECTION_BUY_EFFECT: '§2Survival §8▏ §fИгрок %s §fкупил эффект §a%s §fдо §7%s'
-PROTECTION_CHANGE_STATE_EFFECT: '§2Survival §8▏ §fИгрок %s %s§f эффект §a%s'
-PROTECTION_MEMBER_SET_RANK_ALERT: '§2Survival §8▏ §fИгроку %s §fбыли назначены новые права управления приватом'
+PROTECTION_EFFECT_NOT_OPEN: '§5Survival §8▏ §fДанный эффект вам недоступен, купите его!'
+PROTECTION_EFFECT_ENABLE_ERROR: '§5Survival §8▏ §fПростите, но вы не можете активировать данный эффект, лимит вашего привата на кол-во эффектов §7%s'
+PROTECTION_BUY_FLAG: '§5Survival §8▏ §fИгрок %s §fкупил флаг §a%s §fдо §7%s'
+PROTECTION_BUY_EFFECT: '§5Survival §8▏ §fИгрок %s §fкупил эффект §a%s §fдо §7%s'
+PROTECTION_CHANGE_STATE_EFFECT: '§5Survival §8▏ §fИгрок %s %s§f эффект §a%s'
+PROTECTION_MEMBER_SET_RANK_ALERT: '§5Survival §8▏ §fИгроку %s §fбыли назначены новые права управления приватом'
 
-ENCHANTED_BOOK_ERROR: '§2Enchanted §8▏ §fОшибка, вам нужно иметь §a%s §fуровень, чтобы наложить эти чары на предмет'
+ENCHANTED_BOOK_ERROR: '§5Enchanted §8▏ §fОшибка, вам нужно иметь §a%s §fуровень, чтобы наложить эти чары на предмет'
 
 LW_MIDDLE_TIMER: '§bСпавн лаки-блока через'
 
@@ -9518,7 +9518,7 @@ BEST_PLAYER_INFO:
 - '§bбольшую сумму чем вы, то через %s дней'
 - '§bс вас будет снят статус "любимого игрока"'
 - ''
-BEST_PLAYER_BUY_MESSAGE: '§2MostPlayer §8▏ §fВы перекупили игрока %s §fза §e%s §f%s и стали новым "лучшим игроком"'
+BEST_PLAYER_BUY_MESSAGE: '§5MostPlayer §8▏ §fВы перекупили игрока %s §fза §e%s §f%s и стали новым "лучшим игроком"'
 BEST_PLAYER_BUY: '§eПовысить на %s'
 BEST_PLAYER_BUY_LORE:
 - '§7'
@@ -9564,10 +9564,10 @@ HELP_COMMAND:
 - '§f/skin §7- поставить себе любой скин игрока'
 - '§f/party §7- субкоманда для создания своей группы'
 - ''
-- '§fАйпи сервера: §aplay.villagemc.net'
-- '§fОнлайн магазин: §6villagemc.net'
-- '§fГруппа VK: §dvk.com/villagemc'
-- '§fДискорд: §9discord.villagemc.net'
+- '§fАйпи сервера: §aplay.KanddyCraft.net'
+- '§fОнлайн магазин: §6KanddyCraft.net'
+- '§fГруппа VK: §dvk.com/KanddyCraft'
+- '§fДискорд: §9discord.KanddyCraft.net'
 - ''
 ISLAND_TREE_NAME: 'Одно дерево'
 ISLAND_TREE_LORE:
@@ -9800,7 +9800,7 @@ GUI_DONATE_WHEAT_SURVIVAL_LORE:
 - ' §8▪ §7Восстановить голод - §f/feed'
 - ' §8▪ §7Потушить себя - §f/ext'
 - ' §8▪ §7Быстро очистить инвентарь - §f/clear'
-- ' §8▪ §7Особый набор вещей каждые сутки (§f/kit wheat§7)'
+- ' §8▪ §7Особый набор вещей каждые сутки (§f/kit sweet§7)'
 - ' §8▪ §7Больше участников для приватов §c5'
 - ' §8▪ §7Увеличенный лимит блоков для привата §c200к'
 - ''
@@ -9906,7 +9906,7 @@ POINTS_1:
 
 GUI_DONATE_COMPOT_ITEM_LORE:
   - ''
-  - ' §8▪ §7Преффикс §c§lVILLAGER'
+  - ' §8▪ §7Преффикс §c§lCANDY'
   - ' §8▪ §7Приветствие при входе'
   - ' §8▪ §7Доступен х2 прыжок во всех лобби(если отключить полет)'
   - ' §8▪ §7Возможность сменить сообщения при входе'
@@ -9953,7 +9953,7 @@ GUI_DONATE_COMPOT_SKYBLOCK_LORE:
   - ' §8▪ §7Потушить себя - §f/ext'
   - ' §8▪ §7Быстро очистить инвентарь - §f/clear'
   - ' §8▪ §7Установить время для себя - §f/ptime'
-  - ' §8▪ §7Особый набор вещей каждые два §7дня (§f/kit villager§7)'
+  - ' §8▪ §7Особый набор вещей каждые два §7дня (§f/kit candy§7)'
   - ' §8▪ §7Телепортация на спавн при падении в бездну'
   - ' §8▪ §7Надевать различные вещи на голову - §f/hat'
   - ' §8▪ §7Открывать магазин в любом месте - §f/shop'
@@ -9975,7 +9975,7 @@ GUI_DONATE_COMPOT_SURVIVAL_LORE:
   - ' §8▪ §7Восстановить голод - §f/feed'
   - ' §8▪ §7Потушить себя - §f/ext'
   - ' §8▪ §7Быстро очистить инвентарь - §f/clear'
-  - ' §8▪ §7Особый набор вещей каждые сутки (§f/kit villager§7)'
+  - ' §8▪ §7Особый набор вещей каждые сутки (§f/kit candy§7)'
   - ' §8▪ §7Доступно §c8 §7регионов для привата'
   - ' §8▪ §7Полностью исцелить себя - §f/heal'
   - ' §8▪ §7Полностью почиить предмет - §f/repair'
@@ -10063,7 +10063,7 @@ GUILDS_INVITE_EXPIRED: §6Гильдии §8| §fПриглашение в ги�
 GUILDS_INVITE_SENT: §6Гильдии §8| §fПриглашение в гильдию отправлено игроку %s
 GUILDS_JOINED_GUILD: §6Гильдии §8| §fВы вступили в гильдию §e%s
 GUILDS_MEMBER_CONNECTED: §6Гильдии §8| §a%s §fзашел на сервер
-GUILDS_PLAYER_JOINED: §2Гильдия §8| §fИгрок %s §fприсоединился к гильдии
+GUILDS_PLAYER_JOINED: §5Гильдия §8| §fИгрок %s §fприсоединился к гильдии
 PERM_CLICK_TO_REMOVE: '§e▸ Нажмите, чтобы запретить'
 PERM_CLICK_TO_ADD: '§e▸ Нажмите, чтобы разрешить'
 GUILD_ACCEPT_FORMAT: /guild accept <ник игрока>
@@ -10077,7 +10077,7 @@ GUILDLIST_PLACE_STRING_YES_MEMBERS: '§7На §a%s §7месте в топе п�
 GUILDLIST_PLACE_STRING_NO_COINS: '§cНе участвует в топе по монетам'
 GUILDLIST_PLACE_STRING_NO_MEMBERS: '§cНе участвует в топе по участникам'
 GUILD_ALREADY_MUTED: §cЧат игрока %s §cуже заблокирован
-GUILD_BROADCAST_PROMOTE: §2Гильдия §8| §f%s §fизменил ранг игрока %s §fна "§a%s§f"
+GUILD_BROADCAST_PROMOTE: §5Гильдия §8| §f%s §fизменил ранг игрока %s §fна "§a%s§f"
 GUILD_CANT_ACCEPT_MEMBERS: §cОшибка, в гильдии уже максимальное количество участников
 GUILD_CANT_CHANGE_HIS_RANK: §6Гильдии §8| §fВы не можете управлять рангом данного
   игрока
@@ -10085,9 +10085,9 @@ GUILD_CANT_CREATE: §cСоздавать гильдии могут только 
   выше
 GUILD_CANT_INVITE_YOURSELF: §cТы ебобо? Ты уже в гильдии!
 GUILD_CANT_SET_THIS_RANK: §6Гильдии §8| §fВы не можете установить такой ранг игроку
-GUILD_CHANGE_MOTD_BROADCAST: §2Гильдия §8| §fИгрок %s §fобновил приветствие гильдии
+GUILD_CHANGE_MOTD_BROADCAST: §5Гильдия §8| §fИгрок %s §fобновил приветствие гильдии
 GUILD_CHANGE_RANK_FORMAT: /guild setrank <ник игрока> <ранг>
-GUILD_CHANGE_TAG_BROADCAST: §2Гильдия §8| §fИгрок %s §fизменил тэг гильдии на §7%s
+GUILD_CHANGE_TAG_BROADCAST: §5Гильдия §8| §fИгрок %s §fизменил тэг гильдии на §7%s
 GUILD_CHAT: §bЧат гильдии §8| §f%s §8» §f%s
 GUILD_CHAT_FORMAT: /gchat <сообщение>
 GUILD_CREATED: §6Гильдии §8| §fВы создали гильдию §e%s
@@ -10108,7 +10108,7 @@ GUILD_DEPOSIT_FORMAT: /guild deposit <ник игрока> <сумма>
 GUILD_DEPOSIT_LIMIT: §cОшибка, за 1 раз можно вывести максимум 5000 монет
 GUILD_DEPOSIT_TOO_FAST: §6Гильдии §8| §fВыводить деньги с баланса гильдии можно раз
   в §a10 §fминут
-GUILD_DISBANDED: §2Гильдия §8| %s §fраспустил гильдию
+GUILD_DISBANDED: §5Гильдия §8| %s §fраспустил гильдию
 GUILD_DISBAND_WARNING:
   - ' '
   - '              §8-| §6§lГИЛЬДИИ §8|-'
@@ -10165,12 +10165,12 @@ GUILD_INVITE_ALREADY_SENT: §cОшибка, Вы уже отправляли п�
 GUILD_INVITE_CANCELLED: §6Гильдии §8| §fВы не можете отправить приглашение в гильдию
   этому игроку, так как он отключил приглашения в гильдии
 GUILD_INVITE_FORMAT: /guild invite <ник игрока>
-GUILD_KICK_BROADCAST: §2Гильдия §8| §fИгрок %s §fудалил %s §fиз гильдии по причине
+GUILD_KICK_BROADCAST: §5Гильдия §8| §fИгрок %s §fудалил %s §fиз гильдии по причине
   §a%s
 GUILD_KICK_FORMAT: /guild kick <ник игрока> <причина>
-GUILD_LEAVE_BROADCAST: §2Гильдия §8| %s §fпокинул гильдию
+GUILD_LEAVE_BROADCAST: §5Гильдия §8| %s §fпокинул гильдию
 GUILD_LEFT_GUILD: §6Гильдии §8| §fВы покинули гильдию §a%s
-GUILD_MAKELEADER_BROADCAST: §2Гильдия §8| §7%s §fпередал §cправа управления §fгильдией
+GUILD_MAKELEADER_BROADCAST: §5Гильдия §8| §7%s §fпередал §cправа управления §fгильдией
   игроку %s
 GUILD_MAKELEADER_FORMAT: /guild makeleader <ник игрока>
 GUILD_MAKELEADER_NO_RANK: §cОшибка, у нового владельца гильдии должен быть статус
@@ -10192,7 +10192,7 @@ GUILD_MOTD_REMOVELINE_FORMAT: /guild motd removeline <номер строки>
 GUILD_MOTD_REMOVELINE_SUCCESS: §6Гильдии §8| §fСтрока §e№%s §fудалена
 GUILD_MOTD_SETLINE_FORMAT: /guild motd setline <номер строки> <текст>
 GUILD_MOTD_SETLINE_SUCCESS: §6Гильдии §8| §fТекст на строке §e№%s §fизменён
-GUILD_MUTE_BROADCAST: §2Гильдия §8| %s §fзаблокировал чат гильдии игроку %s §fна §a%s
+GUILD_MUTE_BROADCAST: §5Гильдия §8| %s §fзаблокировал чат гильдии игроку %s §fна §a%s
   §fпо причине §a%s
 GUILD_MUTE_FORMAT: /guild mute <ник игрока> <время> <причина>
 GUILD_NAME_TOO_LONG: §cОшибка, имя гильдии не может быть длиннее 16 символов
@@ -10222,9 +10222,9 @@ GUILD_PARTY_INVITE_SENT: §6Гильдии §8| §fПриглашение в г�
   онлайн-участникам
 GUILD_PLAYER_ALREADY_LEADER: §6Гильдии §8| §fВы не можете передать права управления
   гильдией самому себе
-GUILD_PLAYER_DONATED: §2Гильдия §8| %s §fположил в банк гильдии §a%s §fмонет
+GUILD_PLAYER_DONATED: §5Гильдия §8| %s §fположил в банк гильдии §a%s §fмонет
 GUILD_POINT_CHANGED: §6Гильдии §8| §fТочка дома была установлена
-GUILD_POINT_CHANGED_BROADCAST: §2Гильдия §8| %s §fустановил точку дома гильдии
+GUILD_POINT_CHANGED_BROADCAST: §5Гильдия §8| %s §fустановил точку дома гильдии
 GUILD_POINT_CLEARED: §6Гильдии §8| §fТочка дома была удалена
 GUILD_POINT_NOT_SET: §cОшибка, точка кланового дома еще не установлена
 GUILD_RANKS_EDIT_NAME: Ранги ‣ %s
@@ -10365,9 +10365,9 @@ GUILD_TYPE_TO_REDESIGN: §6Гильдии §8| §fВведите в чат но�
   Его длина должна быть не более 32 символов. Разрешается использовать цвета
 GUILD_TYPE_TO_RENAME: §6Гильдии §8| §fВведите в чат новое имя ранга. Его длина должна
   быть не более 16 символов. Цвета использовать запрещено
-GUILD_UNMUTE_BROADCAST: §2Гильдия §8| %s §fразблокировал чат игрока %s
+GUILD_UNMUTE_BROADCAST: §5Гильдия §8| %s §fразблокировал чат игрока %s
 GUILD_UNMUTE_FORMAT: /guild unmute <ник игрока>
-GUILD_WITHDRAW_BROADCAST: §2Гильдия §8| §fИгрок %s §fвывел §a%s §7монет §fиз банка
+GUILD_WITHDRAW_BROADCAST: §5Гильдия §8| §fИгрок %s §fвывел §a%s §7монет §fиз банка
   гильдии игроку §a%s
 GUILD_YOUR_ENTRY_IS: §fВаша гильдия на §e#%s §fместе в топе
 GUILD_YOUR_GUILD_CANT_BE_IN_TOP: §cВаша гильдия не может учавствовать в топе (для
@@ -10602,7 +10602,7 @@ VILLAGE_HELP:
 MY_VILLAGE_POINT_REQUIREMENT_LEVEL: '§fуровень §c%d §fкультуры §c%s'
 MY_VILLAGE_TUTORIAL_STAGE_ONE_DESC:
   - ' '
-  - '§6Добро пожаловать§f на режим §2§lMyFarm'
+  - '§6Добро пожаловать§f на режим §5§lMyFarm'
   - '§aКоси траву§f, чтобы получать §eденьги§f, за них ты'
   - '§fможешь купить себе §aразличные фермы§f, которые'
   - '§fбудут приносить тебе постоянный §eдоход'

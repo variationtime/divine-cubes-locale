@@ -10768,3 +10768,678 @@ HOLO_SHOP:
 HOLO_CUSTOMSHOP:
 - '§aТорговец редкостями'
 - '§7Нажмите, чтобы открыть'
+
+ISLAND_FLAG_SNOW_LORE:
+- ''
+- §7Разрешить/Запретить образование
+- §7снега на острове
+ISLAND_FLAG_SNOW_NAME: Образование снега
+ISLAND_FLAG_TRANSPORT_LORE:
+- ''
+- §7Разрешить/запретить использовать как транспорт вагонетки,
+- §7лодки, свиней и лошадей
+ISLAND_FLAG_TRANSPORT_NAME: Транспорт
+ISLAND_FLAG_VILLAGERS_LORE:
+- ''
+- §7Разрешить/запретить торговаться с жителями
+ISLAND_FLAG_VILLAGERS_NAME: Торговля
+ISLAND_BASALT_GENERATOR_UPGRADE: Улучшение генератора базальта
+ISLAND_BASALT_GENERATOR_UPGRADE_MAX:
+- '§7У вас максимальный уровень генератора: §a%s'
+- '§7В данный момент он дает:'
+ISLAND_DEFAULT_BASALT_GENERATOR_LORE: §8 • §7100% Базальт
+ISLAND_PROFILE_BIOME_NETHER_LORE:
+- ' '
+- §7Установка и покупка новых адских биомов
+- ' '
+- §cВНИМАНИЕ! Покупать и менять биомы
+- §cострова может только владелец или со-владелец
+- ' '
+- §e▸ Нажмите, чтобы открыть настройки биома
+ISLAND_PROFILE_BIOME_NETHER_NAME: Выбор адского биома
+ISLAND_BIOME_BASALT_DELTAS_LORE:
+- ' '
+ISLAND_BIOME_BASALT_DELTAS_NAME: Базальтовые дельты
+ISLAND_BIOME_CRIMSON_FOREST_LORE:
+- ' '
+ISLAND_BIOME_CRIMSON_FOREST_NAME: Багровый лес
+ISLAND_BIOME_NETHER_WASTES_LORE:
+- ' '
+ISLAND_BIOME_NETHER_WASTES_NAME: Незерские пустоши
+ISLAND_BIOME_SOUL_SAND_VALLEY_LORE:
+- ' '
+ISLAND_BIOME_SOUL_SAND_VALLEY_NAME: Долина песка душ
+ISLAND_BIOME_WARPED_FOREST_LORE:
+- ' '
+ISLAND_BIOME_WARPED_FOREST_NAME: Искаженный лес
+
+EFFECT_CONDUIT_POWER: Морская сила
+EFFECT_DOLPHINS_GRACE: Дельфинья грация
+EFFECT_HERO_OF_THE_VILLAGE: Герой деревни
+EFFECT_NIGHT_VISION: Ночное зрение
+
+ISLAND_CLEAR_STATS_APPLY: $SB_PREFIX$Статистика очищена
+ISLAND_CLEAR_STATS_ERROR: $SB_PREFIX$Вы не можете очистить пустую статистику
+ISLAND_CLEAR_STATS_LORE:
+- ''
+- §7Очистить вашу личную
+- §7статистику убийств и смертей
+- ''
+- '§7Цена: §ax%s изумрудных блоков'
+- ''
+- §e▸ Нажмите, чтобы очистить
+ISLAND_CLEAR_STATS_NAME: Очистить статистику
+
+OAK_LOG: Дуб
+SPAWNER: Спавнер мобов
+CREEPER: 'Крипер'
+PIG: 'Свинья'
+BLAZE: 'Ифрит'
+SKELETON: 'Скелет'
+ZOMBIE: 'Зомби'
+SLIME: 'Слизень'
+HORSE: 'Лощадь'
+WOLF: 'Собака'
+SPIDER: 'Паук'
+COW: 'Корова'
+SILVERFISH: 'Чешуйница'
+GUARDIAN: 'Страж'
+SALMON: 'Лосось'
+HOGLIN: 'Хоглин'
+WEB: Паутина
+WHEAT: Пшеница
+WHITE: Белый
+VINE: Лианы
+WOOD: Доски
+WOOL: Шерсть
+WORKBENCH: Верстак
+YELLOW: Желтый
+TRIDENT: Трезубец
+TNT: Динамит
+TOTEM: Тотем
+ALLIUM: Лук-Батун
+ANDESITE: Андезит
+ANVIL: Наковальня
+APPLE: Яблоко
+AQUA: Морской
+ARROW: Стрела
+BAMBOO: Бамбук
+BASALT: Базальт
+BEACON: Маяк
+BED: Кровать
+BEEF: Говядина
+BEEHIVE: Улей
+BEETROOT: Свёкла
+BLACK: Черный
+BLACKSTONE: Чернит
+BLUE: Голубой
+BOAT: Лодка
+BONE: Кость
+BOOKSHELF: Книжная полка
+BOW: Лук
+BREAD: Хлеб
+BRICK: Кирпич
+BRICKS: Кирпичи
+CACTUS: Кактус
+CAKE: Торт
+COMPASS: Компас
+CONCRETE: Конкрит
+CONDUIT: Морской источник
+EGG: Яйцо
+ELYTRA: Элитра
+EMERALD: Изумруд
+GLASS: Стекло
+GLOWSTONE: Светокамень
+GOLD: Оранжевый
+GRANITE: Гранит
+GRASS: Блок травы
+GRAVEL: Гравий
+GRAY: Серый
+GREEN: Салатовый
+LILAC: Сирень
+LADDER: Лестница
+LANTERN: Лампа
+LEAD: Поводок
+LEASH: Поводок
+LEATHER: Кожа
+LECTERN: Кафедра
+KELP: Ламинария
+TERRACOTTA: Керамика
+SULPHUR: Порох
+SUNFLOWER: Подсолнух
+SUNNY: ясно
+TARGET: Мишень
+RED: Красный
+REDSTONE: Редстоун
+PUFFERFISH: Иглобрюх
+PUMPKIN: Тыква
+PURPLE: Фиолетовый
+QUARTZ: Кварц
+RABBIT: Крольчатина
+RAINY: дождь
+PODZOL: Подзол
+PORK: Свинина
+PORKCHOP: Свинина
+POTATO: Картошка
+POTION: Питьевое зелье
+PRISMARINE: Призмарин
+OBSIDIAN: Обсидиан
+NETHERRACK: Незерак
+NIGHT: ночь
+MELON: Арбуз
+MORNING: утро
+MUTTON: Баранина
+MYCEL: Мицелий
+MYCELIUM: Мицелий
+LOG: Дерево
+LOOM: Ткатцкий станок
+MAGMA: Магма
+JUKEBOX: Проигрыватель
+FERN: Папоротник
+FIREBALL: Огненный шар
+FLINT: Кремень
+FEATHER: Перо
+DROPPER: Выбрасыватель
+COOKIE: Печенье
+
+DAY: день
+DIAMOND: Алмаз
+DIORITE: Диорит
+DIRT: Земля
+GUNPOWDER: Порох
+GRINDSTONE: Точило
+ICE: Лёд
+HOPPER: Воронка
+PAPER: Бумага
+PEONY: Пион
+PIGLIN: Пиглин
+SMOKER: Коптильня
+SADDLE: Седло
+SAND: Песок
+SANDSTONE: Песчаник
+SAPLING: Саженец
+SCAFFOLDING: Строительные леса
+SCUTE: Щиток
+SEEDS: Семена
+SHEARS: Ножницы
+SHIELD: Щит
+SHROOMLIGHT: Грибосвет
+SPAWNER: Спавнер
+SPONGE: Губка
+STICK: Палка
+STONE: Камень
+STONECUTTER: Камнерез
+STRING: Нить
+CAMPFIRE: Костёр
+CARROT: Морковь
+CHARCOAL: Древесный уголь
+CHEST: Сундук
+CHICKEN: Курятина
+CLAY: Глина
+COAL: Уголь
+COBBLESTONE: Булыжник
+COBWEB: Паутина
+EFFECT_ABSORPTION: Поглощение
+EFFECT_BLINDNESS: Слепота
+EFFECT_CONDUIT_POWER: Морская сила
+EFFECT_CONFUSION: Тошнота
+EFFECT_DAMAGE_RESISTANCE: Сопротивление урону
+EFFECT_DOLPHINS_GRACE: Дельфинья грация
+EFFECT_FAST_DIGGING: Спешка
+EFFECT_FIRE_RESISTANCE: Огнестойкость
+EFFECT_GLOWING: Свечение
+EFFECT_HARM: Моментальный урон
+EFFECT_HEAL: Лечение
+EFFECT_HEALTH_BOOST: Прилив здоровья
+EFFECT_HERO_OF_THE_VILLAGE: Герой деревни
+EFFECT_HUNGER: Голод
+EFFECT_INCREASE_DAMAGE: Сила
+EFFECT_INVISIBILITY: Невидимость
+EFFECT_JUMP: Прыгучесть
+EFFECT_LEVITATION: Левитация
+EFFECT_LUCK: Удача
+EFFECT_NIGHT_VISION: Ночное зрение
+EFFECT_POISON: Отравление
+EFFECT_REGENERATION: Регенерация
+EFFECT_SATURATION: Насыщение
+EFFECT_SLOW: Медлительность
+EFFECT_SLOW_DIGGING: Утомление
+EFFECT_SPEED: Скорость
+EFFECT_UNLUCK: Невезение
+EFFECT_WATER_BREATHING: Подводное дыхание
+EFFECT_WEAKNESS: Слабость
+EFFECT_WITHER: Иссушение
+ACACIA_LEAVES: Акациевая листва
+ACACIA_LOG: Акация
+ACACIA_SAPLING: Саженец акации
+ACACIA_WOOD: Акациевые доски
+ANCIENT_DEBRIS: Древние обломки
+ARCTIC_ITEM_BOX_KIT: Заполярье
+AVIARIST_ITEM_BOX_KIT: Птицевод
+BAKED_POTATO: Печеный картофель
+BAT_SPAWN_EGG: Яйцо призыва летучей-мыши
+BEETROOT_SEEDS: Семена свеклы
+BEETROOT_SOUP: Свекольный суп
+BEE_ITEM_BOX_KIT: Пчелобав
+BEE_NEST: Пчелиное гнездо
+BEE_SPAWN_EGG: Яйцо пчелы
+BIRCH_LEAVES: Березовая листва
+BIRCH_LOG: Береза
+BIRCH_SAPLING: Саженец берёзы
+BIRCH_WOOD: Березовые доски
+BLACK_SHULKER_BOX: Чёрный шалкер-бокс
+BLACK_WOOL: Черная шерсть
+BLAST_FURNACE: Плавильная печь
+BLAZE_POWDER: Порошок ифрита
+BLAZE_ROD: Стержень ифрита
+BLUE_ICE: Синий лёд
+BLUE_ORCHID: Синяя орхидея
+BLUE_WOOL: Синяя шерсть
+BOW_ITEM_BOX_KIT: Лучник
+BRAIN_CORAL: Мозговой коралл
+BRAIN_CORAL_BLOCK: Мозговой коралл
+BRAIN_CORAL_FAN: Веерный коралл-мозговик
+BREWING_STAND_ITEM: Зельеварка
+BROWN_BED: Коричневая кровать
+BROWN_MUSHROOM: Коричневый гриб
+BROWN_MUSHROOM_BLOCK: Блок серого гриба
+BROWN_WOOL: Коричневая шерсть
+BUBBLE_CORAL: Пузырчатый коралл
+BUBBLE_CORAL_BLOCK: Пузырчатый коралл
+BUBBLE_CORAL_FAN: Веерный пузырчатый коралл
+CALLER_ITEM_BOX_KIT: Призыватель
+CARROT_ITEM: Морковка
+CARTOGRAPHY_TABLE: Стол картографа
+CARVED_PUMPKIN: Вырезанная тыква
+CATTLEMAN_ITEM_BOX_KIT: Молодой скотовод
+CAULDRON_ITEM: Котел
+CAVE_SPIDER: Пещерный паук
+CHAINMAIL_BOOTS: Кольчужные ботинки
+CHAINMAIL_CHESTPLATE: Кольчуга
+CHAINMAIL_HELMET: Койф
+CHAINMAIL_LEGGINGS: Кольчужные поножи
+CHARMER_ITEM_BOX_KIT: Чарователь
+CHICKEN_SPAWN_EGG: Яйцо призыва курицы
+CHISELED_STONE_BRICKS: Резные каменные кирпичи
+CHORUS_FLOWER: Цветок хоруса
+CHORUS_FRUIT: Плод хоруса
+CHORUS_FRUIT_POPPED: Приготовленный плод хоруса
+COAL_BLOCK: Угольный блок
+COAL_ITEM_BOX_KIT: Угольное чудо
+COAL_ORE: Угольная руда
+COCOA_BEANS: Какао бобы
+COOKED_BEEF: Стейк
+COOKED_CHICKEN: Жареная курица
+COOKED_COD: Готовая треска
+COOKED_FISH: Приготовленная рыба
+COOKED_MUTTON: Жареная баранина
+COOKED_PORKCHOP: Готовое мясо
+COOKED_RABBIT: Жареная крольчатина
+COOKED_SALMON: Готовая лосось
+COOK_ITEM_BOX_KIT: Повар
+COW_SPAWN_EGG: Яйцо призыва коровы
+CRACKED_NETHER_BRICKS: Потрескавшиеся кирпичи ада
+CRACKED_POLISHED_BLACKSTONE_BRICKS: Потрескавшиеся чернитные кирпичи
+CRACKED_STONE_BRICKS: Потрескавшиеся каменные кирпичи
+CRAFTING_TABLE: Верстак
+CREEPER_SPAWN_EGG: Яйцо спавна крипера
+CRIMSON_FUNGUS: Багровый гриб
+CRIMSON_NYLIUM: Багровый нилий
+CRIMSON_STEM: Багровый стебель
+CRYING_OBSIDIAN: Плачущий обсидиан
+CYAN_DYE: Бирюзовый краситель
+CYAN_WOOL: Бирюзовая шерсть
+DAMAGE_POTION: Туманное зелье урона
+DARK_OAK_LEAVES: Листва темного дуба
+DARK_OAK_LOG: Темный дуб
+DARK_OAK_SAPLING: Саженец тёмного дуба
+DARK_OAK_STAIRS: Ступеньки из темного дуба
+DARK_OAK_WOOD: Доски из темного дуба
+DARK_PRISMARINE: Тёмный призмарин
+DAYLIGHT_DETECTOR: Солнечная панель
+DEAD_BUSH: Мертвый куст
+DIAMOND_AXE: Алмазный топор
+DIAMOND_BARDING: Алмазная броня
+DIAMOND_BLOCK: Алмазный блок
+DIAMOND_BOOTS: Алмазные ботинки
+DIAMOND_CHESTPLATE: Алмазный нагрудник
+DIAMOND_HELMET: Алмазный шлем
+DIAMOND_HORSE_ARMOR: Алмазная броня для лошади
+DIAMOND_LEGGINGS: Алмазные штаны
+DIAMOND_ORE: Алмазная руда
+DIAMOND_PICKAXE: Алмазная кирка
+DIAMOND_SHOVEL: Алмазная лопата
+DIAMOND_SPADE: Алмазная лопата
+DIAMOND_SWORD: Алмазный меч
+DOLPHIN_SPAWN_EGG: Яйцо дельфина
+DONKEY_SPAWN_EGG: Яйцо призыва осла
+DOUBLE_PLANT: Цветы
+DRAGON_BREATH: Дыхание дракона
+DRIED_KELP_BLOCK: Блок сушёной ламинарии
+EMERALD_BLOCK: Изумрудный блок
+EMERALD_ITEM_BOX_KIT: Изумрудное чудо
+EMERALD_ORE: Изумрудная руда
+ENCHANTING_TABLE: Стол зачарований
+ENDER_CHEST: Эндер-сундук
+ENDER_EYE: Глаз эндера
+ENDER_PEARL: Эндерперл
+ENDER_PORTAL_FRAME: Рамка портала в энд
+ENDER_STONE: Эндерняк
+END_CRYSTAL: Кристалл энда
+END_ITEM_BOX_KIT: Край
+END_PORTAL_FRAME: Рамка портала
+END_STONE: Камень края
+EXPERIENCE_BOTTLE: Бутылочка с опытом
+EXPLOSIVE_MINECART: Вагонетка с ТНТ
+EXP_BOTTLE: Пузырьки опыта
+EYE_OF_ENDER: Око эндера
+FIRE_BALL: Огненный шар
+FIRE_CHARGE: Огненный заряд
+FIRE_CORAL: Огненный коралл
+FIRE_CORAL_BLOCK: Огненный коралл
+FIRE_CORAL_FAN: Веерный огненный коралл
+FISHING_ROD: Удочка
+FLINT_AND_STEEL: Огниво
+FLOWER_POT_ITEM: Горшок
+FOX_SPAWN_EGG: Яйцо лисы
+GARDENER_ITEM_BOX_KIT: Садовник
+GHAST_TEAR: Слеза гаста
+GLISTERING_MELON_SLICE: Сверкающий арбуз
+GOLDEN_APPLE: Золотое яблоко
+GOLDEN_AXE: Золотой топор
+GOLDEN_CARROT: Золотая морковь
+GOLDEN_HOE: Золотая мотыга
+GOLDEN_HORSE_ARMOR: Золотая броня для лошади
+GOLDEN_PICKAXE: Золотая кирка
+GOLDEN_SWORD: Золотой меч
+GOLD_AXE: Золотой топор
+GOLD_BARDING: Золотая броня
+GOLD_BLOCK: Золотой блок
+GOLD_BOOTS: Золотые ботинки
+GOLD_CHESTPLATE: Золотой нагрудник
+GOLD_DATA: Золото
+GOLD_HELMET: Золотой шлем
+GOLD_HOE: Золотая мотыга
+GOLD_INGOT: Золотой слиток
+GOLD_LEGGINGS: Золотые штаны
+GOLD_ORE: Золотая руда
+GOLD_PICKAXE: Золотая кирка
+GOLD_SWORD: Золотой меч
+GRASS_BLOCK: Дёрн
+GRAY_WOOL: Серая шерсть
+GREEN_DYE: Зеленый краситель
+GREEN_WOOL: Зеленая шерсть
+GRILLED_PORK: Свинина
+HARMONY_ITEM_BOX_KIT: Душевная гармония
+HAY_BLOCK: Сноп сена
+HEART_OF_THE_SEA: Сердце моря
+HIDERS_FOUND_STAT: Прячущихся найдено
+HONEYCOMB_BLOCK: Пчелиные соты
+HONEY_BLOCK: Блока мёда
+HONEY_BOTTLE: Бутылочка с мёдом
+HORN_CORAL: Роговой коралл
+HORN_CORAL_BLOCK: Роговой коралл
+HORN_CORAL_FAN: Веерный роговой коралл
+HORSE_SPAWN_EGG: Яйцо призыва лошади
+HUGE_MUSHROOM_1: Грибы
+HUGE_MUSHROOM_2: Грибы
+INK_SAC: Чернильный мешок
+INK_SACK: Краситель
+IRON_AXE: Железный топор
+IRON_BARDING: Железная броня
+IRON_BLOCK: Железный блок
+IRON_BOOTS: Железные ботинки
+IRON_CHESTPLATE: Железный нагрудник
+IRON_HELMET: Железный шлем
+IRON_HOE: Железная мотыга
+IRON_HORSE_ARMOR: Железная броня для лошади
+IRON_INGOT: Железный слиток
+IRON_LEGGINGS: Железные штаны
+IRON_ORE: Железная руда
+IRON_PICKAXE: Железная кирка
+IRON_SWORD: Железный меч
+JACK_O_LANTERN: Светильник Джека
+JUMP_POTION_2: Зелье прыгучести II
+JUNGLE_LEAVES: Тропическая листва
+JUNGLE_LOG: Тропическое дерево
+JUNGLE_SAPLING: Сажанец тропического дерева
+JUNGLE_WOOD: Тропические доски
+LAPIS_LAZULI: Лазурит
+LAPIS_ORE: Лазуритовая руда
+LAVA_BUCKET: Ведро лавы
+LEATHER_BOOTS: Кожаные ботинки
+LEATHER_CHESTPLATE: Кожаный нагрудник
+LEATHER_HELMET: Кожаный шлем
+LEATHER_LEGGINGS: Кожаные штаны
+LIGHT_BLUE_WOOL: Голубая шерсть
+LIGHT_GRAY_WOOL: Светло-серая шерсть
+LIGHT_PURPLE: Розовый
+LILY_PAD: Кувшинка
+LIME_CONCRETE: Лаймовый бетон
+LIME_WOOL: Лаймовая шерсть
+LINGERING_POTION: Туманное зелье
+LLAMA_SPAWN_EGG: Яйцо призыва ламы
+LOG_2: Дерево
+LOG_ITEM_BOX_KIT: Древесное чудо
+LONG_GRASS: Растительность
+MAGENTA_WOOL: Пурпурная шерсть
+MAGMA_BLOCK: Блок магмы
+MAGMA_CREAM: Сгусток магмы
+MAGMA_CUBE: Адский слизень
+MELON_BLOCK: Блок арбуза
+MELON_SEEDS: Семена арбуза
+MELON_SLICE: Ломтик арбуза
+MILK_BUCKET: Ведро с молоком
+MOB_SPAWNER: Спавнер
+MONSTER_EGG: Яйцо спавна мобов
+MOOSHROOM_SPAWN_EGG: Яйцо призыва грибной-коровы
+MOSSY_COBBLESTONE: Замшелый булыжник
+MOSSY_STONE_BRICKS: Замшелые каменные кирпичи
+MULE_SPAWN_EGG: Яйцо призыва мула
+MUSIC_DISC_PIGSTEP: Пластинка пигмена
+NAUTILUS_SHELL: Раковина наутилуса
+NEMOR_ITEM_BOX_KIT: Подводный долгожитель
+NETHERITE_AXE: Незеритовый топор
+NETHERITE_BOOTS: Незеритовые ботинки
+NETHERITE_CHESTPLATE: Незеритовый нагрудник
+NETHERITE_HELMET: Незеритовый шлем
+NETHERITE_HOE: Незеритовая мотыга
+NETHERITE_INGOT: Незеритовый слиток
+NETHERITE_LEGGINGS: Незеритовые штаны
+NETHERITE_PICKAXE: Незеритовая кирка
+NETHERITE_SHOVEL: Незеритовая лопата
+NETHERITE_SWORD: Незеритовый меч
+NETHER_BRICK: Адский кирпич
+NETHER_BRICKS: Адские кирпичи
+NETHER_GOLD_ORE: Незерская золотая руда
+NETHER_ITEM_BOX_KIT: Адский
+NETHER_QUARTZ_ORE: Кварцевая руда
+NETHER_STALK: Адский нарост
+NETHER_STAR: Звезда ада
+NETHER_WART: Адский нарост
+NETHER_WART_BLOCK: Блок незерского нароста
+OAK_BOAT: Дубовая лодка
+OAK_LEAVES: Дубовая листва
+OAK_LOG: Дуб
+OAK_SAPLING: Саженец дуба
+OAK_WOOD: Дубовые доски
+OBSIDIAN_ITEM_BOX_KIT: Обсидиановое чудо
+ORANGE_TULIP: Оранжевый тюльпан
+ORANGE_WOOL: Оранжевая шерсть
+OTHER_ITEM_BOX_KIT: Разное
+PACKED_ICE: Плотный лед
+PANDA_SPAWN_EGG: Яйцо панды
+PHANTOM_MEMBRANE: Мембрана фантома
+PIGLETS_ITEM_BOX_KIT: 2 поросенка и сытый волк
+PIGLIN_SPAWN_EGG: Яйцо пиглина
+PIG_SPAWN_EGG: Яйцо призыва свиньи
+PIG_ZOMBIE: Свинозомби
+PINK_TULIP: Розовый тюльпан
+PINK_WOOL: Розовая шерсть
+PISTON_BASE: Поршень
+POISONOUS_POTATO: Ядовитый картофель
+POLAR_BEAR_SPAWN_EGG: Яйцо призыва медведя
+POLISHED_BASALT: Полированный базальт
+POPPED_CHORUS_FRUIT: Прожаренный плод хоруса
+POTATO_ITEM: Картошка
+PRISMARINE_BRICKS: Призмариновые кирпичи
+PUMPKIM_PIE: Тыквенный пирог
+PUMPKIN_PIE: Тыквенный пирог
+PUMPKIN_SEEDS: Семена тыквы
+PURPLE_SHULKER_BOX: Фиолетовый шалкер-бокс
+PURPLE_WOOL: Фиолетовая шерсть
+PURPUR_BLOCK: Пурпурный блок
+PURPUR_PILLAR: Пурпурный пилон
+QUARTZ_BLOCK: Кварцевый блок
+RABBIT_HIDE: Кроличья шкурка
+RABBIT_SPAWN_EGG: Яйцо призыва кролика
+RAICING_ITEM_BOX_KIT: Мастер скачек
+RAW_BEEF: Сырое мясо
+RAW_CHICKEN: Сырая курица
+RAW_FISH: Сырая рыба
+REDSTONE_LAMP: Редстоун фонарь
+REDSTONE_ORE: Редстоуновая руда
+RED_BED: Красная кровать
+RED_CARPET: Красный ковер
+RED_CONRETE: Красный бетон
+RED_MUSHROOM: Красный гриб
+RED_MUSHROOM_BLOCK: Блок красного гриба
+RED_NETHER_BRICK: Красный адский камень
+RED_NETHER_BRICKS: Красные адские кирпичи
+RED_ROSE: Цветы
+RED_SAND: Красный песок
+RED_SANDSTONE: Красный песчаник
+RED_TULIP: Красный тюльпан
+RED_WOOL: Красная шерсть
+REGENERATION_POTION: Зелье регенерации
+REPEAT_ITEM_BOX_KIT: Повторяй за мной
+RESPAWN_ANCHOR: Якорь возрождения
+RIDER_ITEM_BOX_KIT: Наездник
+ROGUE_ITEM_BOX_KIT: Разбойник
+ROSE_BUSH: Розы
+ROTTEN_FLESH: Гнилая плоть
+SANDSTONE_STAIRS: Ступеньки из песчаника
+SEA_LANTERN: Морской фонарь
+SEA_PICKLE: Морской огурец
+SEEKERS_KILLED_STAT: Искателей убито
+SEEKER_TEAM: Искатели
+SHEEP_SPAWN_EGG: Яйцо призыва овцы
+SHEPHERD_ITEM_BOX_KIT: Начинающий пастух
+SKULL_ITEM_WITHER: Череп скелета-иссушителя
+SLIME_BALL: Сгусток слизи
+SLIME_BLOCK: Блок слизи
+SMITHING_TABLE: Стол кузнеца
+SMITH_ITEM_BOX_KIT: Кузнец
+SMOOTH_BRICK: Гладкий кирпич
+SMOOTH_QUARTZ: Гладкий кварц
+SMOOTH_STONE: Гладкий камень
+SNOW_BALL: Снежок
+SNOW_BLOCK: Блок снега
+SOULD_SAND_ITEM_BOX_KIT: Набор песка душ
+SOUL_SAND: Песок душ
+SOUL_SOIL: Почва душ
+SPECTRAL_ARROW: Спектральная стрела
+SPEED_POTION: Зелье скорости
+SPEED_POTION_2: Зелье скорости II
+SPIDER_EYE: Паучий глаз
+SPLASH_POTION: Взрывное зелье
+SPRUCE_LEAVES: Еловая листва
+SPRUCE_LOG: Ель
+SPRUCE_SAPLING: Еловый саженец
+SPRUCE_STAIRS: Еловые ступеньки
+SPRUCE_WOOD: Еловые доски
+STACKER_ERROR_ITEM: §cУ вас недостаточно еды для кормления
+STACKER_ERROR_LIMIT: §cЖивотные не голодные, следующие кормление возможно через %s
+STAINED_CLAY: Керамика
+STAINED_GLASS_PANE: Стеклянная панель
+STONE_AXE: Каменный топор
+STONE_PICKAXE: Каменная кирка
+STONE_SPADE: Каменная лопата
+STONE_SWORD: Каменный меч
+STRENGTH_POTION: Зелье силы
+STRIDER_SPAWN_EGG: Яйцо стридера
+STRIPPED_ACACIA_LOG: Очищенная акация
+STRIPPED_BIRCH_LOG: Очищенная береза
+STRIPPED_CRIMSON_HYPHAE: Очищенные багровые гифы
+STRIPPED_CRIMSON_STEM: Очищенный багровый стебель
+STRIPPED_DARK_OAK_LOG: Очищенный тёмный дуб
+STRIPPED_JUNGLE_LOG: Очищенное тропическое дерево
+STRIPPED_OAK_LOG: Очищенный дуб
+STRIPPED_SPRUCE_LOG: Очищенная ель
+STRIPPED_WARPED_HYPHAE: Очищенные искажённые гифы
+STRIPPED_WARPED_STEM: Очищенный искаженный стебель
+SUGAR_CANE: Тростник
+SWEET_BERRIES: Сладкие ягоды
+TANK_ITEM_BOX_KIT: Танк
+TIPPED_ARROW: Стрела
+TOTEM_OF_UNDYING: Тотем бессмертия
+TROPICAL_FISH: Тропическая рыба
+TUBE_CORAL: Трубчатый коралл
+TUBE_CORAL_BLOCK: Трубчатый коралл
+TUBE_CORAL_FAN: Веерный трубчатый коралл
+TUMBLE_ITEM_BOX_KIT: Кувыркнись
+TURTLE_EGG: Яйцо черепахи
+TURTLE_HELMET: Черепаший шлем
+TURTLE_SPAWN_EGG: Яйцо черепахи
+TWISTING_VINES: Вьющаяся лоза
+UNDED_ITEM_BOX_KIT: Повелитель нежити
+VILLAGER_SPAWN_EGG: Яйцо призыва жителя
+VILLAGE_ITEM_BOX_KIT: Поселок городского типа
+WANDERING_TRADER_SPAWN_EGG: Яйцо странствующего торговца
+WARPED_FUNGUS: Искажённый гриб
+WARPED_NYLIUM: Искажённый нилий
+WARPED_STEM: Искажённый стебель
+WARPED_WART_BLOCK: Блок искажённого нароста
+WARRIOR_ITEM_BOX_KIT: Воин
+WATER_BUCKET: Ведро воды
+WATER_LILY: Кувшинка
+WEEPING_VINES: Плакучая лоза
+WHEAT_SEEDS: Семена пшеницы
+WHITE_SHULKER_BOX: Белый шалкер ящик
+WHITE_TULIP: Белый тюльпан
+WHITE_WOOL: Белая шерсть
+WITHER_ITEM_BOX_KIT: Иссушитель
+WITHER_ROSE: Роза визера
+WITHER_SKELETON: Скелет-иссушитель
+WITHER_SKELETON_SKULL: Голова скелета иссушителя
+WITHER_SKULL: Голова иссушителя
+WOLF_SPAWN_EGG: Яйцо призыва волка
+WOODCUTTER_ITEM_BOX_KIT: Дровосек
+WOOD_AXE: Деревянный топор
+WOOD_PICKAXE: Деревянная кирка
+WOOD_SWORD: Деревянный меч
+YELLOW_WOOL: Желтая шерсть
+ZOMBIE_VILLAGER: Зомби-житель
+ZOMBIFIED_PIGLIN: Зомби Пиглин
+
+ENCHANTMENT_ARROW_DAMAGE: Сила
+ENCHANTMENT_ARROW_FIRE: Горящая стрела
+ENCHANTMENT_ARROW_INFINITE: Бесконечность
+ENCHANTMENT_ARROW_KNOCKBACK: Отбрасывание
+ENCHANTMENT_BINDING_CURSE: Проклятие несъёмности
+ENCHANTMENT_DAMAGE_ALL: Острота
+ENCHANTMENT_DAMAGE_ARTHROPODS: Бич членистоногих
+ENCHANTMENT_DAMAGE_UNDEAD: Небесная кара
+ENCHANTMENT_DEPTH_STRIDER: Подводная ходьба
+ENCHANTMENT_DIG_SPEED: Эффективность
+ENCHANTMENT_DURABILITY: Прочность
+ENCHANTMENT_FIRE_ASPECT: Заговор огня
+ENCHANTMENT_FROST_WALKER: Ледоход
+ENCHANTMENT_KNOCKBACK: Отдача
+ENCHANTMENT_LOOT_BONUS_BLOCKS: Удача
+ENCHANTMENT_LOOT_BONUS_MOBS: Добыча
+ENCHANTMENT_LUCK: Морская удача
+ENCHANTMENT_LURE: Приманка
+ENCHANTMENT_MENDING: Починка
+ENCHANTMENT_OXYGEN: Подводное дыхание
+ENCHANTMENT_PROTECTION_ENVIRONMENTAL: Защита
+ENCHANTMENT_PROTECTION_EXPLOSIONS: Защита от взрывов
+ENCHANTMENT_PROTECTION_FALL: Невесомость
+ENCHANTMENT_PROTECTION_FIRE: Огнеупорность
+ENCHANTMENT_PROTECTION_PROJECTILE: Защита от снарядов
+ENCHANTMENT_SILK_TOUCH: Шелковое касание
+ENCHANTMENT_SWEEPING_EDGE: Разящий клинок
+ENCHANTMENT_TABLE: Чародейский стол
+ENCHANTMENT_THORNS: Шипы
+ENCHANTMENT_VANISHING_CURSE: Проклятье утраты
+ENCHANTMENT_WATER_WORKER: Родство с водой
